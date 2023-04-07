@@ -1,761 +1,765 @@
 #EXTM3U
  
-#EXTM3U url-tvg=" http://grade-de-HR CERTA.xml "
-############## HR CERTA #################  
-#EXTINF:-1 tvg-id=" iddocanaldeHR CERTA" group-title="
+#EXTINF:7,file.mp4
+#EXTVLCOPT:network-caching=1000
+https://video.wixstatic.com/video/c634a0_4d47eda7060e4d74b56db2fdd0e44ec9/1080p/mp4/file.mp4
 
-#EXTM3U url-tvg=" http://grade-de-Radio DEUS é Tudo.xml "
-############## Radio DEUS é Tudo ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeRadio DEUS é Tudo" group-title="
+#EXTM3U url-tvg=" http://grade-de-Radio |  DEUS é Tudo.xml "
+############## Radio  |  DEUS é Tudo ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeRadio |  DEUS é Tudo" group-title="         
 
-#EXTINF:1 tvg-logo="https://images.zeno.fm/PkMXcuWoplZAaxQ7h52k5pNbGDeE0j5h1QOvIFFC0sw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRczdlS2tRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRczdYZjVRZ01vZ0VFZW1WdWJ3L2ltYWdlLw.webp?u=Fri%20Aug%2012%2015:20:18%20UTC+0000%202022" group-title="RadioDEUSéTudo",Radio DEUS éTudo",Alex Silva Produtor 11 941386627
+#EXTINF:-1 tvg-id="" tvg-name=" Radio DEUS éTudo"tvg-logo="https://images.zeno.fm/PkMXcuWoplZAaxQ7h52k5pNbGDeE0j5h1QOvIFFC0sw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRczdlS2tRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRczdYZjVRZ01vZ0VFZW1WdWJ3L2ltYWdlLw.webp?u=Fri%20Aug%2012%2015:20:18%20UTC+0000%202022" group-title="Radio | DEUSéTudo",Radio DEUS éTudo",Alex Silva Produtor 11 941386627
 http://stream.zeno.fm/pss6v1h6mfhvv
-#EXTINF:1 tvg-logo="https://images.zeno.fm/PkMXcuWoplZAaxQ7h52k5pNbGDeE0j5h1QOvIFFC0sw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRczdlS2tRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRczdYZjVRZ01vZ0VFZW1WdWJ3L2ltYWdlLw.webp?u=Fri%20Aug%2012%2015:20:18%20UTC+0000%202022" group-title="RadioDEUSéTudo",Radio DEUS éTudo",Alex Silva Produtor 11 941386627
+#EXTINF:-1 tvg-id="" tvg-name=" Radio DEUS éTudo"tvg-logo="https://images.zeno.fm/PkMXcuWoplZAaxQ7h52k5pNbGDeE0j5h1QOvIFFC0sw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRczdlS2tRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRczdYZjVRZ01vZ0VFZW1WdWJ3L2ltYWdlLw.webp?u=Fri%20Aug%2012%2015:20:18%20UTC+0000%202022" group-title="Radio | DEUSéTudo",Radio DEUS éTudo",Alex Silva Produtor 11 941386627
 http://stream.zeno.fm/pss6v1h6mfhvv.m3u
-#EXTINF:1 tvg-logo="https://images.zeno.fm/PkMXcuWoplZAaxQ7h52k5pNbGDeE0j5h1QOvIFFC0sw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRczdlS2tRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRczdYZjVRZ01vZ0VFZW1WdWJ3L2ltYWdlLw.webp?u=Fri%20Aug%2012%2015:20:18%20UTC+0000%202022" group-title="RadioDEUSéTudo",Radio DEUS éTudo",Alex Silva Produtor 11 941386627
+#EXTINF:-1 tvg-id="" tvg-name="  Radio DEUS éTudo"tvg-logo="https://images.zeno.fm/PkMXcuWoplZAaxQ7h52k5pNbGDeE0j5h1QOvIFFC0sw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRczdlS2tRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRczdYZjVRZ01vZ0VFZW1WdWJ3L2ltYWdlLw.webp?u=Fri%20Aug%2012%2015:20:18%20UTC+0000%202022" group-title="Radio | DEUSéTudo",Radio DEUS éTudo",Alex Silva Produtor 11 941386627
 http://stream.zeno.fm/pss6v1h6mfhvv.pls
 
-#EXTM3U url-tvg=" http://grade-de-RADIO FAX.xml "
-############## RADIO FAX ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeRADIO FAX" group-title="
+#EXTM3U url-tvg=" http://grade-de-RADIO |  FAX.xml "
+############## RADIO |  FAX ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeRADIO |  FAX" group-title="
 
-#EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="RADIO FAX", Alex Silva Produtor 11 941386627
+#EXTINF:-1 tvg-id="" tvg-name=" RADIO  FAX "tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="RADIO |  FAX",RADIO  FAX Alex Silva Produtor 11 941386627
 https://stream-51.zeno.fm/hu70hmkcu68uv?zs=qeXXv7ntT4K1qU2BlXqAXg
-#EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="RADIO FAX", Alex Silva Produtor 11 941386627
+#EXTINF:-1 tvg-id="" tvg-name=" RADIO  FAX "tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="RADIO |  FAX",RADIO  FAX Alex Silva Produtor 11 941386627
 https://stream-51.zeno.fm/0puscmkcu68uv?zs=otHk2wGBQBaT2lUNmewFVQ&acu-uid=751324370731&an-uid=2757408917935696907&mm-uid=58d463ee-d2c7-4d00-bb5a-375d1bd68aa0&amb-uid=4414560767181171804&cto-uid=5d369dea-15d1-409c-8999-ff85a80403a8-63ef5f7c-4252&bsw-uid=e06ec068-27ab-46ba-8053-b7c9125a749b&dyn-uid=04030002_63eed2c810908&ttd-uid=8d93998a-d91c-499c-8415-0a8f267a7552&triton-uid=cookie%3A81d72210-5b41-40d1-9a61-95cc7dd178da&adt-uid=cuid_20a7afe0-ae5f-11ed-b418-12821240e6ec
-#EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="RADIO FAX", Alex Silva Produtor 11 941386627
+#EXTINF:-1 tvg-id="" tvg-name=" RADIO  FAX "tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="RADIO |  FAX",RADIO  FAX Alex Silva Produtor 11 941386627
 http://stream.zeno.fm/hu70hmkcu68uv
-#EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="RADIO FAX", Alex Silva Produtor 11 941386627
+#EXTINF:-1 tvg-id="" tvg-name=" RADIO  FAX "tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="RADIO |  FAX",RADIO  FAX Alex Silva Produtor 11 941386627
 http://stream.zeno.fm/hu70hmkcu68uv.m3u
-#EXTINF:1 tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="RADIO FAX", Alex Silva Produtor 11 941386627
+#EXTINF:-1 tvg-id="" tvg-name=" RADIO  FAX "tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="RADIO  | FAX",RADIO  FAX Alex Silva Produtor 11 941386627
 http://stream.zeno.fm/hu70hmkcu68uv.pls
 
-#EXTM3U url-tvg="http://grade-de-FAX CANAIS ABERTOS.xml"
-############## FAX CANAIS ABERTOS ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFAX CANAIS ABERTOS" group-title="
+#EXTM3U url-tvg="http://grade-de-FAX CANAIS |  ABERTOS.xml"
+############## FAX CANAIS | ABERTOS ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFAX CANAIS |  ABERTOS" group-title="
 
-#EXTINF:-1 tvg-id="BemTV.br SBT" tvg-logo="https://i.imgur.com/ifGQGJx.png" group-title="FAX CANAIS ABERTOS",Bem TV SBT (720p)
+#EXTINF:-1 tvg-id="BemTV.br SBT" tvg-logo="https://i.imgur.com/ifGQGJx.png" group-title="FAX CANAIS |  ABERTOS",Bem TV SBT (720p)
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-#EXTINF:1 tvg-logo=https://i.imgur.com/7nyOxV0.gif" group-title="FAX CANAIS ABERTOS",SBT Interior SP
+#EXTINF:-1 tvg-id="  SBT Interior SP    " tvg-logo=https://i.imgur.com/7nyOxV0.gif" group-title="FAX CANAIS |  ABERTOS",SBT Interior SP
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:1 tvg-logo=https://i.imgur.com/7nyOxV0.gif" group-title="FAX CANAIS ABERTOS",SBT
+#EXTINF:-1 tvg-id="   SBT   " tvg-logo=https://i.imgur.com/7nyOxV0.gif" group-title="FAX CANAIS  | ABERTOS",SBT
 http://168.205.87.198:8555/live/5803/123456/104.ts
-#EXTINF:1 tvg-logo=https://media.tenor.com/WHcT0rmydM8AAAAd/sbt-fora-do-ar.gif" group-title="FAX CANAIS ABERTOS",SBT
+#EXTINF:-1 tvg-id="  SBT    " tvg-logo=https://media.tenor.com/WHcT0rmydM8AAAAd/sbt-fora-do-ar.gif" group-title="FAX CANAIS |  ABERTOS",SBT
 https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Rede_Massa_logo.svg/800px-Rede_Massa_logo.svg.png" group-title="FAX CANAIS ABERTOS",SBT Rede Massa (PR)
+#EXTINF:-1 tvg-id="  SBT Rede Massa     "tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Rede_Massa_logo.svg/800px-Rede_Massa_logo.svg.png" group-title="FAX CANAIS |  ABERTOS",SBT Rede Massa 
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
-#EXTINF:1 tvg-logo=https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1984fc9fe0f8fa7c5298599d595b01ea.webp" group-title="FAX CANAIS ABERTOS",SBT TV Paraense (PA)
+#EXTINF:-1 tvg-id="  SBT TV Paraense     "tvg-logo=https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1984fc9fe0f8fa7c5298599d595b01ea.webp" group-title="FAX CANAIS |  ABERTOS",SBT TV Paraense 
 https://streaming.portaltvparaense.com.br/hls/rtp.m3u8
-#EXTINF:1 tvg-logo="http://3.bp.blogspot.com/_5Ec36RiXbMQ/S_rAnaOhzjI/AAAAAAAAEiA/LQmHnVzwwVM/s400/silvio1.gif" group-title="FAX CANAIS ABERTOS",SBT
+#EXTINF:-1 tvg-id=" SBT     " tvg-logo="http://3.bp.blogspot.com/_5Ec36RiXbMQ/S_rAnaOhzjI/AAAAAAAAEiA/LQmHnVzwwVM/s400/silvio1.gif" group-title="FAX CANAIS  | ABERTOS",SBT
 https://enc2.proxy.tokplay.com.br/TV-SOROCABA-HD/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9NRyffBBj_eYYPcHq5W33a1rVgbPfYN-aVw&usqp=CAU" group-title="FAX CANAIS ABERTOS",TV JORNAL RECIFE
+#EXTINF:-1 tvg-id="  TV JORNAL RECIFE    " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9NRyffBBj_eYYPcHq5W33a1rVgbPfYN-aVw&usqp=CAU" group-title="FAX CANAIS  | ABERTOS",TV JORNAL RECIFE
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8?LISTASGLAU
-#EXTINF:1 tvg-logo="https://media.tenor.com/vjIyGx-PSQkAAAAd/band-fora-do-ar-tv.gif" group-title="FAX CANAIS ABERTOS",BAND HD
+#EXTINF:-1 tvg-id="   BAND HD   " tvg-logo="https://media.tenor.com/vjIyGx-PSQkAAAAd/band-fora-do-ar-tv.gif" group-title="FAX CANAIS |  ABERTOS",BAND HD
 http://168.205.87.198:8555/live/1052/123456/19.m3u8
-#EXTINF:1 tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="FAX CANAIS ABERTOS", Band | BR
+#EXTINF:-1 tvg-id="  Band     "tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="FAX CANAIS  | ABERTOS", Band 
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/EthicalImmediateGraysquirrel-max-1mb.gif" group-title="FAX CANAIS ABERTOS",GLOBO SÃO PAULO
+#EXTINF:-1 tvg-id="   GLOBO SÃO PAULO   " tvg-logo="https://thumbs.gfycat.com/EthicalImmediateGraysquirrel-max-1mb.gif" group-title="FAX CANAIS |  ABERTOS",GLOBO SÃO PAULO
 http://168.205.87.198:8555/live/1052/123456/70.m3u8
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/EthicalImmediateGraysquirrel-max-1mb.gif" group-title="FAX CANAIS ABERTOS",GLOBO SÃO PAULO
+#EXTINF:-1 tvg-id="  GLOBO SÃO PAULO    " tvg-logo="https://thumbs.gfycat.com/EthicalImmediateGraysquirrel-max-1mb.gif" group-title="FAX CANAIS |  ABERTOS",GLOBO SÃO PAULO
 http://45.58.126.146:14066
-#EXTINF:1 tvg-logo="http://3.bp.blogspot.com/-UgZodyppjDM/TuuBlvuXEbI/AAAAAAAAHNo/bnMRXMIIj-Y/s1600/hh.gif" group-title="FAX CANAIS ABERTOS",RECORD
+#EXTINF:-1 tvg-id="   RECORD   " tvg-logo="http://3.bp.blogspot.com/-UgZodyppjDM/TuuBlvuXEbI/AAAAAAAAHNo/bnMRXMIIj-Y/s1600/hh.gif" group-title="FAX CANAIS |  ABERTOS",RECORD
 http://45.58.126.146:14153
-#EXTINF:1 tvg-logo="http://jopioneiro.com/wp-content/uploads/2022/08/WhatsApp-Image-2022-08-25-at-14.42.04.jpeg" group-title="FAX CANAIS ABERTOS",RecordTV MT
+#EXTINF:-1 tvg-id="  RecordTV MT    "tvg-logo="http://jopioneiro.com/wp-content/uploads/2022/08/WhatsApp-Image-2022-08-25-at-14.42.04.jpeg" group-title="FAX CANAIS  | ABERTOS",RecordTV MT
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
-#EXTINF:1 tvg-logo="https://media3.giphy.com/media/kHU0wCioHegwElohFZ/200w.gif" group-title="FAX CANAIS ABERTOS",Record RS HD
+#EXTINF:-1 tvg-id="  Record RS HD    "tvg-logo="https://media3.giphy.com/media/kHU0wCioHegwElohFZ/200w.gif" group-title="FAX CANAIS |  ABERTOS",Record RS HD
 https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
-#EXTINF:1 tvg-logo="https://emoff.ig.com.br/wp-content/uploads/2021/12/record-tv-.jpg" group-title="FAX CANAIS ABERTOS",RecordTV RN
+#EXTINF:-1 tvg-id="  RecordTV RN    "tvg-logo="https://emoff.ig.com.br/wp-content/uploads/2021/12/record-tv-.jpg" group-title="FAX CANAIS  | ABERTOS",RecordTV RN
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/f1736f4c13767ad32fe7c907853dd5f7/368082-multi-media-channels-tv-world-brazil-record-news.gif" group-title="FAX CANAIS ABERTOS",RECORD NEWS
+#EXTINF:-1 tvg-id="   RECORD NEWS   "tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/f1736f4c13767ad32fe7c907853dd5f7/368082-multi-media-channels-tv-world-brazil-record-news.gif" group-title="FAX CANAIS |  ABERTOS",RECORD NEWS
 http://15.235.10.31:14351/
-#EXTINF:1 tvg-logo="https://media.tenor.com/heCJgKY3p8YAAAAC/noticia-preocupante-sp-record.gif" group-title="FAX CANAIS ABERTOS",RECORD NEWS
+#EXTINF:-1 tvg-id="   RECORD NEWS   " tvg-logo="https://media.tenor.com/heCJgKY3p8YAAAAC/noticia-preocupante-sp-record.gif" group-title="FAX CANAIS |  ABERTOS",RECORD NEWS
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/IkbIipN79CgWJx02dn5o7Q_Fv5A9tAjwzC4JlYpIpEH3jt3YX9RisOzFfckMyMclD9aZ1xk6mg=s900-c-k-c0x00ffffff-no-rj" group-title="FAX CANAIS ABERTOS",Amazon Sat (1080p)
+#EXTINF:-1 tvg-id=" Amazon Sat (1080p)     " tvg-logo="https://yt3.googleusercontent.com/IkbIipN79CgWJx02dn5o7Q_Fv5A9tAjwzC4JlYpIpEH3jt3YX9RisOzFfckMyMclD9aZ1xk6mg=s900-c-k-c0x00ffffff-no-rj" group-title="FAX CANAIS |  ABERTOS",Amazon Sat (1080p)
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:1 tvg-logo="https://ararunaonline.com/static/galerias/araruna-tv1631976256.jpg" group-title="FAX CANAIS ABERTOS",Araruna TV (360p)
+#EXTINF:-1 tvg-id="  Araruna TV (360p)    "tvg-logo="https://ararunaonline.com/static/galerias/araruna-tv1631976256.jpg" group-title="FAX CANAIS |  ABERTOS",Araruna TV (360p)
 https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuBI5TQzde3JnU_XhRn8uf6_CeaZOGi9_KZ6o4A527ocNWwwgT4T8ypbY-7hMPVpjRiHE&usqp=CAU" group-title="FAX CANAIS ABERTOS",Canal Alfa (720p)
+#EXTINF:-1 tvg-id="  Canal Alfa (720p)    " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuBI5TQzde3JnU_XhRn8uf6_CeaZOGi9_KZ6o4A527ocNWwwgT4T8ypbY-7hMPVpjRiHE&usqp=CAU" group-title="FAX CANAIS  | ABERTOS",Canal Alfa (720p)
 https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/TmrNbbnH3VU/hqdefault_live.jpg" group-title="FAX CANAIS ABERTOS",TV Digital Biriguí (640p)
+#EXTINF:-1 tvg-id="   TV Digital Biriguí (640p)   "tvg-logo="https://i.ytimg.com/vi/TmrNbbnH3VU/hqdefault_live.jpg" group-title="FAX CANAIS |  ABERTOS",TV Digital Biriguí (640p)
 http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
-#EXTINF:-1 tvg-id="Rede QDM" tvg-logo="https://assets.iptv2022.com/uploads/channel/11740/thumb_REDE_QDM.jpeg" group-title="FAX CANAIS ABERTOS",Rede QDM (360p)
+#EXTINF:-1 tvg-id="  Rede QDM (360p)    " tvg-id="Rede QDM" tvg-logo="https://assets.iptv2022.com/uploads/channel/11740/thumb_REDE_QDM.jpeg" group-title="FAX CANAIS |  ABERTOS",Rede QDM (360p)
 https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
-#EXTINF:-1 tvg-id="Rede Premium TV" tvg-logo="https://m.media-amazon.com/images/I/719IccMDdaS.png" group-title="FAX CANAIS ABERTOS",Rede Premium TV (1080p)
+#EXTINF:-1 tvg-id="  Rede Premium TV (1080p)    " tvg-id="Rede Premium TV" tvg-logo="https://m.media-amazon.com/images/I/719IccMDdaS.png" group-title="FAX CANAIS |  ABERTOS",Rede Premium TV (1080p)
 https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
-#EXTINF:-1 tvg-id="Rede NGT" tvg-logo="https://aquitemfofoca.com.br/wp-content/uploads/2021/04/redengt_logo.jpg" group-title="FAX CANAIS ABERTOS",Rede NGT
+#EXTINF:-1 tvg-id="  Rede NGT    "tvg-id="Rede NGT" tvg-logo="https://aquitemfofoca.com.br/wp-content/uploads/2021/04/redengt_logo.jpg" group-title="FAX CANAIS  | ABERTOS",Rede NGT
 https://acesso.ecast.site:3922/live/redengtlive.m3u8
-#EXTINF:-1 tvg-id="Opinião Play TV" tvg-logo="https://play-lh.googleusercontent.com/2txyeuJJsUgJc0Pc2zDTnZLugENq26fjHkY6j6djm6JAn1Y9_lGSA3NXUGhuv__OGA=w240-h480-rw" group-title="FAX CANAIS ABERTOS",Opinião Play TV (360p)
+#EXTINF:-1 tvg-id="   Opinião Play TV (360p)   " tvg-id="Opinião Play TV" tvg-logo="https://play-lh.googleusercontent.com/2txyeuJJsUgJc0Pc2zDTnZLugENq26fjHkY6j6djm6JAn1Y9_lGSA3NXUGhuv__OGA=w240-h480-rw" group-title="FAX CANAIS |  ABERTOS",Opinião Play TV (360p)
 https://livefocamundo.com:8081/opiniaoplay/index.m3u8
-#EXTINF:-1 tvg-id="ConecTV Brasil" tvg-logo="https://pbr-str.srvsite.com/arquivos/8704/cabecalho-8704-20210927100554.png" group-title="FAX CANAIS ABERTOS",ConecTV Brasil (720p)
+#EXTINF:-1 tvg-id="   ConecTV Brasil (720p)   " tvg-id="ConecTV Brasil" tvg-logo="https://pbr-str.srvsite.com/arquivos/8704/cabecalho-8704-20210927100554.png" group-title="FAX CANAIS |  ABERTOS",ConecTV Brasil (720p)
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-#EXTINF:-1 tvg-id="Adesso TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/be062d76223bf6b8b12f89cd2161eb4b.webp" group-title="FAX CANAIS ABERTOS",Adesso TV (720p)
+#EXTINF:-1 tvg-id="  Adesso TV (720p)    "tvg-id="Adesso TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/be062d76223bf6b8b12f89cd2161eb4b.webp" group-title="FAX CANAIS  | ABERTOS",Adesso TV (720p)
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/f1736f4c13767ad32fe7c907853dd5f7/368082-multi-media-channels-tv-world-brazil-record-news.gif" group-title="FAX CANAIS ABERTOS",Record News
+#EXTINF:-1 tvg-id="   Record News   " tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/f1736f4c13767ad32fe7c907853dd5f7/368082-multi-media-channels-tv-world-brazil-record-news.gif" group-title="FAX CANAIS |  ABERTOS",Record News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69cf38e0cd65c06291dc072f3f9270b1.webp" group-title="FAX CANAIS ABERTOS",Tv Aracati HD Ao Vivo
+#EXTINF:-1 tvg-id="   Tv Aracati HD Ao Vivo   " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69cf38e0cd65c06291dc072f3f9270b1.webp" group-title="FAX CANAIS  | ABERTOS",Tv Aracati HD Ao Vivo
 https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb11c7b420ed0d82de6c3403ee72f3d9.webp" group-title="FAX CANAIS ABERTOS",TV Metropole Ao Vivo
+#EXTINF:-1 tvg-id="  TV Metropole Ao Vivo    " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb11c7b420ed0d82de6c3403ee72f3d9.webp" group-title="FAX CANAIS  | ABERTOS",TV Metropole Ao Vivo
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w1897663759.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4848302dfaddb5c0b31f92f21519d629.webp" group-title="FAX CANAIS ABERTOS",TeleBärn Ao Vivo
+#EXTINF:-1 tvg-id="  TeleBärn Ao Vivo    " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4848302dfaddb5c0b31f92f21519d629.webp" group-title="FAX CANAIS |  ABERTOS",TeleBärn Ao Vivo
 https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/V5aB4vl7IdB41mCbZmUxNA/index-s32.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f42f76db35b114255012a25cbe113942.webp" group-title="FAX CANAIS ABERTOS",Tv Nordeste Ao Vivo
+#EXTINF:-1 tvg-id="  Tv Nordeste Ao Vivo    " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f42f76db35b114255012a25cbe113942.webp" group-title="FAX CANAIS |  ABERTOS",Tv Nordeste Ao Vivo
 https://cdn.jmvstream.com/w/AVJ-13064/playlist/chunklist.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/739cbdd4c8e777319df792ea2727e4b1.webp" group-title="FAX CANAIS ABERTOS",CHD TV Ao Vivo
+#EXTINF:-1 tvg-id="  CHD TV Ao Vivo    "tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/739cbdd4c8e777319df792ea2727e4b1.webp" group-title="FAX CANAIS |  ABERTOS",CHD TV Ao Vivo
 https://stmv1.liveplushd.com.br/chdtv/chdtv/chunklist_w806567169.m3u8
-#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/MqggRJeIippgzCxi9ncidyZdEXIVLr0NVCxuDPssKwi2dHnlzNCvpRJi1DbLA5vPJ4W1RLZ18wk=s900-c-k-c0x00ffffff-no-rj" group-title="FAX CANAIS ABERTOS",Sertão TV
+#EXTINF:-1 tvg-id="   Sertão TV   " tvg-logo="https://yt3.googleusercontent.com/MqggRJeIippgzCxi9ncidyZdEXIVLr0NVCxuDPssKwi2dHnlzNCvpRJi1DbLA5vPJ4W1RLZ18wk=s900-c-k-c0x00ffffff-no-rj" group-title="FAX CANAIS |  ABERTOS",Sertão TV
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w570692774.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/21aa37be724bbbc92cd3247c78a89abe.webp" group-title="FAX CANAIS ABERTOS",TV União (Rede União) Ao Vivo
+#EXTINF:-1 tvg-id="   TV União (Rede União) Ao Vivo   " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/21aa37be724bbbc92cd3247c78a89abe.webp" group-title="FAX CANAIS |  ABERTOS",TV União (Rede União) Ao Vivo
 https://stmv1.srvif.com/tvu/tvu/chunklist_w2019300740.m3u8https://stmv1.srvif.com/tvu/tvu/chunklist_w2019300740.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/da8fecf959f730dd05d649b46fa80298.webp" group-title="FAX CANAIS ABERTOS",TV Nova Nordeste (Cultura PE) Ao Vivo
+#EXTINF:-1 tvg-id="  TV Nova Nordeste (Cultura PE) Ao Vivo    "tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/da8fecf959f730dd05d649b46fa80298.webp" group-title="FAX CANAIS |  ABERTOS",TV Nova Nordeste (Cultura PE) Ao Vivo
 https://live.comets.com.br/tvnovanordeste/aovivo/chunklist.m3u8
-#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJU35BzAyDp0nKMkXkhF2UbalU2zRb-X7HB6oFVw=s900-c-k-c0x00ffffff-no-rj" group-title="FAX CANAIS ABERTOS",TVU Recife
+#EXTINF:-1 tvg-id="  TVU Recife    "tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJU35BzAyDp0nKMkXkhF2UbalU2zRb-X7HB6oFVw=s900-c-k-c0x00ffffff-no-rj" group-title="FAX CANAIS |  ABERTOS",TVU Recife
 http://150.161.93.220/hls/index.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cd71bffd9902358ce81601f10c6eb5ea.webp" group-title="FAX CANAIS ABERTOS",TV Caruaru Ao Vivo
+#EXTINF:-1 tvg-id="  TV Caruaru Ao Vivo    "tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cd71bffd9902358ce81601f10c6eb5ea.webp" group-title="FAX CANAIS |  ABERTOS",TV Caruaru Ao Vivo
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/chunklist_w558810306.m3u8?fluxustv.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5b8250fa16013cc8a6c1e7cc40da2748.webp" group-title="FAX CANAIS ABERTOS",TV Cordeiro Ao Vivo
+#EXTINF:-1 tvg-id="  TV Cordeiro Ao Vivo    " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5b8250fa16013cc8a6c1e7cc40da2748.webp" group-title="FAX CANAIS |  ABERTOS",TV Cordeiro Ao Vivo
 https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/chunklist_w1838745380.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRErSqj09Z1-vJ491ReKOgLaZh8nTcLfDWgncn97iJDaPk20YCMKTYcYdz8JX4CSVdsn6I&usqp=CAU" group-title="FAX CANAIS ABERTOS",CNN
+#EXTINF:-1 tvg-id="  CNN    " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRErSqj09Z1-vJ491ReKOgLaZh8nTcLfDWgncn97iJDaPk20YCMKTYcYdz8JX4CSVdsn6I&usqp=CAU" group-title="FAX CANAIS |  ABERTOS",
 http://45.58.126.146:14234/cnn
 https://server100.online/space/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=6b3364d31fcc7bc5a1f03b8e6027e9405d9fbca1-becb1d630ca83ecb9a9d8b541fec1422-1678679881-1678672681
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVBVplk1ArSF1JL_YHNNx7dVZqzAw6MhMHKEE7vJiL-4s67B90aaMu-2zQCPB2DoXTyfs&usqp=CAU" group-title="FAX CANAIS ABERTOS",CINE LIVRE HD
+#EXTINF:-1 tvg-id="   CINE LIVRE HD   "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVBVplk1ArSF1JL_YHNNx7dVZqzAw6MhMHKEE7vJiL-4s67B90aaMu-2zQCPB2DoXTyfs&usqp=CAU" group-title="FAX CANAIS |  ABERTOS",CINE LIVRE HD
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w424430010.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Cinecanal_2016-0.png" group-title="FAX CANAIS ABERTOS", CINE CANAL
+#EXTINF:-1 tvg-id="  CINE CANAL    " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Cinecanal_2016-0.png" group-title="FAX CANAIS |  ABERTOS", CINE CANAL
 http://45.58.126.146:14326
-#EXTINF:-1 tvg-id="TVPontadoSeixas.br" tvg-logo="https://i.imgur.com/7QHFC24.png" group-title="FAX CANAIS ABERTOS",TV Ponta do Seixas (720p)
+#EXTINF:-1 tvg-id="   TV Ponta do Seixas (720p)   " tvg-id="TVPontadoSeixas.br" tvg-logo="https://i.imgur.com/7QHFC24.png" group-title="FAX CANAIS |  ABERTOS",TV Ponta do Seixas (720p)
 https://livefocamundo.com:8081/tvpontadoseixascanal9/index.m3u8
-#EXTINF:-1 tvg-id="TVPocos.br" tvg-logo="https://i.imgur.com/UMPz1vl.png" group-title="FAX CANAIS ABERTOS",TV Poços (192p) [Not 24/7]
+#EXTINF:-1 tvg-id="   TV Poços (192p) [Not 24/7]   " tvg-id="TVPocos.br" tvg-logo="https://i.imgur.com/UMPz1vl.png" group-title="FAX CANAIS |  ABERTOS",TV Poços (192p) [Not 24/7]
 http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVNovaPlay.br" tvg-logo="https://i.imgur.com/MhoHk6I.png" group-title="FAX CANAIS ABERTOS",TV Nova Play (480p)
+#EXTINF:-1 tvg-id="  TV Nova Play (480p)    "tvg-id="TVNovaPlay.br" tvg-logo="https://i.imgur.com/MhoHk6I.png" group-title="FAX CANAIS |  ABERTOS",TV Nova Play (480p)
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMAX.br" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="FAX CANAIS ABERTOS",TV Max
+#EXTINF:-1 tvg-id="   TV Max   " tvg-id="TVMAX.br" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="FAX CANAIS |  ABERTOS",TV Max
 https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
-#EXTINF:-1 tvg-id="TVJustica.br" tvg-logo="https://i.imgur.com/rOQKiMO.png" group-title="FAX CANAIS ABERTOS",TV Justiça (720p)
+#EXTINF:-1 tvg-id="   TV Justiça (720p)   " tvg-id="TVJustica.br" tvg-logo="https://i.imgur.com/rOQKiMO.png" group-title="FAX CANAIS |  ABERTOS",TV Justiça (720p)
 https://ythls.onrender.com/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8
-#EXTINF:-1 tvg-id="TVGuarapari.br" tvg-logo="https://i.imgur.com/eDNzwK0.png" group-title="FAX CANAIS ABERTOS",TV Guaraparí (720p)
+#EXTINF:-1 tvg-id="  TV Guaraparí (720p)    " tvg-id="TVGuarapari.br" tvg-logo="https://i.imgur.com/eDNzwK0.png" group-title="FAX CANAIS  | ABERTOS",TV Guaraparí (720p)
 http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCOMSantos.br" tvg-logo="https://i.imgur.com/KX3fner.png" group-title="FAX CANAIS ABERTOS",TV COM Santos (416p)
+#EXTINF:-1 tvg-id="   TV COM Santos (416p)   " tvg-id="TVCOMSantos.br" tvg-logo="https://i.imgur.com/KX3fner.png" group-title="FAX CANAIS |  ABERTOS",TV COM Santos (416p)
 https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
-#EXTINF:-1 tvg-id="TVClube.br" tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="FAX CANAIS ABERTOS",TV Clube (720p)
+#EXTINF:-1 tvg-id="   TV Clube (720p)   " tvg-id="TVClube.br" tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="FAX CANAIS |  ABERTOS",TV Clube (720p)
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-#EXTINF:-1 tvg-id="TVA7Plus.br" tvg-logo="https://i.imgur.com/qeo2oPM.png" group-title="FAX CANAIS ABERTOS",TV A7 Plus (1080p)
+#EXTINF:-1 tvg-id="  TV A7 Plus (1080p)    "tvg-id="TVA7Plus.br" tvg-logo="https://i.imgur.com/qeo2oPM.png" group-title="FAX CANAIS |  ABERTOS",TV A7 Plus (1080p)
 https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
-#EXTINF:-1 tvg-id="STZTV.br" tvg-logo="https://i.imgur.com/SeF2I7q.png" group-title="FAX CANAIS ABERTOS",STZ TV (720p)
+#EXTINF:-1 tvg-id="  STZ TV (720p)    " tvg-id="STZTV.br" tvg-logo="https://i.imgur.com/SeF2I7q.png" group-title="FAX CANAIS |  ABERTOS",STZ TV (720p)
 https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8
-#EXTINF:-1 tvg-id="SertaoTV.br" tvg-logo="https://i.imgur.com/b5xOCsC.png" group-title="FAX CANAIS ABERTOS",Sertão TV (720p)
+#EXTINF:-1 tvg-id="  Sertão TV (720p)    " tvg-id="SertaoTV.br" tvg-logo="https://i.imgur.com/b5xOCsC.png" group-title="FAX CANAIS |  ABERTOS",Sertão TV (720p)
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="AdessoTV.br" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="FAX CANAIS ABERTOS",Adesso TV (720p)
+#EXTINF:-1 tvg-id="   Adesso TV (720p)   " tvg-id="AdessoTV.br" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="FAX CANAIS |  ABERTOS",Adesso TV (720p)
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
-#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-logo="https://i.imgur.com/aNkP7Zd.png" group-title="FAX CANAIS ABERTOS",AgroBrasil TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="   AgroBrasil TV (720p) [Not 24/7]   " tvg-id="AgroBrasilTV.br" tvg-logo="https://i.imgur.com/aNkP7Zd.png" group-title="FAX CANAIS | ABERTOS",AgroBrasil TV (720p) [Not 24/7]
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-id="AllegroWebTV.br" tvg-logo="https://i.imgur.com/7iSmccE.png" group-title="FAX CANAIS ABERTOS",Allegro WebTV (720p)
+#EXTINF:-1 tvg-id="  Allegro WebTV (720p)    " tvg-id="AllegroWebTV.br" tvg-logo="https://i.imgur.com/7iSmccE.png" group-title="FAX CANAIS |  ABERTOS",Allegro WebTV (720p)
 https://livefocamundo.com:8081/allegrowebtv/index.m3u8
-#EXTINF:-1 tvg-id="AlphaChannel.br" tvg-logo="https://i.imgur.com/c1QqslA.png" group-title="FAX CANAIS ABERTOS",Alpha Channel (720p)
+#EXTINF:-1 tvg-id="   Alpha Channel (720p)   "tvg-id="AlphaChannel.br" tvg-logo="https://i.imgur.com/c1QqslA.png" group-title="FAX CANAIS |  ABERTOS",Alpha Channel (720p)
 https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
-#EXTINF:-1 tvg-id="AmazonSat.br" tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="FAX CANAIS ABERTOS",Amazon Sat (1080p)
+#EXTINF:-1 tvg-id="  Amazon Sat (1080p)    " tvg-id="AmazonSat.br" tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="FAX CANAIS |  ABERTOS",Amazon Sat (1080p)
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1 tvg-id="AscameTV.br" tvg-logo="https://i.imgur.com/LFY5pjU.png" group-title="FAX CANAIS ABERTOS",Ascame TV (320p)
+#EXTINF:-1 tvg-id="   Ascame TV (320p)   " tvg-id="AscameTV.br" tvg-logo="https://i.imgur.com/LFY5pjU.png" group-title="FAX CANAIS |  ABERTOS",Ascame TV (320p)
 https://livefocamundo.com:8081/ascametv/index.m3u8
-#EXTINF:-1 tvg-id="TVAssembleiaMatoGrosso.br" tvg-logo="https://i.imgur.com/BtkX8kg.png" group-title="FAX CANAIS ABERTOS",Assembleia Legislativa do Estado de Mato Grosso (720p)
+#EXTINF:-1 tvg-id="  Assembleia Legislativa do Estado de Mato Grosso (720p)    " tvg-id="TVAssembleiaMatoGrosso.br" tvg-logo="https://i.imgur.com/BtkX8kg.png" group-title="FAX CANAIS  | ABERTOS",Assembleia Legislativa do Estado de Mato Grosso (720p)
 https://streaming.al.mt.gov.br/test/index.m3u8
-#EXTINF:-1 tvg-id="TVAssembleiaPiaui.br" tvg-logo="https://i.imgur.com/eMguSjM.png" group-title="FAX CANAIS ABERTOS",Assembleia Legislativa do Piauí (432p)
+#EXTINF:-1 tvg-id="  Assembleia Legislativa do Piauí (432p)    " tvg-id="TVAssembleiaPiaui.br" tvg-logo="https://i.imgur.com/eMguSjM.png" group-title="FAX CANAIS |  ABERTOS",Assembleia Legislativa do Piauí (432p)
 https://59e4b6c1beddc.streamlock.net/ronaldoalepi/ronaldoalepi/playlist.m3u8
-#EXTINF:-1 tvg-id="BoaVontadeTV.br" tvg-logo="https://i.imgur.com/Ms5tSgu.png" group-title="FAX CANAIS ABERTOS",Boa Vontade TV (1080p)
+#EXTINF:-1 tvg-id="  Boa Vontade TV (1080p)    " tvg-id="BoaVontadeTV.br" tvg-logo="https://i.imgur.com/Ms5tSgu.png" group-title="FAX CANAIS |  ABERTOS",Boa Vontade TV (1080p)
 https://ythls.onrender.com/channel/UCedt33latJW7StRfdF4-1FQ.m3u8
-#EXTINF:-1 tvg-id="CaboFrioTV.br" tvg-logo="https://i.imgur.com/mPi6Wp3.png" group-title="FAX CANAIS ABERTOS",Cabo Frio TV (720p)
+#EXTINF:-1 tvg-id="  Cabo Frio TV (720p)    "tvg-id="CaboFrioTV.br" tvg-logo="https://i.imgur.com/mPi6Wp3.png" group-title="FAX CANAIS |  ABERTOS",Cabo Frio TV (720p)
 https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVNBN.br" tvg-logo="https://i.imgur.com/zoHBxn1.png" group-title="FAX CANAIS ABERTOS",TVNBN (720p)
+#EXTINF:-1 tvg-id="   TVNBN (720p)   "tvg-id="TVNBN.br" tvg-logo="https://i.imgur.com/zoHBxn1.png" group-title="FAX CANAIS |  ABERTOS",TVNBN (720p)
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMaster.br" tvg-logo="https://i.imgur.com/fTgGvNJ.png" group-title="FAX CANAIS ABERTOS",TVMaster (720p)
+#EXTINF:-1 tvg-id="   TVMaster (720p)   " tvg-id="TVMaster.br" tvg-logo="https://i.imgur.com/fTgGvNJ.png" group-title="FAX CANAIS |  ABERTOS",TVMaster (720p)
 https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
-#EXTINF:-1 tvg-id="TVitape.br" tvg-logo="https://i.imgur.com/XeqcwKe.png" group-title="FAX CANAIS ABERTOS",TVitapé (720p)
+#EXTINF:-1 tvg-id="   TVitapé (720p)   " tvg-id="TVitape.br" tvg-logo="https://i.imgur.com/XeqcwKe.png" group-title="FAX CANAIS |  ABERTOS",TVitapé (720p)
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
-#EXTINF:-1 tvg-id="TVERS.br" tvg-logo="https://i.imgur.com/MQ6lJpS.png" group-title="FAX CANAIS ABERTOS",TVE RS
+#EXTINF:-1 tvg-id="   TVE RS   "tvg-id="TVERS.br" tvg-logo="https://i.imgur.com/MQ6lJpS.png" group-title="FAX CANAIS |  ABERTOS",TVE RS
 https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCRio.br" tvg-logo="https://i.imgur.com/WDiikWv.png" group-title="FAX CANAIS ABERTOS",TVC Rio (1080p)
+#EXTINF:-1 tvg-id="  TVC Rio (1080p)    " tvg-id="TVCRio.br" tvg-logo="https://i.imgur.com/WDiikWv.png" group-title="FAX CANAIS |  ABERTOS",TVC Rio (1080p)
 https://video01.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
-#EXTINF:-1 tvg-id="TVZoom.br" tvg-logo="https://i.imgur.com/jCGrjf5.png" group-title="FAX CANAIS ABERTOS",TV Zoom (720p)
+#EXTINF:-1 tvg-id="  TV Zoom (720p)    " tvg-id="TVZoom.br" tvg-logo="https://i.imgur.com/jCGrjf5.png" group-title="FAX CANAIS  | ABERTOS",TV Zoom (720p)
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
-#EXTINF:-1 tvg-id="TVWTJMINAS.br" tvg-logo="https://i.imgur.com/e53513E.png" group-title="FAX CANAIS ABERTOS",TV WTJMINAS (720p)
+#EXTINF:-1 tvg-id="   TV WTJMINAS (720p)   "tvg-id="TVWTJMINAS.br" tvg-logo="https://i.imgur.com/e53513E.png" group-title="FAX CANAIS  | ABERTOS",TV WTJMINAS (720p)
 https://video01.kshost.com.br/wladimir4773/wladimir4773/playlist.m3u8
-#EXTINF:-1 tvg-id="TVWebParana.br" tvg-logo="https://i.imgur.com/HRfKUzS.png" group-title="FAX CANAIS ABERTOS",TV Web Paraná (720p)
+#EXTINF:-1 tvg-id="   TV Web Paraná (720p)   " tvg-id="TVWebParana.br" tvg-logo="https://i.imgur.com/HRfKUzS.png" group-title="FAX CANAIS |  ABERTOS",TV Web Paraná (720p)
 https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/playlist.m3u8
-#EXTINF:-1 tvg-id="TVWebCamocim.br" tvg-logo="https://i.imgur.com/dQN6xcT.png" group-title="FAX CANAIS ABERTOS",TV Web Camocim (720p)
+#EXTINF:-1 tvg-id="  TV Web Camocim (720p)    "tvg-id="TVWebCamocim.br" tvg-logo="https://i.imgur.com/dQN6xcT.png" group-title="FAX CANAIS |  ABERTOS",TV Web Camocim (720p)
 https://5c483b9d1019c.streamlock.net/8172/8172/playlist.m3u8
-#EXTINF:-1 tvg-id="TVVilaReal.br" tvg-logo="https://i.imgur.com/Z1uWe7g.png" group-title="FAX CANAIS ABERTOS",TV Vila Real
+#EXTINF:-1 tvg-id="  TV Vila Real    " tvg-id="TVVilaReal.br" tvg-logo="https://i.imgur.com/Z1uWe7g.png" group-title="FAX CANAIS |  ABERTOS",TV Vila Real
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:-1 tvg-id="TVVicosa.br" tvg-logo="https://i.imgur.com/TZF55f9.png" group-title="FAX CANAIS ABERTOS",TV Viçosa
+#EXTINF:-1 tvg-id="   TV Viçosa   " tvg-id="TVVicosa.br" tvg-logo="https://i.imgur.com/TZF55f9.png" group-title="FAX CANAIS |  ABERTOS",TV Viçosa
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVTropical.br" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="FAX CANAIS ABERTOS",TV Tropical (480p)
+#EXTINF:-1 tvg-id="   TV Tropical (480p)   " tvg-id="TVTropical.br" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="FAX CANAIS |  ABERTOS",TV Tropical (480p)
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
-#EXTINF:-1 tvg-id="TVThathi.br" tvg-logo="https://tv.thathi.com.br/wp-content/uploads/2021/02/tv-thathi-150x150.png" group-title="FAX CANAIS ABERTOS",TV Thathi (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="   TV Thathi (720p) [Not 24/7]   "tvg-id="TVThathi.br" tvg-logo="https://tv.thathi.com.br/wp-content/uploads/2021/02/tv-thathi-150x150.png" group-title="FAX CANAIS |  ABERTOS",TV Thathi (720p) [Not 24/7]
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSuldeMinas.br" tvg-logo="https://i.imgur.com/hPh8cxK.png" group-title="FAX CANAIS ABERTOS",TV Sul de Minas (720p)
+#EXTINF:-1 tvg-id="   TV Sul de Minas (720p)   "tvg-id="TVSuldeMinas.br" tvg-logo="https://i.imgur.com/hPh8cxK.png" group-title="FAX CANAIS |  ABERTOS",TV Sul de Minas (720p)
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
-#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/tv-nova-play.webp" group-title="FAX CANAIS ABERTOS",TV Nova Play
+#EXTINF:-1 tvg-id="  TV Nova Play    "tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/tv-nova-play.webp" group-title="FAX CANAIS |  ABERTOS",TV Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist.m3u8
-#EXTINF:1 tvg-logo="https://t.ctcdn.com.br/myufdbwGKutqXMOjqWp2T-jQnF4=/512x288/smart/filters:format(webp)/i576710.png" group-title="FAX CANAIS ABERTOS",TV Pantanal
+#EXTINF:-1 tvg-id="  TV Pantanal    " tvg-logo="https://t.ctcdn.com.br/myufdbwGKutqXMOjqWp2T-jQnF4=/512x288/smart/filters:format(webp)/i576710.png" group-title="FAX CANAIS |  ABERTOS",TV Pantanal
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
-#EXTINF:1 tvg-logo="https://d1vs1x3ni0c692.cloudfront.net/wp-content/uploads/2020/10/futura-whatsapp-image.jpg" group-title="FAX CANAIS ABERTOS",FURURA
+#EXTINF:-1 tvg-id="   FURURA   "tvg-logo="https://d1vs1x3ni0c692.cloudfront.net/wp-content/uploads/2020/10/futura-whatsapp-image.jpg" group-title="FAX CANAIS |  ABERTOS",FURURA
 http://15.235.10.31:14336
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoz0gyLnImviBNJgOgn2qwrIrBgZGV55uvT0phiBTZU-RSShgjf4JE8z_H1lxjw7sLAEk&usqp=CAU" group-title="FAX CANAIS ABERTOS",TV GAZETA
+#EXTINF:-1 tvg-id="  TV GAZETA    "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoz0gyLnImviBNJgOgn2qwrIrBgZGV55uvT0phiBTZU-RSShgjf4JE8z_H1lxjw7sLAEk&usqp=CAU" group-title="FAX CANAIS  | ABERTOS",TV GAZETA
 http://15.235.10.31:14347/tvgazeta
-#EXTINF:1 tvg-logo="https://1.bp.blogspot.com/-xRZm7yIBiBs/XRkWrcLJ4MI/AAAAAAAABQw/szcNw0g0y1Q6_u_lF7MFoPzmidC7gcSqQCK4BGAsYHg/w1200-h630-p-k-no-nu/Screenshot_2019-06-30-16-55-08.png" group-title="FAX CANAIS ABERTOS",REDE MINAS
+#EXTINF:-1 tvg-id="  REDE MINAS    " tvg-logo="https://1.bp.blogspot.com/-xRZm7yIBiBs/XRkWrcLJ4MI/AAAAAAAABQw/szcNw0g0y1Q6_u_lF7MFoPzmidC7gcSqQCK4BGAsYHg/w1200-h630-p-k-no-nu/Screenshot_2019-06-30-16-55-08.png" group-title="FAX CANAIS |  ABERTOS",REDE MINAS
 http://168.205.87.198:8555/live/1052/123456/101.m3u8
-#EXTINF:1 tvg-logo="https://imagem.natelinha.uol.com.br/televisao/emissora/tv-brasil_8669.jpeg" group-title="FAX CANAIS ABERTOS",TV Brasil
+#EXTINF:-1 tvg-id="   TV Brasil   " tvg-logo="https://imagem.natelinha.uol.com.br/televisao/emissora/tv-brasil_8669.jpeg" group-title="FAX CANAIS |  ABERTOS",TV Brasil
 http://168.205.87.198:8555/live/1052/123456/134.m3u8
-#EXTINF:1 tvg-logo="https://media0.giphy.com/media/CXiRo7MMRsYJ4eEoze/200w.gif" group-title="FAX CANAIS ABERTOS",TV TROPICAL
+#EXTINF:-1 tvg-id="   TV TROPICAL   "tvg-logo="https://media0.giphy.com/media/CXiRo7MMRsYJ4eEoze/200w.gif" group-title="FAX CANAIS |  ABERTOS",TV TROPICAL
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
-#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/rheP_IKI3B34qKYNK1Idcu9fz8UDXnxOCOOqiwAu3cEZkdMK2nzoc6HIhU234AUqWxY" group-title="FAX CANAIS ABERTOS",YES LIFE
+#EXTINF:-1 tvg-id="  YES LIFE    " tvg-logo="https://play-lh.googleusercontent.com/rheP_IKI3B34qKYNK1Idcu9fz8UDXnxOCOOqiwAu3cEZkdMK2nzoc6HIhU234AUqWxY" group-title="FAX CANAIS |  ABERTOS",YES LIFE
 http://cdn.connectbr.com.br/Life/index.m3u8
-#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/fhGEgva11zUa-cb3GoFPMo1TFLHn5eK0Ek8u3xUrFCTACW3iq1mAxC1tpTw7VoBPhLFYk_rk=s900-c-k-c0x00ffffff-no-rj" group-title="FAX CANAIS ABERTOS",MAIS UM
+#EXTINF:-1 tvg-id="   YES LIFE   "tvg-logo="https://yt3.googleusercontent.com/fhGEgva11zUa-cb3GoFPMo1TFLHn5eK0Ek8u3xUrFCTACW3iq1mAxC1tpTw7VoBPhLFYk_rk=s900-c-k-c0x00ffffff-no-rj" group-title="FAX CANAIS |  ABERTOS",MAIS UM
 https://stream.ichibantv.ga:3230/hybrid/play.m3u8
-#EXTINF:1 tvg-logo="Retrô Cartoon BR" group-title="FAX CANAIS ABERTOS",Retrô Cartoon BR
+#EXTINF:-1 tvg-id="   MAIS UM   "tvg-logo="Retrô Cartoon BR" group-title="FAX CANAIS ABERTOS",Retrô Cartoon BR
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w822564984.m3u8
-#EXTINF:1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/00ba47999710ae339ed240f0309f0552/369302-multi-media-channels-tv-world-portugal-sic-internacional.gif" group-title="FAX CANAIS ABERTOS",SIC
+#EXTINF:-1 tvg-id="  SIC    " tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/00ba47999710ae339ed240f0309f0552/369302-multi-media-channels-tv-world-portugal-sic-internacional.gif" group-title="FAX CANAIS |  ABERTOS",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
-#EXTINF:1 tvg-logo="https://media.tenor.com/xoOnvd_mmMYAAAAd/oasis-hey-now.gif" group-title="FAX CANAIS ABERTOS", oasistv
+#EXTINF:-1 tvg-id="   oasistv   "tvg-logo="https://media.tenor.com/xoOnvd_mmMYAAAAd/oasis-hey-now.gif" group-title="FAX CANAIS |  ABERTOS", oasistv
 https://stmv5.samcast.com.br/oasistv/oasistv/chunklist_w1183640692.m3u8
-#EXTINF:1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJtJ3LCU_pyjMw63dH6az0y6NFmcbAR0p5fF0xmVJBhNzYoGNkkBPgn6GgkfgWmtzpnbbOK-n4YBguCT14veq2lnctzOlEi5A1Pha6PGZw0mvHNbBbZkc5PK3E9Z0BGK2zgW6_j7Ka1Wy0zuBFn7JYo16ux6QwdZmWYVaAY6AnwSq_olOYzYJhjR8m/w1200-h630-p-k-no-nu/TV%20BRASIL%20HITS.webp" group-title="FAX CANAIS ABERTOS",HITS TV
+#EXTINF:-1 tvg-id="  HITS TV    " tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJtJ3LCU_pyjMw63dH6az0y6NFmcbAR0p5fF0xmVJBhNzYoGNkkBPgn6GgkfgWmtzpnbbOK-n4YBguCT14veq2lnctzOlEi5A1Pha6PGZw0mvHNbBbZkc5PK3E9Z0BGK2zgW6_j7Ka1Wy0zuBFn7JYo16ux6QwdZmWYVaAY6AnwSq_olOYzYJhjR8m/w1200-h630-p-k-no-nu/TV%20BRASIL%20HITS.webp" group-title="FAX CANAIS  | ABERTOS",HITS TV
 https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w1305332814.m3u8
-#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/hrxG8InRCnB10sWHgQohNpRmMTwv1v7QHxO6KZ75BH0PYnzMsZI0D-Z4w_O0kRsAaxE1T1E=s900-c-k-c0x00ffffff-no-rj" group-title="FAX CANAIS ABERTOS",Faap TV online - Televisão ao vivo
+#EXTINF:-1 tvg-id="  Faap TV online - Televisão ao vivo    " tvg-logo="https://yt3.googleusercontent.com/hrxG8InRCnB10sWHgQohNpRmMTwv1v7QHxO6KZ75BH0PYnzMsZI0D-Z4w_O0kRsAaxE1T1E=s900-c-k-c0x00ffffff-no-rj" group-title="FAX CANAIS |  ABERTOS",Faap TV online - Televisão ao vivo
 https://midia.faap.net/faaplatamlive-live/stream_720/chunklist_w241631768.m3u8
-#EXTINF:1 tvg-logo="https://a-static.mlcdn.com.br/800x560/dvd-o-melhor-do-chespirito-turma-do-chaves-vol-1-amazonas/campinascomercio2/36036/6ab9776a55a3d72404e11ccd615d426d.jpg" group-title="FAX CANAIS ABERTOS",CHISPIRITO
+#EXTINF:-1 tvg-id=" CHISPIRITO     "tvg-logo="https://a-static.mlcdn.com.br/800x560/dvd-o-melhor-do-chespirito-turma-do-chaves-vol-1-amazonas/campinascomercio2/36036/6ab9776a55a3d72404e11ccd615d426d.jpg" group-title="FAX CANAIS |  ABERTOS",
 http://168.205.87.198:8555/live/1052/123456/159.ts
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Clube_%28Teresina%29.png" group-title="FAX CANAIS ABERTOS",TV Clube (720p)
+#EXTINF:-1 tvg-id="  TV Clube (720p)    " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Clube_%28Teresina%29.png" group-title="FAX CANAIS |  ABERTOS",TV Clube (720p)
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/gAjmU-WQuOY/maxresdefault.jpg" group-title="FAX CANAIS ABERTOS",TV A7 Plus (1080p)
+#EXTINF:-1 tvg-id="  TV A7 Plus (1080p)    "tvg-id="      " tvg-logo="https://i.ytimg.com/vi/gAjmU-WQuOY/maxresdefault.jpg" group-title="FAX CANAIS |  ABERTOS",TV A7 Plus (1080p)
 https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.tvaberta.tv.br/_img/logo-tv-aberta.gif" group-title="FAX CANAIS ABERTOS",TV Aberta (1080p)
+#EXTINF:-1 tvg-id="   TV Aberta (1080p)   " tvg-logo="https://www.tvaberta.tv.br/_img/logo-tv-aberta.gif" group-title="FAX CANAIS |  ABERTOS",TV Aberta (1080p)
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrUGSyfOEFANHxYEeCge1BFZ5Hgdpbdosh3ryxEaT0heOcrKNHaTpwMgV8PXURxs4Jlbs&usqp=CAU" group-title="FAX CANAIS ABERTOS",adilson8953
+#EXTINF:-1 tvg-id="  adilson8953    " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrUGSyfOEFANHxYEeCge1BFZ5Hgdpbdosh3ryxEaT0heOcrKNHaTpwMgV8PXURxs4Jlbs&usqp=CAU" group-title="FAX CANAIS |  ABERTOS",adilson8953
 https://video01.kshost.com.br:4443/adilson8953/adilson8953/chunklist_w976284968.m3u8
-#EXTINF:1 tvg-logo="https://br.radio.net/images/broadcasts/df/4f/38594/2/c300.png" group-title="FAX CANAIS ABERTOS",brasilhits
+#EXTINF:-1 tvg-id="  brasilhits    " tvg-logo="https://br.radio.net/images/broadcasts/df/4f/38594/2/c300.png" group-title="FAX CANAIS  | ABERTOS",brasilhits
 https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1540966671.m3u8
-#EXTINF:1 tvg-logo="https://media.licdn.com/dms/image/C5603AQHrXzAGIf7laQ/profile-displayphoto-shrink_800_800/0/1517363339472?e=2147483647&v=beta&t=w5uTvLkHqL3mJssiVTogj98xpf4uyVHdGD5CJzW89Ig" group-title="FAX CANAIS ABERTOS",tv cinec
+#EXTINF:-1 tvg-id="   tv cinec   " tvg-logo="https://media.licdn.com/dms/image/C5603AQHrXzAGIf7laQ/profile-displayphoto-shrink_800_800/0/1517363339472?e=2147483647&v=beta&t=w5uTvLkHqL3mJssiVTogj98xpf4uyVHdGD5CJzW89Ig" group-title="FAX CANAIS |  ABERTOS",tv cinec
 https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/chunklist-480p.m3u8
-#EXTINF:1 tvg-logo="https://www.edools.com/wp-content/uploads/2015/08/sambatech-720x340.png" group-title="FAX CANAIS ABERTOS",sambatech
+#EXTINF:-1 tvg-id="   sambatech   "tvg-logo="https://www.edools.com/wp-content/uploads/2015/08/sambatech-720x340.png" group-title="FAX CANAIS |  ABERTOS",sambatech
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index720p.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f032a160e2b4cbb9de8f0080b845c9ca.webp" group-title="FAX CANAIS ABERTOS",Classique TV | BR
+#EXTINF:-1 tvg-id="   Classique TV    " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f032a160e2b4cbb9de8f0080b845c9ca.webp" group-title="FAX CANAIS ABERTOS",Classique TV 
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/ext_tw_video_thumb/1409557687021539346/pu/img/GaGpBVIYx6z-xoHG.jpg" group-title="FAX CANAIS ABERTOS", LassTV | BR
+#EXTINF:-1 tvg-id="    LassTV    " tvg-logo="https://pbs.twimg.com/ext_tw_video_thumb/1409557687021539346/pu/img/GaGpBVIYx6z-xoHG.jpg" group-title="FAX CANAIS |  ABERTOS", LassTV 
 https://tv02.zas.media:1936/lasstv/lasstv/playlist.m3u8
-#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXbtU_x1TLPut-WUJlZdZLbXYjAsvbHI2j9YmQ=s900-c-k-c0x00ffffff-no-rj" group-title="FAX CANAIS ABERTOS", NTV Patos de Minas | BR
+#EXTINF:-1 tvg-id="  NTV Patos de Minas     " tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXbtU_x1TLPut-WUJlZdZLbXYjAsvbHI2j9YmQ=s900-c-k-c0x00ffffff-no-rj" group-title="FAX CANAIS  | ABERTOS", NTV Patos de Minas 
 https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/playlist.m3u8
-#EXTINF:1 tvg-logo="https://gwebimg.redacms.com/OFz4uAAkvmZ4Q54ZwscPGAeRIko=/1215x840/smart/https://gwebs3.redacms.com/original_images/apps.55915.13510798887418877.dec4357d-1496-4288-9993-c679af19f944.png" group-title="FAX CANAIS ABERTOS",TV Mar | BR
+#EXTINF:-1 tvg-id="  TV Mar     "tvg-logo="https://gwebimg.redacms.com/OFz4uAAkvmZ4Q54ZwscPGAeRIko=/1215x840/smart/https://gwebs3.redacms.com/original_images/apps.55915.13510798887418877.dec4357d-1496-4288-9993-c679af19f944.png" group-title="FAX CANAIS ABERTOS",TV Mar 
 https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Rede_Mundial_logo.png/800px-Rede_Mundial_logo.png" group-title="FAX CANAIS ABERTOS",TV Mundial | BR
+#EXTINF:-1 tvg-id="  TV Mundial     "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Rede_Mundial_logo.png/800px-Rede_Mundial_logo.png" group-title="FAX CANAIS |  ABERTOS",TV Mundial 
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
-#EXTINF:1 tvg-logo="https://grupocioffi.com.br/imagens/midias/logo-tv-plan.png" group-title="FAX CANAIS ABERTOS",TV Plan | BR
+#EXTINF:-1 tvg-id="   TV Plan    " tvg-logo="https://grupocioffi.com.br/imagens/midias/logo-tv-plan.png" group-title="FAX CANAIS  | ABERTOS",TV Plan 
 http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.simnoticias.com.br/wp-content/themes/LOAD/_assets/static/canais/canal-cachoeiro.jpeg" group-title="FAX CANAIS ABERTOS",TV Sim Cachoeiro | BR
+#EXTINF:-1 tvg-id="   TV Sim Cachoeiro    " tvg-logo="https://www.simnoticias.com.br/wp-content/themes/LOAD/_assets/static/canais/canal-cachoeiro.jpeg" group-title="FAX CANAIS  | ABERTOS",TV Sim Cachoeiro 
 https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.simnoticias.com.br/wp-content/themes/LOAD/_assets/static/canais/canal-colatina.jpeg" group-title="FAX CANAIS ABERTOS", TV Sim Colatina | BR
+#EXTINF:-1 tvg-id="  TV Sim Colatina     " tvg-logo="https://www.simnoticias.com.br/wp-content/themes/LOAD/_assets/static/canais/canal-colatina.jpeg" group-title="FAX CANAIS |  ABERTOS", TV Sim Colatina 
 https://5cf4a2c2512a2.streamlock.net:443/8132/8132/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.simnoticias.com.br/wp-content/themes/LOAD/_assets/static/canais/canal-linhares.jpeg" group-title="FAX CANAIS ABERTOS",TV Sim Linhares | BR
+#EXTINF:-1 tvg-id="   TV Sim Linhares    " tvg-logo="https://www.simnoticias.com.br/wp-content/themes/LOAD/_assets/static/canais/canal-linhares.jpeg" group-title="FAX CANAIS |  ABERTOS",
 https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.simnoticias.com.br/wp-content/themes/LOAD/_assets/static/canais/canal-smateus.jpeg" group-title="FAX CANAIS ABERTOS",TV Sim Sao Mateus | BR
+#EXTINF:-1 tvg-id="   TV Sim Sao Mateus    " tvg-logo="https://www.simnoticias.com.br/wp-content/themes/LOAD/_assets/static/canais/canal-smateus.jpeg" group-title="FAX CANAIS |  ABERTOS",TV Sim Sao Mateus 
 https://5cf4a2c2512a2.streamlock.net:443/8236/8236/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.simnoticias.com.br/wp-content/themes/LOAD/_assets/static/canais/canal-vitoria.jpeg" group-title="FAX CANAIS ABERTOS",TV Sim Vitória | BR
+#EXTINF:-1 tvg-id="   TV Sim Vitória    " tvg-logo="https://www.simnoticias.com.br/wp-content/themes/LOAD/_assets/static/canais/canal-vitoria.jpeg" group-title="FAX CANAIS |  ABERTOS",TV Sim Vitória 
 https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8
-#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVVDA9SkE6lEsS0g8pGnWVsp_Hbl7QShjK-QR1sMg=s900-c-k-c0x00ffffff-no-rj" group-title="FAX CANAIS ABERTOS",TV Sul | BR
+#EXTINF:-1 tvg-id="  TV Sul     " tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVVDA9SkE6lEsS0g8pGnWVsp_Hbl7QShjK-QR1sMg=s900-c-k-c0x00ffffff-no-rj" group-title="FAX CANAIS |  ABERTOS",TV Sul 
 http://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
-#EXTINF:1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLu1bnMstXkVC3q2x2aroRbhcIrpu6SMW30Zrn2yxrfjqQoi0H0xJpCWm8c3ijLSQjTZVAV-af-xzGv_7K308-xqVN0oFL_OOiD3M4s-Otq_5CL4THc4NDCjYPFk3As-Bo1626fRDgf2s6S68TC-3woQRly7qx6udULA0qbg4ihvhL2_IZOKaNk5fu/w1200-h630-p-k-no-nu/TV%20TI%20VEJO.webp" group-title="FAX CANAIS ABERTOS",TV Ti Vejo | BR
+#EXTINF:-1 tvg-id="  TV Ti Vejo  BR    " tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLu1bnMstXkVC3q2x2aroRbhcIrpu6SMW30Zrn2yxrfjqQoi0H0xJpCWm8c3ijLSQjTZVAV-af-xzGv_7K308-xqVN0oFL_OOiD3M4s-Otq_5CL4THc4NDCjYPFk3As-Bo1626fRDgf2s6S68TC-3woQRly7qx6udULA0qbg4ihvhL2_IZOKaNk5fu/w1200-h630-p-k-no-nu/TV%20TI%20VEJO.webp" group-title="FAX CANAIS ABERTOS",TV Ti Vejo  BR
 https://stmv1.srvif.com/ddacostenaro/ddacostenaro/playlist.m3u8
-#EXTINF:1 tvg-logo="https://dci.ufv.br/wp-content/uploads/2016/04/logo_TV-Vicosa.jpg" group-title="FAX CANAIS ABERTOS",TV Vicosa | BR
+#EXTINF:-1 tvg-id="   TV Vicosa    " tvg-logo="https://dci.ufv.br/wp-content/uploads/2016/04/logo_TV-Vicosa.jpg" group-title="FAX CANAIS |  ABERTOS",TV Vicosa 
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/1590367464193495040/zxcOgXZY_400x400.jpg" group-title="FAX CANAIS ABERTOS",Yeeaah TV | BR
+#EXTINF:-1 tvg-id="  Yeeaah TV BR    " tvg-logo="https://pbs.twimg.com/profile_images/1590367464193495040/zxcOgXZY_400x400.jpg" group-title="FAX CANAIS |  ABERTOS",Yeeaah TV BR
 https://stmv1.painelvideo.top/yeeaah/yeeaah/playlist.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="FAX CANAIS ABERTOS",All Sports | BR
+#EXTINF:-1 tvg-id="   All Sports  BR   "tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="FAX CANAIS |  ABERTOS",All Sports BR
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8
-#EXTINF:1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi5ff7LGg2mrpN4AxJEq3-wdau3aduFvdPxJXfAE06laGofbWEIpuwrvPGbsSGPHg0vs1kdvQDCmzwCBI2EeZ7pd5KYAVppNVDWB7V4QWjCs460nxBV_25euyqBjQ8xkEkBRUmh0EMtVkoMw_jz2rNMsg1hNFAMSiGAph14MEuDfpJdGd61vayT=s274" group-title="FAX CANAIS ABERTOS", Canal 29 | BR
+#EXTINF:-1 tvg-id="  Canal 29 BR " tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi5ff7LGg2mrpN4AxJEq3-wdau3aduFvdPxJXfAE06laGofbWEIpuwrvPGbsSGPHg0vs1kdvQDCmzwCBI2EeZ7pd5KYAVppNVDWB7V4QWjCs460nxBV_25euyqBjQ8xkEkBRUmh0EMtVkoMw_jz2rNMsg1hNFAMSiGAph14MEuDfpJdGd61vayT=s274" group-title="FAX CANAIS  | ABERTOS", Canal 29  BR
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
-#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWI5E0Uc5xuo6PfASGhMkw7muFvyq-w0Wdq6YAxIg=s900-c-k-c0x00ffffff-no-rj" group-title="FAX CANAIS ABERTOS",Tele Antequera (1080p)
+#EXTINF:-1 tvg-id="  Tele Antequera (1080p)  "tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWI5E0Uc5xuo6PfASGhMkw7muFvyq-w0Wdq6YAxIg=s900-c-k-c0x00ffffff-no-rj" group-title="FAX CANAIS |  ABERTOS",Tele Antequera (1080p)
 https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
 
-#EXTM3U url-tvg="http://grade-de-FAX CANAIS FECHADOS.xml"
-############## FAX CANAIS FECHADOS ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFAX CANAIS FECHADOS" group-title="
+#EXTM3U url-tvg="http://grade-de-FAX CANAIS |  FECHADOS.xml"
+############## FAX CANAIS |  FECHADOS ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFAX CANAIS |  FECHADOS" group-title="
 
-#EXTINF:1 tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="FAX CANAIS FECHADOS",A&E
+#EXTINF:-1 tvg-id=" A&E   " tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="FAX CANAIS  | FECHADOS",A&E
 http://cdn.connectbr.com.br/AE/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="FAX CANAIS FECHADOS",A&E
+#EXTINF:-1 tvg-id=" A&E   " tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="FAX CANAIS |  FECHADOS",A&E
 http://45.58.126.146:14293/A&E
-#EXTINF:1 tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="FAX CANAIS FECHADOS",A&E
+#EXTINF:-1 tvg-id=" A&E   " tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="FAX CANAIS |  FECHADOS",A&E
 http://45.58.126.146:14293
-#EXTINF:1 tvg-logo="https://t.ctcdn.com.br/ePG-TZ-bh0S7A_2NxKIM_iJYyXQ=/512x288/smart/filters:format(webp)/i348912.png" group-title="FAX CANAIS FECHADOS",A&E
+#EXTINF:-1 tvg-id="  A&E  " tvg-logo="https://t.ctcdn.com.br/ePG-TZ-bh0S7A_2NxKIM_iJYyXQ=/512x288/smart/filters:format(webp)/i348912.png" group-title="FAX CANAIS |  FECHADOS",A&E
 https://cdn2.connectbr.com.br/AE/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9nfDXjH1_h5swRQxFc4R5EuZJtmIhleJe5IDajdRc1FNNbll419LFrGgaD8ZQdincBQ&usqp=CAU" group-title="FAX CANAIS FECHADOS",AXN HD *
+#EXTINF:-1 tvg-id=" AXN HD    " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9nfDXjH1_h5swRQxFc4R5EuZJtmIhleJe5IDajdRc1FNNbll419LFrGgaD8ZQdincBQ&usqp=CAU" group-title="FAX CANAIS |  FECHADOS",AXN HD 
 http://45.58.126.146:14299/axn
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9nfDXjH1_h5swRQxFc4R5EuZJtmIhleJe5IDajdRc1FNNbll419LFrGgaD8ZQdincBQ&usqp=CAU" group-title="FAX CANAIS FECHADOS",AXN HD 2
+#EXTINF:-1 tvg-id=" AXN HD 2   "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9nfDXjH1_h5swRQxFc4R5EuZJtmIhleJe5IDajdRc1FNNbll419LFrGgaD8ZQdincBQ&usqp=CAU" group-title="FAX CANAIS  | FECHADOS",AXN HD 2
 https://server100.online/axn/tracks-v1a1/mono.m3u8?remote=45.231.152.255&token=2b64bc4b2d380aa2a08f48168837d1d86d580054-86420d709f0e47ea618de08e031724be-1678680439-1678673239
-#EXTINF:1 tvg-logo="https://t.ctcdn.com.br/ePG-TZ-bh0S7A_2NxKIM_iJYyXQ=/512x288/smart/filters:format(webp)/i348912.png" group-title="FAX CANAIS FECHADOS", A&E FULL HD(ALT)
+#EXTINF:-1 tvg-id=" A&E FULL HD(ALT)   " tvg-logo="https://t.ctcdn.com.br/ePG-TZ-bh0S7A_2NxKIM_iJYyXQ=/512x288/smart/filters:format(webp)/i348912.png" group-title="FAX CANAIS | FECHADOS", A&E FULL HD(ALT)
 http://199.127.60.83:16002/
-#EXTINF:1 tvg-logo="https://t.ctcdn.com.br/ePG-TZ-bh0S7A_2NxKIM_iJYyXQ=/512x288/smart/filters:format(webp)/i348912.png" group-title="FAX CANAIS FECHADOS",A&E FULL HD
+#EXTINF:-1 tvg-id=" A&E FULL HD   " tvg-logo="https://t.ctcdn.com.br/ePG-TZ-bh0S7A_2NxKIM_iJYyXQ=/512x288/smart/filters:format(webp)/i348912.png" group-title="FAX CANAIS |  FECHADOS",A&E FULL HD
 http://45.58.126.146:14293
-#EXTINF:1 tvg-logo="https://media.tenor.com/RyjWJNzSesoAAAAC/planet-earth2-tv-show.gif" group-title="FAX CANAIS FECHADOS",ANIMAL PLANET
+#EXTINF:-1 tvg-id="  ANIMAL PLANET  "tvg-logo="https://media.tenor.com/RyjWJNzSesoAAAAC/planet-earth2-tv-show.gif" group-title="FAX CANAIS |  FECHADOS",ANIMAL PLANET
 http://45.58.126.146:14249/
-#EXTINF:1 tvg-logo="https://media.tenor.com/RyjWJNzSesoAAAAC/planet-earth2-tv-show.gif" group-title="FAX CANAIS FECHADOS",ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="  ANIMAL PLANET HD  " tvg-logo="https://media.tenor.com/RyjWJNzSesoAAAAC/planet-earth2-tv-show.gif" group-title="FAX CANAIS  | FECHADOS",ANIMAL PLANET HD
 http://45.58.126.146:14249/
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/BogusUnlawfulGopher-size_restricted.gif" group-title="FAX CANAIS FECHADOS",AMC
+#EXTINF:-1 tvg-id=" AMC   " tvg-logo="https://thumbs.gfycat.com/BogusUnlawfulGopher-size_restricted.gif" group-title="FAX CANAIS  | FECHADOS",AMC
 http://45.58.126.146:14296/
-#EXTINF:1 tvg-logo="https://cm.cinemax.tv/assets/7dd96132-2b89-433c-8f32-f73cb26b8eb5" group-title="FAX CANAIS FECHADOS",SPACE
+#EXTINF:-1 tvg-id="  SPACE   "tvg-logo="https://cm.cinemax.tv/assets/7dd96132-2b89-433c-8f32-f73cb26b8eb5" group-title="FAX CANAIS  | FECHADOS",SPACE
 http://195.181.163.144:14730/
-#EXTINF:1 tvg-logo="https://4.bp.blogspot.com/-rYwZhGBJZdU/XM5BsO_CaYI/AAAAAAABUrI/yrJOEcxR7JUypJu2YmyMs8dyd6uG6EmsACPcBGAYYCw/s1600/SPACE-min.jpg" group-title="FAX CANAIS FECHADOS",SPACE
+#EXTINF:-1 tvg-id=" SPACE   " tvg-logo="https://4.bp.blogspot.com/-rYwZhGBJZdU/XM5BsO_CaYI/AAAAAAABUrI/yrJOEcxR7JUypJu2YmyMs8dyd6uG6EmsACPcBGAYYCw/s1600/SPACE-min.jpg" group-title="FAX CANAIS  | FECHADOS",SPACE
 http://195.181.163.144:14730/space
-#EXTINF:1 tvg-logo="http://3.bp.blogspot.com/_CzYC0vTttYs/R_9mlNAV5DI/AAAAAAAAANg/7Jbu7rB21Xs/w1200-h630-p-k-no-nu/49640_image9.jpg" group-title="FAX CANAIS FECHADOS",SPACE
+#EXTINF:-1 tvg-id=" SPACE   " tvg-logo="http://3.bp.blogspot.com/_CzYC0vTttYs/R_9mlNAV5DI/AAAAAAAAANg/7Jbu7rB21Xs/w1200-h630-p-k-no-nu/49640_image9.jpg" group-title="FAX CANAIS |  FECHADOS",SPACE
 http://45.58.126.146:14323
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd93a7-2WB8_NpP7RnlO9LTLeA9wnt6_vQeg&usqp=CAU" group-title="FAX CANAIS FECHADOS",SPACE
+#EXTINF:-1 tvg-id=" SPACE    "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd93a7-2WB8_NpP7RnlO9LTLeA9wnt6_vQeg&usqp=CAU" group-title="FAX CANAIS  | FECHADOS",SPACE
 http://51.159.54.153:14408/
-#EXTINF:1 tvg-logo="https://www.newslinereport.com/online/nota_space-renov-su-identidad-visual.jpg" group-title="FAX CANAIS FECHADOS",SPACE HD
+#EXTINF:-1 tvg-id=" SPACE HD   " tvg-logo="https://www.newslinereport.com/online/nota_space-renov-su-identidad-visual.jpg" group-title="FAX CANAIS |  FECHADOS",SPACE HD
 http://51.159.54.153:14408/
-#EXTINF:1 tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="FAX CANAIS FECHADOS", SPACE UHD
+#EXTINF:-1 tvg-id=" SPACE UHD   " tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="FAX CANAIS |  FECHADOS", SPACE UHD
 http://51.159.54.153:14408/space
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/W0Hx6jcvnRQ/sddefault.jpg" group-title="FAX CANAIS FECHADOS",SPACE HD
+#EXTINF:-1 tvg-id=" SPACE HD   " tvg-logo="https://i.ytimg.com/vi/W0Hx6jcvnRQ/sddefault.jpg" group-title="FAX CANAIS |  FECHADOS",SPACE HD
 http://51.159.54.153:14408/space
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/W0Hx6jcvnRQ/sddefault.jpg" group-title="FAX CANAIS FECHADOS",SPACE
+#EXTINF:-1 tvg-id=" SPACE    " tvg-logo="https://i.ytimg.com/vi/W0Hx6jcvnRQ/sddefault.jpg" group-title="FAX CANAIS |  FECHADOS",SPACE
 http://45.58.126.146:14323
-#EXTINF:1 tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="FAX CANAIS FECHADOS", SPACE UHD
+#EXTINF:-1 tvg-id="  SPACE UHD  " tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="FAX CANAIS  | FECHADOS", SPACE UHD
 http://195.181.163.144:14730/
-#EXTINF:1 tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="FAX CANAIS FECHADOS", SPACE UHD 2
+#EXTINF:-1 tvg-id="  SPACE UHD 2  "tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="FAX CANAIS |  FECHADOS", SPACE UHD 2
 http://195.181.163.144:14730/
-#EXTINF:1 tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="FAX CANAIS FECHADOS", SPACE UHD
+#EXTINF:-1 tvg-id=" SPACE UHD   " tvg-logo="https://laguia.tv/_nuxt/img/Space_256.7daea90.png" group-title="FAX CANAIS |  FECHADOS", SPACE UHD
 http://195.181.163.144:14730/
-#EXTINF:1 tvg-logo="https://media1.giphy.com/media/avH4lly4PnfdeyTIQ1/giphy.gif" group-title="FAX CANAIS FECHADOS",TOP MIX
+#EXTINF:-1 tvg-id=" TOP MIX   " tvg-logo="https://media1.giphy.com/media/avH4lly4PnfdeyTIQ1/giphy.gif" group-title="FAX CANAIS |  FECHADOS",TOP MIX
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w72425460.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="FAX CANAIS FECHADOS",CINEMAX HD
+#EXTINF:-1 tvg-id=" CINEMAX HD   " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="FAX CANAIS |  FECHADOS",CINEMAX HD
 http://45.58.126.146:14305/
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="FAX CANAIS FECHADOS", CINEMAX HD
+#EXTINF:-1 tvg-id="  CINEMAX HD  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="FAX CANAIS |  FECHADOS", CINEMAX HD
 http://45.58.126.146:14305/
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/640px-Discovery_Turbo_logo.svg.png" group-title="FAX CANAIS FECHADOS",DISCOVERY TURBO
+#EXTINF:-1 tvg-id=" DISCOVERY TURBO   " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/640px-Discovery_Turbo_logo.svg.png" group-title="FAX CANAIS |  FECHADOS",DISCOVERY TURBO
 http://45.58.126.146:14267/
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/640px-Discovery_Turbo_logo.svg.png" group-title="FAX CANAIS FECHADOS",DISCOVERY TURBO HD
+#EXTINF:-1 tvg-id=" DISCOVERY TURBO HD   " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/640px-Discovery_Turbo_logo.svg.png" group-title="FAX CANAIS |  FECHADOS",DISCOVERY TURBO HD
 http://45.58.126.146:14267/
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/640px-Discovery_Turbo_logo.svg.png" group-title="FAX CANAIS FECHADOS",DISCOVERY ID
+#EXTINF:-1 tvg-id="  DISCOVERY ID  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/640px-Discovery_Turbo_logo.svg.png" group-title="FAX CANAIS |  FECHADOS",DISCOVERY ID
 http://45.58.126.146:14258/
-#EXTINF:1 tvg-logo="https://media4.giphy.com/media/SFIxisidxlLqUSyutF/200w.gif?cid=6c09b952gxwjazyi0rgeau459j5rnuyciflrjo6lawi6apz6&rid=200w.gif&ct=g" group-title="FAX CANAIS FECHADOS",DISCOVERY
+#EXTINF:-1 tvg-id=" DISCOVERY   " tvg-logo="https://media4.giphy.com/media/SFIxisidxlLqUSyutF/200w.gif?cid=6c09b952gxwjazyi0rgeau459j5rnuyciflrjo6lawi6apz6&rid=200w.gif&ct=g" group-title="FAX CANAIS  | FECHADOS",DISCOVERY
 http://45.58.126.146:14261
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSjJ0mNQYkMU_s-SFoBUuftIotVsr25icwTdXd-xse2UPWY7aGotK981FufeWJOR0T9-A&usqp=CAU" group-title="FAX CANAIS FECHADOS",DISCOVERY WORD
+#EXTINF:-1 tvg-id=" DISCOVERY WORD   " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSjJ0mNQYkMU_s-SFoBUuftIotVsr25icwTdXd-xse2UPWY7aGotK981FufeWJOR0T9-A&usqp=CAU" group-title="FAX CANAIS  | FECHADOS",DISCOVERY WORD
 http://45.58.126.146:14273
-#EXTINF:1 tvg-logo="https://media4.giphy.com/media/LqUKhZe1HdyBEaptpu/200w.gif" group-title="FAX CANAIS FECHADOS",DISCOVERY id
+#EXTINF:-1 tvg-id="  DISCOVERY id  " tvg-logo="https://media4.giphy.com/media/LqUKhZe1HdyBEaptpu/200w.gif" group-title="FAX CANAIS |  FECHADOS",DISCOVERY id
 http://45.58.126.146:14258/
-#EXTINF:1 tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="FAX CANAIS FECHADOS",DISCOVERY
+#EXTINF:-1 tvg-id="  DISCOVERY  " tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="FAX CANAIS |  FECHADOS",DISCOVERY
 http://45.58.126.146:14252/   
-#EXTINF:1 tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="FAX CANAIS FECHADOS",DISCOVERY
+#EXTINF:-1 tvg-id=" DISCOVERY   " tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="FAX CANAIS |  FECHADOS",DISCOVERY
 http://45.58.126.146:14258/
-#EXTINF:1 tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="FAX CANAIS FECHADOS",DISCOVERY THEATER HD
+#EXTINF:-1 tvg-id="  DISCOVERY THEATER HD  " tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="FAX CANAIS  | FECHADOS",DISCOVERY THEATER HD
 http://45.58.126.146:14264/
-#EXTINF:1 tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="FAX CANAIS FECHADOS",DISCOVERY H&H HD
+#EXTINF:-1 tvg-id=" DISCOVERY H&H HD   " tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="FAX CANAIS |  FECHADOS",DISCOVERY H&H HD
 http://45.58.126.146:14255/
-#EXTINF:1 tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="FAX CANAIS FECHADOS",DISCOVERY H&H HD
+#EXTINF:-1 tvg-id="  DISCOVERY H&H HD  " tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="FAX CANAIS |  FECHADOS",DISCOVERY H&H HD
 http://45.58.126.146:14255/
-#EXTINF:1 tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="FAX CANAIS FECHADOS",DISCOVERY THEATER
+#EXTINF:-1 tvg-id=" DISCOVERY THEATER   " tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="FAX CANAIS  | FECHADOS",DISCOVERY THEATER
 http://45.58.126.146:14264/
-#EXTINF:1 tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="FAX CANAIS FECHADOS",DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="  DISCOVERY CHANNEL HD  " tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="FAX CANAIS  | FECHADOS",DISCOVERY CHANNEL HD
 http://45.58.126.146:14252/
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_efeCgIAMAh6W76x0ztDm0Ix-aLKy0zRvGixKlpEI_PVaxmfRxKEjEjYmHiuJQF32pyM&usqp=CAU" group-title="FAX CANAIS FECHADOS",DISCOVER
+#EXTINF:-1 tvg-id=" DISCOVER   " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_efeCgIAMAh6W76x0ztDm0Ix-aLKy0zRvGixKlpEI_PVaxmfRxKEjEjYmHiuJQF32pyM&usqp=CAU" group-title="FAX CANAIS  | FECHADOS",DISCOVER
 http://45.58.126.146:14267/
-#EXTINF:1 tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="FAX CANAIS FECHADOS",DISCOVERY THEATER HD
+#EXTINF:-1 tvg-id=" DISCOVERY THEATER HD   "tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="FAX CANAIS |  FECHADOS",DISCOVERY THEATER HD
 http://45.58.126.146:14264/
-#EXTINF:1 tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="FAX CANAIS FECHADOS", DISCOVERY H&H HD
+#EXTINF:-1 tvg-id="  DISCOVERY H&H HD  " tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="FAX CANAIS  | FECHADOS", DISCOVERY H&H HD
 http://45.58.126.146:14255/
-#EXTINF:1 tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="FAX CANAIS FECHADOS",DISCOVERY H&H HD
+#EXTINF:-1 tvg-id=" DISCOVERY H&H HD   "tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="FAX CANAIS  | FECHADOS",
 http://45.58.126.146:14255/
-#EXTINF:1 tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="FAX CANAIS FECHADOS",DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id=" DISCOVERY CHANNEL HD   " tvg-logo="https://media0.giphy.com/avatars/discoveryeurope/jELThimMlSoL.gif" group-title="FAX CANAIS  | FECHADOS",DISCOVERY CHANNEL HD
 http://45.58.126.146:14252/
-#EXTINF:1 tvg-logo="https://3.bp.blogspot.com/-9GZJEcGclHE/W3LaujjGVlI/AAAAAAABLM4/OmvRnCPl-MUEAqVn4ImQ4ZSTxU36wB1ZQCLcBGAs/w1200-h675-p-k-no-nu/discovery-home-and-health-tv-logo-1.png" group-title="FAX CANAIS FECHADOS",DISCOVERY H&H
+#EXTINF:-1 tvg-id=" DISCOVERY H&H   " tvg-logo="https://3.bp.blogspot.com/-9GZJEcGclHE/W3LaujjGVlI/AAAAAAABLM4/OmvRnCPl-MUEAqVn4ImQ4ZSTxU36wB1ZQCLcBGAs/w1200-h675-p-k-no-nu/discovery-home-and-health-tv-logo-1.png" group-title="FAX CANAIS |  FECHADOS",DISCOVERY H&H
 http://45.58.126.146:14255/
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/AlarmedLinearAsp-max-1mb.gif" group-title="FAX CANAIS FECHADOS",Comedy Central
-http://45.58.126.146:14308/ 
-#EXTINF:1 tvg-logo="https://media.giphy.com/avatars/canalsony/15tJJMKaaLzf.gif" group-title="FAX CANAIS FECHADOS",SONY CHANNEL
+#EXTINF:-1 tvg-id=" Comedy Central   "tvg-logo="https://thumbs.gfycat.com/AlarmedLinearAsp-max-1mb.gif" group-title="FAX CANAIS |  FECHADOS",Comedy Central
+http://45.58.126.146:14308/   
+#EXTINF:-1 tvg-id=" SONY CHANNEL    " tvg-logo="https://media.giphy.com/avatars/canalsony/15tJJMKaaLzf.gif" group-title="FAX CANAIS FECHADOS",SONY CHANNEL
 http://45.58.126.146:14302/ 
-#EXTINF:1 tvg-logo="https://media.giphy.com/avatars/canalsony/15tJJMKaaLzf.gif" group-title="FAX CANAIS FECHADOS",SONY CHANNEL HD
+#EXTINF:-1 tvg-id=" SONY CHANNEL HD   "tvg-logo="https://media.giphy.com/avatars/canalsony/15tJJMKaaLzf.gif" group-title="FAX CANAIS  | FECHADOS",SONY CHANNEL HD
 http://45.58.126.146:14302/
-#EXTINF:1 tvg-logo="https://i.gifer.com/2YxD.gif" group-title="FAX CANAIS FECHADOS"WARNER HD
+#EXTINF:-1 tvg-id="  WARNER HD  " tvg-logo="https://i.gifer.com/2YxD.gif" group-title="FAX CANAIS |  FECHADOS"WARNER HD
 http://45.58.126.146:14351/
-#EXTINF:1 tvg-logo="https://i.gifer.com/2YxD.gif" group-title="FAX CANAIS FECHADOS",WARNER
+#EXTINF:-1 tvg-id="  WARNER  " tvg-logo="https://i.gifer.com/2YxD.gif" group-title="FAX CANAIS |  FECHADOS",WARNER
 http://45.58.126.146:14351/
-#EXTINF:1 tvg-logo="https://media.tenor.com/m4PK9QWUpcQAAAAC/star-plus-star-premium.gif" group-title="FAX CANAIS FECHADOS",STAR CHANEL
+#EXTINF:-1 tvg-id="  STAR CHANEL  " tvg-logo="https://media.tenor.com/m4PK9QWUpcQAAAAC/star-plus-star-premium.gif" group-title="FAX CANAIS  | FECHADOS",STAR CHANEL
 http://45.58.126.146:14329/
-#EXTINF:1 tvg-logo="https://media.tenor.com/0gWvpeAuDUYAAAAC/star-plus-star-premium.gif" group-title="FAX CANAIS FECHADOS", STAR+ 3 HD¹
+#EXTINF:-1 tvg-id="  STAR+ 3 HD¹  "tvg-logo="https://media.tenor.com/0gWvpeAuDUYAAAAC/star-plus-star-premium.gif" group-title="FAX CANAIS |  FECHADOS", STAR+ 3 HD¹
 http://7go.xyz:8080/Rafagullosala/gaFf0EVj/64707
-#EXTINF:1 tvg-logo="https://media.tenor.com/0gWvpeAuDUYAAAAC/star-plus-star-premium.gif" group-title="FAX CANAIS FECHADOS",STAR CHANNEL
+#EXTINF:-1 tvg-id="  STAR CHANNEL  " tvg-logo="https://media.tenor.com/0gWvpeAuDUYAAAAC/star-plus-star-premium.gif" group-title="FAX CANAIS |  FECHADOS",STAR CHANNEL
 http://45.58.126.146:14329
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/mkx_N9VNvqE/maxresdefault.jpg" group-title="FAX CANAIS FECHADOS",STAR LIFE HD
+#EXTINF:-1 tvg-id=" STAR LIFE HD   " tvg-logo="https://i.ytimg.com/vi/mkx_N9VNvqE/maxresdefault.jpg" group-title="FAX CANAIS |  FECHADOS",STAR LIFE HD
 http://212.102.60.39:2200/BR/Star_Life-br/tracks-v1/mono.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="FAX CANAIS FECHADOS",HBO SIGNATURE HD
+#EXTINF:-1 tvg-id=" HBO SIGNATURE HD   "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="FAX CANAIS  | FECHADOS",HBO SIGNATURE HD
 http://15.235.10.31:14401
-#EXTINF:1 tvg-logo="https://images.squarespace-cdn.com/content/v1/52adf1abe4b0dbce9d210136/1616077888683-9Y12NX95XXTK11IESZCE/HBO+Maz+-+JL+ZS+GIF.gif" group-title="FAX CANAIS FECHADOS" HBO
+#EXTINF:-1 tvg-id=" HBO   "tvg-logo="https://images.squarespace-cdn.com/content/v1/52adf1abe4b0dbce9d210136/1616077888683-9Y12NX95XXTK11IESZCE/HBO+Maz+-+JL+ZS+GIF.gif" group-title="FAX CANAIS |  FECHADOS" HBO
 http://15.235.10.31:14411
-#EXTINF:1 tvg-logo="https://images.squarespace-cdn.com/content/v1/52adf1abe4b0dbce9d210136/1616077888683-9Y12NX95XXTK11IESZCE/HBO+Maz+-+JL+ZS+GIF.gif" group-title="FAX CANAIS FECHADOS" HBO
+#EXTINF:-1 tvg-id=" HBO   " tvg-logo="https://images.squarespace-cdn.com/content/v1/52adf1abe4b0dbce9d210136/1616077888683-9Y12NX95XXTK11IESZCE/HBO+Maz+-+JL+ZS+GIF.gif" group-title="FAX CANAIS  | FECHADOS" HBO
 http://195.181.163.144:14606/HBO2
-#EXTINF:1 tvg-logo="https://images.squarespace-cdn.com/content/v1/52adf1abe4b0dbce9d210136/1616077888683-9Y12NX95XXTK11IESZCE/HBO+Maz+-+JL+ZS+GIF.gif" group-title="FAX CANAIS FECHADOS" HBO
+#EXTINF:-1 tvg-id=" HBO   " tvg-logo="https://images.squarespace-cdn.com/content/v1/52adf1abe4b0dbce9d210136/1616077888683-9Y12NX95XXTK11IESZCE/HBO+Maz+-+JL+ZS+GIF.gif" group-title="FAX CANAIS |  FECHADOS" HBO
 http://15.235.10.31:14379
-#EXTINF:1 tvg-logo="https://images.squarespace-cdn.com/content/v1/52adf1abe4b0dbce9d210136/1616077888683-9Y12NX95XXTK11IESZCE/HBO+Maz+-+JL+ZS+GIF.gif" group-title="FAX CANAIS FECHADOS",HBO
+#EXTINF:-1 tvg-id=" HBO   " tvg-logo="https://images.squarespace-cdn.com/content/v1/52adf1abe4b0dbce9d210136/1616077888683-9Y12NX95XXTK11IESZCE/HBO+Maz+-+JL+ZS+GIF.gif" group-title="FAX CANAIS  | FECHADOS",HBO
 http://195.181.163.144:14606/HBO2
-#EXTINF:1 tvg-logo="https://images.squarespace-cdn.com/content/v1/52adf1abe4b0dbce9d210136/1616077888683-9Y12NX95XXTK11IESZCE/HBO+Maz+-+JL+ZS+GIF.gif" group-title="FAX CANAIS FECHADOS",HBO
+#EXTINF:-1 tvg-id="  HBO  "tvg-logo="https://images.squarespace-cdn.com/content/v1/52adf1abe4b0dbce9d210136/1616077888683-9Y12NX95XXTK11IESZCE/HBO+Maz+-+JL+ZS+GIF.gif" group-title="FAX CANAIS |  FECHADOS",HBO
 http://15.235.10.31:14379
-#EXTINF:1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhux9A5Ndss9srav2M7LBo0str36oCSzlmPELBmQ0_HT9-zl-D_XGWHVkSKOumpMnE5x5Gb5dijT2afmSO77CAiYjDIbCrYrTOVfBCV-2BU1gXnfoypkNm1qQLmHBMltwl-PnmfC-K5UVoxDJUAGSxVvU1PBEbaf9XDHv2Aro6HbjA3ZDU4j_8rQQ2/s1600/hbo-pop.png" group-title="FAX CANAIS FECHADOS",HBO POP
+#EXTINF:-1 tvg-id=" HBO POP   " tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhux9A5Ndss9srav2M7LBo0str36oCSzlmPELBmQ0_HT9-zl-D_XGWHVkSKOumpMnE5x5Gb5dijT2afmSO77CAiYjDIbCrYrTOVfBCV-2BU1gXnfoypkNm1qQLmHBMltwl-PnmfC-K5UVoxDJUAGSxVvU1PBEbaf9XDHv2Aro6HbjA3ZDU4j_8rQQ2/s1600/hbo-pop.png" group-title="FAX CANAIS |  FECHADOS",HBO POP
 http://15.235.10.31:14397
-#EXTINF:1 tvg-logo="https://img2.gratispng.com/20180707/jwz/kisspng-hbo-2-television-show-streaming-media-production-company-5b4084267eddc3.2452567815309547905197.jpg" group-title="FAX CANAIS FECHADOS",HBO 2
+#EXTINF:-1 tvg-id="  HBO2  " tvg-logo="https://img2.gratispng.com/20180707/jwz/kisspng-hbo-2-television-show-streaming-media-production-company-5b4084267eddc3.2452567815309547905197.jpg" group-title="FAX CANAIS |  FECHADOS",HBO 2
 http://15.235.10.31:14381
-#EXTINF:1 tvg-logo="https://img2.gratispng.com/20180707/jwz/kisspng-hbo-2-television-show-streaming-media-production-company-5b4084267eddc3.2452567815309547905197.jpg" group-title="FAX CANAIS FECHADOS",HBO 2
+#EXTINF:-1 tvg-id="  HBO2  " tvg-logo="https://img2.gratispng.com/20180707/jwz/kisspng-hbo-2-television-show-streaming-media-production-company-5b4084267eddc3.2452567815309547905197.jpg" group-title="FAX CANAIS |  FECHADOS",HBO 2
 http://15.235.10.31:14383
-#EXTINF:1 tvg-logo="https://img2.gratispng.com/20180707/jwz/kisspng-hbo-2-television-show-streaming-media-production-company-5b4084267eddc3.2452567815309547905197.jpg" group-title="FAX CANAIS FECHADOS",HBO 2
+#EXTINF:-1 tvg-id=" HBO   " tvg-logo="https://img2.gratispng.com/20180707/jwz/kisspng-hbo-2-television-show-streaming-media-production-company-5b4084267eddc3.2452567815309547905197.jpg" group-title="FAX CANAIS  | FECHADOS",HBO 2
 http://15.235.10.31:14384
-#EXTINF:1 tvg-logo="https://i.makeagif.com/media/1-03-2016/fFe7Gk.gif" group-title="FAX CANAIS FECHADOS",HBO
+#EXTINF:-1 tvg-id="  HBO  " tvg-logo="https://i.makeagif.com/media/1-03-2016/fFe7Gk.gif" group-title="FAX CANAIS |  FECHADOS",HBO
 http://195.181.163.144:14606/HBO2
-#EXTINF:1 tvg-logo="hhttps://i.gifer.com/Z0mC.gif" group-title="FAX CANAIS FECHADOS", HBO
+#EXTINF:-1 tvg-id=" HBO  " tvg-logo="hhttps://i.gifer.com/Z0mC.gif" group-title="FAX CANAIS  | FECHADOS", HBO
 http://15.235.10.31:14379
-#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/20/23/2d/20232deb7bee5155c6638bf5fade5d46.gif" group-title="FAX CANAIS FECHADOS", HBO 2
+#EXTINF:-1 tvg-id=" HBO2   " tvg-logo="https://i.pinimg.com/originals/20/23/2d/20232deb7bee5155c6638bf5fade5d46.gif" group-title="FAX CANAIS |  FECHADOS", HBO 2
 http://15.235.10.31:14381
-#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/20/23/2d/20232deb7bee5155c6638bf5fade5d46.gif" group-title="FAX CANAIS FECHADOS", HBO2
+#EXTINF:-1 tvg-id="  HBO2  " tvg-logo="https://i.pinimg.com/originals/20/23/2d/20232deb7bee5155c6638bf5fade5d46.gif" group-title="FAX CANAIS |  FECHADOS", HBO2
 http://15.235.10.31:14384
-#EXTINF:1 tvg-logo="https://cdn.dribbble.com/users/583275/screenshots/3402204/hbo.gif" group-title="FAX CANAIS FECHADOS",HBO PLUS
+#EXTINF:-1 tvg-id="  HBO PLUS  " tvg-logo="https://cdn.dribbble.com/users/583275/screenshots/3402204/hbo.gif" group-title="FAX CANAIS |  FECHADOS",HBO PLUS
 http://51.222.44.30:14081/
-#EXTINF:1 tvg-logo="https://cdn.dribbble.com/users/583275/screenshots/3402204/hbo.gif" group-title="FAX CANAIS FECHADOS",HBO MUND
+#EXTINF:-1 tvg-id=" HBO MUND   "tvg-logo="https://cdn.dribbble.com/users/583275/screenshots/3402204/hbo.gif" group-title="FAX CANAIS  | FECHADOS",HBO MUND
 http://15.235.10.31:14395
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/OKCHMG1PBO4/maxresdefault.jpg" group-title="FAX CANAIS FECHADOS",HBO XTREME
+#EXTINF:-1 tvg-id="  HBO XTREME  " tvg-logo="https://i.ytimg.com/vi/OKCHMG1PBO4/maxresdefault.jpg" group-title="FAX CANAIS |  FECHADOS",HBO XTREME
 http://15.235.10.31:14406
-#EXTINF:1 tvg-logo="https://i.gifer.com/XaTn.gif" group-title="FAX CANAIS FECHADOS",HBO+
+#EXTINF:-1 tvg-id="  HBO+  "tvg-logo="https://i.gifer.com/XaTn.gif" group-title="FAX CANAIS |  FECHADOS",HBO+
 http://15.235.10.31:14411
-#EXTINF:1 tvg-logo="https://cdn.dribbble.com/users/583275/screenshots/3402204/hbo.gif" group-title="FAX CANAIS FECHADOS", HBO
+#EXTINF:-1 tvg-id="  HBO  " tvg-logo="https://cdn.dribbble.com/users/583275/screenshots/3402204/hbo.gif" group-title="FAX CANAIS |  FECHADOS", HBO
 http://15.235.10.31:14380
-#EXTINF:1 tvg-logo="https://media3.giphy.com/media/J1XR3Emb9x7THLOC3s/giphy.gif?cid=6c09b9525c0911b3d660b5bf17401c0c4fed07ca62d99417&rid=giphy.gif&ct=s" group-title="FAX CANAIS FECHADOS", HBO+
+#EXTINF:-1 tvg-id="  HBO+  " tvg-logo="https://media3.giphy.com/media/J1XR3Emb9x7THLOC3s/giphy.gif?cid=6c09b9525c0911b3d660b5bf17401c0c4fed07ca62d99417&rid=giphy.gif&ct=s" group-title="FAX CANAIS |  FECHADOS", HBO+
 http://51.222.44.30:14081/hbo+
-#EXTINF:1 tvg-logo="https://media.tenor.com/uiPakctiIcMAAAAd/hbo-hbo-intro.gif" group-title="FAX CANAIS FECHADOS",HBO SIGNATURE HD
+#EXTINF:-1 tvg-id="  HBO SIGNATURE HD  " tvg-logo="https://media.tenor.com/uiPakctiIcMAAAAd/hbo-hbo-intro.gif" group-title="FAX CANAIS |  FECHADOS",HBO SIGNATURE HD
 http://15.235.10.31:14401
-#EXTINF:1 tvg-logo="https://adnews.com.br/wp-content/uploads/2021/02/hbo-max-capa.gif" group-title="FAX CANAIS FECHADOS",HBO SIGNATURE
+#EXTINF:-1 tvg-id="  HBO SIGNATURE  " tvg-logo="https://adnews.com.br/wp-content/uploads/2021/02/hbo-max-capa.gif" group-title="FAX CANAIS |  FECHADOS",HBO SIGNATURE
 http://15.235.10.31:14400
-#EXTINF:1 tvg-logo="https://www.rd.com/wp-content/uploads/2022/06/hbo-max-tv-shows-opener.gif" group-title="FAX CANAIS FECHADOS", HBO FAMILY
+#EXTINF:-1 tvg-id=" HBO FAMILY   "tvg-logo="https://www.rd.com/wp-content/uploads/2022/06/hbo-max-tv-shows-opener.gif" group-title="FAX CANAIS  | FECHADOS", HBO FAMILY
 http://15.235.10.31:14385
-#EXTINF:1 tvg-logo="https://media.tenor.com/uiPakctiIcMAAAAd/hbo-hbo-intro.gif" group-title="FAX CANAIS FECHADOS", HBO
+#EXTINF:-1 tvg-id=" HBO   "tvg-logo="https://media.tenor.com/uiPakctiIcMAAAAd/hbo-hbo-intro.gif" group-title="FAX CANAIS  | FECHADOS", HBO
 http://195.181.163.144:14606
-#EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/d/d3/Hbomundi.png/revision/latest?cb=20200216144600&path-prefix=pt-br" group-title="FAX CANAIS FECHADOS", HBO MUNDI
+#EXTINF:-1 tvg-id=" HBO MUNDI   " tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/d/d3/Hbomundi.png/revision/latest?cb=20200216144600&path-prefix=pt-br" group-title="FAX CANAIS |  FECHADOS", HBO MUNDI
 http://15.235.10.31:14395
-#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/JFfeSlixQ54YQz7acU03fyz1vJkb_GikLDG99NJu1BB4bNmdN3RQjxmNQYSMoeuo0usX9nkERw=s900-c-k-c0x00ffffff-no-rj" group-title="FAX CANAIS FECHADOS",FX HD
-http://45.58.126.146:14311/
-#EXTINF:1 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2014/02/tv-teen-net.jpg" group-title="FAX CANAIS FECHADOS",TV TEEN NET  HD
+#EXTINF:-1 tvg-id=" FX HD   "tvg-logo="https://yt3.googleusercontent.com/JFfeSlixQ54YQz7acU03fyz1vJkb_GikLDG99NJu1BB4bNmdN3RQjxmNQYSMoeuo0usX9nkERw=s900-c-k-c0x00ffffff-no-rj" group-title="FAX CANAIS | FECHADOS",FX HD
+http://45.58.126.146:14311/ 
+#EXTINF:-1 tvg-id=" TV TEEN NET  HD   " tvg-logo="https://www.exorbeo.com/wp-content/uploads/2014/02/tv-teen-net.jpg" group-title="FAX CANAIS |  FECHADOS",TV TEEN NET  HD
 https://stmv1.painelvideo.top/tvteennet/tvteennet/chunklist_w1425969400.m3u8
-#EXTINF:1 tvg-logo="hhttps://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/e9c8a862-29ad-45da-8858-cab400ae94a3.gif?ClientID=vimeo-core-prod&Date=1630623797&Signature=ea02577a6740cc87bc97597c39b38f8e0e0af335" group-title="FAX CANAIS FECHADOS",MEGAPIX
+#EXTINF:-1 tvg-id=" MEGAPIX   " tvg-logo="hhttps://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/e9c8a862-29ad-45da-8858-cab400ae94a3.gif?ClientID=vimeo-core-prod&Date=1630623797&Signature=ea02577a6740cc87bc97597c39b38f8e0e0af335" group-title="FAX CANAIS |  FECHADOS",MEGAPIX
 http://51.83.238.223:16823/
-#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/TNT-sports.webp" group-title="FAX CANAIS FECHADOS",WEW TNT Sports 5
+#EXTINF:-1 tvg-id=" WEW TNT Sports 5   " tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/TNT-sports.webp" group-title="FAX CANAIS |  FECHADOS",WEW TNT Sports 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="TNTSports5Brazil.br" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="FAX CANAIS FECHADOS",TNT Sports 5 WEW Brasil (720p) [Not 24/7]
+#EXTINF:-1 tvg-id=" TNT Sports 5 WEW Brasil    " tvg-id="TNTSports5Brazil.br" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="FAX CANAIS  | FECHADOS",TNT Sports 5 WEW Brasil 
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1024px-TNT_TV_logo.svg.png" group-title="FAX CANAIS FECHADOS",TNT 2 SÉRIES HD
+#EXTINF:-1 tvg-id=" TNT 2 SÉRIES HD   " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1024px-TNT_TV_logo.svg.png" group-title="FAX CANAIS |  FECHADOS",TNT 2 SÉRIES HD
 http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16761
-#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="FAX CANAIS FECHADOS",TNT HD
+#EXTINF:-1 tvg-id=" TNT HD   " tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="FAX CANAIS |  FECHADOS",TNT HD
 http://45.58.126.146:14341
-#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="FAX CANAIS FECHADOS",TLC HD
+#EXTINF:-1 tvg-id=" TNT HD   " tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="FAX CANAIS  | FECHADOS",TLC HD
 http://45.58.126.146:14270
-#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="FAX CANAIS FECHADOS",TNT
+#EXTINF:-1 tvg-id="  TNT   " tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="FAX CANAIS  | FECHADOS",TNT
 http://45.58.126.146:14342
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="FAX CANAIS FECHADOS",TNT SERIES
+#EXTINF:-1 tvg-id=" TNT SERIES   " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="FAX CANAIS  | FECHADOS",TNT SERIES
 http://45.58.126.146:14345
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="FAX CANAIS FECHADOS",TNT SERIES
+#EXTINF:-1 tvg-id=" TNT SERIES   " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="FAX CANAIS  | FECHADOS",TNT SERIES
 http://45.58.126.146:14345
-#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="FAX CANAIS FECHADOS",TNT HD
+#EXTINF:-1 tvg-id=" TNT HD   " tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="FAX CANAIS  | FECHADOS",TNT HD
 http://45.58.126.146:14341
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca_logo.gif" group-title="FAX CANAIS FECHADOS", TELECINE PIPOCA
+#EXTINF:-1 tvg-id="  TELECINE PIPOCA   " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca_logo.gif" group-title="FAX CANAIS  | FECHADOS", TELECINE PIPOCA
 http://51.83.238.223:16763/
-#EXTINF:1 tvg-logo="https://minhaseriefavorita.com/wp-content/uploads/2021/11/programacao-telecine-pipoca-da-semana.jpg" group-title="FAX CANAIS FECHADOS", TELECINE PIPOCA 2
+#EXTINF:-1 tvg-id=" TELECINE PIPOCA 2   " tvg-logo="https://minhaseriefavorita.com/wp-content/uploads/2021/11/programacao-telecine-pipoca-da-semana.jpg" group-title="FAX CANAIS  | FECHADOS", TELECINE PIPOCA 2
 https://live.embedflix.net/p2p/tlcpipoca/chunks.m3u8
-#EXTINF:1 tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Action-5.jpg" group-title="FAX CANAIS FECHADOS", TELECINE ACTION
+#EXTINF:-1 tvg-id=" TELECINE ACTION   " tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Action-5.jpg" group-title="FAX CANAIS  | FECHADOS", TELECINE ACTION
 http://51.83.238.223:16703/
-#EXTINF:1 tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Action-5.jpg" group-title="FAX CANAIS FECHADOS", TELECINE ACTION
+#EXTINF:-1 tvg-id=" TELECINE ACTION    "tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Action-5.jpg" group-title="FAX CANAIS |  FECHADOS", TELECINE ACTION
 http://45.58.126.146:14354
-#EXTINF:1 tvg-logo="https://exorbeo.com/wp-content/uploads/2013/06/novos-horarios-telecine-action.jpg" group-title="FAX CANAIS FECHADOS", TELECINE ACTION 2
+#EXTINF:-1 tvg-id="  TELECINE ACTION 2  " tvg-logo="https://exorbeo.com/wp-content/uploads/2013/06/novos-horarios-telecine-action.jpg" group-title="FAX CANAIS |  FECHADOS", TELECINE ACTION 2
 https://live.embedflix.net/p2p/tlcaction/chunks.m3u8
-#EXTINF:1 tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/tctouch.png" group-title="FAX CANAIS FECHADOS",TELECINE  touch
+#EXTINF:-1 tvg-id="  TELECINE  touch  " tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/tctouch.png" group-title="FAX CANAIS  | FECHADOS",TELECINE  touch
 https://live.embedflix.net/p2p/telecinetouch/chunks.m3u8
-#EXTINF:1 tvg-logo="https://media1.giphy.com/media/vKXrHqVNrEB7CftbF1/giphy.gif" group-title="FAX CANAIS FECHADOS",TLC
+#EXTINF:-1 tvg-id=" TLC    " tvg-logo="https://media1.giphy.com/media/vKXrHqVNrEB7CftbF1/giphy.gif" group-title="FAX CANAIS |  FECHADOS",TLC
 http://45.58.126.146:14270/
-#EXTINF:1 tvg-logo="https://media1.giphy.com/media/vKXrHqVNrEB7CftbF1/giphy.gif" group-title="FAX CANAIS FECHADOS",TLC HD
+#EXTINF:-1 tvg-id="  TLC HD  " tvg-logo="https://media1.giphy.com/media/vKXrHqVNrEB7CftbF1/giphy.gif" group-title="FAX CANAIS |  FECHADOS",TLC HD
 http://45.58.126.146:14270
-#EXTINF:1 tvg-logo="https://conteudofilmes.com.br/wp-content/uploads/2021/12/Telecine-Premium.png" group-title="FAX CANAIS FECHADOS",TELECINE premium
-https://live.embedflix.net/p2p/tlcpremium/chunks.m3u8
-http://15.235.10.31:14365
-#EXTINF:1 tvg-logo="https://media.tenor.com/o8ltIVGidUkAAAAC/universal-studios-universal.gif" group-title="FAX CANAIS FECHADOS",TELECINE
+#EXTINF:-1 tvg-id=" TELECINE   " tvg-logo="https://media.tenor.com/o8ltIVGidUkAAAAC/universal-studios-universal.gif" group-title="FAX CANAIS |  FECHADOS",TELECINE
 http://51.83.238.223:16763
-#EXTINF:1 tvg-logo="https://i.gifer.com/origin/cd/cd9611c99d97df8e6d9e289c7e3e8d6d.gif" group-title="FAX CANAIS FECHADOS", UNIVERSAL TV FHD
+#EXTINF:-1 tvg-id=" TELECINE premium   "tvg-logo="https://conteudofilmes.com.br/wp-content/uploads/2021/12/Telecine-Premium.png" group-title="FAX CANAIS  | FECHADOS",TELECINE premium
+https://live.embedflix.net/p2p/tlcpremium/chunks.m3u8
+#EXTINF:-1 tvg-id=" GNT   "tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/733d4079623251.5cc8ee0926418.gif" group-title="FAX CANAIS  | FECHADOS",GNT
+http://15.235.10.31:14365
+#EXTINF:-1 tvg-id="   UNIVERSAL TV FHD  " tvg-logo="https://i.gifer.com/origin/cd/cd9611c99d97df8e6d9e289c7e3e8d6d.gif" group-title="FAX CANAIS |  FECHADOS", UNIVERSAL TV FHD
 http://45.58.126.146:14348/universal
-#EXTINF:1 tvg-logo="https://media.tenor.com/o8ltIVGidUkAAAAC/universal-studios-universal.gif" group-title="FAX CANAIS FECHADOS",STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id=" STUDIO UNIVERSAL   " tvg-logo="https://media.tenor.com/o8ltIVGidUkAAAAC/universal-studios-universal.gif" group-title="FAX CANAIS |  FECHADOS",STUDIO UNIVERSAL
 http://45.58.126.146:14332
-#EXTINF:1 tvg-logo="https://media.tenor.com/o8ltIVGidUkAAAAC/universal-studios-universal.gif" group-title="FAX CANAIS FECHADOS",universal-studios
+#EXTINF:-1 tvg-id=" universal-studios   "tvg-logo="https://media.tenor.com/o8ltIVGidUkAAAAC/universal-studios-universal.gif" group-title="FAX CANAIS |  FECHADOS",universal-studios
 http://45.58.126.146:14332
-#EXTINF:1 tvg-logo="https://media2.giphy.com/media/cn39JOm5hjoL3FTIX3/giphy.gif?cid=6c09b952jeyc3pdyxjfnlah9xs5rzqq07wuip53mbqn1hw9k&rid=giphy.gif&ct=s" group-title="FAX CANAIS FECHADOS",LIFETIME
+#EXTINF:-1 tvg-id=" LIFETIME   " tvg-logo="https://media2.giphy.com/media/cn39JOm5hjoL3FTIX3/giphy.gif?cid=6c09b952jeyc3pdyxjfnlah9xs5rzqq07wuip53mbqn1hw9k&rid=giphy.gif&ct=s" group-title="FAX CANAIS |  FECHADOS",LIFETIME
 http://45.58.126.146:14314
-#EXTINF:1 tvg-logo="http://25.media.tumblr.com/90027c20d4c15a599e61236e76a60422/tumblr_mooestZPzK1rdutw3o1_400.gif" group-title="FAX CANAIS FECHADOS",COMEDY CENTRAL HD
+#EXTINF:-1 tvg-id="  COMEDY CENTRAL HD  " tvg-logo="http://25.media.tumblr.com/90027c20d4c15a599e61236e76a60422/tumblr_mooestZPzK1rdutw3o1_400.gif" group-title="FAX CANAIS  | FECHADOS",COMEDY CENTRAL HD
 http://45.58.126.146:14308/
-#EXTINF:1 tvg-logo="https://imagens-cdn.canalrural.com.br/2019/10/rn2.gif" group-title="FAX CANAIS FECHADOS",CANAL RURAL
+#EXTINF:-1 tvg-id=" CANAL RURAL   " tvg-logo="https://imagens-cdn.canalrural.com.br/2019/10/rn2.gif" group-title="FAX CANAIS |  FECHADOS",CANAL RURAL
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
-#EXTINF:1 tvg-logo="https://media.tenor.com/qPJP0H2E1TIAAAAC/cnn-philippines.gif" group-title="FAX CANAIS FECHADOS",CNN
+#EXTINF:-1 tvg-id=" CNN   "tvg-logo="https://media.tenor.com/qPJP0H2E1TIAAAAC/cnn-philippines.gif" group-title="FAX CANAIS |  FECHADOS",CNN
 http://45.58.126.146:14234
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2VGKiEgvYjgdCIn_y_T7aYuM8AcjieI7XHazy0aW_n4BuspzDop_OHvz_pKgtZKotDIs&usqp=CAU" group-title="FAX CANAIS FECHADOS", CINE CANAL
+#EXTINF:-1 tvg-id=" CINE CANAL   " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2VGKiEgvYjgdCIn_y_T7aYuM8AcjieI7XHazy0aW_n4BuspzDop_OHvz_pKgtZKotDIs&usqp=CAU" group-title="FAX CANAIS  | FECHADOS", CINE CANAL
 http://45.58.126.146:14326
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/ConfusedCommonHeron-size_restricted.gif" group-title="FAX CANAIS FECHADOS", COMEDY CENTRAL
+#EXTINF:-1 tvg-id="   COMEDY CENTRAL  " tvg-logo="https://thumbs.gfycat.com/ConfusedCommonHeron-size_restricted.gif" group-title="FAX CANAIS |  FECHADOS", COMEDY CENTRAL
 http://45.58.126.146:14308
-#EXTINF:1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5b44e50b2714e5703a28d781/1531840469870-3T3JXEV8YFI9ZJCG3C4Q/SYFY_Open_OriginalSeries_Sponsor_Horizontal.mp4.gif?format=500w" group-title="FAX CANAIS FECHADOS",SYFY
+#EXTINF:-1 tvg-id="  SYFY  " tvg-logo="https://images.squarespace-cdn.com/content/v1/5b44e50b2714e5703a28d781/1531840469870-3T3JXEV8YFI9ZJCG3C4Q/SYFY_Open_OriginalSeries_Sponsor_Horizontal.mp4.gif?format=500w" group-title="FAX CANAIS |  FECHADOS",SYFY
 http://45.58.126.146:14335
-#EXTINF:1 tvg-logo="https://archive.org/download/diseno-sin-titulo-18/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(18).gif" group-title="FAX CANAIS FECHADOS",Telemax
+#EXTINF:-1 tvg-id="  Telemax  " tvg-logo="https://archive.org/download/diseno-sin-titulo-18/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(18).gif" group-title="FAX CANAIS  | FECHADOS",Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:1 tvg-logo="https://cdn.dribbble.com/users/27722/screenshots/2331277/tbs-example.gif" group-title="FAX CANAIS FECHADOS", TBS
+#EXTINF:-1 tvg-id=" TBS   "tvg-logo="https://cdn.dribbble.com/users/27722/screenshots/2331277/tbs-example.gif" group-title="FAX CANAIS |  FECHADOS", TBS
 http://45.58.126.146:14338
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/InexperiencedHappygoluckyFinwhale-size_restricted.gif" group-title="FAX CANAIS FECHADOS", PARAMOUNT
+#EXTINF:-1 tvg-id="  PARAMOUNT  " tvg-logo="https://thumbs.gfycat.com/InexperiencedHappygoluckyFinwhale-size_restricted.gif" group-title="FAX CANAIS  | FECHADOS", PARAMOUNT
 http://45.58.126.146:14320
-#EXTINF:1 tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="FAX CANAIS FECHADOS",NATGEO
+#EXTINF:-1 tvg-id="  NATGEO  " tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="FAX CANAIS  | FECHADOS",NATGEO
 http://45.58.126.146:14287
-#EXTINF:1 tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="FAX CANAIS FECHADOS",NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id=" NATIONAL GEOGRAPHIC HD   " tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="FAX CANAIS |  FECHADOS",NATIONAL GEOGRAPHIC HD
 http://45.58.126.146:14287/
-#EXTINF:1 tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="FAX CANAIS FECHADOS",NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id=" NATIONAL GEOGRAPHIC HD   " tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="FAX CANAIS  | FECHADOS",NATIONAL GEOGRAPHIC HD
 http://84.17.44.179:14635
-#EXTINF:1 tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="FAX CANAIS FECHADOS",NATIONAL GEOGRAPHIC HD
-http://84.17.44.179:14635/
-#EXTINF:1 tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="FAX CANAIS FECHADOS",NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id=" NATIONAL GEOGRAPHIC HD   " tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="FAX CANAIS  | FECHADOS",NATIONAL GEOGRAPHIC HD
+http://84.17.44.179:NATIONAL GEOGRAPHIC HD14635/
+#EXTINF:-1 tvg-id="    "tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="FAX CANAIS |  FECHADOS",NATIONAL GEOGRAPHIC HD
 http://45.58.126.146:14287/
-#EXTINF:1 tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="FAX CANAIS FECHADOS",NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id=" NATIONAL GEOGRAPHIC   " tvg-logo="https://thumbs.gfycat.com/ConfusedCommonHeron-size_restricted.gif" group-title="FAX CANAIS |  FECHADOS",NATIONAL GEOGRAPHIC
 http://84.17.44.179:14635
-#EXTINF:1 tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="FAX CANAIS FECHADOS",NATIONAL GEOGRAFIC UHD
+#EXTINF:-1 tvg-id="  NATIONAL GEOGRAPHIC HD  " tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="FAX CANAIS |  FECHADOS",NATIONAL GEOGRAPHIC HD
+http://84.17.44.179:14635
+#EXTINF:-1 tvg-id=" NATIONAL GEOGRAFIC UHD   "tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="FAX CANAIS |  FECHADOS",NATIONAL GEOGRAFIC UHD
 http://84.17.44.179:14635/
-#EXTINF:1 tvg-logo="https://images.squarespace-cdn.com/content/v1/54b747c3e4b089bfadc49def/1523223957506-KBRJP4MRY6T0903198KO/HGTV_CouchLogoAnimation.gif" group-title="FAX CANAIS FECHADOS",HGTV
+#EXTINF:-1 tvg-id=" HGTV   " tvg-logo="https://images.squarespace-cdn.com/content/v1/54b747c3e4b089bfadc49def/1523223957506-KBRJP4MRY6T0903198KO/HGTV_CouchLogoAnimation.gif" group-title="FAX CANAIS |  FECHADOS",HGTV
 http://15.235.10.31:14412
-#EXTINF:1 tvg-logo="https://media.giphy.com/avatars/abrahaomendes/4L8KS5CpAx47.png" group-title="FAX CANAIS FECHADOS",MEGAPIX
+#EXTINF:-1 tvg-id=" MEGAPIX " tvg-logo="https://media.giphy.com/avatars/abrahaomendes/4L8KS5CpAx47.png" group-title="FAX CANAIS |  FECHADOS",MEGAPIX
 http://45.58.126.146:14317
-#EXTINF:1 tvg-logo="https://tvbrasilhits.com.br/wp-content/uploads/2021/07/logo-grande.png" group-title="FAX CANAIS FECHADOS",HITS
+#EXTINF:-1 tvg-id="  HITS  "tvg-logo="https://tvbrasilhits.com.br/wp-content/uploads/2021/07/logo-grande.png" group-title="FAX CANAIS |  FECHADOS",HITS
 https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w1305332814.m3u8
-#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/3UjbihgsKD16QUEd5f6jd9znJ4_b3WIvMWPjfAtCsIPAd40wlZG4ZAgWBbviRydpyu0" group-title="FAX CANAIS FECHADOS",CANAL 10 FOZ
+#EXTINF:-1 tvg-id="CANAL 10 FOZ    "tvg-logo="https://play-lh.googleusercontent.com/3UjbihgsKD16QUEd5f6jd9znJ4_b3WIvMWPjfAtCsIPAd40wlZG4ZAgWBbviRydpyu0" group-title="FAX CANAIS  | FECHADOS",CANAL 10 FOZ
 http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8
-#EXTINF:1 tvg-logo="https://media1.giphy.com/media/H11yMATDcaj5K/200w.gif?cid=6c09b952ulayv4lw8s4c6hubsdtghbr4dbo4p9tng430a7rw&rid=200w.gif&ct=g" group-title="FAX CANAIS FECHADOS",TV ZOOM
+#EXTINF:-1 tvg-id="  TV ZOOM  "tvg-logo="https://media1.giphy.com/media/H11yMATDcaj5K/200w.gif?cid=6c09b952ulayv4lw8s4c6hubsdtghbr4dbo4p9tng430a7rw&rid=200w.gif&ct=g" group-title="FAX CANAIS  | FECHADOS",TV ZOOM
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
-#EXTINF:1 tvg-logo="https://4.bp.blogspot.com/-DPCKdzWQqDw/XU5KkPXtNBI/AAAAAAAABa4/l0uoUyfZv8kJ-jBSAsNYKaIe0XoZZW-wgCLcBGAs/s320/Screenshot_2019-08-10-01-33-09.png" group-title="FAX CANAIS FECHADOS",TV MAIS MARICA
+#EXTINF:-1 tvg-id="  TV MAIS MARICA  "tvg-logo="https://4.bp.blogspot.com/-DPCKdzWQqDw/XU5KkPXtNBI/AAAAAAAABa4/l0uoUyfZv8kJ-jBSAsNYKaIe0XoZZW-wgCLcBGAs/s320/Screenshot_2019-08-10-01-33-09.png" group-title="FAX CANAIS  | FECHADOS",TV MAIS MARICA
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f8a3fa9e42936215fde3bd04bb0f35a6.webp" group-title="FAX CANAIS FECHADOS",CANAL RICOS
+#EXTINF:-1 tvg-id="  CANAL RICOS  " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f8a3fa9e42936215fde3bd04bb0f35a6.webp" group-title="FAX CANAIS |  FECHADOS",CANAL RICOS
 https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/eb1538f8a908c5aad023c2e87021d302.webp" group-title="FAX CANAIS FECHADOS",SAO RAIMUNDO TV
+#EXTINF:-1 tvg-id="  SAO RAIMUNDO TV  " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/eb1538f8a908c5aad023c2e87021d302.webp" group-title="FAX CANAIS |  FECHADOS",SAO RAIMUNDO TV
 https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/14c5a66a88c83606956bfad56ce0e085.webp" group-title="FAX CANAIS FECHADOS",TV GRANDE NATAL
+
+#EXTINF:-1 tvg-id="  TV GRANDE NATAL  " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/14c5a66a88c83606956bfad56ce0e085.webp" group-title="FAX CANAIS |  FECHADOS",TV GRANDE NATAL
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
-#EXTINF:1 tvg-logo="https://gcmais.com.br/wp-content/uploads/2022/07/tv-cidade.png" group-title="FAX CANAIS FECHADOS",TV CIDADE CANAL 9
+#EXTINF:-1 tvg-id="  TV CIDADE CANAL 9  "tvg-logo="https://gcmais.com.br/wp-content/uploads/2022/07/tv-cidade.png" group-title="FAX CANAIS  | FECHADOS",TV CIDADE CANAL 9
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8 
-#EXTINF:1 tvg-logo="https://pbr-str.srvsite.com/arquivos/7431/cabecalho-7431-20200117195006.png" group-title="FAX CANAIS FECHADOS",LIDER DO VALE
+#EXTINF:-1 tvg-id=" LIDER DO VALE   " tvg-logo="https://pbr-str.srvsite.com/arquivos/7431/cabecalho-7431-20200117195006.png" group-title="FAX CANAIS  | FECHADOS",LIDER DO VALE
 https://5d82644094cc0.streamlock.net/liderdovaletv/liderdovaletv/playlist.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvXrQOMkGdWkMLWdN1ETSBIrMHTpK4PIQoxmNhOvF-SyZ5UCr-smfRI9VlA73UP4-FH2c&usqp=CAU" group-title="FAX CANAIS FECHADOS", MAM NEWS WEB TV
+#EXTINF:-1 tvg-id=" MAM NEWS WEB TV   " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvXrQOMkGdWkMLWdN1ETSBIrMHTpK4PIQoxmNhOvF-SyZ5UCr-smfRI9VlA73UP4-FH2c&usqp=CAU" group-title="FAX CANAIS |  FECHADOS", MAM NEWS WEB TV
 https://stmv3.samcast.com.br/mamnews/mamnews/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/74eeb2765564dd79d85e4d9c11431a87.webp" group-title="FAX CANAIS FECHADOS",CAMOCIM WEB TV
+#EXTINF:-1 tvg-id="  CAMOCIM WEB TV  "tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/74eeb2765564dd79d85e4d9c11431a87.webp" group-title="FAX CANAIS |  FECHADOS",CAMOCIM WEB TV
 https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w341983832.m3u8
-#EXTINF:1 tvg-logo="https://www.paranaeducativafm.pr.gov.br/sites/fm/arquivos_restritos/files/styles/escala_e_corta_360x225_/public/imagem/2021-12/banner_lateral_padrao_tv.png.jpg?itok=mZVVxFxt" group-title="FAX CANAIS FECHADOS",TV PARANA
+#EXTINF:-1 tvg-id=" TV PARANA   " tvg-logo="https://www.paranaeducativafm.pr.gov.br/sites/fm/arquivos_restritos/files/styles/escala_e_corta_360x225_/public/imagem/2021-12/banner_lateral_padrao_tv.png.jpg?itok=mZVVxFxt" group-title="FAX CANAIS  | FECHADOS",TV PARANA
 https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/017fd721088105092c54513b07ac61d0.webp" group-title="FAX CANAIS FECHADOS",SRTV PB
+#EXTINF:-1 tvg-id=" SRTV PB   " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/017fd721088105092c54513b07ac61d0.webp" group-title="FAX CANAIS |  FECHADOS",SRTV PB
 https://livefocamundo.com:8081/srtvpb/index.m3u8
-#EXTINF:1 tvg-logo="https://fb.paineladm.com/arquivos/4506/cabecalho-4506-20190507094833.png" group-title="FAX CANAIS FECHADOS",TV CARAVELAS
+#EXTINF:-1 tvg-id="  TV CARAVELAS  "tvg-logo="https://fb.paineladm.com/arquivos/4506/cabecalho-4506-20190507094833.png" group-title="FAX CANAIS |  FECHADOS",TV CARAVELAS
 https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.portalolhardinamico.com.br/uploads/img/posts/2727/0d7b630b871df09934da9b2d7d831a73.jpg" group-title="FAX CANAIS FECHADOS",TV CINEC
+#EXTINF:-1 tvg-id=" TV CINEC   " tvg-logo="https://www.portalolhardinamico.com.br/uploads/img/posts/2727/0d7b630b871df09934da9b2d7d831a73.jpg" group-title="FAX CANAIS |  FECHADOS",TV CINEC
 https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/chunklist-480p.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfJ4VEPFheQFyBOB5E2Gn4LbZCVsc13CzAAV-jrch9mtEItYmSJUYZjtjngDv_NlHOQLw&usqp=CAU" group-title="FAX CANAIS FECHADOS",TV MASTER PB
+#EXTINF:-1 tvg-id=" TV MASTER PB   "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfJ4VEPFheQFyBOB5E2Gn4LbZCVsc13CzAAV-jrch9mtEItYmSJUYZjtjngDv_NlHOQLw&usqp=CAU" group-title="FAX CANAIS |  FECHADOS",TV MASTER PB
 https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjv-JcwSrULKe7Pfdojug1q21Og8-GkdlfhiayzZLahZ3kw00R2042VwRrNmWfcA0yB5Y&usqp=CAU" group-title="FAX CANAIS FECHADOS",TV PRECABURA
+#EXTINF:-1 tvg-id="  TV PRECABURA  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjv-JcwSrULKe7Pfdojug1q21Og8-GkdlfhiayzZLahZ3kw00R2042VwRrNmWfcA0yB5Y&usqp=CAU" group-title="FAX CANAIS |  FECHADOS",TV PRECABURA
 http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/48aff45b0e145a414185f8e79bd8fc49.webp" group-title="FAX CANAIS FECHADOS",TV CN AGITOS
+#EXTINF:-1 tvg-id="  TV CN AGITOS  "tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/48aff45b0e145a414185f8e79bd8fc49.webp" group-title="FAX CANAIS |  FECHADOS",TV CN AGITOS
 http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
-#EXTINF:1 tvg-logo="https://i1.wp.com/blog.jovempan.com.br/paulacarvalho/wp-content/uploads/sites/14/2018/08/A-Feiticeira-73985.gif?fit=400%2C220&ssl=1" group-title="FAX CANAIS FECHADOS",A Feiticeira
+#EXTINF:-1 tvg-id=" A Feiticeira   "tvg-logo="https://i1.wp.com/blog.jovempan.com.br/paulacarvalho/wp-content/uploads/sites/14/2018/08/A-Feiticeira-73985.gif?fit=400%2C220&ssl=1" group-title="FAX CANAIS  | FECHADOS",A Feiticeira
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/ConfusedCommonHeron-size_restricted.gif" group-title="FAX CANAIS FECHADOS",NATIONAL GEOGRAPHIC
-http://84.17.44.179:14635
-#EXTINF:1 tvg-logo="https://media.tenor.com/qPJP0H2E1TIAAAAM/cnn-philippines.gif" group-title="FAX CANAIS FECHADOS",CNN
+
+
+#EXTINF:-1 tvg-id="  CNN  " tvg-logo="https://media.tenor.com/qPJP0H2E1TIAAAAM/cnn-philippines.gif" group-title="FAX CANAIS |  FECHADOS",CNN
 http://45.58.126.146:14234
-#EXTINF:1 tvg-logo="hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGfDIuZfBxwvQ1UBR4Pjn65ruuIMvNodVeO17LxduNlkYv96qsdiDsKeDIwsKkg_q5TsA&usqp=CAU" group-title="FAX CANAIS FECHADOS",LIFETIME
+#EXTINF:-1 tvg-id="  LIFETIME  " tvg-logo="hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGfDIuZfBxwvQ1UBR4Pjn65ruuIMvNodVeO17LxduNlkYv96qsdiDsKeDIwsKkg_q5TsA&usqp=CAU" group-title="FAX CANAIS  | FECHADOS",LIFETIME
 http://45.58.126.146:14314
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/9lSBxzYz1t8/maxresdefault.jpg" group-title="FAX CANAIS FECHADOS",FURURA
+#EXTINF:-1 tvg-id=" FURURA   " tvg-logo="https://i.ytimg.com/vi/9lSBxzYz1t8/maxresdefault.jpg" group-title="FAX CANAIS |  FECHADOS",FURURA
 http://15.235.10.31:14336
-#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/tv-destak.webp" group-title="FAX CANAIS FECHADOS",TV Destak
+#EXTINF:-1 tvg-id=" TV Destak   " tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/tv-destak.webp" group-title="FAX CANAIS |  FECHADOS",TV Destak
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/chunklist_w1291864603.m3u8
-#EXTINF:1 tvg-logo="https://240183188b.cbaul-cdnwnd.com/d0469b43bfdcac8221dbff68e43222b8/200000075-249c9249ca/fundo%20para%20you%20tube%20tela%20viva.png?ph=240183188b" group-title="FAX CANAIS FECHADOS",tela viva tv
+#EXTINF:-1 tvg-id=" tela viva tv   " tvg-logo="https://240183188b.cbaul-cdnwnd.com/d0469b43bfdcac8221dbff68e43222b8/200000075-249c9249ca/fundo%20para%20you%20tube%20tela%20viva.png?ph=240183188b" group-title="FAX CANAIS | FECHADOS",tela viva tv
 https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1588227650.m3u8
-#EXTINF:1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/2370403edc09d33cee93e9d0c0a05175/366139-multi-media-channels-tv-world-india-star-utsav-movies.gif" group-title="FAX CANAIS FECHADOS",MOVIE STAR
+#EXTINF:-1 tvg-id="  MOVIE STAR  " tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/2370403edc09d33cee93e9d0c0a05175/366139-multi-media-channels-tv-world-india-star-utsav-movies.gif" group-title="FAX CANAIS |  FECHADOS",MOVIE STAR
 http://62.176.77.22:9781/play/a00f
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/BelovedWideFlamingo-size_restricted.gif" group-title="FAX CANAIS FECHADOS",TODO MUNDO ODEIA O CHRIS
+#EXTINF:-1 tvg-id=" TODO MUNDO ODEIA O CHRIS   "tvg-logo="https://thumbs.gfycat.com/BelovedWideFlamingo-size_restricted.gif" group-title="FAX CANAIS  | FECHADOS",TODO MUNDO ODEIA O CHRIS
 http://45.58.126.146:14510
-#EXTINF:1 tvg-logo="https://64.media.tumblr.com/tumblr_lkpki0i2qQ1qiebmoo1_500.gif" group-title="FAX CANAIS FECHADOS",TODO MUNDO ODEIA O CHRIS
+#EXTINF:-1 tvg-id="  TODO MUNDO ODEIA O CHRIS  "tvg-logo="https://64.media.tumblr.com/tumblr_lkpki0i2qQ1qiebmoo1_500.gif" group-title="FAX CANAIS |  FECHADOS",TODO MUNDO ODEIA O CHRIS
 http://45.58.126.146:14510
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpr5gE9I9QO-lnpJ884o3ZQido8L8NsMqmdjjgF4QBHuuRvIO7k8Cl6lhNuQtkUlt-ikc&usqp=CAU" group-title="FAX CANAIS FECHADOS",AniTV - geekdot online
+#EXTINF:-1 tvg-id=" AniTV - geekdot online   "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpr5gE9I9QO-lnpJ884o3ZQido8L8NsMqmdjjgF4QBHuuRvIO7k8Cl6lhNuQtkUlt-ikc&usqp=CAU" group-title="FAX CANAIS |  FECHADOS",AniTV - geekdot online
 https://stream.ichibantv.ga:3764/hybrid/play.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/44db0c12711ce2d991d60021cda8a8d2.webp" group-title="FAX CANAIS FECHADOS",GLN TV
+#EXTINF:-1 tvg-id="  GLN TV  " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/44db0c12711ce2d991d60021cda8a8d2.webp" group-title="FAX CANAIS |  FECHADOS",GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w810338217.m3u8
-#EXTINF:1 tvg-logo="http://2.bp.blogspot.com/-L_temn2uDLo/UpzFZI2oY1I/AAAAAAAAAk0/dWMoHVZv6RI/s1600/Rede-NGT.jpg" group-title="FAX CANAIS FECHADOS",Rede NGT online
+#EXTINF:-1 tvg-id=" Rede NGT online   " tvg-logo="http://2.bp.blogspot.com/-L_temn2uDLo/UpzFZI2oY1I/AAAAAAAAAk0/dWMoHVZv6RI/s1600/Rede-NGT.jpg" group-title="FAX CANAIS  | FECHADOS",Rede NGT online
 https://acesso.ecast.site:3922/live/redengtlive.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5a0ca2ab1c68adcde7bf577af87071b8.webp" group-title="FAX CANAIS FECHADOS",D+TV - Demais TV
+#EXTINF:-1 tvg-id=" D+TV - Demais TV   "tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5a0ca2ab1c68adcde7bf577af87071b8.webp" group-title="FAX CANAIS |  FECHADOS",D+TV - Demais TV
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w73046429.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Rede_Mundial_logo.png/800px-Rede_Mundial_logo.png" group-title="FAX CANAIS FECHADOS",Rede Mundial Curitiba
+#EXTINF:-1 tvg-id="  Rede Mundial Curitiba  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Rede_Mundial_logo.png/800px-Rede_Mundial_logo.png" group-title="FAX CANAIS |  FECHADOS",Rede Mundial Curitiba
 https://58a4464faef53.streamlock.net/interteve/ngrp:interteve_all/chunklist_w1565482821_b1096000.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/29a2d34a7175d55ebe0c3a98704cf3be.webp" group-title="FAX CANAIS FECHADOS",TV Aldeia online 
+#EXTINF:-1 tvg-id=" V Aldeia online    "tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/29a2d34a7175d55ebe0c3a98704cf3be.webp" group-title="FAX CANAIS |  FECHADOS",TV Aldeia online 
 https://stmv1.samcast.com.br/giovane7843/giovane7843/chunklist_w2065430735.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dc4f4fddc2330b377037d229aee44942.webp" group-title="FAX CANAIS FECHADOS",Tv Confiego online
+#EXTINF:-1 tvg-id=" Tv Confiego online   " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dc4f4fddc2330b377037d229aee44942.webp" group-title="FAX CANAIS  | FECHADOS",Tv Confiego online
 https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/chunklist_w931016835.m3u8
-#EXTINF:1 tvg-logo="https://dexaketo.files.wordpress.com/2015/09/logo-tv-cidade-canal-8-2.jpg" group-title="FAX CANAIS FECHADOS",TV Cidade Canal 9
+#EXTINF:-1 tvg-id="  TV Cidade Canal 9  "tvg-logo="https://dexaketo.files.wordpress.com/2015/09/logo-tv-cidade-canal-8-2.jpg" group-title="FAX CANAIS |  FECHADOS",TV Cidade Canal 9
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/chunklist_w1107842431.m3u8
-#EXTINF:1 tvg-logo="http://i.imgur.com/YpKsKuG.png" group-title="FAX CANAIS FECHADOS",TV Nova Nordeste
+#EXTINF:-1 tvg-id=" TV Nova Nordeste   " tvg-logo="http://i.imgur.com/YpKsKuG.png" group-title="FAX CANAIS FECHADOS",TV Nova Nordeste
 https://live.comets.com.br/tvnovanordeste/aovivo/chunklist.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/03/Logotipo_da_TV_Vila_Real.png" group-title="FAX CANAIS FECHADOS",TV Vila Real
+#EXTINF:-1 tvg-id=" TV Vila Real   " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/03/Logotipo_da_TV_Vila_Real.png" group-title="FAX CANAIS |  FECHADOS",TV Vila Real
 https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/chunklist_w1043133689.m3u8
-#EXTINF:1 tvg-logo="https://scontent-gru2-2.xx.fbcdn.net/v/t1.6435-9/132559470_211738763901502_6862080702324885254_n.png?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHNza34g6EnN5Pfky3j0iWnb6jmON-6O61vqOY437o7rfeObrjizn47Od8hfIVVmdYvbMwDknzZqB22uPtm_oG9&_nc_ohc=DNLo8xBWs4MAX9qn98m&_nc_ht=scontent-gru2-2.xx&oh=00_AfCf_e_7op8Xf5S4m_CxbDwBMCOBOII70GjVG7xXCd3Yiw&oe=64444D44" group-title="FAX CANAIS FECHADOS",Tv Osório News
+#EXTINF:-1 tvg-id=" Tv Osório News   " tvg-logo="https://scontent-gru2-2.xx.fbcdn.net/v/t1.6435-9/132559470_211738763901502_6862080702324885254_n.png?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHNza34g6EnN5Pfky3j0iWnb6jmON-6O61vqOY437o7rfeObrjizn47Od8hfIVVmdYvbMwDknzZqB22uPtm_oG9&_nc_ohc=DNLo8xBWs4MAX9qn98m&_nc_ht=scontent-gru2-2.xx&oh=00_AfCf_e_7op8Xf5S4m_CxbDwBMCOBOII70GjVG7xXCd3Yiw&oe=64444D44" group-title="FAX CANAIS |  FECHADOS",Tv Osório News
 https://serv2.videovox.pw/video13154/video13154/chunklist_w522639877.m3u8
-#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJU4Tx4roCRC9QKDGv7Mc-cWH2jNlaj78LReI3NhQw=s900-c-k-c0x00ffffff-no-rj" group-title="FAX CANAIS FECHADOS", Mega FATOS
+#EXTINF:-1 tvg-id="  Mega FATOS  " tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJU4Tx4roCRC9QKDGv7Mc-cWH2jNlaj78LReI3NhQw=s900-c-k-c0x00ffffff-no-rj" group-title="FAX CANAIS |  FECHADOS", Mega FATOS
 https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_w1313069576.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSApumnONMpnW764wfvNZoy6dyoA5SugaYy-vb8r8J4NSDXsBjWLOp0Hc6fV0c-RbO7RII&usqp=CAU" group-title="FAX CANAIS FECHADOS",ArarunaTV | BR
+#EXTINF:-1 tvg-id=" ArarunaTV    " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSApumnONMpnW764wfvNZoy6dyoA5SugaYy-vb8r8J4NSDXsBjWLOp0Hc6fV0c-RbO7RII&usqp=CAU" group-title="FAX CANAIS |  FECHADOS",ArarunaTV 
 https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
-#EXTINF:1 tvg-logo="https://media.licdn.com/dms/image/C4E03AQHXiGR1yQuLjg/profile-displayphoto-shrink_800_800/0/1563474394341?e=2147483647&v=beta&t=L6ZAUsOm2w4BJeKsGFOY2bNCnYDCYbqrktsyjC8JZEA" group-title="FAX CANAIS FECHADOS", TV Grande Natal HDTV * | BR
+#EXTINF:-1 tvg-id=" TV Grande Natal HDTV    " tvg-logo="https://media.licdn.com/dms/image/C4E03AQHXiGR1yQuLjg/profile-displayphoto-shrink_800_800/0/1563474394341?e=2147483647&v=beta&t=L6ZAUsOm2w4BJeKsGFOY2bNCnYDCYbqrktsyjC8JZEA" group-title="FAX CANAIS FECHADOS", TV Grande Natal HDTV 
 https://canalteste.duckdns.org:4433/hls/tvgrandenatalhdtv/index.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/beaa1d89838a77d51155ce6b0b6b4f47.webp" group-title="FAX CANAIS FECHADOS",TV Curuça | BR
+#EXTINF:-1 tvg-id="  TV Curuça   "tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/beaa1d89838a77d51155ce6b0b6b4f47.webp" group-title="FAX CANAIS |  FECHADOS",TV Curuça 
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/qXLHQEP1XYA/hqdefault_live.jpg" group-title="FAX CANAIS FECHADOS",TV Destak | BR
+#EXTINF:-1 tvg-id="  TV Destak   " tvg-logo="https://i.ytimg.com/vi/qXLHQEP1XYA/hqdefault_live.jpg" group-title="FAX CANAIS |  FECHADOS",TV Destak 
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist-480p.m3u8
-#EXTINF:1 tvg-logo="https://image.roku.com/developer_channels/prod/144118251c3c0cb8ab63cb39242d3fae58fd213c21a2650761d8a2078e99d526.png" group-title="FAX CANAIS FECHADOS",Teleweb TV * | BR
-https://video01.kshost.com.br/acessweb7837/acessweb7837/playlist.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/95/Logotipo_da_TV_Jornal.png" group-title="FAX CANAIS FECHADOS",TV Jornal do Nordeste | BR
+#EXTINF:-1 tvg-id="  Teleweb TV   " tvg-logo="https://image.roku.com/developer_channels/prod/144118251c3c0cb8ab63cb39242d3fae58fd213c21a2650761d8a2078e99d526.png" group-title="FAX CANAIS FECHADOS",Teleweb TV 
+https://video01.kshost.com.br/acessweb7837/acessweb7837/playlist.m3u8 | 
+#EXTINF:-1 tvg-id="  TV Jornal do Nordeste   " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/95/Logotipo_da_TV_Jornal.png" group-title="FAX CANAIS |  FECHADOS",TV Jornal do Nordeste 
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/playlist.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_TV_Bahia.png" group-title="FAX CANAIS FECHADOS",TV Infor Bahia | BR
+#EXTINF:-1 tvg-id="  TV Infor Bahia   "tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_TV_Bahia.png" group-title="FAX CANAIS |  FECHADOS",TV Infor Bahia 
 https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/playlist-480p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/TmrNbbnH3VU/hqdefault_live.jpg" group-title="FAX CANAIS FECHADOS",TV Digital Birigui | BR
+#EXTINF:-1 tvg-id=" TV Digital Birigui    "tvg-logo="https://i.ytimg.com/vi/TmrNbbnH3VU/hqdefault_live.jpg" group-title="FAX CANAIS |  FECHADOS",TV Digital Birigui 
 https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist-480p.m3u8
-#EXTINF:1 tvg-logo="https://lh4.googleusercontent.com/-KMqjnysAOIs/UUyMaJiXyqI/AAAAAAAFuU0/T_xWgnurs3k/s336/difusora-ok.jpg" group-title="FAX CANAIS FECHADOS",TV Difusora | BR
+#EXTINF:-1 tvg-id=" TV Difusora    " tvg-logo="https://lh4.googleusercontent.com/-KMqjnysAOIs/UUyMaJiXyqI/AAAAAAAFuU0/T_xWgnurs3k/s336/difusora-ok.jpg" group-title="FAX CANAIS |  FECHADOS",TV Difusora 
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_da_TV_%C3%81gua_Boa_%28Barra_do_Bugres%29.png" group-title="FAX CANAIS FECHADOS", TV Água Boa | BR
+#EXTINF:-1 tvg-id="  TV Água Boa  " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_da_TV_%C3%81gua_Boa_%28Barra_do_Bugres%29.png" group-title="FAX CANAIS  | FECHADOS", TV Água Boa
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist-480p.m3u8
-#EXTINF:1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/11/tvplateia.png" group-title="FAX CANAIS FECHADOS",TV A Plateia | BR
+#EXTINF:-1 tvg-id=" TV A Plateia    "tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/11/tvplateia.png" group-title="FAX CANAIS  | FECHADOS",TV A Plateia 
 https://video01.kshost.com.br/kamal3366/kamal3366/playlist.m3u8
-#EXTINF:1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11915/thumb_REDE_PREMIUM_TV.jpeg" group-title="FAX CANAIS FECHADOS",Rede Premium TV | BR
+#EXTINF:-1 tvg-id=" Rede Premium TV   "tvg-logo="https://assets.iptv2022.com/uploads/channel/11915/thumb_REDE_PREMIUM_TV.jpeg" group-title="FAX CANAIS |  FECHADOS",Rede Premium TV
 https://5c483b9d1019c.streamlock.net:443/8066/8066/playlist.m3u8
-#EXTINF:1 tvg-logo="https://image.roku.com/developer_channels/prod/f64ca9614555356f4f3e41b1b9c7688b5b5d9554548ada866ebb6625bde3740e.png" group-title="FAX CANAIS FECHADOS",Rede Mundo TV
+#EXTINF:-1 tvg-id=" Rede Mundo TV   "tvg-logo="https://image.roku.com/developer_channels/prod/f64ca9614555356f4f3e41b1b9c7688b5b5d9554548ada866ebb6625bde3740e.png" group-title="FAX CANAIS  | FECHADOS",Rede Mundo TV
 https://video01.logicahost.com.br/mundotvbrasil/mundotvbrasil/playlist.m3u8
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/1307032561957376005/ZUUQnHqx_400x400.png" group-title="FAX CANAIS FECHADOS",canalpaulo
+#EXTINF:-1 tvg-id=" canalpaulo   "tvg-logo="https://pbs.twimg.com/profile_images/1307032561957376005/ZUUQnHqx_400x400.png" group-title="FAX CANAIS |  FECHADOS",canalpaulo
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/chunklist_w1009442797.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXefugoPXeaLQbrBommBQ3obBmRvRjzrV5OUMA3NEbgwlaejFCNezknNAO_JVZ9FkOeA&usqp=CAU" group-title="FAX CANAIS FECHADOS",Tv Mostardas
+#EXTINF:-1 tvg-id=" Tv Mostardas   "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXefugoPXeaLQbrBommBQ3obBmRvRjzrV5OUMA3NEbgwlaejFCNezknNAO_JVZ9FkOeA&usqp=CAU" group-title="FAX CANAIS |  FECHADOS",Tv Mostardas
 https://stmv5.samcast.com.br/tvmostardas/tvmostardas/chunklist_w762290849.m3u8
-#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/iG4hmNeXc7xjEZZaQs1D2nKz-cF4vwM9io7NI991DbGpQERHFosrd0dPNoHI-1N27g" group-title="FAX CANAIS FECHADOS",TV Capital
+#EXTINF:-1 tvg-id="  TV Capital  "tvg-logo="https://play-lh.googleusercontent.com/iG4hmNeXc7xjEZZaQs1D2nKz-cF4vwM9io7NI991DbGpQERHFosrd0dPNoHI-1N27g" group-title="FAX CANAIS |  FECHADOS",TV Capital
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b1064000.m3u8
-#EXTINF:1 tvg-logo="https://www.francfort.com.br/wp-content/uploads/2017/07/cameratvpaulista.jpg" group-title="FAX CANAIS FECHADOS",Manoel2072
+#EXTINF:-1 tvg-id="  Manoel2072  " tvg-logo="https://www.francfort.com.br/wp-content/uploads/2017/07/cameratvpaulista.jpg" group-title="FAX CANAIS |  FECHADOS",Manoel2072
 https://video01.kshost.com.br:4443/manoel2072/manoel2072/chunklist_w1732984734.m3u8
-#EXTINF:1 tvg-logo="https://media.licdn.com/dms/image/C4D0BAQHoklisgoGUTA/company-logo_200_200/0/1543422468709?e=2147483647&v=beta&t=ZQDBU79cNV4zPlLU0nnQwQE8KAeTtBYn3s4qBU3Upf4" group-title="FAX CANAIS FECHADOS",Amazon Sat (1080p)
+#EXTINF:-1 tvg-id=" Amazon Sat (1080p)   "tvg-logo="https://media.licdn.com/dms/image/C4D0BAQHoklisgoGUTA/company-logo_200_200/0/1543422468709?e=2147483647&v=beta&t=ZQDBU79cNV4zPlLU0nnQwQE8KAeTtBYn3s4qBU3Upf4" group-title="FAX CANAIS |  FECHADOS",Amazon Sat (1080p)
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
 
-#EXTM3U url-tvg="http://grade-de-FAX Sports.xml"
-############## FAX  Sports ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFAX Sports" group-title="
+#EXTM3U url-tvg="http://grade-de-FAX |  Sports.xml"
+############## FAX  |  Sports ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFAX |  Sports" group-title="
 
-#EXTINF:-1 tvg-id="TNTSports5Brazil.br" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="FAX Sports",TNT Sports 5 WEW Brasil (720p) [Not 24/7]
+#EXTINF:-1 tvg-id=" TNT Sports 5 WEW Brasil  " tvg-id="TNTSports5Brazil.br" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="FAX |  Sports",TNT Sports 5 WEW Brasil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.combateglobal.com/wp-content/uploads/2021/06/cg-how-to-watch-banner.jpg" group-title="FAX Sports",Combate Global ao vivo
+#EXTINF:-1 tvg-id=" Combate Global ao vivo  " tvg-logo="https://www.combateglobal.com/wp-content/uploads/2021/06/cg-how-to-watch-banner.jpg" group-title="FAX |  Sports",Combate Global ao vivo
 https://stream.ads.ottera.tv/cl/230311cg6gn0uisvfo4aoi3jtg/1280x720_2300000_0_f.m3u8?i=475_960
-#EXTINF:1 tvg-logo="hhttps://static.wixstatic.com/media/a0fdd5_be27bf58658c47feab11d85c957679c1~mv2.gif" group-title="FAX Sports",STAR+ 2 HD¹
+#EXTINF:-1 tvg-id=" STAR+ 2 HD¹  " tvg-logo="hhttps://static.wixstatic.com/media/a0fdd5_be27bf58658c47feab11d85c957679c1~mv2.gif" group-title="FAX |  Sports",STAR+ 2 HD¹
 http://tv.nousiptv.com:8080/movie/Yonkers400/Marcela100/1145716.mkv
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC_icsbqY9JDUiP6uSUMESL9nJutw-58_L5Rw5ASb5zriXE56zLDRooWmtlFShabHnIXo&usqp=CAU" group-title="FAX Sports", SPACE
+#EXTINF:-1 tvg-id=" SPACE  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC_icsbqY9JDUiP6uSUMESL9nJutw-58_L5Rw5ASb5zriXE56zLDRooWmtlFShabHnIXo&usqp=CAU" group-title="FAX |  Sports", SPACE
 http://51.159.54.153:14408/space
-#EXTINF:1 tvg-logo="https://images.beinsports.com/fl57_19iAhnFW24XACG6gAJ1mZo=/full-fit-in/1000x0/3828682-WhatsApp-Image-2021-06-10-at-3.31.11-PM.jpeg" group-title="FAX Sports",ESPORTE EXTVLCOPT
+#EXTINF:-1 tvg-id=" ESPORTE EXTVLCOPT  " tvg-logo="https://images.beinsports.com/fl57_19iAhnFW24XACG6gAJ1mZo=/full-fit-in/1000x0/3828682-WhatsApp-Image-2021-06-10-at-3.31.11-PM.jpeg" group-title="FAX |  Sports",ESPORTE EXTVLCOPT
 http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
-#EXTINF:1 tvg-logo="https://2.bp.blogspot.com/-XYl3SAqZx2A/V5964sODoKI/AAAAAAAAu6Q/86fy2H29ycUlNfCNOkQwme7zxjHSmUNqgCLcB/s640/sportv_play_logo.gif" group-title="FAX Sports", SPORTV 3UHD
+#EXTINF:-1 tvg-id="  SPORTV 3UHD"tvg-logo="https://2.bp.blogspot.com/-XYl3SAqZx2A/V5964sODoKI/AAAAAAAAu6Q/86fy2H29ycUlNfCNOkQwme7zxjHSmUNqgCLcB/s640/sportv_play_logo.gif" group-title="FAX |  Sports", SPORTV 3UHD
 http://51.159.54.153:14417
-#EXTINF:1 tvg-logo="https://p16-va.topbuzzcdn.com/img/tos-maliva-v-0cbf1b-us/8f201cec964a47b9a6e1f655c4ada397~tplv-shrink:720:0.gif" group-title="FAX Sports",SPORTV2
+#EXTINF:-1 tvg-id=" SPORTV 3UHD  " tvg-logo="https://p16-va.topbuzzcdn.com/img/tos-maliva-v-0cbf1b-us/8f201cec964a47b9a6e1f655c4ada397~tplv-shrink:720:0.gif" group-title="FAX |  Sports",SPORTV2
 http://23.237.10.66:16180/sportv2
-#EXTINF:1 tvg-logo="https://memoriadatv.com.br/hf-conteudo/uploads/posts/2022/02/12579_combate-jpg.jpg" group-title="FAX Sports",COMBATE
+#EXTINF:-1 tvg-id=" SPORTV2  " tvg-logo="https://memoriadatv.com.br/hf-conteudo/uploads/posts/2022/02/12579_combate-jpg.jpg" group-title="FAX |  Sports",COMBATE
 http://209.222.97.92:16493/
-#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/Combate.webp" group-title="FAX Sports",COMBATE
+#EXTINF:-1 tvg-id=" COMBATE  " tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/Combate.webp" group-title="FAX |  Sports",COMBATE
 https://server100.online/combate/tracks-v1a1/mono.m3u8?remote=168.227.218.13&token=ecb657ed2a38e6b878ffb1adcf726483cb7bcb3b-2a7c4682e7ce7fb09542a2ac4e66fba1-1679870949-1679863749
-#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/zS6DTgBHEbToNDH5ef-HaxZ_bDDurbfI1O3pVEVn1T8LOsL1oL2wPizNU6U6juhsDSY98eD7jBI=s900-c-k-c0x00ffffff-no-rj" group-title="FAX Sports",Alpha Channel (720p)
+#EXTINF:-1 tvg-id=" Alpha Channel   " tvg-logo="https://yt3.googleusercontent.com/zS6DTgBHEbToNDH5ef-HaxZ_bDDurbfI1O3pVEVn1T8LOsL1oL2wPizNU6U6juhsDSY98eD7jBI=s900-c-k-c0x00ffffff-no-rj" group-title="FAX  | Sports",Alpha Channel 
 https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP_yIdh6qaJJ1Azob_BJ56H-2LWgtuzvOHH6ucsmLl8FLAf5mMXKiuFu66W-MDUKrfd-A&usqp=CAU" group-title="FAX Sports",All Sports (720p)
+#EXTINF:-1 tvg-id=" All Sports   " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP_yIdh6qaJJ1Azob_BJ56H-2LWgtuzvOHH6ucsmLl8FLAf5mMXKiuFu66W-MDUKrfd-A&usqp=CAU" group-title="FAX  | Sports",All Sports 
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:1 tvg-logo="https://i.chzbgr.com/full/9484522496/hF09ECBEF/basketball-wizards-moras-13-de" group-title="FAX Sports",All Sports 
+#EXTINF:-1 tvg-id="  All Sports  " tvg-logo="https://i.chzbgr.com/full/9484522496/hF09ECBEF/basketball-wizards-moras-13-de" group-title="FAX | Sports",All Sports 
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:1 tvg-logo="https://2.bp.blogspot.com/-XYl3SAqZx2A/V5964sODoKI/AAAAAAAAu6Q/86fy2H29ycUlNfCNOkQwme7zxjHSmUNqgCLcB/s640/sportv_play_logo.gif" group-title="FAX Sports", SPORTV
+#EXTINF:-1 tvg-id=" SPORTV "tvg-logo="https://2.bp.blogspot.com/-XYl3SAqZx2A/V5964sODoKI/AAAAAAAAu6Q/86fy2H29ycUlNfCNOkQwme7zxjHSmUNqgCLcB/s640/sportv_play_logo.gif" group-title="FAX |  Sports", SPORTV
 http://51.159.54.153:14411/
-#EXTINF:1 tvg-logo="https://2.bp.blogspot.com/-XYl3SAqZx2A/V5964sODoKI/AAAAAAAAu6Q/86fy2H29ycUlNfCNOkQwme7zxjHSmUNqgCLcB/s640/sportv_play_logo.gif" group-title="FAX Sports", SPORTV 3UHD
+#EXTINF:-1 tvg-id=" SPORTV 3UHD  "tvg-logo="https://2.bp.blogspot.com/-XYl3SAqZx2A/V5964sODoKI/AAAAAAAAu6Q/86fy2H29ycUlNfCNOkQwme7zxjHSmUNqgCLcB/s640/sportv_play_logo.gif" group-title="FAX |  Sports", SPORTV 3UHD
 http://51.159.54.153:14417
-#EXTINF:1 tvg-logo="https://media.tenor.com/GEq7PplhiLMAAAAd/tropeco-sport-vs-vitoria.gif" group-title="FAX Sports",SPORTV 2 UHD
+#EXTINF:-1 tvg-id="SPORTV 2 UHD   " tvg-logo="https://media.tenor.com/GEq7PplhiLMAAAAd/tropeco-sport-vs-vitoria.gif" group-title="FAX |  Sports",SPORTV 2 UHD
 http://23.237.10.66:16180/
-#EXTINF:1 tvg-logo="https://media.tenor.com/GEq7PplhiLMAAAAd/tropeco-sport-vs-vitoria.gif" group-title="FAX Sports",SPORTV 2
+#EXTINF:-1 tvg-id=" SPORTV 2   " tvg-logo="https://media.tenor.com/GEq7PplhiLMAAAAd/tropeco-sport-vs-vitoria.gif" group-title="FAX |  Sports",SPORTV 2
 http://23.237.10.66:16180/
-#EXTINF:1 tvg-logo="https://media.tenor.com/GEq7PplhiLMAAAAd/tropeco-sport-vs-vitoria.gif" group-title="FAX Sports",SPORTV 2 UHD
+#EXTINF:-1 tvg-id=" SPORTV 2 UHD  " tvg-logo="https://media.tenor.com/GEq7PplhiLMAAAAd/tropeco-sport-vs-vitoria.gif" group-title="FAX |  Sports",SPORTV 2 UHD
 http://51.159.54.153:14417/SporTV2
-#EXTINF:1 tvg-logo="https://media.tenor.com/GEq7PplhiLMAAAAd/tropeco-sport-vs-vitoria.gif" group-title="FAX Sports",SPORTV 2 UHD
+#EXTINF:-1 tvg-id=" SPORTV 2 UHD  " tvg-logo="https://media.tenor.com/GEq7PplhiLMAAAAd/tropeco-sport-vs-vitoria.gif" group-title="FAX |  Sports",SPORTV 2 UHD
 https://server100.online/spt2/tracks-v1a1/mono.m3u8?remote=168.227.218.13&token=9c5a074ddf8a71f3480605dc495b864f2c187e5c-36076291bdbff7a209a5af29a5dcd8ef-1679871105-1679863905
-#EXTINF:1 tvg-logo="https://media.tenor.com/GEq7PplhiLMAAAAd/tropeco-sport-vs-vitoria.gif" group-title="FAX Sports",SPORTV 3
+#EXTINF:-1 tvg-id=" ,SPORTV 3  " tvg-logo="https://media.tenor.com/GEq7PplhiLMAAAAd/tropeco-sport-vs-vitoria.gif" group-title="FAX |  Sports",SPORTV 3
 http://51.159.54.153:14417/
-#EXTINF:1 tvg-logo="https://cdn.dribbble.com/users/3163204/screenshots/7945741/media/cf0d95cc831bea024169f3e6732d69da.gif" group-title="FAX Sports",FOX SPORTS PREMIUM
+#EXTINF:-1 tvg-id="  FOX SPORTS PREMIUM "tvg-logo="https://cdn.dribbble.com/users/3163204/screenshots/7945741/media/cf0d95cc831bea024169f3e6732d69da.gif" group-title="FAX  | Sports",FOX SPORTS PREMIUM
 http://ac.ntvlatino.com:8080/moises21/moises22/1126417
-#EXTINF:1 tvg-logo="https://dplnews.com/wp-content/uploads/2022/06/dplnews_claro-sport_dn200622-696x381.png" group-title="FAX Sports",CLARO SPORTS
+#EXTINF:-1 tvg-id=" CLARO SPORTS  "tvg-logo="https://dplnews.com/wp-content/uploads/2022/06/dplnews_claro-sport_dn200622-696x381.png" group-title="FAX  | Sports",CLARO SPORTS
 http://ac.ntvlatino.com:8080/moises21/moises22/12011
-#EXTINF:1 tvg-logo="https://media3.giphy.com/media/AxVvjQXyWrFWHFDfAk/giphy.gif" group-title="FAX Sports",ESPN
+#EXTINF:-1 tvg-id=" ESPN    " tvg-logo="https://media3.giphy.com/media/AxVvjQXyWrFWHFDfAk/giphy.gif" group-title="FAX |  Sports",ESPN
 http://51.83.238.223:16515/
-#EXTINF:1 tvg-logo="http://showsotros.com/sfig/ESPN-Special-The-Decision-LeBron-James-2.gif" group-title="FAX Sports",ESPN
+#EXTINF:-1 tvg-id=" ESPN    "tvg-logo="http://showsotros.com/sfig/ESPN-Special-The-Decision-LeBron-James-2.gif" group-title="FAX |  Sports",ESPN
 http://37.58.50.28:2095/Tourobox1-lives9237832962/6234456508/334
-#EXTINF:1 tvg-logo="https://cdn.dribbble.com/users/68746/screenshots/3708060/_main4.gif" group-title="FAX Sports",ESPN 
+#EXTINF:-1 tvg-id=" ESPN    " tvg-logo="https://cdn.dribbble.com/users/68746/screenshots/3708060/_main4.gif" group-title="FAX |  Sports",ESPN 
 http://89.38.96.234:14525/
-#EXTINF:1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/1398/brand.gif?itok=qK15mOWo" group-title="FAX Sports",ESPN  2
+#EXTINF:-1 tvg-id=" ESPN  2  "tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/1398/brand.gif?itok=qK15mOWo" group-title="FAX  | Sports",ESPN  2
 http://ac.ntvlatino.com:8080/moises21/moises22/3178
-#EXTINF:1 tvg-logo="https://www.gifs-animados.net/original/foxsports.gif" group-title="FAX Sports",FOX SPORTS
+#EXTINF:-1 tvg-id="FOX  SPORTS   " tvg-logo="https://www.gifs-animados.net/original/foxsports.gif" group-title="FAX  | Sports",FOX  SPORTS
 http://ac.ntvlatino.com:8080/moises21/moises22/3267
-#EXTINF:1 tvg-logo="http://25.media.tumblr.com/ee28425809248296129f16e0c03cbe1d/tumblr_mrzcbyozOb1sdqx19o1_400.gif" group-title="FAX Sports",FOX SPORT2
+#EXTINF:-1 tvg-id=" FOX SPORT2  " tvg-logo="http://25.media.tumblr.com/ee28425809248296129f16e0c03cbe1d/tumblr_mrzcbyozOb1sdqx19o1_400.gif" group-title="FAX |  Sports",FOX SPORT2
 http://15.235.10.31:14326
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwVLXXa5yyUAmWENJ00CCH7VaFYFTIC0fXR24UQbfa7zc7RhV6XR7TIP2WOmvPR6oYHX4&usqp=CAU" group-title="FAX Sports",FOX SPORT2
+#EXTINF:-1 tvg-id=" FOX SPORT2  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwVLXXa5yyUAmWENJ00CCH7VaFYFTIC0fXR24UQbfa7zc7RhV6XR7TIP2WOmvPR6oYHX4&usqp=CAU" group-title="FAX  | Sports",FOX SPORT2
 http://15.235.10.31:14326
-#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2023/01/ufc.webp" group-title="FAX Sports",UFC Fight Pass
+#EXTINF:-1 tvg-id=" UFC Fight Pass  " tvg-logo="https://tv0800.net/wp-content/uploads/2023/01/ufc.webp" group-title="FAX |  Sports",UFC Fight Pass
 https://server100.online/ufc/tracks-v1a1/mono.m3u8?remote=168.227.218.13&token=46bb4e38fb6178f09fe694776ac7c4aa2680029d-9ec91f0f0c9db69d1e2b0b07e18d3772-1679871385-1679864185
-#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/06/eleven-1.webp" group-title="FAX Sports",Eleven Sports
+#EXTINF:-1 tvg-id="  Eleven Sports " tvg-logo="https://tv0800.net/wp-content/uploads/2022/06/eleven-1.webp" group-title="FAX Sports",Eleven Sports
 https://server100.online/eleven1/tracks-v1a1/mono.m3u8?remote=168.227.218.13&token=7f6674534c2e22959a5d59bfdc278f1dfa5a5357-333b5b9c4db6bd26c65f14064654acbf-1679871301-1679864101
-#EXTINF:1 tvg-logo="https://cdn.myportfolio.com/cb17273c-5ece-4c12-a1e8-2787f609fee8/60a17540-985c-4065-907e-2cc0ba5b91cc_rw_1920.gif?h=346145b3a712096d353ad863d8d67afe" group-title="FAX Sports",TNT Sports
+#EXTINF:-1 tvg-id=" TNT Sports  " tvg-logo="https://cdn.myportfolio.com/cb17273c-5ece-4c12-a1e8-2787f609fee8/60a17540-985c-4065-907e-2cc0ba5b91cc_rw_1920.gif?h=346145b3a712096d353ad863d8d67afe" group-title="FAX  | Sports",TNT Sports
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/TNT-sports.webp" group-title="FAX Sports",Estádio TNT Sports
+#EXTINF:-1 tvg-id=" Estádio TNT Sports  "tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/TNT-sports.webp" group-title="FAX |  Sports",Estádio TNT Sports
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/TNT-sports.webp" group-title="FAX Sports",TNT Sports 2
+#EXTINF:-1 tvg-id=" TNT Sports 2  "tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/TNT-sports.webp" group-title="FAX |  Sports",TNT Sports 2
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/TNT-sports.webp" group-title="FAX Sports",TNT Sports 2
+#EXTINF:-1 tvg-id=" TNT Sports 2  " tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/TNT-sports.webp" group-title="FAX |  Sports",TNT Sports 2
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-#EXTINF:-1 tvg-id="TNTSports2Brazil.br" tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="FAX Sports",TNT Sports 2 Brasil (720p) [Not 24/7]
+#EXTINF:-1 tvg-id=" TNT Sports 2 Brasil  " tvg-id="TNTSports2Brazil.br" tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="FAX  | Sports",TNT Sports 2 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/TNT-sports.webp" group-title="FAX Sports",TNT Sports 3
+#EXTINF:-1 tvg-id=" TNT Sports 3   "tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/TNT-sports.webp" group-title="FAX  | Sports",TNT Sports 3
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="TNTSports3Brazil.br" tvg-logo="https://i.imgur.com/LFSMbpN.png" group-title="FAX Sports",TNT Sports 3 Brasil (720p)
+#EXTINF:-1 tvg-id=" TNT Sports 3 Brasil  " tvg-id="TNTSports3Brazil.br" tvg-logo="https://i.imgur.com/LFSMbpN.png" group-title="FAX |  Sports",TNT Sports 3 Brasil 
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
-#EXTINF:-1 tvg-id="TNTSports3Brazil.br" tvg-logo="https://i.imgur.com/LFSMbpN.png" group-title="FAX Sports",TNT Sports 3 Brasil
+#EXTINF:-1 tvg-id=" TNT Sports 3 Brasil  "tvg-id="TNTSports3Brazil.br" tvg-logo="https://i.imgur.com/LFSMbpN.png" group-title="FAX |  Sports",TNT Sports 3 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
-#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/TNT-sports.webp" group-title="FAX Sports",TNT Sports 4
+#EXTINF:-1 tvg-id=" TNT Sports 4  "tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/TNT-sports.webp" group-title="FAX |  Sports",TNT Sports 4
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/TNT-sports.webp" group-title="FAX Sports",TNT Sports 4 Brasil (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TNT Sports 4 Brasil   "tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/TNT-sports.webp" group-title="FAX |  Sports",TNT Sports 4 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-#EXTINF:-1 tvg-id="TNTSports4Brazil.br" tvg-logo="https://i.imgur.com/Am70nWY.png" group-title="FAX Sports",TNT Sports 4 Brasil (720p) [Not 24/7]
+#EXTINF:-1 tvg-id=" TNT Sports 4 Brasil  " tvg-id="TNTSports4Brazil.br" tvg-logo="https://i.imgur.com/Am70nWY.png" group-title="FAX |  Sports",TNT Sports 4 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/TNT-sports.webp" group-title="FAX Sports",WEW TNT Sports 5
+#EXTINF:-1 tvg-id=" WEW TNT Sports 5  "tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/TNT-sports.webp" group-title="FAX |  Sports",WEW TNT Sports 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/premiereclubes.webp" group-title="FAX Sports",Premiere Clubes
+#EXTINF:-1 tvg-id=" Premiere Clubes  "tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/premiereclubes.webp" group-title="FAX |  Sports",Premiere Clubes
 https://server100.online/premiereclube/tracks-v1a1/mono.m3u8?remote=168.227.218.13&token=43943cc28ee7b5fc4cf667a503cda25ad9c26f7f-f006534fb747c27e868013e4e5003e53-1679871164-1679863964
-#EXTINF:1 tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/premiereclubes.webp" group-title="FAX Sports",Premiere Clubes
+#EXTINF:-1 tvg-id=" Premiere Clubes  "tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/premiereclubes.webp" group-title="FAX |  Sports",Premiere Clubes
 https://server100.online/premiereclube-sd/tracks-v1a1/mono.m3u8?remote=168.227.218.13&token=d4a743102087953d5198d46b91fe0edf97ae6d68-6e1c09a554b458dc7df9b6257edc3284-1679871228-1679864028
-#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJW83_RUuPZISJ7UjWUK23NkH1hr940nidUj-snKoA=s900-c-k-c0x00ffffff-no-rj" group-title="FAX Sports",Brasil: esportes
+#EXTINF:-1 tvg-id="Brasil: esportes   "tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJW83_RUuPZISJ7UjWUK23NkH1hr940nidUj-snKoA=s900-c-k-c0x00ffffff-no-rj" group-title="FAX |  Sports",Brasil: esportes
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60a6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6600c565921f9eb27fc17ebf1b4eac88.webp" group-title="FAX Sports",SI TV online
+#EXTINF:-1 tvg-id=" SI TV online  "tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6600c565921f9eb27fc17ebf1b4eac88.webp" group-title="FAX |  Sports",SI TV online
 https://5e85d90130e77.streamlock.net/6024/6024/chunklist_w1681089875.m3u8
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/PoorWelllitGull-max-1mb.gif" group-title="FAX Sports",Türkmenistan Sport (406p) [Not 24/7]
+#EXTINF:-1 tvg-id=" Türkmenistan Sport   "tvg-logo="https://thumbs.gfycat.com/PoorWelllitGull-max-1mb.gif" group-title="FAX |  Sports",Türkmenistan Sport 
 https://alpha.tv.online.tm/hls/ch004.m3u8
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/AntiqueCostlyIraniangroundjay-size_restricted.gif" group-title="FAX Sports",Turf Móvil (720p)
+#EXTINF:-1 tvg-id=" Turf Móvil  " tvg-logo="https://thumbs.gfycat.com/AntiqueCostlyIraniangroundjay-size_restricted.gif" group-title="FAX  | Sports",Turf Móvil
 https://janus.tvturf.cl/playlist/stream.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Teletrac_Logo.png" group-title="FAX Sports",Teletrak (720p)
+#EXTINF:-1 tvg-id="Teletrak    " tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Teletrac_Logo.png" group-title="FAX  | Sports",Teletrak 
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:1 tvg-logo="https://cdn1.valuegaia.com.br/gaiasite/53755/CONFIG.FAVICON/f2b91859c6ae306e20c177eed4d5c3b2-FTF.jpeg" group-title="FAX Sports",FTF (720p)
+#EXTINF:-1 tvg-id=" FTF   "tvg-logo="https://cdn1.valuegaia.com.br/gaiasite/53755/CONFIG.FAVICON/f2b91859c6ae306e20c177eed4d5c3b2-FTF.jpeg" group-title="FAX |  Sports",FTF 
 https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.teambonding.com/wp-content/uploads/2021/05/Esports-coming-soon-gif-1.gif" group-title="FAX Sports",Esports Max [Not 24/7]
+#EXTINF:-1 tvg-id=" Max   " tvg-logo="https://www.teambonding.com/wp-content/uploads/2021/05/Esports-coming-soon-gif-1.gif" group-title="FAX |  Sports",Esports Max 
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-#EXTINF:1 tvg-logo="https://gifdb.com/images/high/ultimate-warrior-slapping-0ztxtbgsrsg0ez9m.gif" group-title="FAX Sports",Fighting Spirit (720p)
+#EXTINF:-1 tvg-id="  Fighting Spirit "tvg-logo="https://gifdb.com/images/high/ultimate-warrior-slapping-0ztxtbgsrsg0ez9m.gif" group-title="FAX |  Sports",Fighting Spirit
 https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFYL4G-PYoc4ZveF3hum-hMv6YzYdYSZSLMHQv5kHxFPo3wjaYY0h1iWzAdcmPwPX_WO8&usqp=CAU" group-title="FAX Sports",Fight Network (1080p)
+#EXTINF:-1 tvg-id=" Fight Network   "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFYL4G-PYoc4ZveF3hum-hMv6YzYdYSZSLMHQv5kHxFPo3wjaYY0h1iWzAdcmPwPX_WO8&usqp=CAU" group-title="FAX |  Sports",Fight Network 
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ49lo1_nbP92GPBKqUBWy_z2NnX5-ZAyhrFYTLwYaGoTxozvFEPQvYULr2QFSVa8KjDuM&usqp=CAU" group-title="FAX Sports",Glory Kickboxing (720p)
+#EXTINF:-1 tvg-id=" Glory Kickboxing   "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ49lo1_nbP92GPBKqUBWy_z2NnX5-ZAyhrFYTLwYaGoTxozvFEPQvYULr2QFSVa8KjDuM&usqp=CAU" group-title="FAX |  Sports",Glory Kickboxing 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcvcyryddlQELt7WcIsoc7oSGADFaWuKAypNTCSTzWoS4xz_LvDuBffbhU_nzgQUZcMC8&usqp=CAU" group-title="FAX Sports",J Sports 1 (480p) [Not 24/7]
+#EXTINF:-1 tvg-id=" J Sports 1   "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcvcyryddlQELt7WcIsoc7oSGADFaWuKAypNTCSTzWoS4xz_LvDuBffbhU_nzgQUZcMC8&usqp=CAU" group-title="FAX  | Sports",J Sports 1 
 http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3KHrDPZ_7MDPUinFKBZqzscsfUsgW6qRNbg&usqp=CAU" group-title="FAX Sports",J Sports 2 (480p) [Not 24/7]
+#EXTINF:-1 tvg-id=" J Sports 2   "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3KHrDPZ_7MDPUinFKBZqzscsfUsgW6qRNbg&usqp=CAU" group-title="FAX  | Sports",J Sports 2 
 http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0UPDcb2ZQexnQT6wXweRW_UGyzFbv8FFAgA&usqp=CAU" group-title="FAX Sports",J Sports 4 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id=" J Sports 3 "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0UPDcb2ZQexnQT6wXweRW_UGyzFbv8FFAgA&usqp=CAU" group-title="FAX |  Sports",J Sports 3
 http://cdnv148.cloudrsst.com:1935/jptv/jsports1_720/playlist.m3u8
 
 #EXTM3U url-tvg="http://grade-de-Infantil.xml"
@@ -2908,6 +2912,45 @@ https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-1/play_v1_hls_1080p.m
 #EXTINF:1 tvg-logo="https://m.media-amazon.com/images/I/61qFB+qgWVL._AC_SX522_.jpg" group-title="FAX AUTISMO",Rain Man  Charlie (Tom Cruise), um jovem yuppie, fica sabendo que seu pai faleceu. Eles nunca se deram bem e não se viam há vários anos, mas ele vai ao enterro e, ao cuidar do testamento, descobre que herdou um Buick 1949 e algumas roseiras premiadas, enquanto um “beneficiário” tinha herdado três milhões de dólares. Curioso em saber quem herdou a fortuna, ele descobre que foi seu irmão Raymond (Dustin Hoffman), cuja existência ele desconhecia. Autista, Raymond é capaz de calcular problemas matemáticos com grande velocidade e precisão. Charlie sequestra o irmão da instituição onde ele está internado para levá-lo para Los Angeles e exigir metade do dinheiro, nem que para isto tenha que ir aos tribunais. É durante uma viagem cheia de pequenos imprevistos que os dois entenderão o significado de serem irmãos.
 https://sg.wptute.com/videoplayback/SjlzYS9FMHVJSCt6UWRabGpONFJZNDhDWXBhWk1NZTl5T3RyTGFDZ2JLczFpdFFRWnVkL3lQa1BXbDhaa09VSG9TK2FTSjMxazRwRHVpN0lLQ1BPakE9PQ,,/original/?token=a2hha2NwR3hGNTltbVYrMlltRGVBQi8xbUl4RDhQRWpJZHdSOXEzYzIxbjFVN1BLaTRvcmpkS2tpL0JRdXRwY3VsMzFxSGw5Qm0zdnp1RDR2b0VqS0E9PQ,,
 
+#EXTM3U url-tvg="http://grade-de-SÉRIES | EXCLUSIVAS",O Paciente.xml"
+############## SÉRIES | EXCLUSIVAS",O Paciente ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | EXCLUSIVAS",O Paciente" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="O Paciente S01 O Paciente S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab6A08ihBr1t8FCE6KFbxkHDEkx.jpg" group-title="SÉRIES | EXCLUSIVAS",O Paciente S01 O Paciente S01E01
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Paciente S01 O Paciente S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab6A08ihBr1t8FCE6KFbxkHDEkx.jpg" group-title="SÉRIES | EXCLUSIVAS",O Paciente S01 O Paciente S01E02
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Paciente S01 O Paciente S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab6A08ihBr1t8FCE6KFbxkHDEkx.jpg" group-title="SÉRIES | EXCLUSIVAS",O Paciente S01 O Paciente S01E03
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Paciente S01 O Paciente S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab6A08ihBr1t8FCE6KFbxkHDEkx.jpg" group-title="SÉRIES | EXCLUSIVAS",O Paciente S01 O Paciente S01E04
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Paciente S01 O Paciente S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab6A08ihBr1t8FCE6KFbxkHDEkx.jpg" group-title="SÉRIES | EXCLUSIVAS",O Paciente S01 O Paciente S01E05
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Paciente S01 O Paciente S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab6A08ihBr1t8FCE6KFbxkHDEkx.jpg" group-title="SÉRIES | EXCLUSIVAS",O Paciente S01 O Paciente S01E06
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Paciente S01 O Paciente S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab6A08ihBr1t8FCE6KFbxkHDEkx.jpg" group-title="SÉRIES | EXCLUSIVAS",O Paciente S01 O Paciente S01E07
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Paciente S01 O Paciente S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab6A08ihBr1t8FCE6KFbxkHDEkx.jpg" group-title="SÉRIES | EXCLUSIVAS",O Paciente S01 O Paciente S01E08
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Paciente S01 O Paciente S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab6A08ihBr1t8FCE6KFbxkHDEkx.jpg" group-title="SÉRIES | EXCLUSIVAS",O Paciente S01 O Paciente S01E09
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Paciente S01 O Paciente S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab6A08ihBr1t8FCE6KFbxkHDEkx.jpg" group-title="SÉRIES | EXCLUSIVAS",O Paciente S01 O Paciente S01E10
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287275.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | EXCLUSIVAS",Longe Demais.xml"
+############## SÉRIES | EXCLUSIVAS",Longe Demais ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | EXCLUSIVAS",Longe Demais" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Longe Demais S01 Longe Demais S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svGLFlbjDKx67CVUEFtPGooW25F.jpg" group-title="SÉRIES | EXCLUSIVAS",Longe Demais S01 Longe Demais S01E01
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Longe Demais S01 Longe Demais S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svGLFlbjDKx67CVUEFtPGooW25F.jpg" group-title="SÉRIES | EXCLUSIVAS",Longe Demais S01 Longe Demais S01E02
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Longe Demais S01 Longe Demais S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svGLFlbjDKx67CVUEFtPGooW25F.jpg" group-title="SÉRIES | EXCLUSIVAS",Longe Demais S01 Longe Demais S01E03
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Longe Demais S01 Longe Demais S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svGLFlbjDKx67CVUEFtPGooW25F.jpg" group-title="SÉRIES | EXCLUSIVAS",Longe Demais S01 Longe Demais S01E04
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Longe Demais S01 Longe Demais S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svGLFlbjDKx67CVUEFtPGooW25F.jpg" group-title="SÉRIES | EXCLUSIVAS",Longe Demais S01 Longe Demais S01E05
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287216.mp4
 
 #EXTM3U url-tvg="http://grade-de-Filmes Jackie Chan.xml"
 ############## Filmes Jackie Chan ################# 
@@ -3104,69 +3147,66 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDTDxoR7QNbqDAq5KY6nY8GwZsttlpcb518LQsfVFEGPKO85cNfmUCvtS_xDsc2_6bkWE&usqp=CAU" group-title="plutotv",I Love Reality
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0fb8790-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9c8bf79-8759-4e47-a808-d6b5e45f63a8&userId=&serverSideAds=true
 
-#EXTM3U url-tvg="http://grade-de-FilmesDrama.xml"
-############## FilmesDrama ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFilmesDrama" group-title="
-
-#EXTINF:1 tvg-logo="https://br.web.img2.acsta.net/pictures/19/03/18/22/15/0090467.jpg" group-title="FilmesDrama",Hora de Recomeçar
-https://play.prod.gcp.vix.services/urban-country_pt/urban-country_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://cinemacao.com/wp-content/uploads/2016/05/Copenhagen-03.jpg" group-title="FilmesDrama",Copenhagen
-https://play.prod.gcp.vix.services/copenhagen-2014_pt/copenhagen-2014_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://resizing.flixster.com/3M4u54Mns6pLlnu69FhgECk7iLM=/300x300/v2/https://flxt.tmsimg.com/assets/p11593878_p_v8_ac.jpg" group-title="FilmesDrama",Jackie & Ryan: Amor Sem Medidas
-https://play.prod.gcp.vix.services/jackie-ryan_pt/jackie-ryan_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://1.bp.blogspot.com/-_KtoJLXolXg/YM6AUFjPcWI/AAAAAAAAMzI/CTFNoETEDuAMUvjacwU6Mrd67iI4B2GFQCLcBGAsYHQ/s1080/tra%25CC%2581fico%2Bde%2Bmulheres.png" group-title="FilmesDrama",Tráfico de Mulheres
-https://play.prod.gcp.vix.services/trafficked_pt/trafficked_pt_1-1/hls_2500.m3u8
-#EXTINF:1 tvg-logo="https://br.web.img2.acsta.net/pictures/18/03/02/12/53/2264073.jpg" group-title="FilmesDrama",Submersão
-https://play.prod.gcp.vix.services/submergence-sofa_pt/submergence-sofa_pt_1-1/play_v2_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/gII53HAH7UA1yx189vROMzWA5ib.jpg"group-title="FilmesDrama", AMINA
-https://seig.tv/15/1/af5d1b54c7bdadbada9733110a7a453e/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/mEy7LO4jTPSzzyDyCP5GtPkkzow.jpg"group-title="FilmesDrama",Uma História Real
-https://seig.tv/15/1/ce4b57ca9f3a4efaef17f83f1a083260/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/xgkPqBYJdzvvQWSZKou6DXbP7cy.jpg"group-title="FilmesDrama",Preto ou Branco 
-https://seig.tv/15/1/d9c75d5b02bc1760d3b8aa4ce9f61ab5/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/1TU9bV5U33me9k3wao17qqZsFmg.jpg"group-title="FilmesDrama",Heróis de Fogo 
-https://seig.tv/14/1/82bf977885df510adf860729447dbadc/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/1ByR9H5av86GaRkZqnbzP3kRVJY.jpg"group-title="FilmesDrama",Difícil de Engolir 
-https://seig.tv/11/1/870f3a7335d79e718bd1d09490fe5fc0/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/c49uzZOOa69ZrcHR4O4k7mqwB6J.jpg"group-title="FilmesDrama",Um Lugar Secreto
-https://seig.tv/14/1/3e00b8e210b046c2f4f3eb267e2bcf55/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/lNB0paBNvexdpSOOIQEt6ilEcm9.jpg"group-title="FilmesDrama",Desafio do Destino
-https://seig.tv/14/1/a0595ab2196ca631ee15e34dfc3f7313/720p/720p.m3u8
-#EXTINF:1 tvg-logo="hthttps://image.tmdb.org/t/p/w185/dpl1DCWBrm4OB9y6wW8N1gR8w44.jpg"group-title="FilmesDrama",Um Homem Bom
-https://seig.tv/11/1/f10e114ffddacd2768c839b6d67c3608/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/cxNjDInLNoQHWFeEFJLqUMNYLAg.jpg"group-title="FilmesDrama",Uma Jornada Para Toda a Vida
-https://seig.tv/12/1/21c4352a533ded226428b8b0363a8717/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/ApS1M1YQXbz6JfDlLE2W3vpvpiP.jpg"group-title="FilmesDrama",O Bom Pastor
-https://seig.tv/14/1/0b2d331d8970f45c331a0f67bb47137a/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/qx79wDfzlQ1ssbxvppClm6LSp0j.jpg"group-title="FilmesDrama",A Escolha
-https://seig.tv/16/1/f3718837b2b28090d068ad4e7d0ebc8c/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/2ArHhi0AzjSFYrp1m0xZVjdhws5.jpg"group-title="FilmesDrama",A Vila dos Suicídios
-https://seig.tv/15/1/7d2203fa7bd3c24e46d2a652ba4f4ef5/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/88C3eml0THgk3gOV23XDotOppJv.jpg"group-title="FilmesDrama",438 Dias 
-https://seig.tv/15/1/628c16c30c5a3bfb58d8b8297465caa5/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://image.tmdb.org/t/p/w185/plp9AHFlFghfmMESJyPmsJnhQao.jpg"group-title="FilmesDrama",Propriedade do Estado 2
-https://seig.tv/16/1/c263fb066b9ccf666a5e4926ffd454ea/720p/720p.m3u8
-#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/90/76/54/20112654.png" group-title="FilmesDrama",Não Estou Lá
-https://play.prod.gcp.vix.services/im-not-there_pt/im-not-there_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/ojVgRGyQ4uw/maxresdefault.jpg" group-title="FilmesDrama",O Assassino do Alfabeto
-https://play.prod.gcp.vix.services/alphabet-killer_pt/alphabet-killer_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:1 tvg-logo="https://images.justwatch.com/poster/238688217/s718/boys-of-abu-ghraib.%7Bformat%7D" group-title="FilmesDrama",Vigilantes da Guerra
-https://play.prod.gcp.vix.services/boys-ghraib_pt/boys-ghraib_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/jkz1FcoShCc/maxresdefault.jpg" group-title="FilmesDrama",Cúmplices de Um Segredo
-https://play.prod.gcp.vix.services/perfect-sister_pt/perfect-sister_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/idddBuMwZyY/maxresdefault.jpg" group-title="FilmesDrama",Sobibor
-https://play.prod.gcp.vix.services/sobibor_pt/sobibor_pt_1-1/hls_2500.m3u8
-#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/15/09/04/20/59/336333.jpg" group-title="FilmesDrama",Inferno na Ilha
-https://play.prod.gcp.vix.services/kongen-bastoy_pt/kongen-bastoy_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9d/Estrada47.jpg/250px-Estrada47.jpg" group-title="FilmesDrama",A Estrada 47
-https://play.prod.gcp.vix.services/estrada-47_pt/estrada-47_pt_1-1/hls_2500.m3u8
-#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/16/05/12/20/02/178694.jpg" group-title="FilmesDrama",Desafios de uma Vida
-https://play.prod.gcp.vix.services/red-dirt-rising_pt/red-dirt-rising_pt_1-1/hls_2500.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/p4aQLDKVC2Q/maxresdefault.jpg" group-title="FilmesDrama",O Vigilante Mascarado
-https://play.prod.gcp.vix.services/masked-saint_pt/masked-saint_pt_1-1/hls_2500.m3u8
-
+#EXTM3U url-tvg="http://grade-de-FILMES | DRAMA.xml"
 ############## FILMES | DRAMA ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | DRAMA" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="Hora de Recomeçar" tvg-logo="https://br.web.img2.acsta.net/pictures/19/03/18/22/15/0090467.jpg" group-title="FILMES | DRAMA",Hora de Recomeçar
+https://play.prod.gcp.vix.services/urban-country_pt/urban-country_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Copenhagen" tvg-logo="https://cinemacao.com/wp-content/uploads/2016/05/Copenhagen-03.jpg" group-title="FILMES | DRAMA",
+https://play.prod.gcp.vix.services/copenhagen-2014_pt/copenhagen-2014_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jackie & Ryan: Amor Sem Medidas "tvg-logo="https://resizing.flixster.com/3M4u54Mns6pLlnu69FhgECk7iLM=/300x300/v2/https://flxt.tmsimg.com/assets/p11593878_p_v8_ac.jpg" group-title="FILMES | DRAMA",Jackie & Ryan: Amor Sem Medidas
+https://play.prod.gcp.vix.services/jackie-ryan_pt/jackie-ryan_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tráfico de Mulheres" tvg-logo="https://1.bp.blogspot.com/-_KtoJLXolXg/YM6AUFjPcWI/AAAAAAAAMzI/CTFNoETEDuAMUvjacwU6Mrd67iI4B2GFQCLcBGAsYHQ/s1080/tra%25CC%2581fico%2Bde%2Bmulheres.png" group-title="FILMES | DRAMA",Tráfico de Mulheres
+https://play.prod.gcp.vix.services/trafficked_pt/trafficked_pt_1-1/hls_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Submersão "tvg-logo="https://br.web.img2.acsta.net/pictures/18/03/02/12/53/2264073.jpg" group-title="FILMES | DRAMA",Submersão
+https://play.prod.gcp.vix.services/submergence-sofa_pt/submergence-sofa_pt_1-1/play_v2_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMINA" tvg-logo="https://image.tmdb.org/t/p/w185/gII53HAH7UA1yx189vROMzWA5ib.jpg"group-title="FILMES | DRAMA", AMINA
+https://seig.tv/15/1/af5d1b54c7bdadbada9733110a7a453e/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Uma História Real" tvg-logo="https://image.tmdb.org/t/p/w185/mEy7LO4jTPSzzyDyCP5GtPkkzow.jpg"group-title="FILMES | DRAMA",Uma História Real
+https://seig.tv/15/1/ce4b57ca9f3a4efaef17f83f1a083260/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Preto ou Branco " tvg-logo="https://image.tmdb.org/t/p/w185/xgkPqBYJdzvvQWSZKou6DXbP7cy.jpg"group-title="FILMES | DRAMA",Preto ou Branco 
+https://seig.tv/15/1/d9c75d5b02bc1760d3b8aa4ce9f61ab5/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Heróis de Fogo " tvg-logo="https://image.tmdb.org/t/p/w185/1TU9bV5U33me9k3wao17qqZsFmg.jpg"group-title="FILMES | DRAMA",Heróis de Fogo 
+https://seig.tv/14/1/82bf977885df510adf860729447dbadc/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Difícil de Engolir " tvg-logo="https://image.tmdb.org/t/p/w185/1ByR9H5av86GaRkZqnbzP3kRVJY.jpg"group-title="FILMES | DRAMA",Difícil de Engolir 
+https://seig.tv/11/1/870f3a7335d79e718bd1d09490fe5fc0/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Um Lugar Secreto" tvg-logo="https://image.tmdb.org/t/p/w185/c49uzZOOa69ZrcHR4O4k7mqwB6J.jpg"group-title="FILMES | DRAMA",Um Lugar Secreto
+https://seig.tv/14/1/3e00b8e210b046c2f4f3eb267e2bcf55/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desafio do Destino" tvg-logo="https://image.tmdb.org/t/p/w185/lNB0paBNvexdpSOOIQEt6ilEcm9.jpg"group-title="FILMES | DRAMA",Desafio do Destino
+https://seig.tv/14/1/a0595ab2196ca631ee15e34dfc3f7313/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Um Homem Bom "tvg-logo="hthttps://image.tmdb.org/t/p/w185/dpl1DCWBrm4OB9y6wW8N1gR8w44.jpg"group-title="FILMES | DRAMA",Um Homem Bom
+https://seig.tv/11/1/f10e114ffddacd2768c839b6d67c3608/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Uma Jornada Para Toda a Vida"tvg-logo="https://image.tmdb.org/t/p/w185/cxNjDInLNoQHWFeEFJLqUMNYLAg.jpg"group-title="FILMES | DRAMA",Uma Jornada Para Toda a Vida
+https://seig.tv/12/1/21c4352a533ded226428b8b0363a8717/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Bom Pastor" tvg-logo="https://image.tmdb.org/t/p/w185/ApS1M1YQXbz6JfDlLE2W3vpvpiP.jpg"group-title="FILMES | DRAMA",O Bom Pastor
+https://seig.tv/14/1/0b2d331d8970f45c331a0f67bb47137a/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Escolha"tvg-logo="https://image.tmdb.org/t/p/w185/qx79wDfzlQ1ssbxvppClm6LSp0j.jpg"group-title="FILMES | DRAMA",A Escolha
+https://seig.tv/16/1/f3718837b2b28090d068ad4e7d0ebc8c/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Vila dos Suicídios"tvg-logo="https://image.tmdb.org/t/p/w185/2ArHhi0AzjSFYrp1m0xZVjdhws5.jpg"group-title="FILMES | DRAMA",A Vila dos Suicídios
+https://seig.tv/15/1/7d2203fa7bd3c24e46d2a652ba4f4ef5/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="438 Dias " tvg-logo="https://image.tmdb.org/t/p/w185/88C3eml0THgk3gOV23XDotOppJv.jpg"group-title="FILMES | DRAMA",438 Dias 
+https://seig.tv/15/1/628c16c30c5a3bfb58d8b8297465caa5/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Propriedade do Estado 2 "tvg-logo="https://image.tmdb.org/t/p/w185/plp9AHFlFghfmMESJyPmsJnhQao.jpg"group-title="FILMES | DRAMA",Propriedade do Estado 2
+https://seig.tv/16/1/c263fb066b9ccf666a5e4926ffd454ea/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Não Estou Lá" tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/90/76/54/20112654.png" group-title="FILMES | DRAMA",Não Estou Lá
+https://play.prod.gcp.vix.services/im-not-there_pt/im-not-there_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Assassino do Alfabeto "tvg-logo="https://i.ytimg.com/vi/ojVgRGyQ4uw/maxresdefault.jpg" group-title="FILMES | DRAMA",O Assassino do Alfabeto
+https://play.prod.gcp.vix.services/alphabet-killer_pt/alphabet-killer_pt_1-1/play_v1_hls_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vigilantes da Guerra" tvg-logo="https://images.justwatch.com/poster/238688217/s718/boys-of-abu-ghraib.%7Bformat%7D" group-title="FILMES | DRAMA",Vigilantes da Guerra
+https://play.prod.gcp.vix.services/boys-ghraib_pt/boys-ghraib_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Cúmplices de Um Segredo"tvg-logo="https://i.ytimg.com/vi/jkz1FcoShCc/maxresdefault.jpg" group-title="FilmesDrama",Cúmplices de Um Segredo
+https://play.prod.gcp.vix.services/perfect-sister_pt/perfect-sister_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sobibor"tvg-logo="https://i.ytimg.com/vi/idddBuMwZyY/maxresdefault.jpg" group-title="FILMES | DRAMA",Sobibor
+https://play.prod.gcp.vix.services/sobibor_pt/sobibor_pt_1-1/hls_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Inferno na Ilha"tvg-logo="https://br.web.img3.acsta.net/pictures/15/09/04/20/59/336333.jpg" group-title="FILMES | DRAMA",Inferno na Ilha
+https://play.prod.gcp.vix.services/kongen-bastoy_pt/kongen-bastoy_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Estrada 47"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9d/Estrada47.jpg/250px-Estrada47.jpg" group-title="FILMES | DRAMA",A Estrada 47
+https://play.prod.gcp.vix.services/estrada-47_pt/estrada-47_pt_1-1/hls_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desafios de uma Vida "tvg-logo="https://br.web.img3.acsta.net/pictures/16/05/12/20/02/178694.jpg" group-title="FILMES | DRAMA",Desafios de uma Vida
+https://play.prod.gcp.vix.services/red-dirt-rising_pt/red-dirt-rising_pt_1-1/hls_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Vigilante Mascarado" tvg-logo="https://i.ytimg.com/vi/p4aQLDKVC2Q/maxresdefault.jpg" group-title="FILMES | DRAMA",O Vigilante Mascarado
+https://play.prod.gcp.vix.services/masked-saint_pt/masked-saint_pt_1-1/hls_2500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Parabéns a Você (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w462t2q6FYLEJdDH8l4YemzHvZC.jpg" group-title="FILMES | DRAMA",Parabéns a Você (2019)
 http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/293326.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Encurralado (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dt5z6FUcyjVMC6rOIF5rxeMOkY.jpg" group-title="FILMES | DRAMA",Encurralado (2019)
@@ -3190,422 +3230,421 @@ http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/289472.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Querido Menino (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ut5sNIXsNb9tHnVJ090V13im4A8.jpg" group-title="FILMES | DRAMA",Querido Menino (2018)
 http://conexaoonline.top:80/movie/0818687333/key6g0KZ980/292781.mp4
 
-#EXTM3U url-tvg="http://grade-de-GOSPEL.xml"
-############## GOSPEL ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeGOSPEL" group-title="
+#EXTM3U url-tvg="http://grade-de-GOSPEL |filmes Tv e Clips.xml"
+############## GOSPEL |filmes Tv e Clips ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeGOSPEL |filmes Tv e Clips" group-title="
 
-#EXTINF:1 tvg-logo="http://www.topmixtv.com.br/wp-content/uploads/2023/01/topmixtvlogocapa2.png" group-title="GOSPEL",topmixtv
+#EXTINF:-1 tvg-id="" tvg-name=" topmixtv  " tvg-logo="http://www.topmixtv.com.br/wp-content/uploads/2023/01/topmixtvlogocapa2.png" group-title="GOSPEL |filmes Tv e Clips",topmixtv
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w32285497.m3u8
-#EXTINF:1 tvg-logo="https://lh3.googleusercontent.com/YGQBOz8S_C_yIlVhjPXVKDOdkvaV-Dox0HRmICJ31m2ZK5DxS3KiJpKBv0uK0AAR-w" group-title="GOSPEL",Clips Gospel 
+#EXTINF:-1 tvg-id="" tvg-name=" Clips Gospel   " tvg-logo="https://lh3.googleusercontent.com/YGQBOz8S_C_yIlVhjPXVKDOdkvaV-Dox0HRmICJ31m2ZK5DxS3KiJpKBv0uK0AAR-w" group-title="GOSPEL |filmes Tv e Clips",Clips Gospel 
 https://stmv1.voxtvhd.com.br/7070/7070/chunklist_w2035493168.m3u8
-#EXTINF:1 tvg-logo="https://media.licdn.com/dms/image/C4D03AQFHqaBar_bEig/profile-displayphoto-shrink_800_800/0/1651148714012?e=2147483647&v=beta&t=I_rn_WII1lWNRIMXryVJCBhjeUGw1gCdF_jUUGl_b2o" group-title="GOSPEL",Rede Clouding
+#EXTINF:-1 tvg-id="" tvg-name=" Rede Clouding  " tvg-logo="https://media.licdn.com/dms/image/C4D03AQFHqaBar_bEig/profile-displayphoto-shrink_800_800/0/1651148714012?e=2147483647&v=beta&t=I_rn_WII1lWNRIMXryVJCBhjeUGw1gCdF_jUUGl_b2o" group-title="GOSPEL |filmes Tv e Clips",Rede Clouding
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w334609289.m3u8
-#EXTINF:1 tvg-logo="https://aquitemfofoca.com.br/wp-content/uploads/2021/12/rs-21-logo.png" group-title="GOSPEL",Rede Século 21 
+#EXTINF:-1 tvg-id="" tvg-name=" Rede Século 21   " tvg-logo="https://aquitemfofoca.com.br/wp-content/uploads/2021/12/rs-21-logo.png" group-title="GOSPEL |filmes Tv e Clips",Rede Século 21 
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/chunklist_b1428000.m3u8
-#EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/f/f5/Tvnovotempo.jpg/revision/latest?cb=20160619201050&path-prefix=pt-br" group-title="GOSPEL",Novo Tempo TV online
+#EXTINF:-1 tvg-id="" tvg-name="  Novo Tempo TV online " tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/f/f5/Tvnovotempo.jpg/revision/latest?cb=20160619201050&path-prefix=pt-br" group-title="GOSPEL |filmes Tv e Clips",Novo Tempo TV online
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
-#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVja7Fr6abZfJP6E4TuOj6J0Ce6uRRhaZ9P6dU8=s900-c-k-c0x00ffffff-no-rj" group-title="GOSPEL",RBATV online
+#EXTINF:-1 tvg-id="" tvg-name=" RBATV online  " tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVja7Fr6abZfJP6E4TuOj6J0Ce6uRRhaZ9P6dU8=s900-c-k-c0x00ffffff-no-rj" group-title="GOSPEL |filmes Tv e Clips",RBATV online
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w742622427.m3u8
-#EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/d/d5/Paieterno.png/revision/latest?cb=20190527225949&path-prefix=pt-br" group-title="GOSPEL",TV Pai Eterno
+#EXTINF:-1 tvg-id="" tvg-name=" TV Pai Eterno  " tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/d/d5/Paieterno.png/revision/latest?cb=20190527225949&path-prefix=pt-br" group-title="GOSPEL |filmes Tv e Clips",TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
-#EXTINF:1 tvg-logo="http://redemaisfamilia.com.br/wp-content/uploads/2022/08/Logo-rede-mais-familia.png" group-title="GOSPEL",Rede Mais Família online
+#EXTINF:-1 tvg-id="" tvg-name=" Rede Mais Família online  " tvg-logo="http://redemaisfamilia.com.br/wp-content/uploads/2022/08/Logo-rede-mais-familia.png" group-title="GOSPEL |filmes Tv e Clips",Rede Mais Família online
 https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/chunklist_w1391629663.m3u8
-#EXTINF:1 tvg-logo="http://4.bp.blogspot.com/-e-1ZcodlxlE/Uo1L2H8Ut1I/AAAAAAAAAjU/2URMa539cdM/s320/Rede_Boas_Novas.png" group-title="GOSPEL",Boas Novas online 
+#EXTINF:-1 tvg-id="" tvg-name=" Boas Novas online   " tvg-logo="http://4.bp.blogspot.com/-e-1ZcodlxlE/Uo1L2H8Ut1I/AAAAAAAAAjU/2URMa539cdM/s320/Rede_Boas_Novas.png" group-title="GOSPEL |filmes Tv e Clips",
 https://cdn.jmvstream.com/w/AVJ-12960/playlist/chunklist.m3u8
-#EXTINF:-1 tvg-id="IMPD TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJU-qtFgQMCW51bwPTnOBeaXb-ONGvLkjyquzfOk=s900-c-k-c0x00ffffff-no-rj" group-title="GOSPEL",Igreja Cristo Vive
+#EXTINF:-1 tvg-id="" tvg-name=" Igreja Cristo Vive  " tvg-id="IMPD TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJU-qtFgQMCW51bwPTnOBeaXb-ONGvLkjyquzfOk=s900-c-k-c0x00ffffff-no-rj" group-title="GOSPEL |filmes Tv e Clips",Igreja Cristo Vive
 https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w1869343695.m3u8
-#EXTINF:-1 tvg-id="IMPD TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/66/Logotipo_da_TV_Universal.png" group-title="GOSPEL",Igreja Universal
+#EXTINF:-1 tvg-id="" tvg-name=" Igreja Universal  " tvg-id="IMPD TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/66/Logotipo_da_TV_Universal.png" group-title="GOSPEL |filmes Tv e Clips",Igreja Universal
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5e0dca9c62c344c49c98d1bd67409be5/chunklist_b4628000.m3u8?p=79&amp;s=1649790438&amp;e=1649790558&amp;h=1f557f1aea4a88497cc58ba6ad98eecf
-#EXTINF:-1 tvg-id="IMPD TV" tvg-logo="https://i.ytimg.com/vi/esWqTQaxqu4/hqdefault.jpg" group-title="GOSPEL",IMPD TV
+#EXTINF:-1 tvg-id="" tvg-name=" IMPD TV  " tvg-id="IMPD TV" tvg-logo="https://i.ytimg.com/vi/esWqTQaxqu4/hqdefault.jpg" group-title="GOSPEL |filmes Tv e Clips",IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w1658619409_b3203072.m3u8
-#EXTINF:-1 tvg-id="Mega TV" tvg-logo="https://image.roku.com/developer_channels/prod/d56cb517cafb707231f9156ede90e4a7fb3c6c96904eae9ed00c101eaf58ad78.png" group-title="GOSPEL",Mega TV
+#EXTINF:-1 tvg-id="" tvg-name=" Mega TV  " tvg-id="Mega TV" tvg-logo="https://image.roku.com/developer_channels/prod/d56cb517cafb707231f9156ede90e4a7fb3c6c96904eae9ed00c101eaf58ad78.png" group-title="GOSPEL |filmes Tv e Clips",Mega TV
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_282af8f1-f840-422f-a668-aab7924e45ff.m3u8
-#EXTINF:-1 tvg-id="TVUniversal.br" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="GOSPEL",TV Universal (480p)
+#EXTINF:-1 tvg-id="" tvg-name=" TV Universal (480p)  " tvg-id="TVUniversal.br" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="GOSPEL |filmes Tv e Clips",TV Universal (480p)
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-logo="https://i.imgur.com/PExKWNv.png" group-title="GOSPEL",TV Terceiro Anjo (360p)
+#EXTINF:-1 tvg-id="" tvg-name=" TV Terceiro Anjo (360p)  " tvg-id="TVTerceiroAnjo.br" tvg-logo="https://i.imgur.com/PExKWNv.png" group-title="GOSPEL |filmes Tv e Clips",TV Terceiro Anjo (360p)
 https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
-#EXTINF:1 tvg-logo="http://25.media.tumblr.com/ae69ba191eb6abf0fc0da1a28c97737b/tumblr_mi7nyteJA91s35jdto1_500.gif" group-title="GOSPEL",gospel 1
+#EXTINF:-1 tvg-id="" tvg-name=" gospel 1  " tvg-logo="http://25.media.tumblr.com/ae69ba191eb6abf0fc0da1a28c97737b/tumblr_mi7nyteJA91s35jdto1_500.gif" group-title="GOSPEL |filmes Tv e Clips",gospel 1
 https://stmv1.voxtvhd.com.br/7070/7070/chunklist_w2035493168.m3u8
-#EXTINF:1 tvg-logo="https://pa1.narvii.com/6712/f44129791177a9fcb78478f62e43869510c4b171_hq.gif" group-title="GOSPEL",gospel 2
+#EXTINF:-1 tvg-id="" tvg-name="  gospel 2 " tvg-logo="https://pa1.narvii.com/6712/f44129791177a9fcb78478f62e43869510c4b171_hq.gif" group-title="GOSPEL |filmes Tv e Clips",gospel 2
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w32285497.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8wh62w4pcagDf-r75-IeH5bwoCS8tqYodzvh6EQnL-aUIvLmdwZPAFhmpG4L_t-bUf4&usqp=CAU" group-title="GOSPEL",gospelcartoon
+#EXTINF:-1 tvg-id="" tvg-name=" gospel cartoon  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8wh62w4pcagDf-r75-IeH5bwoCS8tqYodzvh6EQnL-aUIvLmdwZPAFhmpG4L_t-bUf4&usqp=CAU" group-title="GOSPEL |filmes Tv e Clips",gospel cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w191837823.m3u8
-#EXTINF:1 tvg-logo="http://3.bp.blogspot.com/_fVDkXpnqFSU/TK8mONg1H4I/AAAAAAAAABc/4lvgyNRoDQE/s320/rede_gospel_tv.gif" group-title="GOSPEL",Rede Gospel
+#EXTINF:-1 tvg-id="" tvg-name=" Rede Gospel  " tvg-logo="http://3.bp.blogspot.com/_fVDkXpnqFSU/TK8mONg1H4I/AAAAAAAAABc/4lvgyNRoDQE/s320/rede_gospel_tv.gif" group-title="GOSPEL |filmes Tv e Clips",Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/AbleSmoothFrenchbulldog-size_restricted.gif" group-title="GOSPEL",Gospel Cartoon
+#EXTINF:-1 tvg-id="" tvg-name=" Cartoon  "tvg-logo="https://thumbs.gfycat.com/AbleSmoothFrenchbulldog-size_restricted.gif" group-title="GOSPEL |filmes Tv e Clips",Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-#EXTINF:1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFnTD4TQTqM2AymLbeY47aBk7PilJkuYhr1ZMPXURGQq44y4gefeeawaSbkAJ2yUKvi0dr487zOKq0NVx-nVyOKXo9mJPVW9ooaxEHEQi4kvtCruNt6a1CuQeuYmmn8FFCKkztlLQQA3Rn-vgPlRbJ323jLnsSy9dUNBhncrm6e1rTRWk3veYlZOv2/w1200-h630-p-k-no-nu/GOSPEL%20MOVIES%20TELEVISION.webp" group-title="GOSPEL",Gospel Movie TV
+#EXTINF:-1 tvg-id="" tvg-name="  Movie TV " tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFnTD4TQTqM2AymLbeY47aBk7PilJkuYhr1ZMPXURGQq44y4gefeeawaSbkAJ2yUKvi0dr487zOKq0NVx-nVyOKXo9mJPVW9ooaxEHEQi4kvtCruNt6a1CuQeuYmmn8FFCKkztlLQQA3Rn-vgPlRbJ323jLnsSy9dUNBhncrm6e1rTRWk3veYlZOv2/w1200-h630-p-k-no-nu/GOSPEL%20MOVIES%20TELEVISION.webp" group-title="GOSPEL |filmes Tv e Clips", Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:1 tvg-logo=https://yt3.googleusercontent.com/ytc/AL5GRJUwacyp-bccklMQ18t0jUQcgiL2AUXx95A7jxtR=s900-c-k-c0x00ffffff-no-rj" group-title="GOSPEL",Gospel Music
+#EXTINF:-1 tvg-id="" tvg-name=" Gospel Music  " tvg-logo=https://yt3.googleusercontent.com/ytc/AL5GRJUwacyp-bccklMQ18t0jUQcgiL2AUXx95A7jxtR=s900-c-k-c0x00ffffff-no-rj" group-title="GOSPEL |filmes Tv e Clips",Gospel Music
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/AI2AShScOx8/maxresdefault.jpg" group-title="GOSPEL",Sansão e Dalila
+#EXTINF:-1 tvg-id="" tvg-name=" Sansão e Dalila  " tvg-logo="https://i.ytimg.com/vi/AI2AShScOx8/maxresdefault.jpg" group-title="GOSPEL |filmes Tv e Clips",Sansão e Dalila
 https://play.prod.gcp.vix.services/samson-delilah_pt/samson-delilah_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://br.web.img3.acsta.net/pictures/14/04/16/19/05/426206.jpg" group-title="GOSPEL",Jesus de Nazaré
+#EXTINF:-1 tvg-id="" tvg-name="  Jesus de Nazaré "tvg-logo="https://br.web.img3.acsta.net/pictures/14/04/16/19/05/426206.jpg" group-title="GOSPEL |filmes Tv e Clips",Jesus de Nazaré
 https://play.prod.gcp.vix.services/jesus-nazareth_pt/jesus-nazareth_pt_1-1/hls_2500.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/CIKJPxJnmTQ/maxresdefault.jpg" group-title="GOSPEL",A Fé que Nos Une
+#EXTINF:-1 tvg-id="" tvg-name=" A Fé que Nos Une  " tvg-logo="https://i.ytimg.com/vi/CIKJPxJnmTQ/maxresdefault.jpg" group-title="GOSPEL |filmes Tv e Clips",A Fé que Nos Une
 https://play.prod.gcp.vix.services/faith-fathers_pt/faith-fathers_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://ottvsimg.ottvs.com.br/cov/fre.200520/0200520_335.jpg" group-title="GOSPEL",Provas de Fé - João Paulo II
+#EXTINF:-1 tvg-id="" tvg-name=" Provas de Fé - João Paulo II  " tvg-logo="https://ottvsimg.ottvs.com.br/cov/fre.200520/0200520_335.jpg" group-title="GOSPEL |filmes Tv e Clips",Provas de Fé - João Paulo II
 https://play.prod.gcp.vix.services/faith-joao-paulo_pt/faith-joao-paulo_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_609008-MLB44718417483_012021-O.jpg" group-title="GOSPEL",Santa Barbara
+#EXTINF:-1 tvg-id="" tvg-name="  Santa Barbara " tvg-logo="https://http2.mlstatic.com/D_NQ_NP_609008-MLB44718417483_012021-O.jpg" group-title="GOSPEL |filmes Tv e Clips",Santa Barbara
 https://play.prod.gcp.vix.services/santa-barbara_pt/santa-barbara_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://www.verdadeluz.com.br/wp-content/uploads/2014/11/SANTO-AGOSTINHO-Filme-Completo.jpg" group-title="GOSPEL",Provas de Fé - Santo Agostinho
+#EXTINF:-1 tvg-id="" tvg-name=" Provas de Fé - Santo Agostinho  "tvg-logo="https://www.verdadeluz.com.br/wp-content/uploads/2014/11/SANTO-AGOSTINHO-Filme-Completo.jpg" group-title="GOSPEL |filmes Tv e Clips",Provas de Fé - Santo Agostinho
 https://play.prod.gcp.vix.services/faith-santo-agostinho_pt/faith-santo-agostinho_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/q6MjClyWf9Y/maxresdefault.jpg" group-title="GOSPEL",Provas de Fé - Santa Rita de Cássia
+#EXTINF:-1 tvg-id="" tvg-name=" Provas de Fé - Santa Rita de Cássia  " tvg-logo="https://i.ytimg.com/vi/q6MjClyWf9Y/maxresdefault.jpg" group-title="GOSPEL |filmes Tv e Clips",Provas de Fé - Santa Rita de Cássia
 https://play.prod.gcp.vix.services/faith-santa-rita_pt/faith-santa-rita_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i0.wp.com/escolabiblicaonline.net/wp-content/uploads/2020/10/sddefault-22.jpg?resize=560%2C416" group-title="GOSPEL",Quando Tudo Parece Perdido
+#EXTINF:-1 tvg-id="" tvg-name=" Quando Tudo Parece Perdido  "tvg-logo="https://i0.wp.com/escolabiblicaonline.net/wp-content/uploads/2020/10/sddefault-22.jpg?resize=560%2C416" group-title="GOSPEL |filmes Tv e Clips",Quando Tudo Parece Perdido
 https://play.prod.gcp.vix.services/sabina-k_pt/sabina-k_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/VOBWKSPbXRM/maxresdefault.jpg" group-title="GOSPEL",Meu Filho Amado
+#EXTINF:-1 tvg-id="" tvg-name=" Meu Filho Amado  " tvg-logo="https://i.ytimg.com/vi/VOBWKSPbXRM/maxresdefault.jpg" group-title="GOSPEL |filmes Tv e Clips",Meu Filho Amado
 https://play.prod.gcp.vix.services/my-son_pt/my-son_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://cdn.fstatic.com/media/movies/photos/2016/03/a-voz-de-deus_t52230.jpg" group-title="GOSPEL",A Voz de Deus
+#EXTINF:-1 tvg-id="" tvg-name="  A Voz de Deus " tvg-logo="https://cdn.fstatic.com/media/movies/photos/2016/03/a-voz-de-deus_t52230.jpg" group-title="GOSPEL |filmes Tv e Clips",A Voz de Deus
 https://play.prod.gcp.vix.services/saint-janet_pt/saint-janet_pt_1-1/play_v2_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://images.a12.com/source/files/c/254229/Filme_Tome-834200_600-315-0-0.jpg" group-title="GOSPEL",Tomé
+#EXTINF:-1 tvg-id="" tvg-name=" Tomé  " tvg-logo="https://images.a12.com/source/files/c/254229/Filme_Tome-834200_600-315-0-0.jpg" group-title="GOSPEL |filmes Tv e Clips",Tomé
 https://play.prod.gcp.vix.services/gli-amici-tommaso_pt/gli-amici-tommaso_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://image.winudf.com/v2/image1/aW5mby50dmdvc3BlbGNhcnRvb24xLnRlY2hfc2NyZWVuXzJfMTU1NzMyMzg2OV8wODM/screen-2.jpg?fakeurl=1&type=.webp" group-title="GOSPEL",Gospel Cartoon | BR
+#EXTINF:-1 tvg-id="" tvg-name=" Cartoon | BR  " tvg-logo="https://image.winudf.com/v2/image1/aW5mby50dmdvc3BlbGNhcnRvb24xLnRlY2hfc2NyZWVuXzJfMTU1NzMyMzg2OV8wODM/screen-2.jpg?fakeurl=1&type=.webp" group-title="GOSPEL |filmes Tv e Clips", Cartoon | BR
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/4RmKow1kDvrQw4hdRUwIbUk2klbMjDzh15eg8oIdNsRfcd3T-5guktjvau7D2aRkmw=w600-h300-pc0xffffff-pd" group-title="GOSPEL", ISTV | BR
+#EXTINF:-1 tvg-id="" tvg-name="  ISTV | BR " tvg-logo="https://play-lh.googleusercontent.com/4RmKow1kDvrQw4hdRUwIbUk2klbMjDzh15eg8oIdNsRfcd3T-5guktjvau7D2aRkmw=w600-h300-pc0xffffff-pd" group-title="GOSPEL |filmes Tv e Clips", ISTV | BR
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp" group-title="GOSPEL",Retro Cartoon | BR
+#EXTINF:-1 tvg-id="" tvg-name=" Retro Cartoon | BR  "tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp" group-title="GOSPEL |filmes Tv e Clips",Retro Cartoon | BR
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
-#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVWzsk7GeGdcM3jGcExs0JmilcaXD13WON-bHAx=s900-c-k-c0x00ffffff-no-rj" group-title="GOSPEL",Top TV | BR
+#EXTINF:-1 tvg-id="" tvg-name=" Top TV | BR  " tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVWzsk7GeGdcM3jGcExs0JmilcaXD13WON-bHAx=s900-c-k-c0x00ffffff-no-rj" group-title="GOSPEL |filmes Tv e Clips",Top TV | BR
 https://cast.cdnseguro.com:19360/8092/8092.m3u8
-#EXTINF:1 tvg-logo="https://supertvaovivo.tv/wp-content/uploads/2021/06/GOSPEL.png" group-title="GOSPEL",Gospel Movies Television | BR
+#EXTINF:-1 tvg-id="" tvg-name="  Movies Television | BR "tvg-logo="https://supertvaovivo.tv/wp-content/uploads/2021/06/GOSPEL.png" group-title="GOSPEL |filmes Tv e Clips", Movies Television | BR
 https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8
-#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/dWdzB7elXWDxN9AoOdmGY07F4JDtHcmEPLXViiiTJnOfctdwO3CUfkmE6oR1dkq2TQ" group-title="GOSPEL",Nuevo Tiempo | BR
+#EXTINF:-1 tvg-id="" tvg-name="  Nuevo Tiempo | BR " tvg-logo="https://play-lh.googleusercontent.com/dWdzB7elXWDxN9AoOdmGY07F4JDtHcmEPLXViiiTJnOfctdwO3CUfkmE6oR1dkq2TQ" group-title="GOSPEL |filmes Tv e Clips",Nuevo Tiempo | BR
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:1 tvg-logo="https://paraibaonline.com.br/wp-content/uploads/2020/09/tv-aparecida-ascom.jpg" group-title="GOSPEL",TV Aparecida | BR
+#EXTINF:-1 tvg-id="" tvg-name=" TV Aparecida | BR  " tvg-logo="https://paraibaonline.com.br/wp-content/uploads/2020/09/tv-aparecida-ascom.jpg" group-title="GOSPEL |filmes Tv e Clips",TV Aparecida | BR
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/HJLTSXnvUxsPsx3-v9ClYO2hCAzoV4C-fzpmlLOQgrEyD5Zn_uJeYzwOYe2KFBPJGGnPRENjXwg=s900-c-k-c0x00ffffff-no-rj" group-title="GOSPEL",TV Evangelizar | BR
+#EXTINF:-1 tvg-id="" tvg-name=" TV Evangelizar | BR  "tvg-logo="https://yt3.googleusercontent.com/HJLTSXnvUxsPsx3-v9ClYO2hCAzoV4C-fzpmlLOQgrEyD5Zn_uJeYzwOYe2KFBPJGGnPRENjXwg=s900-c-k-c0x00ffffff-no-rj" group-title="GOSPEL |filmes Tv e Clips",TV Evangelizar | BR
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
-#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJW7UnXzKw6YWOe50Q54XxaihLVXYLYvrsz5-Hs0IQ=s900-c-k-c0x00ffffff-no-rj" group-title="GOSPEL",TV Rede Gospel | BR
+#EXTINF:-1 tvg-id="" tvg-name=" TV Rede Gospel | BR  "tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJW7UnXzKw6YWOe50Q54XxaihLVXYLYvrsz5-Hs0IQ=s900-c-k-c0x00ffffff-no-rj" group-title="GOSPEL |filmes Tv e Clips",TV Rede Gospel | BR
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/66/Logotipo_da_TV_Universal.png" group-title="GOSPEL",TV Universal | BR
+#EXTINF:-1 tvg-id="" tvg-name=" TV Universal | BR  " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/66/Logotipo_da_TV_Universal.png" group-title="GOSPEL |filmes Tv e Clips",TV Universal | BR
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 
-#EXTM3U url-tvg=" http://grade-de-FÈ Ispirituais.xml "
-############## FÈ Ispirituais ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFÈ Ispirituais" group-title="
+#EXTM3U url-tvg=" http://grade-de-FÈ | Ispirituais.xml "
+############## FÈ |Ispirituais ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFÈ | Ispirituais" group-title="
 
-#EXTINF:1 tvg-logo="http://pa1.narvii.com/6961/6989150763c2577cf0749a02be6a326a920b6c56r1-245-160_00.gif" group-title="FÈ Ispirituais",espera de um milagre
+#EXTINF:-1 tvg-id="" tvg-name="  espera de um milagre  "tvg-logo="http://pa1.narvii.com/6961/6989150763c2577cf0749a02be6a326a920b6c56r1-245-160_00.gif" group-title="FÈ | Ispirituais",espera de um milagre
 https://www1446.ff-03.com/token=COI-HzLWguenXm5ozFLY-A/1679540818/168.227.0.0/79/d/8a/11318a316a280db9080e9372bbcce8ad-480p.mp4
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/CIKJPxJnmTQ/maxresdefault.jpg" group-title="FÈ Ispirituais",A Fé que Nos Une
+#EXTINF:-1 tvg-id="" tvg-name=" A Fé que Nos Une   "tvg-logo="https://i.ytimg.com/vi/CIKJPxJnmTQ/maxresdefault.jpg" group-title="FÈ | Ispirituais",A Fé que Nos Une
 https://play.prod.gcp.vix.services/faith-fathers_pt/faith-fathers_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/790178d11b377c656879aeb99188455993741c43f479baa3038fee694dc07ae2._RI_V_TTW_.png" group-title="FÈ Ispirituais",Provas de Fé - Santo Agostinho
+#EXTINF:-1 tvg-id="" tvg-name="  Provas de Fé  "tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/790178d11b377c656879aeb99188455993741c43f479baa3038fee694dc07ae2._RI_V_TTW_.png" group-title="FÈ | Ispirituais",Provas de Fé - Santo Agostinho
 https://play.prod.gcp.vix.services/faith-santo-agostinho_pt/faith-santo-agostinho_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i0.wp.com/escolabiblicaonline.net/wp-content/uploads/2020/10/sddefault-22.jpg?resize=560%2C416" group-title="FÈ Ispirituais",Quando Tudo Parece Perdido
+#EXTINF:-1 tvg-id="" tvg-name="  Quando Tudo Parece Perdido  " tvg-logo="https://i0.wp.com/escolabiblicaonline.net/wp-content/uploads/2020/10/sddefault-22.jpg?resize=560%2C416" group-title="FÈ | Ispirituais",Quando Tudo Parece Perdido
 https://play.prod.gcp.vix.services/sabina-k_pt/sabina-k_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://ottvsimg.ottvs.com.br/ban/grf.150607/looke_4001.jpg" group-title="FÈ Ispirituais",Meu Filho Amado
+#EXTINF:-1 tvg-id="" tvg-name=" Meu Filho Amado   " tvg-logo="https://ottvsimg.ottvs.com.br/ban/grf.150607/looke_4001.jpg" group-title="FÈ | Ispirituais",Meu Filho Amado
 https://play.prod.gcp.vix.services/my-son_pt/my-son_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/FuhwyR2sUZw/maxresdefault.jpg" group-title="FÈ Ispirituais",À Procura da Liberdade
+#EXTINF:-1 tvg-id="" tvg-name="  À Procura da Liberdade  " tvg-logo="https://i.ytimg.com/vi/FuhwyR2sUZw/maxresdefault.jpg" group-title="FÈ | Ispirituais",À Procura da Liberdade
 https://play.prod.gcp.vix.services/freedom_pt/freedom_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/kyR3edAvlEM/maxresdefault.jpg" group-title="FÈ Ispirituais",Sem Perdão
+#EXTINF:-1 tvg-id="" tvg-name=" Sem Perdão   " tvg-logo="https://i.ytimg.com/vi/kyR3edAvlEM/maxresdefault.jpg" group-title="FÈ | Ispirituais",Sem Perdão
 https://play.prod.gcp.vix.services/old-machine_pt/old-machine_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:1 tvg-logo="https://portalwp.s3.amazonaws.com/wp-content/uploads/2020/08/07101625/9-filme-abre-jejum-de-daniel.jpg" group-title="FÈ Ispirituais",Restaurados
+#EXTINF:-1 tvg-id="" tvg-name="  Restaurados  " tvg-logo="https://portalwp.s3.amazonaws.com/wp-content/uploads/2020/08/07101625/9-filme-abre-jejum-de-daniel.jpg" group-title="FÈ | Ispirituais",Restaurados
 https://play.prod.gcp.vix.services/beautifully-broken_pt/beautifully-broken_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/flPm14tMhoc/maxresdefault.jpg" group-title="FÈ Ispirituais",Em Busca de um Milagre
+#EXTINF:-1 tvg-id="" tvg-name="  Em Busca de um Milagre  "tvg-logo="https://i.ytimg.com/vi/flPm14tMhoc/maxresdefault.jpg" group-title="FÈ | Ispirituais",Em Busca de um Milagre
 https://play.prod.gcp.vix.services/love-jessee_pt/love-jessee_pt_1-1/play_v1_hls_1080p.m3u8
 
-#EXTM3U url-tvg="http://grade-de-Esta Na BIBLIA.xml"
-############## Esta Na BIBLIA ################# 
+#EXTM3U url-tvg="http://grade-de-Esta Na | BIBLIA.xml"
+############## Esta Na | BIBLIA ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeEsta Na BIBLIA" group-title="
 
-#EXTINF:1 tvg-logo="https://www.catolicosnabiblia.com.br/imgpost/19-03-17_16-03-52-a-historia-fascinante-e-incrivel-de-cristo-jesus.jpg" group-title="Esta Na BIBLIA",Jesus, o Cristo - Nascimento e infância - Dublado
+#EXTINF:-1 tvg-id="" tvg-name="  Jesus, o Cristo - Nascimento e infância - Dublado  " tvg-logo="https://www.catolicosnabiblia.com.br/imgpost/19-03-17_16-03-52-a-historia-fascinante-e-incrivel-de-cristo-jesus.jpg" group-title="Esta Na | BIBLIA",Jesus, o Cristo - Nascimento e infância - Dublado
 https://proxy-048.dc3.dailymotion.com/sec(wb8UD9xdr7EUNWDnSkNP3Y4ZqxK5178iavvLXIvahFuL9OTfJqvSrWoqBKLvKXg8-Ww6OP0yv6UMyIs4BVghJH8a9lHoNeBcbVdSRaYT9D8)/video/851/628/484826158_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/0_mrNLcmDB8/sddefault.jpg" group-title="Esta Na BIBLIA",O Evangelho Segundo João (Filme) Dublado
+#EXTINF:-1 tvg-id="" tvg-name=" O Evangelho Segundo João (Filme) Dublado   " tvg-logo="https://i.ytimg.com/vi/0_mrNLcmDB8/sddefault.jpg" group-title="Esta Na | BIBLIA",O Evangelho Segundo João (Filme) Dublado
 https://proxy-19.nyc.dailymotion.com/sec(dE83Zyoa3SvsSFjYNnBY1IsJaAoIjEPN-ik8XAH8vDNqL_r6uUEKvP-hvZwOHp8DIEXT66Xe29hhW5JFQD6ab_I2GXQqc2XgT2iC4QV1Lg0)/video/836/129/514921638_mp4_h264_aac_hd_9.m3u8#cell=nyc
-#EXTINF:1 tvg-logo="https://2.bp.blogspot.com/-pw0kbrABwR0/Wdp0FGaEPfI/AAAAAAAAC8s/a5ZZ5e-XWkMfWL7glE9aP2bPkawZib1cACLcBGAs/s1600/JESUS.bmp" group-title="Esta Na BIBLIA",a vida de Jesus Cristo segundo evangelho de Lucas
+#EXTINF:-1 tvg-id="" tvg-name="  a vida de Jesus Cristo segundo evangelho de Lucas  " tvg-logo="https://2.bp.blogspot.com/-pw0kbrABwR0/Wdp0FGaEPfI/AAAAAAAAC8s/a5ZZ5e-XWkMfWL7glE9aP2bPkawZib1cACLcBGAs/s1600/JESUS.bmp" group-title="Esta Na | BIBLIA",a vida de Jesus Cristo segundo evangelho de Lucas
 https://proxy-025.dc3.dailymotion.com/sec(IEbO6Z1LHuUskp709C0fW8MClOAMzygiGXEB5ln04k9tJPTFxTTQrJe7ot4esBDP3cJos67PDI4j4MJGUjINJyN3WdWfYH_kFCe0Jb5X3CY)/video/300/007/483700003_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/JY_lcyj1LCk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC1FkuxO40PFc0UR7qCKa2MPdFFmw" group-title="Esta Na BIBLIA",Investigação: A Vida Desconhecida de Jesus (Dublado) - Documentário Completo Discovery
+#EXTINF:-1 tvg-id="" tvg-name=" Investigação: A Vida Desconhecida de Jesus (Dublado) - Documentário Completo Discovery   "tvg-logo="https://i.ytimg.com/vi/JY_lcyj1LCk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC1FkuxO40PFc0UR7qCKa2MPdFFmw" group-title="Esta Na | BIBLIA",Investigação: A Vida Desconhecida de Jesus (Dublado) - Documentário Completo Discovery
 https://proxy-22.nyc.dailymotion.com/sec(gGqtclnn_bIC9m3nn5-WqPNfnmsMAmJP2Wn83Th9Hz96dGkIUgczL9BNAC81bDLPZtvxYsUpkBOu8vmLTqRQX7aU-TQbRWFhik3yawXIZA8)/video/517/742/324247715_mp4_h264_aac_1.m3u8#cell=nyc
-#EXTINF:1 tvg-logo="https://s2.dmcdn.net/v/Ipo4X1VhVoJDNWBks/x1080" group-title="Esta Na BIBLIA",Mistério dos Evangelhos proibidos - Documentário
+#EXTINF:-1 tvg-id="" tvg-name=" Mistério dos Evangelhos proibidos - Documentário   " tvg-logo="https://s2.dmcdn.net/v/Ipo4X1VhVoJDNWBks/x1080" group-title="Esta Na | BIBLIA",Mistério dos Evangelhos proibidos - Documentário
 https://proxy-02.nyc.dailymotion.com/sec(jXl_r_CZ7rKteLo7P67RkMcRaS1XTpWl2NJ_T1r2jRc9KIOHnD1NgS-vEap3FU2HaHboEkesqYOje5pkDkdPpyHGerVpck8eu74gLX8CCp0)/video/698/482/507284896_mp4_h264_aac_hq.m3u8#cell=nyc
-#EXTINF:1 tvg-logo="https://www.catolicosnabiblia.com.br/imgpost/25-01-20_22-01-18-filme-paulo-apostolo-de-cristo-dublado.jpg" group-title="Esta Na BIBLIA",perseguição ao apóstolo de Cristo João - Dublado
+#EXTINF:-1 tvg-id="" tvg-name="  perseguição ao apóstolo de Cristo João - Dublado  " tvg-logo="https://www.catolicosnabiblia.com.br/imgpost/25-01-20_22-01-18-filme-paulo-apostolo-de-cristo-dublado.jpg" group-title="Esta Na | BIBLIA",perseguição ao apóstolo de Cristo João - Dublado
 https://proxy-06.nyc.dailymotion.com/sec(H0vpOyVbcEs_XQ6KAJPaZiSj7dt0CFws81GuMZAP7yqwvSOoZxXcL9NkQ5cTXoUkUSSoPnglM6lXVH2JOmqNUrf6bWrZBbmIA9vkv4O69iY)/video/013/180/485081310_mp4_h264_aac_hq.m3u8#cell=nyc
-#EXTINF:1 tvg-logo="https://i0.wp.com/margmowczko.com/wp-content/uploads/2018/02/The-twelve-disciples-apostles-were-all-male.jpeg?fit=1024%2C531&ssl=1" group-title="Esta Na BIBLIA",Jesus escolhendo os 12 apostolos - Dublado
+#EXTINF:-1 tvg-id="" tvg-name="  Jesus escolhendo os 12 apostolos - Dublado  " tvg-logo="https://i0.wp.com/margmowczko.com/wp-content/uploads/2018/02/The-twelve-disciples-apostles-were-all-male.jpeg?fit=1024%2C531&ssl=1" group-title="Esta Na | BIBLIA",Jesus escolhendo os 12 apostolos - Dublado
 https://proxy-039.dc3.dailymotion.com/sec(eONP7ymDWd7NtSmSfJBos9aLKtu-46Un-pdH2DjPWhh27HBkCaAIqGUi3zOhHC78EA_SUwpzbXTb7Jg1useuGv9tXyvNqfScCJTjcyTNJYs)/video/945/611/485116549_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/rTzjJc9NOEA/maxresdefault.jpg" group-title="Esta Na BIBLIA",Quem foi realmente Jesus? - Documentário HD
+#EXTINF:-1 tvg-id="" tvg-name="  Quem foi realmente Jesus - Documentário HD  " tvg-logo="https://i.ytimg.com/vi/rTzjJc9NOEA/maxresdefault.jpg" group-title="Esta Na | BIBLIA",Quem foi realmente Jesus - Documentário HD
 https://proxy-11.nyc.dailymotion.com/sec(czTSNzcdT4mYlcYSkbvIQ_F6hvsxnbsYry6s6muFDcHylu1SkLT_-p3DZCnee6pcwI7tpyyB0DVuR0O6_9C-caY3_lVt4GjsFv-9i5bXwD4)/video/608/842/516248806_mp4_h264_aac_hd_7.m3u8#cell=nyc
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/BWZ-FJvqCn8/maxresdefault.jpg" group-title="Esta Na BIBLIA",Paulo: O Emissário | Filme Gospel Dublado Completo
+#EXTINF:-1 tvg-id="" tvg-name="  Paulo: O Emissário  Filme Gospel Dublado Completo  " tvg-logo="https://i.ytimg.com/vi/BWZ-FJvqCn8/maxresdefault.jpg" group-title="Esta Na | BIBLIA",Paulo: O Emissário  Filme Gospel Dublado Completo
 https://proxy-21.nyc.dailymotion.com/sec(wIhAEtcGY0FlKmw_K5ItmSWDZDpf7MGVEUuEeBqUx9aA_xoMaHvn99aAuYSrrli9BrEzVoclRKDEk31hPddvHQZZaJJ1P6VGhh3UQYDv10U)/video/714/893/483398417_mp4_h264_aac_hq.m3u8#cell=nyc
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/MP7A8tC-w9o/hqdefault.jpg" group-title="Esta Na BIBLIA",Gerônimo 1990 
+#EXTINF:-1 tvg-id="" tvg-name=" Gerônimo 1990    " tvg-logo="https://i.ytimg.com/vi/MP7A8tC-w9o/hqdefault.jpg" group-title="Esta Na  | BIBLIA",Gerônimo 1990 
 https://proxy-004.ix7.dailymotion.com/sec(mY07IAeONRUUJhi-jD5Epact0cVCysJfvhn8bgVbt6u69Zjk3gkRi8MxOLDDpdVFtOHpxtzCVFfOoViphQiQWDpXFKI2x3VPiTOu4NWr4gQ)/video/395/262/506262593_mp4_h264_aac.m3u8#cell=core
-#EXTINF:1 tvg-logo="https://s1.dmcdn.net/v/IkJ-G1VYOhlWkwKJN/x720" group-title="Esta Na BIBLIA",O DESAFIO DE JACÓ FILME EVANGÉLICO COMPLETO (DUBLADO EM PORTUGUÊS) - GRANDES HERÓIS DA BÍBLIA
+#EXTINF:-1 tvg-id="" tvg-name="  O DESAFIO DE JACÓ FILME EVANGÉLICO COMPLETO (DUBLADO EM PORTUGUÊS) - GRANDES HERÓIS DA BÍBLIA  "tvg-logo="https://s1.dmcdn.net/v/IkJ-G1VYOhlWkwKJN/x720" group-title="Esta Na | BIBLIA",O DESAFIO DE JACÓ FILME EVANGÉLICO COMPLETO (DUBLADO EM PORTUGUÊS) - GRANDES HERÓIS DA BÍBLIA
 https://proxy-12.nyc.dailymotion.com/sec(9bLpr36Elc3rqsMpQ_biPpXyTOQwSafGlEZpWHUebqr55FsZvWXP14oVoEnCipNuj8vAxPyaHFfEpv08_mgrDsR1oUpVy4-p2z_gEP_kM1s)/video/023/031/314130320_mp4_h264_aac_1.m3u8#cell=nyc
 
-#EXTM3U url-tvg="http://grade-de-Radio GOSPEL.xml"
-############## Radio GOSPEL ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeRadio GOSPEL" group-title="
+#EXTM3U url-tvg="http://grade-de-Radio | GOSPEL.xml"
+############## Radio | GOSPEL ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeRadio | GOSPEL" group-title="
 
-#EXTINF:1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/7/67157.v16.png" group-title="Radio GOSPEL",Nova Gospel FM
+#EXTINF:-1 tvg-id="" tvg-name=" Nova Gospel FM   "  tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/7/67157.v16.png" group-title="Radio | GOSPEL",Nova Gospel FM
 https://svrstream1.svreua.com/stream.php?porta=8062/;
-#EXTINF:1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/3/63963.v31.png" group-title="Radio GOSPEL",Sertanejo Gospel SC
+#EXTINF:-1 tvg-id="" tvg-name=" Sertanejo Gospel SC   " tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/3/63963.v31.png" group-title="Radio |  GOSPEL",Sertanejo Gospel SC
 https://stm24.xcast.com.br:8644/stream
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/14/Logotipo_da_Feliz_FM.png" group-title="Radio GOSPEL",Feliz FM
+#EXTINF:-1 tvg-id="" tvg-name=" Feliz FM   "tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/14/Logotipo_da_Feliz_FM.png" group-title="Radio |  GOSPEL",Feliz FM
 https://cloud1.cdnseguro.com:5520/;
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/fScZxd6p2Ig/maxresdefault.jpg" group-title="Radio GOSPEL",Paz FM
+#EXTINF:-1 tvg-id="" tvg-name="  Paz FM  " tvg-logo="https://i.ytimg.com/vi/fScZxd6p2Ig/maxresdefault.jpg" group-title="Radio |  GOSPEL",Paz FM
 http://digital.umhost.com.br:9978/;
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zjp3jtxserpq.png" group-title="Radio GOSPEL",Rádio Gospel Adoração
+#EXTINF:-1 tvg-id="" tvg-name=" Rádio  Gospel Adoração   "tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zjp3jtxserpq.png" group-title="Radio  |  GOSPEL",Rádio  Gospel Adoração
 https://ssl.xcast.com.br:12570/;
-#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/F7-9nBkTx3RLsjTyo0BHlXGKqu8til2gvvIaGz4lAGG2tJuWJ5sDuNbGVGeYfSlJ_g" group-title="Radio GOSPEL",Sertão Gospel
+#EXTINF:-1 tvg-id="" tvg-name="  Sertão Gospel  " tvg-logo="https://play-lh.googleusercontent.com/F7-9nBkTx3RLsjTyo0BHlXGKqu8til2gvvIaGz4lAGG2tJuWJ5sDuNbGVGeYfSlJ_g" group-title="Radio |  GOSPEL",Sertão Gospel
 https://stream-33.zeno.fm/fpg8s2gha9quv?zs=ndJRla2jTiCR7WdGog6PuQ
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/radioaparecidaaovivo.png" group-title="Radio GOSPEL",Aparecida 104.3 FM
+#EXTINF:-1 tvg-id="" tvg-name="  ,Aparecida 104.3 FM  " tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/radioaparecidaaovivo.png" group-title="Radio |  GOSPEL",Aparecida 104.3 FM
 https://aparecida.jmvstream.com/stream?1673834484086
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/Radio-Evangelizar-ao-vivo.jpeg" group-title="Radio GOSPEL",Evangelizar 1060 AM
+#EXTINF:-1 tvg-id="" tvg-name="  Evangelizar 1060 AM  " tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/Radio-Evangelizar-ao-vivo.jpeg" group-title="Radio |  GOSPEL",Evangelizar 1060 AM
 https://stream-51.zeno.fm/hu70hmkcu68uv?zs=BCNf7eQIQmKhA1cYDoHmQw
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/02/igreja-Deus-e-amor-ao-vivo.jpeg" group-title="Radio GOSPEL",Deus é Amor 91.9 FM
+#EXTINF:-1 tvg-id="" tvg-name="  Deus é Amor 91.9 FM  " tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/02/igreja-Deus-e-amor-ao-vivo.jpeg" group-title="Radio  | GOSPEL",Deus é Amor 91.9 FM
 https://24943.live.streamtheworld.com/SP_STUDIOC.mp3?DeuseamorFM
 
-#EXTM3U url-tvg=" http://grade-de-FAX CLIPS.xml "
- ############## FAX CLIPS ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeFAX CLIPS " group-title="
+#EXTM3U url-tvg=" http://grade-de-FAX |  CLIPS.xml "
+ ############## FAX |  CLIPS ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeFAX  | CLIPS " group-title="       
 
-#EXTINF:1 tvg-logo="https://www.tnt.com/dam/tnt_express_media/en_gb/images/ChoosingTNT/TNT-Logo-edt.png" group-title="FAX CLIPS",TNT
+#EXTINF:-1 tvg-id="" tvg-name=" TNT   " tvg-logo="https://www.tnt.com/dam/tnt_express_media/en_gb/images/ChoosingTNT/TNT-Logo-edt.png" group-title="FAX  | CLIPS",TNT
 http://livetv.ktv.zone/3/play.m3u8
-#EXTINF:1 tvg-logo="https://lh3.googleusercontent.com/-dGnGcoZ4XMI/YGiuDJ-l9SI/AAAAAAABBKo/29BjyFATaBUc5W1wMu7u18r7fY1SHwLhwCK8BGAsYHg/s512/2021-04-03.png" group-title="FAX CLIPS",Mundo de la Musica TV | CL
+#EXTINF:-1 tvg-id="" tvg-name="  Mundo de la Musica TV | CL   " tvg-logo="https://lh3.googleusercontent.com/-dGnGcoZ4XMI/YGiuDJ-l9SI/AAAAAAABBKo/29BjyFATaBUc5W1wMu7u18r7fY1SHwLhwCK8BGAsYHg/s512/2021-04-03.png" group-title="FAX |  CLIPS",Mundo de la Musica TV | CL
 https://6362ca6f1fc28.streamlock.net:443/8078/8078/playlist.m3u8
-#EXTINF:1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F0e68d268840c22345262b5ac1c4e5635f2367d68ac7b952cb5791550c2c81798.jpg" group-title="FAX CLIPS", Sexy Kpop TV | BR
+#EXTINF:-1 tvg-id="" tvg-name=" Sexy Kpop TV | BR   " tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F0e68d268840c22345262b5ac1c4e5635f2367d68ac7b952cb5791550c2c81798.jpg" group-title="FAX |  CLIPS", Sexy Kpop TV | BR
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF:1 tvg-logo="https://pt.egamersworld.com/uploads/news/1676871786929-16x9.jpg" group-title="FAX CLIPS",blast
+#EXTINF:-1 tvg-id="" tvg-name=" blast   "  tvg-logo="https://pt.egamersworld.com/uploads/news/1676871786929-16x9.jpg" group-title="FAX  | CLIPS",blast
 https://video01.logicahost.com.br/blast/blast/chunklist_w853003416.m3u8
-#EXTINF:1 tvg-logo="https://img.radios.com.br/radio/xl/radio103584_1552581307.png" group-title="FAX CLIPS",zoommusic
+#EXTINF:-1 tvg-id="" tvg-name=" zoommusic   "  tvg-logo="https://img.radios.com.br/radio/xl/radio103584_1552581307.png" group-title="FAX |  CLIPS",zoommusic
 https://stmv5.samcast.com.br/zoommusic/zoommusic/chunklist_w111484135.m3u8
-#EXTINF:1 tvg-logo="https://3.bp.blogspot.com/-RHFHW9fqlnw/XriRAmC7FPI/AAAAAAAACwA/magexXwQAcgxOeedphxO4L6_twWf0_3uwCLcBGAsYHQ/s320/Screenshot_2020-05-10-20-37-06.png" group-title="FAX CLIPS",TV Camocim
+#EXTINF:-1 tvg-id="" tvg-name="  TV Camocim  "  tvg-logo="https://3.bp.blogspot.com/-RHFHW9fqlnw/XriRAmC7FPI/AAAAAAAACwA/magexXwQAcgxOeedphxO4L6_twWf0_3uwCLcBGAsYHQ/s320/Screenshot_2020-05-10-20-37-06.png" group-title="FAX |  CLIPS",TV Camocim
 https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w177496967.m3u8
-#EXTINF:1 tvg-logo="https://media.tenor.com/aA6cI123j-IAAAAC/sertanejo-country.gif" group-title="FAX CLIPS",Clips sertanejo
+#EXTINF:-1 tvg-id="" tvg-name="  Clips sertanejo  "  tvg-logo="https://media.tenor.com/aA6cI123j-IAAAAC/sertanejo-country.gif" group-title="FAX  | CLIPS",Clips sertanejo
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1763972961.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/Clip_Clip.jpg" group-title="FAX CLIPS",Rede RC
+#EXTINF:-1 tvg-id="" tvg-name=" Rede RC   " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/Clip_Clip.jpg" group-title="FAX |  CLIPS",Rede RC
 https://59f2354c05961.streamlock.net:1443/rederc/_definst_/rederc/chunklist_w609011177.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/UtqE1Vp2UGk/maxresdefault.jpg" group-title="FAX CLIPS",Sertanejo Universitario
+#EXTINF:-1 tvg-id="" tvg-name="  Sertanejo Universitario  "  tvg-logo="https://i.ytimg.com/vi/UtqE1Vp2UGk/maxresdefault.jpg" group-title="FAX  | CLIPS",Sertanejo Universitario
 https://stmv2.samcast.com.br/alternativatvivainova/alternativatvivainova/chunklist_w931164571.m3u8
-#EXTINF:1 tvg-logo="https://www.federasul.com.br/wp-content/uploads/2022/05/Luan-Santana-01-JORNAL-scaled.jpg" group-title="FAX CLIPS",santana01
+#EXTINF:-1 tvg-id="" tvg-name=" santana01   "  tvg-logo="https://www.federasul.com.br/wp-content/uploads/2022/05/Luan-Santana-01-JORNAL-scaled.jpg" group-title="FAX |  CLIPS",santana01
 https://59f2354c05961.streamlock.net:1443/santana01/_definst_/santana01/chunklist_w1719844960.m3u8
-#EXTINF:1 tvg-logo="https://tvtvtv.ru/icons/51_tv.png" group-title="FAX CLIPS", Radio 51 TV (480p)
+#EXTINF:-1 tvg-id="" tvg-name="  Radio 51 TV (480p)   "  tvg-logo="https://tvtvtv.ru/icons/51_tv.png" group-title="FAX |  CLIPS", Radio 51 TV (480p)
 http://178.32.140.155/canale51/canale51/playlist.m3u8
-#EXTINF:1 tvg-logo="https://i1.sndcdn.com/artworks-000160145439-jpocr1-t500x500.jpg" group-title="FAX CLIPS",Acoisona
+#EXTINF:-1 tvg-id="" tvg-name="  Acoisona  " tvg-logo="https://i1.sndcdn.com/artworks-000160145439-jpocr1-t500x500.jpg" group-title="FAX |  CLIPS",Acoisona
 https://5cf4a2c2512a2.streamlock.net/acoisona/acoisona/chunklist_w2093196155.m3u8
-#EXTINF:1 tvg-logo="hhttps://www.belllaemonella.it/wp-content/uploads/2022/05/2022-grafiche_post.jpg" group-title="FAX CLIPS",Bellla&Monella TV 
+#EXTINF:-1 tvg-id="" tvg-name=" Bellla&Monella TV    "  tvg-logo="hhttps://www.belllaemonella.it/wp-content/uploads/2022/05/2022-grafiche_post.jpg" group-title="FAX |  CLIPS",Bellla&Monella TV 
 https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8
-#EXTINF:1 tvg-logo="https://br.radio.net/images/broadcasts/ae/8e/15034/c300.png" group-title="FAX CLIPS",Birikina TV
+#EXTINF:-1 tvg-id="" tvg-name=" Birikina TV   " tvg-logo="https://br.radio.net/images/broadcasts/ae/8e/15034/c300.png" group-title="FAX  | CLIPS",Birikina TV
 http://56b50ada2d659.streamlock.net:1935/RadioBirikinaTV/livestream/chunklist.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbSekAIuDxfDIifyz5m0DRYGJaKeMO5Ly7iJObdQFiv7Wn4uoiCgx3T4_5jnsGLWAA5Bg&usqp=CAU" group-title="FAX CLIPS",Birikina TV 
+#EXTINF:-1 tvg-id="" tvg-name="  Birikina TV   "  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbSekAIuDxfDIifyz5m0DRYGJaKeMO5Ly7iJObdQFiv7Wn4uoiCgx3T4_5jnsGLWAA5Bg&usqp=CAU" group-title="FAX |  CLIPS",Birikina TV 
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
-#EXTINF:1 tvg-logo="https://tvcompanyindoor.com/wp-content/uploads/2021/09/1x1Prancheta-1.png" group-title="FAX CLIPS",Company TV
+#EXTINF:-1 tvg-id="" tvg-name="  Company TV  " tvg-logo="https://tvcompanyindoor.com/wp-content/uploads/2021/09/1x1Prancheta-1.png" group-title="FAX |  CLIPS",Company TV
 https://5929b138b139d.streamlock.net/CompanyTV/livestream_720p/playlist.m3u8
-#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/YJRfZ18xDa10MOB067ujn1CJ4X7hqb2XtilpQLxcjUrn6NkuzM0bV6WBeOGZKfnqSbU" group-title="FAX CLIPS",Ibiza TV 
+#EXTINF:-1 tvg-id="" tvg-name="  Ibiza TV   " tvg-logo="https://play-lh.googleusercontent.com/YJRfZ18xDa10MOB067ujn1CJ4X7hqb2XtilpQLxcjUrn6NkuzM0bV6WBeOGZKfnqSbU" group-title="FAX |  CLIPS",Ibiza TV 
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.coolstreaming.us/img/ch/image22968804091.jpg" group-title="FAX CLIPS",Iglesias
+#EXTINF:-1 tvg-id="" tvg-name="  Iglesias  " tvg-logo="https://www.coolstreaming.us/img/ch/image22968804091.jpg" group-title="FAX |  CLIPS",Iglesias
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
-#EXTINF:1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0013/7237/brand.gif?itok=1sBM8uaC" group-title="FAX CLIPS",Kiss Kiss Italia TV
+#EXTINF:-1 tvg-id="" tvg-name="  Kiss Kiss Italia TV  " tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0013/7237/brand.gif?itok=1sBM8uaC" group-title="FAX |  CLIPS",Kiss Kiss Italia TV
 https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
-#EXTINF:1 tvg-logo="https://tvtvtv.ru/icons/51_tv.png" group-title="FAX CLIPS",Kiss Kiss Italia TV
+#EXTINF:-1 tvg-id="" tvg-name="   Kiss Kiss Italia TV " tvg-logo="https://tvtvtv.ru/icons/51_tv.png" group-title="FAX |  CLIPS",Kiss Kiss Italia TV
 https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
-#EXTINF:1 tvg-logo="https://br.radio.net/images/broadcasts/b5/d1/10965/c300.png" group-title="FAX CLIPS",Piter Pan TV
+#EXTINF:-1 tvg-id="" tvg-name="  Piter Pan TV  " tvg-logo="https://br.radio.net/images/broadcasts/b5/d1/10965/c300.png" group-title="FAX  | CLIPS",Piter Pan TV
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.coolstreaming.us/img/ch/image18638130231.jpg" group-title="FAX CLIPS",Studio Delta TV
+#EXTINF:-1 tvg-id="" tvg-name=" Studio Delta TV   " tvg-logo="https://www.coolstreaming.us/img/ch/image18638130231.jpg" group-title="FAX |  CLIPS",Studio Delta TV
 https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA4_VWOtyomRrEktSHnDGETAAeftwdnrzx75O2vulweCarB0w8ipPVR1gpYjSCoA0PJUc&usqp=CAU" group-title="FAX CLIPS",Taormina Sicilia 
+#EXTINF:-1 tvg-id="" tvg-name=" Taormina Sicilia    " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA4_VWOtyomRrEktSHnDGETAAeftwdnrzx75O2vulweCarB0w8ipPVR1gpYjSCoA0PJUc&usqp=CAU" group-title="FAX |  CLIPS",Taormina Sicilia 
 https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.tvdream.net/img/stereo-5-tv.png" group-title="FAX CLIPS",Stereo 5 TV
+#EXTINF:-1 tvg-id="" tvg-name=" Stereo 5 TV   " tvg-logo="https://www.tvdream.net/img/stereo-5-tv.png" group-title="FAX |  CLIPS",Stereo 5 TV
 https://stream1.aswifi.it/stereo5/live/index.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/18b91922f010049b9ef138ee36b18863.webp" group-title="FAX CLIPS",TVRS
+#EXTINF:-1 tvg-id="" tvg-name=" TVRS   "  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/18b91922f010049b9ef138ee36b18863.webp" group-title="FAX |  CLIPS",TVRS
 http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2pMQTHcOIhRETSHo3MeBJVkIOYDCkTEeoprMB9irCWzyk2T7OEUWmviuECWeWSiTtWIg&usqp=CAU" group-title="FAX CLIPS",Ócko Star 
+#EXTINF:-1 tvg-id="" tvg-name="  Ócko Star   "  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2pMQTHcOIhRETSHo3MeBJVkIOYDCkTEeoprMB9irCWzyk2T7OEUWmviuECWeWSiTtWIg&usqp=CAU" group-title="FAX |  CLIPS",Ócko Star 
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/chunklist_b2628000.m3u8
-#EXTINF:1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipNRTxlIcCaqnLyfgVAjqhLKoIdPVtelhP0FJLkz=w1080-h608-p-no-v0" group-title="FAX CLIPS",Zapping Música
+#EXTINF:-1 tvg-id="" tvg-name=" Zapping Música   "  tvg-logo="https://lh3.googleusercontent.com/p/AF1QipNRTxlIcCaqnLyfgVAjqhLKoIdPVtelhP0FJLkz=w1080-h608-p-no-v0" group-title="FAX |  CLIPS",Zapping Música
 https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_live1_b4131600_sles.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/TifvTqzzl1U/hqdefault.jpg" group-title="FAX CLIPS",VM latino Canal 29
+#EXTINF:-1 tvg-id="" tvg-name=" VM latino Canal 29   "  tvg-logo="https://i.ytimg.com/vi/TifvTqzzl1U/hqdefault.jpg" group-title="FAX |  CLIPS",VM latino Canal 29
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w1100940361.m3u8
-#EXTINF:1 tvg-logo="https://thewatchtv.com/wp-content/uploads/2013/02/Watch-Tiankov-TV-Live-TV-from-Bulgaria.jpg" group-title="FAX CLIPS",Tiankov Orient folk
+#EXTINF:-1 tvg-id="" tvg-name=" Tiankov Orient folk   "  tvg-logo="https://thewatchtv.com/wp-content/uploads/2013/02/Watch-Tiankov-TV-Live-TV-from-Bulgaria.jpg" group-title="FAX |  CLIPS",Tiankov Orient folk
 https://streamer103.neterra.tv/tiankov-orient/tiankov-orient_SD.m3u8
-#EXTINF:1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/cz-retro-music-tv.jpg" group-title="FAX CLIPS",Retro Music Television
+#EXTINF:-1 tvg-id="" tvg-name="  Retro Music Television  " tvg-logo="https://photos.live-tv-channels.org/tv-logo/cz-retro-music-tv.jpg" group-title="FAX  | CLIPS",Retro Music Television
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1366594843_b750000.m3u8
-#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/U73kFg4Qya85ClsrZ0r8z4srpmZ2xb_85TlGjSwNnJvYdqcGVCkVL2KmQtK0heLnCMo" group-title="FAX CLIPS",Retro Plus TV
+#EXTINF:-1 tvg-id="" tvg-name="  Retro Plus TV  "  tvg-logo="https://play-lh.googleusercontent.com/U73kFg4Qya85ClsrZ0r8z4srpmZ2xb_85TlGjSwNnJvYdqcGVCkVL2KmQtK0heLnCMo" group-title="FAX |  CLIPS",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w125834852.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b6ff8b6d7523f81a021ae336788ecc5e.webp" group-title="FAX CLIPS",Power Pinamar TV
+#EXTINF:-1 tvg-id="" tvg-name="  Power Pinamar TV  " tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b6ff8b6d7523f81a021ae336788ecc5e.webp" group-title="FAX  | CLIPS",Power Pinamar TV
 https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8
-#EXTINF:1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6ac1eabcec85a5924f0fec956a253a6e.webp" group-title="FAX CLIPS",Sin TV online
+#EXTINF:-1 tvg-id="" tvg-name=" Sin TV online   "  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6ac1eabcec85a5924f0fec956a253a6e.webp" group-title="FAX  | CLIPS",Sin TV online
 https://inliveserver.com:1936/19004/19004/chunklist_w1897306572.m3u8
-#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/EyCtlZh2qGkYG4hZJD73PLTP8frwXm178zqcW4gfC29Xb2N4cZyK3w7JnWt12fAt7v4" group-title="FAX CLIPS",RAV – Rádio Antena Verde TV 
+#EXTINF:-1 tvg-id="" tvg-name="  Rádio Antena Verde TV   " tvg-logo="https://play-lh.googleusercontent.com/EyCtlZh2qGkYG4hZJD73PLTP8frwXm178zqcW4gfC29Xb2N4cZyK3w7JnWt12fAt7v4" group-title="FAX  | CLIPS",Rádio Antena Verde TV 
 https://585b674743bbb.streamlock.net/9002/9002/chunklist_w197773784.m3u8
-#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/MCs0kqs630qS3hek5tpuaI6Q-IrvZQw63mYnn3tIHi5R0DJ3c4bK7oefS2DpGk_qe9wr" group-title="FAX CLIPS",Strana FM
+#EXTINF:-1 tvg-id="" tvg-name=" Strana FM   "  tvg-logo="https://play-lh.googleusercontent.com/MCs0kqs630qS3hek5tpuaI6Q-IrvZQw63mYnn3tIHi5R0DJ3c4bK7oefS2DpGk_qe9wr" group-title="FAX  | CLIPS",Strana FM
 https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/chunklist_b1628000.m3u8?hls_proxy_host=4ac575bd406b2fbf9f8f8a9247162c49
-#EXTINF:1 tvg-logo="https://gps.pezquiza.com/wp-content/uploads/2022/01/tv-o-dia-redetv-assistir-online.jpg" group-title="FAX CLIPS",RSDTV online
+#EXTINF:-1 tvg-id="" tvg-name="  RSDTV online  "  tvg-logo="https://gps.pezquiza.com/wp-content/uploads/2022/01/tv-o-dia-redetv-assistir-online.jpg" group-title="FAX |  CLIPS",RSDTV online
 https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/chunklist_w767509728_b3128000.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRezVdMiK1d_5JkKuQ5jomk2fjQLqHhALqu19zY03wgTnMtcqzOB9BnjalRaqOqknQA1J0&usqp=CAU" group-title="FAX CLIPS",RTL 102.5 Tv
+#EXTINF:-1 tvg-id="" tvg-name=" RTL 102.5 Tv   "  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRezVdMiK1d_5JkKuQ5jomk2fjQLqHhALqu19zY03wgTnMtcqzOB9BnjalRaqOqknQA1J0&usqp=CAU" group-title="FAX |  CLIPS",RTL 102.5 Tv
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/chunklist_b2816000.m3u8
-#EXTINF:1 tvg-logo="https://online-television.net/uploads/posts/2023-03/sooriyantv24.webp" group-title="FAX CLIPS",Sooriyan TV24
+#EXTINF:-1 tvg-id="" tvg-name=" Sooriyan TV24   " tvg-logo="https://online-television.net/uploads/posts/2023-03/sooriyantv24.webp" group-title="FAX |  CLIPS",Sooriyan TV24
 https://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/The_voice_mais_2_temporada_logo.jpeg" group-title="FAX CLIPS",The Voice
+#EXTINF:-1 tvg-id="" tvg-name="  The Voice  " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/The_voice_mais_2_temporada_logo.jpeg" group-title="FAX  | CLIPS",The Voice
 https://bss1.neterra.tv/thevoice/stream_0.m3u8
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/KJDB1T9Ag5Q/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYciBYKD0wDw==&rs=AOn4CLAaxg2Yu1QkhRDXWQMQjuXf5prpug" group-title="FAX CLIPS",Tiankov folk
+#EXTINF:-1 tvg-id="" tvg-name="  Tiankov folk  " tvg-logo="https://i.ytimg.com/vi/KJDB1T9Ag5Q/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYciBYKD0wDw==&rs=AOn4CLAaxg2Yu1QkhRDXWQMQjuXf5prpug" group-title="FAX  | CLIPS",Tiankov folk
 https://streamer103.neterra.tv/tiankov-folk/tiankov-folk_SD.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdNPrMPLU4llmV_UE0VFgjWwF_ljmzDZz2WOSxl2_V1p0ZUXGDLicJy4AzRFPLLWkSF-k&usqp=CAU" group-title="FAX CLIPS",Tezaur TV 
+#EXTINF:-1 tvg-id="" tvg-name="  Tezaur TV   "  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdNPrMPLU4llmV_UE0VFgjWwF_ljmzDZz2WOSxl2_V1p0ZUXGDLicJy4AzRFPLLWkSF-k&usqp=CAU" group-title="FAX |  CLIPS",Tezaur TV 
 https://testcam.go.ro:8080/hls/tezaurtv.m3u8
-#EXTINF:1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Visi%C3%B3n-TV-M%C3%BAsica-en-vivo-Online.png" group-title="FAX CLIPS",Visión Tv Música 
+#EXTINF:-1 tvg-id="" tvg-name=" Visión Tv Música    " tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Visi%C3%B3n-TV-M%C3%BAsica-en-vivo-Online.png" group-title="FAX |  CLIPS",Visión Tv Música 
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w2034254197.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAOnMGL-398Zt8b_4FWys2KEQMcNypMjt5Q1iqmQNh2oZwdftdPKrXDpeADE-PXt31MfQ&usqp=CAU" group-title="FAX CLIPS",WEB TV Paixão FM
+#EXTINF:-1 tvg-id="" tvg-name=" WEB TV Paixão FM   "  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAOnMGL-398Zt8b_4FWys2KEQMcNypMjt5Q1iqmQNh2oZwdftdPKrXDpeADE-PXt31MfQ&usqp=CAU" group-title="FAX |  CLIPS",WEB TV Paixão FM
 https://stmv2.samcast.com.br/romeu6622/romeu6622/chunklist_w2130777601.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnh1FCWdRscSyy2jlwxHxQ9WGCcnN4uB_mI_0F7coYnbQ0fm3M6u2TO6M7cL1C2RE7L3k&usqp=CAU" group-title="FAX CLIPS",Nubeh TV
+#EXTINF:-1 tvg-id="" tvg-name="  Nubeh TV  "  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnh1FCWdRscSyy2jlwxHxQ9WGCcnN4uB_mI_0F7coYnbQ0fm3M6u2TO6M7cL1C2RE7L3k&usqp=CAU" group-title="FAX |  CLIPS",Nubeh TV
 https://vcp.myplaytv.com/nubehtv/nubehtv/chunklist_w2000509924.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4y72eLp7oNS_wBcAdrrmu6dZvbEHnaISF4D7L2ZYHyx7U7UI7gVyl6Ga8lBL_ngqOIQ&usqp=CAU" group-title="FAX CLIPS",Mundo de La Musica Tv
+#EXTINF:-1 tvg-id="" tvg-name=" Mundo de La Musica Tv   " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4y72eLp7oNS_wBcAdrrmu6dZvbEHnaISF4D7L2ZYHyx7U7UI7gVyl6Ga8lBL_ngqOIQ&usqp=CAU" group-title="FAX  | CLIPS",Mundo de La Musica Tv
 https://6362ca6f1fc28.streamlock.net/8078/8078/chunklist_w851946532.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKNiMW_If_irCqMq0jg1JP_v5NLXxUG0lnSaCXCSXoN4_IJIBRqsawPi5Uw2vmKvchOx4&usqp=CAU" group-title="FAX CLIPS",PMC TV
+#EXTINF:-1 tvg-id="" tvg-name=" PMC TV   "  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKNiMW_If_irCqMq0jg1JP_v5NLXxUG0lnSaCXCSXoN4_IJIBRqsawPi5Uw2vmKvchOx4&usqp=CAU" group-title="FAX CLIPS",PMC TV
 https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/fblogo/5/90585.v7.png" group-title="FAX CLIPS",ON FM Portugal
+#EXTINF:-1 tvg-id="" tvg-name=" ON FM Portugal   "  tvg-logo="https://us0-cdn.onlineradiobox.com/img/fblogo/5/90585.v7.png" group-title="FAX |  CLIPS",ON FM Portugal
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/chunklist_w1601201454.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/Music_Box_logo.png" group-title="FAX CLIPS",Music Box TV
+#EXTINF:-1 tvg-id="" tvg-name=" Music Box TV   "  tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/Music_Box_logo.png" group-title="FAX  | CLIPS",Music Box TV
 https://musictv.mediacdn.ru/cdn/musicboxgold/playlist_sdmid.m3u8
-#EXTINF:1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/ru-music-box-russia-7738.jpg" group-title="FAX CLIPS",Music Box Rússia
+#EXTINF:-1 tvg-id="" tvg-name="  Music Box Rússia  " tvg-logo="https://photos.live-tv-channels.org/tv-logo/ru-music-box-russia-7738.jpg" group-title="FAX |  CLIPS",Music Box Rússia
 https://musictv.mediacdn.ru/cdn/musicboxhd/playlist_sdmid.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGyfdQHffn5v-6j5cBfGHjXRzOvxBGoTtnwEQpx0vGb3qijQSUqW_Rs-cXc8vBQ2Rr5ZM&usqp=CAU" group-title="FAX CLIPS",Kurai-TV
+#EXTINF:-1 tvg-id="" tvg-name="Kurai-TV    "  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGyfdQHffn5v-6j5cBfGHjXRzOvxBGoTtnwEQpx0vGb3qijQSUqW_Rs-cXc8vBQ2Rr5ZM&usqp=CAU" group-title="FAX  | CLIPS",Kurai-TV
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist_sdhigh.m3u8
-#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/Tj1S1iv6NFrwC0Rhujt9pMhyRHJ4dbLeq9entvIaiQ69qbmw2HAlET9NRhPjs1__PfdkDV8ePA=s900-c-k-c0x00ffffff-no-rj" group-title="FAX CLIPS",Magic TV 
+#EXTINF:-1 tvg-id="" tvg-name=" Magic TV    "  tvg-logo="https://yt3.googleusercontent.com/Tj1S1iv6NFrwC0Rhujt9pMhyRHJ4dbLeq9entvIaiQ69qbmw2HAlET9NRhPjs1__PfdkDV8ePA=s900-c-k-c0x00ffffff-no-rj" group-title="FAX  | CLIPS",Magic TV 
 https://bss1.neterra.tv/magictv/stream_0.m3u8
-#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVkdXL45dntG18K7h1RJRA5PPyodhuJHhL9FRz76Q=s900-c-k-c0x00ffffff-no-rj" group-title="FAX CLIPS",Mas23 TV
+#EXTINF:-1 tvg-id="" tvg-name=" Mas23 TV   "  tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVkdXL45dntG18K7h1RJRA5PPyodhuJHhL9FRz76Q=s900-c-k-c0x00ffffff-no-rj" group-title="FAX  | CLIPS",Mas23 TV
 https://mediacp.us:8081/mas23tv/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-logo="https://media.tenor.com/vZmvwhNvRWgAAAAM/blood-on-the-dance-floor-michael-jackson.gif" group-title="FAX CLIPS",Euro Indie Music Chart TV
+#EXTINF:-1 tvg-id="" tvg-name=" Euro Indie Music Chart TV   "  tvg-logo="https://media.tenor.com/vZmvwhNvRWgAAAAM/blood-on-the-dance-floor-michael-jackson.gif" group-title="FAX  | CLIPS",Euro Indie Music Chart TV
 https://57068da1deb21.streamlock.net/euroindiemusic/euroindiemusic/chunklist_w1532875374.m3u8
-#EXTINF:1 tvg-logo="https://media0.giphy.com/media/W2uoviFkO7Sk9ksrxu/giphy.gif" group-title="FAX CLIPS",Europa Plus TV
+#EXTINF:-1 tvg-id="" tvg-name="  Europa Plus TV  "  tvg-logo="https://media0.giphy.com/media/W2uoviFkO7Sk9ksrxu/giphy.gif" group-title="FAX  | CLIPS",Europa Plus TV
 https://live-europaplus.cdnvideo.ru/europaplus/smil:eurptv2.smil/chunklist_b5128000.m3u8?md5=0shVXypvNxBS1bCtrIQRsQ&e=1680215243&hls_proxy_host=71e1d3e72fe15dcd96c31e96e15d216a&zoid=sharing
-#EXTINF:1 tvg-logo="https://media.tenor.com/-O93HXVrsYYAAAAC/grooving-pulling-up.gif" group-title="FAX CLIPS",Den Haag TV
+#EXTINF:-1 tvg-id="" tvg-name=" Den Haag TV   " tvg-logo="https://media.tenor.com/-O93HXVrsYYAAAAC/grooving-pulling-up.gif" group-title="FAX |  CLIPS",Den Haag TV
 https://wowza2.videostreamingwowza.com/denhaag/denhaag/chunklist_w881915846.m3u8
-#EXTINF:1 tvg-logo="https://64.media.tumblr.com/dc23c6fa24519f6e94d582c768b8ae60/cd389cda20ee9043-43/s400x600/ba870a1ea0a1213f036c9a5ed3fb92a528c1564f.gif" group-title="FAX CLIPS",Dance TV 
+#EXTINF:-1 tvg-id="" tvg-name="  Dance TV  "  tvg-logo="https://64.media.tumblr.com/dc23c6fa24519f6e94d582c768b8ae60/cd389cda20ee9043-43/s400x600/ba870a1ea0a1213f036c9a5ed3fb92a528c1564f.gif" group-title="FAX  | CLIPS",Dance TV 
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
-#EXTINF:1 tvg-logo="https://www.repstatic.it/video/photo/2016/02/05/301300/301300-thumb-full-deejayfull.jpg" group-title="FAX CLIPS",Deejay Tv 
+#EXTINF:-1 tvg-id="" tvg-name=" Deejay Tv    "  tvg-logo="https://www.repstatic.it/video/photo/2016/02/05/301300/301300-thumb-full-deejayfull.jpg" group-title="FAX |  CLIPS",Deejay Tv 
 https://streamcdnm4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b3248289.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ahidFZlw_4aod7gn5BKF4fRdDaGFOEiXRBnd28rFGAtOkIbm-4ouBUxQIeNV6KRpvSY&usqp=CAU" group-title="FAX CLIPS",Atomic TV online
+#EXTINF:-1 tvg-id="" tvg-name="  Atomic TV online  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ahidFZlw_4aod7gn5BKF4fRdDaGFOEiXRBnd28rFGAtOkIbm-4ouBUxQIeNV6KRpvSY&usqp=CAU" group-title="FAX |  CLIPS",Atomic TV online
 https://atomic.streamnet.ro/atomictv.m3u8
-#EXTINF:1 tvg-logo="https://vod.salto.nl/data/media/logo/brasa-tv" group-title="FAX CLIPS",BRASA TV
+#EXTINF:-1 tvg-id="" tvg-name="  BRASA TV  " tvg-logo="https://vod.salto.nl/data/media/logo/brasa-tv" group-title="FAX |  CLIPS",BRASA TV
 https://live.salto.nl/hls/sotv1_high.m3u8?hls_ctx=56695t54
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRSzzlT8IUwEJxhHFNmxlTlFu2pTSInMANuwF6PciGTc7B7D3y42AmOM8Lr_4qaJz2Ooo&usqp=CAU" group-title="FAX CLIPS",Hip Hop TV
+#EXTINF:-1 tvg-id="" tvg-name=" Hip Hop TV   " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRSzzlT8IUwEJxhHFNmxlTlFu2pTSInMANuwF6PciGTc7B7D3y42AmOM8Lr_4qaJz2Ooo&usqp=CAU" group-title="FAX |  CLIPS",Hip Hop TV
 https://cdn3.invivo.bg/359t/tracks-v1a1/mono.m3u8
-https://yuppindottclorigin.akamaized.net/060322/smil:9xmusic.smil/chunklist_b1928000.m3u8?hdntl=exp=1679695289~acl=!*/060322/smil:9xmusic.smil/*!/payload/9xm_5_21691719_NA_IN_NA_9xm_1037/*~data=hdntl~hmac=2d095e31e8824f923b6d02e5e893b15943c5204bca74952aaf1660cceee0ded0
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpLMjuauW7iR7j8AYJHo9ZejyIXMYIKAx_-AbhwZ-j8lxBxuZK1M7fzQ7vohYt2-_mWRk&usqp=CAU" group-title="FAX CLIPS",City TV online
+#EXTINF:-1 tvg-id="" tvg-name=" City TV online   " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpLMjuauW7iR7j8AYJHo9ZejyIXMYIKAx_-AbhwZ-j8lxBxuZK1M7fzQ7vohYt2-_mWRk&usqp=CAU" group-title="FAX |  CLIPS",City TV online
 https://tv.city.bg/play/tshls/citytv/3.m3u8
-#EXTINF:1 tvg-logo="https://yt3.googleusercontent.com/OFo4xztkVa3NWQVc645aQXyIeGxm1H0Alq-Nq1dK3SH2XCuzYtecGb-VaraF3d9crE0d16tn-A=s900-c-k-c0x00ffffff-no-rj" group-title="FAX CLIPS",CMC TV
+#EXTINF:-1 tvg-id="" tvg-name="  CMC TV  " tvg-logo="https://yt3.googleusercontent.com/OFo4xztkVa3NWQVc645aQXyIeGxm1H0Alq-Nq1dK3SH2XCuzYtecGb-VaraF3d9crE0d16tn-A=s900-c-k-c0x00ffffff-no-rj" group-title="FAX  | CLIPS",CMC TV
 https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRky8t7Fckq2MVBOa7ySk0upFtMMbDVchZKGHzMDn7NGr5Hnz16Y9IoW88DU680hX82fNs&usqp=CAU" group-title="FAX CLIPS",Busuioc TV 
+#EXTINF:-1 tvg-id="" tvg-name="  Busuioc TV   "  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRky8t7Fckq2MVBOa7ySk0upFtMMbDVchZKGHzMDn7NGr5Hnz16Y9IoW88DU680hX82fNs&usqp=CAU" group-title="FAX  | CLIPS",Busuioc TV 
 https://busuioctv.iforward.eu/hls/busuioc.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Repretel_logo.svg/200px-Repretel_logo.svg.png" group-title="FAX CLIPS",Canal 2 - Repretel
+#EXTINF:-1 tvg-id="" tvg-name="  Repretel  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Repretel_logo.svg/200px-Repretel_logo.svg.png" group-title="FAX |  CLIPS",Canal 2 - Repretel
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal2_360.m3u8
-#EXTINF:1 tvg-logo="https://oklivetv.com/wp-content/uploads/2015/09/icon175x175.png" group-title="FAX CLIPS",AFNL Music - Tin Tv
+#EXTINF:-1 tvg-id="" tvg-name="  Tin Tv  " tvg-logo="https://oklivetv.com/wp-content/uploads/2015/09/icon175x175.png" group-title="FAX |  CLIPS",AFNL Music - Tin Tv
 https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
-#EXTINF:1 tvg-logo="https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-musica-eletr-nica-1.gif" group-title="FAX CLIPS",Clipis 1
-https://5c483b9d1019c.streamlock.net/8006/8006/chunklist_w1984678252.m3u8
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/DefiniteCarefreeDesertpupfish-max-1mb.gif" group-title="FAX CLIPS",Radio Capital
+#EXTINF:-1 tvg-id="" tvg-name="  Radio Capital  "  tvg-logo="https://thumbs.gfycat.com/DefiniteCarefreeDesertpupfish-max-1mb.gif" group-title="FAX  | CLIPS",Radio Capital
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b1064000.m3u8
-#EXTINF:1 tvg-logo="https://www.arte.tv/sites/corporate/files/arte30-rvb-noir-470x270.jpg" group-title="FAX CLIPS",ARTE TV
+#EXTINF:-1 tvg-id="" tvg-name="  ARTE TV  " tvg-logo="https://www.arte.tv/sites/corporate/files/arte30-rvb-noir-470x270.jpg" group-title="FAX  | CLIPS",ARTE TV
 https://mastershowtv.videovox.pw/master6123/master6123/chunklist_w1243278274.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9SEmdaoPrXxRCp0NUx8cZOkpSYJVXs1nj_0qjFX39TY82x3mIZN-jjjRf83lC97M2pCo&usqp=CAU" group-title="FAX CLIPS",MEGA FATOS
+#EXTINF:-1 tvg-id="" tvg-name="  MEGA FATOS  "  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9SEmdaoPrXxRCp0NUx8cZOkpSYJVXs1nj_0qjFX39TY82x3mIZN-jjjRf83lC97M2pCo&usqp=CAU" group-title="FAX  | CLIPS",MEGA FATOS
 https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_w1313069576.m3u8
-#EXTINF:1 tvg-logo="https://i.gifer.com/74DL.gif" group-title="FAX CLIPS",Clipis 1
-https://59f2354c05961.streamlock.net:1443/rederc/_definst_/rederc/chunklist_w609011177.m3u8
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/LikelyQuaintHarvestmen-size_restricted.gif" group-title="FAX CLIPS",Clipis 2
-https://stmv2.samcast.com.br/alternativatvivainova/alternativatvivainova/chunklist_w931164571.m3u8
-#EXTINF:1 tvg-logo="https://i.gifer.com/UXdV.gif" group-title="FAX CLIPS",Clipis 3
-https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w177496967.m3u8
-#EXTINF:1 tvg-logo="https://media1.giphy.com/media/bHR7qB1m2yDFPdKFtm/giphy.gif" group-title="FAX CLIPS",TOP MIX TV
+#EXTINF:-1 tvg-id="" tvg-name="  TOP MIX TV  "  tvg-logo="https://media1.giphy.com/media/bHR7qB1m2yDFPdKFtm/giphy.gif" group-title="FAX  | CLIPS",TOP MIX TV
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w32285497.m3u8
-#EXTINF:1 tvg-logo="https://www.alvoradasertaneja.com.br/wp-content/uploads/sites/16/2022/01/og.jpg" group-title="FAX CLIPS",Alvorada Sertaneja
+#EXTINF:-1 tvg-id="" tvg-name=" Alvorada Sertaneja   "  tvg-logo="https://www.alvoradasertaneja.com.br/wp-content/uploads/sites/16/2022/01/og.jpg" group-title="FAX |  CLIPS",Alvorada Sertaneja
 http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.tenor.com/YwDDxVgrX9AAAAAM/fire-mtv.gif" group-title="FAX CLIPS",MTV
+#EXTINF:-1 tvg-id="" tvg-name="  MTV  " tvg-logo="https://media.tenor.com/YwDDxVgrX9AAAAAM/fire-mtv.gif" group-title="FAX |  CLIPS",MTV
 https://cdn2.connectbr.com.br/mtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/Music_Box_logo.png" group-title="FAX CLIPS",music box
+#EXTINF:-1 tvg-id="" tvg-name="  music box  "  tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/Music_Box_logo.png" group-title="FAX  | CLIPS",music box
 https://musictv.mediacdn.ru/cdn/musicboxgold/playlist_sdmid.m3u8
-#EXTINF:-1 tvg-logo="https://logopond.com/logos/d697fc07d0074842311879287c3a530b.png" group-title="FAX CLIPS",master tv
+#EXTINF:-1 tvg-id="" tvg-name=" master tv   "  tvg-logo="https://logopond.com/logos/d697fc07d0074842311879287c3a530b.png" group-title="FAX  | CLIPS",master tv
 http://168.205.87.198:8555/live/antony/1234/74.m3u8
-#EXTINF:-1 tvg-logo="https://tvtvtv.ru/icons/51_tv.png" group-title="FAX CLIPS",Radio 51 TV
+#EXTINF:-1 tvg-id="" tvg-name=" Radio 51 TV   "  tvg-logo="https://tvtvtv.ru/icons/51_tv.png" group-title="FAX |  CLIPS",Radio 51 TV
 http://178.32.140.155/canale51/canale51/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vnjj8cnpentp.png" group-title="FAX CLIPS",Radio Bellla&Monella TV 
+#EXTINF:-1 tvg-id="" tvg-name=" Radio Bellla&Monella TV    " tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vnjj8cnpentp.png" group-title="FAX |  CLIPS",Radio Bellla&Monella TV 
 https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.retedeldono.it/sites/default/files/radio-company-logo.png" group-title="FAX CLIPS",Radio Company TV 
+#EXTINF:-1 tvg-id="" tvg-name=" Radio Company TV   "  tvg-logo="https://www.retedeldono.it/sites/default/files/radio-company-logo.png" group-title="FAX |  CLIPS",Radio Company TV 
 https://5929b138b139d.streamlock.net/CompanyTV/livestream_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaw26HNM7jmQYczY58faYX3DZ_at4cOJhkJQdTBxEK5rIfitlm-fgaT4Xbz55qquhCGCo&usqp=CAU" group-title="FAX CLIPS",Radio Ibiza TV (360p) 
+#EXTINF:-1 tvg-id="" tvg-name="  Radio Ibiza TV (360p)   "  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaw26HNM7jmQYczY58faYX3DZ_at4cOJhkJQdTBxEK5rIfitlm-fgaT4Xbz55qquhCGCo&usqp=CAU" group-title="FAX |  CLIPS",Radio Ibiza TV (360p) 
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH6AYByGSc4fkJeMt8FF9VWJsGHQfrpqb1u1_Y6UWRUkxlRKNNwsnHY8u1_EirECaa3bc&usqp=CAU" group-title="FAX CLIPS",M2O
+#EXTINF:-1 tvg-id="" tvg-name="  M2O  "  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH6AYByGSc4fkJeMt8FF9VWJsGHQfrpqb1u1_Y6UWRUkxlRKNNwsnHY8u1_EirECaa3bc&usqp=CAU" group-title="FAX |  CLIPS",M2O
 https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZuvL-vTqt3MKab2CpIEml-Vr6xfo60k6x__L8qfMnl3T0ydxJbcuO6IY_ERKEyUwPyxM&usqp=CAU" group-title="FAX CLIPS",TOP MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="  TOP MUSIC  "  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZuvL-vTqt3MKab2CpIEml-Vr6xfo60k6x__L8qfMnl3T0ydxJbcuO6IY_ERKEyUwPyxM&usqp=CAU" group-title="FAX |  CLIPS",TOP MUSIC
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Lghk0oORI6EiAnyyBmSjtZaMmkh1bLKfZ_KrmjUF4gdMEfKilz9NchTC5Qrz5mLlyOU&usqp=CAU" group-title="FAX CLIPS",Radio Kiss Kiss Italia TV (380p)
+#EXTINF:-1 tvg-id="" tvg-name=" Radio Kiss Kiss Italia TV (380p)   "  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Lghk0oORI6EiAnyyBmSjtZaMmkh1bLKfZ_KrmjUF4gdMEfKilz9NchTC5Qrz5mLlyOU&usqp=CAU" group-title="FAX |  CLIPS",Radio Kiss Kiss Italia TV (380p)
 https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/J4ttHyfSxHclLmcp82fOSHrVpr6sbA6u1MI5R7Ry1ZRSFzcLS7ufsD5c2cHX_hsp5GQ" group-title="FAX CLIPS",Radio Number One (720p)
+#EXTINF:-1 tvg-id="" tvg-name=" Radio Number One (720p)   " tvg-logo="https://play-lh.googleusercontent.com/J4ttHyfSxHclLmcp82fOSHrVpr6sbA6u1MI5R7Ry1ZRSFzcLS7ufsD5c2cHX_hsp5GQ" group-title="FAX |  CLIPS",Radio Number One (720p)
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9_LX_hHlEhGIcTRrs-jFmx00T_exULedh5uSC91_-9kL3DDEgRIVXvfsEu8QMOyryeLo&usqp=CAU" group-title="FAX CLIPS",Radio Piter Pan TV (720p)
+#EXTINF:-1 tvg-id="" tvg-name="  Radio Piter Pan TV (720p)  "  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9_LX_hHlEhGIcTRrs-jFmx00T_exULedh5uSC91_-9kL3DDEgRIVXvfsEu8QMOyryeLo&usqp=CAU" group-title="FAX  | CLIPS",Radio Piter Pan TV (720p)
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPfVrg03A3eUhhrxBkqy2YzPaHDgRV7zqzQY665Em1YT2r6cHqt5B4VpjBLTh1GbNf_34&usqp=CAU" group-title="FAX CLIPS",Radio Studio Delta TV (1080p)
+#EXTINF:-1 tvg-id="" tvg-name=" Radio Studio Delta TV (1080p)   " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPfVrg03A3eUhhrxBkqy2YzPaHDgRV7zqzQY665Em1YT2r6cHqt5B4VpjBLTh1GbNf_34&usqp=CAU" group-title="FAX |  CLIPS",Radio Studio Delta TV (1080p)
 https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/7c/63/11692/1/c300.png" group-title="FAX CLIPS",Radio Taormina Sicilia (720p)
+#EXTINF:-1 tvg-id="" tvg-name="  Radio Taormina Sicilia (720p)  "  tvg-logo="https://www.radio.net/images/broadcasts/7c/63/11692/1/c300.png" group-title="FAX |  CLIPS",Radio Taormina Sicilia (720p)
 https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ns5.assowebct.com/radiouniversaltv-it/radio-universal-tv-logo-assowebct.png" group-title="FAX CLIPS",Radio Universal TV Catania (576p)
+#EXTINF:-1 tvg-id="" tvg-name=" Radio Universal TV Catania (576p)   " tvg-logo="https://ns5.assowebct.com/radiouniversaltv-it/radio-universal-tv-logo-assowebct.png" group-title="FAX |  CLIPS",Radio Universal TV Catania (576p)
 http://flash2.streaming.xdevel.com:80/radiouniversaltv/radiouniversaltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQts3ZP2AvmZvjhxC54Ik8UeuZQ_LeyRGYTJLsC7AtZxnA8uYw0lAkMx_OM-5l4kB4tOpM&usqp=CAU" group-title="FAX CLIPS",Stereo 5 TV
+#EXTINF:-1 tvg-id="" tvg-name="  Stereo 5 TV  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQts3ZP2AvmZvjhxC54Ik8UeuZQ_LeyRGYTJLsC7AtZxnA8uYw0lAkMx_OM-5l4kB4tOpM&usqp=CAU" group-title="FAX |  CLIPS",Stereo 5 TV
 https://stream1.aswifi.it/stereo5/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSqbhc3wqAoWPzxWVS18gbJ5WiWTRhuTPgCj_lSudBrdMTf0cf9aZtYfIuqHNoCAnxHX0&usqp=CAU" group-title="FAX CLIPS",TVRS
+#EXTINF:-1 tvg-id="" tvg-name="  TVRS  "  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSqbhc3wqAoWPzxWVS18gbJ5WiWTRhuTPgCj_lSudBrdMTf0cf9aZtYfIuqHNoCAnxHX0&usqp=CAU" group-title="FAX  | CLIPS",TVRS
 http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUNBoD3LURrrGW8wX8NNCpFgWpw7c-wWsNxq29k0Q=s900-c-k-c0x00ffffff-no-rj" group-title="FAX CLIPS",Vera TV (480p)
+#EXTINF:-1 tvg-id="" tvg-name="  Vera TV (480p)  " tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUNBoD3LURrrGW8wX8NNCpFgWpw7c-wWsNxq29k0Q=s900-c-k-c0x00ffffff-no-rj" group-title="FAX |  CLIPS", Vera TV
 http://wms.shared.streamshow.it/veratv/mp4:veratv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwHWs5gYyRBOP8Dsx3acToYoXoT8AGxgMw1y4yPtBKGfkqFQsJan9eOTt7E2CPjoLRmg&usqp=CAU" group-title="FAX CLIPS",Vuemme
+#EXTINF:-1 tvg-id="" tvg-name=" Vuemme   " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwHWs5gYyRBOP8Dsx3acToYoXoT8AGxgMw1y4yPtBKGfkqFQsJan9eOTt7E2CPjoLRmg&usqp=CAU" group-title="FAX |  CLIPS",Vuemme
 https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-fSLYe8SAbA0/XMUbyajknCI/AAAAAAAAAzU/5SK7bfaElasFKPBDttGl7uTk1PeJdMINwCLcBGAs/s320/Screenshot_2019-04-28-00-09-39.png" group-title="FAX CLIPS",51 Radio TV (480p)
+#EXTINF:-1 tvg-id="" tvg-name=" 51 Radio TV (480p)   "  tvg-logo="https://2.bp.blogspot.com/-fSLYe8SAbA0/XMUbyajknCI/AAAAAAAAAzU/5SK7bfaElasFKPBDttGl7uTk1PeJdMINwCLcBGAs/s320/Screenshot_2019-04-28-00-09-39.png" group-title="FAX |  CLIPS",51 Radio TV (480p)
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61f13fcc9627c8e4ed060631_portada%20blog%20music.jpg" group-title="FAX CLIPS",ZAPPING MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="  ZAPPING MUSIC  " tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61f13fcc9627c8e4ed060631_portada%20blog%20music.jpg" group-title="FAX |  CLIPS",ZAPPING MUSIC
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/YkPWvCEbJ4BDlWDUlGqXRgUAchiaDRpE8TxLKJ4GxaHtk2d2cCPy8LJqgwQoEA_bzEV-" group-title="FAX CLIPS",POWER TV
+#EXTINF:-1 tvg-id="" tvg-name="  POWER TV  " tvg-logo="https://play-lh.googleusercontent.com/YkPWvCEbJ4BDlWDUlGqXRgUAchiaDRpE8TxLKJ4GxaHtk2d2cCPy8LJqgwQoEA_bzEV-" group-title="FAX |  CLIPS",POWER TV
 http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://radiointerativa96fm.com.br/wp-content/uploads/2021/04/logo_radio_interativa.png" group-title="FAX CLIPS",interativafm
+#EXTINF:-1 tvg-id="" tvg-name=" interativafm   " tvg-logo="http://radiointerativa96fm.com.br/wp-content/uploads/2021/04/logo_radio_interativa.png" group-title="FAX |  CLIPS",interativafm
 https://59f1cbe63db89.streamlock.net:1443/interativafm/_definst_/interativafm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dQN6xcT.png" group-title="FAX CLIPS",TV Web Camocim 
+#EXTINF:-1 tvg-id="" tvg-name="  TV Web Camocim   " tvg-logo="https://i.imgur.com/dQN6xcT.png" group-title="FAX |  CLIPS",TV Web Camocim 
 https://5c483b9d1019c.streamlock.net/8172/8172/playlist.m3u8
-#EXTINF:1 tvg-logo="https://cdns-images.dzcdn.net/images/cover/f4b4b11e32c71c670d8ad17e00684678/264x264.jpg" group-title="FAX CLIPS",TV HITS
+#EXTINF:-1 tvg-id="" tvg-name="  TV HITS  "  tvg-logo="https://cdns-images.dzcdn.net/images/cover/f4b4b11e32c71c670d8ad17e00684678/264x264.jpg" group-title="FAX |  CLIPS",TV HITS
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV. png" group-title="FAX CLIPS",Clube TV
+#EXTINF:-1 tvg-id="" tvg-name="  Clube TV  "  tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV. png" group-title="FAX  | CLIPS",Clube TV
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NRG-91-TV.png" group-title="FAX CLIPS",NRG 91 TV
+#EXTINF:-1 tvg-id="" tvg-name=" NRG 91 TV   " tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/NRG-91-TV.png" group-title="FAX |  CLIPS",NRG 91 TV
 http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
-#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main /logos/4Fun-TV.png" group-title="FAX CLIPS",4Fun.TV
+#EXTINF:-1 tvg-id="" tvg-name=" 4Fun.TV   " tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main /logos/4Fun-TV.png" group-title="FAX |  CLIPS",4Fun.TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTywy99kxTnwP8FTnYrVW_duka1UVmWHTFloUsT1tzrWOXhQGTOHClm3LWt2fSwjhzFyPA&usqp=CAU" group-title="FAX CLIPS",CATEDRAL DO ROCK TV
+#EXTINF:-1 tvg-id="" tvg-name=" CATEDRAL DO ROCK TV   " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTywy99kxTnwP8FTnYrVW_duka1UVmWHTFloUsT1tzrWOXhQGTOHClm3LWt2fSwjhzFyPA&usqp=CAU" group-title="FAX  | CLIPS",CATEDRAL DO ROCK TV
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
-#EXTINF:1 tvg-logo="https://2.bp.blogspot.com/-DAaHVRNV_kw/XzNMF4rotJI/AAAAAAAADJc/kgD73_FM-rIUFbhBHtCmgWDEYmznQPTOwCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2020-08-11-22-52-42.png" group-title="FAX CLIPS",TIERRA MIA TV
+#EXTINF:-1 tvg-id="" tvg-name="  TIERRA MIA TV  "  tvg-logo="https://2.bp.blogspot.com/-DAaHVRNV_kw/XzNMF4rotJI/AAAAAAAADJc/kgD73_FM-rIUFbhBHtCmgWDEYmznQPTOwCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2020-08-11-22-52-42.png" group-title="FAX |  CLIPS",TIERRA MIA TV
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CMC.png" group-title="FAX CLIPS",Country Music Channel
+#EXTINF:-1 tvg-id="" tvg-name="  Country Music Chann  "  tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CMC.png" group-title="FAX  | CLIPS",Country Music Channel
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-#EXTINF:1 tvg-logo="https://varioscanais.com/wp-content/uploads/2022/07/Abba-Rtv-300x300.webp" group-title="FAX CLIPS",Abba Rtv
+#EXTINF:-1 tvg-id="" tvg-name="  Abba Rtv  " tvg-logo="https://varioscanais.com/wp-content/uploads/2022/07/Abba-Rtv-300x300.webp" group-title="FAX  | CLIPS",Abba Rtv
 https://video01.kshost.com.br:4443/adilson8953/adilson8953/chunklist_w347975130.m3u8
-#EXTINF:1 tvg-logo="https://1.bp.blogspot.com/-42D-nDPxsIw/XRzWIYt-pzI/AAAAAAAABSk/fUQr-eKjhSsjLg2AlGNS1Op7jYfFgvBQgCPcBGAYYCw/s320/Screenshot_2019-07-03-13-02-38.png" group-title="FAX CLIPS",KRONEHIT TV
+#EXTINF:-1 tvg-id="" tvg-name="  KRONEHIT TV  " tvg-logo="https://1.bp.blogspot.com/-42D-nDPxsIw/XRzWIYt-pzI/AAAAAAAABSk/fUQr-eKjhSsjLg2AlGNS1Op7jYfFgvBQgCPcBGAYYCw/s320/Screenshot_2019-07-03-13-02-38.png" group-title="FAX  | CLIPS",KRONEHIT TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:1 tvg-logo="https://0.soompi.io/wp-content/uploads/2020/05/13170248/TWICE-TV.gif" group-title="FAX CLIPS",KPOP TV PLAY
+#EXTINF:-1 tvg-id="" tvg-name="  KPOP TV PLAY  " tvg-logo="https://0.soompi.io/wp-content/uploads/2020/05/13170248/TWICE-TV.gif" group-title="FAX  | CLIPS",KPOP TV PLAY
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1763972961.m3u8
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/CheeryInsecureAmericanquarterhorse-max-1mb.gif" group-title="FAX CLIPS",KpopTV Play
+#EXTINF:-1 tvg-id="" tvg-name="  KpopTV Play  " tvg-logo="https://thumbs.gfycat.com/CheeryInsecureAmericanquarterhorse-max-1mb.gif" group-title="FAX  | CLIPS",KpopTV Play
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF:1 tvg-logo="https://media.tenor.com/281Bc322lxUAAAAC/top-music-music.gif" group-title="FAX CLIPS",MUSIC TOP
+#EXTINF:-1 tvg-id="" tvg-name=" MUSIC TOP   "  tvg-logo="https://media.tenor.com/281Bc322lxUAAAAC/top-music-music.gif" group-title="FAX  | CLIPS",MUSIC TOP
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1679103036_b2028000_sleng.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHFgOU90ERHADvlY9oin9yZO8PmCt-aUmtZo6D8qn3jqdpPZvnu2eQDNMx7v-hi78zFaM&usqp=CAU" group-title="FAX CLIPS", -CLIPS
+#EXTINF:-1 tvg-id="" tvg-name=" -CLIPS 1   "  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHFgOU90ERHADvlY9oin9yZO8PmCt-aUmtZo6D8qn3jqdpPZvnu2eQDNMx7v-hi78zFaM&usqp=CAU" group-title="FAX  | CLIPS", -CLIPS 1
 https://stmv1.voxtvhd.com.br/7070/7070/chunklist_w2035493168.m3u8
-#EXTINF:1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5c43725db40b9dbedbbdca2b/1548847522677-ZXGZX9HV0QIUQ3HU63UN/bb-daytime-tv.gif"group-title="FAX CLIPS",  -CLIPS
+#EXTINF:-1 tvg-id="" tvg-name=" Clipis 2   " tvg-logo="https://i.gifer.com/74DL.gif" group-title="FAX CLIPS",Clipis 2
+https://59f2354c05961.streamlock.net:1443/rederc/_definst_/rederc/chunklist_w609011177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Clipis 3   "  tvg-logo="https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-musica-eletr-nica-1.gif" group-title="FAX |  CLIPS",Clipis 3
+https://5c483b9d1019c.streamlock.net/8006/8006/chunklist_w1984678252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Clipis 4   "  tvg-logo="https://thumbs.gfycat.com/LikelyQuaintHarvestmen-size_restricted.gif" group-title="FAX  | CLIPS",Clipis 4
+https://stmv2.samcast.com.br/alternativatvivainova/alternativatvivainova/chunklist_w931164571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="  Clipis 5  "  tvg-logo="https://i.gifer.com/UXdV.gif" group-title="FAX CLIPS",Clipis 5
+https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w177496967.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="   -CLIPS  6 "  tvg-logo="https://images.squarespace-cdn.com/content/v1/5c43725db40b9dbedbbdca2b/1548847522677-ZXGZX9HV0QIUQ3HU63UN/bb-daytime-tv.gif"group-title="FAX |  CLIPS",  -CLIPS 6
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/chunklist_b1064000.m3u8
-#EXTINF:1 tvg-logo="https://alexandreporfirio.com/wp-content/uploads/2019/06/LOGO-MASTER-SHOW-TV-2.png"group-title="FAX CLIPS",-MASTER SHOW TV
+#EXTINF:-1 tvg-id="" tvg-name=" MASTER SHOW TV   "  tvg-logo="https://alexandreporfirio.com/wp-content/uploads/2019/06/LOGO-MASTER-SHOW-TV-2.png"group-title="FAX  | CLIPS",-MASTER SHOW TV
 https://mastershowtv.videovox.pw/master6123/master6123/chunklist_w1243278274.m3u8
-#EXTINF:1 tvg-logo="https://spaceks.net/sites/jovemhits.com.br/images/logo/logo_390688089.png"group-title="FAX CLIPS",  -Tv Jovem Hits
+#EXTINF:-1 tvg-id="" tvg-name="   Tv Jovem Hits " tvg-logo="https://spaceks.net/sites/jovemhits.com.br/images/logo/logo_390688089.png"group-title="FAX |  CLIPS",  -Tv Jovem Hits
 https://video01.kshost.com.br:4443/joao9563/joao9563/chunklist_w1787722245.m3u8
-#EXTINF:1 tvg-logo="https://media.tenor.com/2ll51f5v1aAAAAAM/music-head-shake.gif"group-title="FAX CLIPS", HITS MUSIC
+#EXTINF:-1 tvg-id="" tvg-name=" HITS MUSIC   "  tvg-logo="https://media.tenor.com/2ll51f5v1aAAAAAM/music-head-shake.gif"group-title="FAX |  CLIPS", HITS MUSIC
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:1 tvg-logo="https://media1.giphy.com/media/jSJPEa97DqcEspsGxO/giphy.gif?cid=6c09b9524b95c5962e8405b863e46511e85250073642725a&rid=giphy.gif&ct=s"group-title="FAX CLIPS",30A Music (720p)
+#EXTINF:-1 tvg-id="" tvg-name="  30A Music (720p)  " tvg-logo="https://media1.giphy.com/media/jSJPEa97DqcEspsGxO/giphy.gif?cid=6c09b9524b95c5962e8405b863e46511e85250073642725a&rid=giphy.gif&ct=s"group-title="FAX |  CLIPS",30A Music (720p)
 https://30a-tv.com/music.m3u8
-#EXTINF:1 tvg-logo="https://media0.giphy.com/media/h59kTCNfi8IJnteCfI/giphy.gif"group-title="FAX CLIPS",9XM (480p)
+#EXTINF:-1 tvg-id="" tvg-name=" 9XM (480p)   " tvg-logo="https://media0.giphy.com/media/h59kTCNfi8IJnteCfI/giphy.gif"group-title="FAX  | CLIPS",9XM (480p)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyz5jG4HsSpgZDVlV44RGCuq6MlpmL4vGtOpZg-UiK4lpB_z66KYc6Jyzxlbu8uya53Q&usqp=CAU"group-title="FAX CLIPS",1HD Music Television (404p) [Not 24/7]
+#EXTINF:-1 tvg-id="" tvg-name="  1HD Music Television (404p) [Not 24/7]  "  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyz5jG4HsSpgZDVlV44RGCuq6MlpmL4vGtOpZg-UiK4lpB_z66KYc6Jyzxlbu8uya53Q&usqp=CAU"group-title="FAX |  CLIPS",1HD Music Television (404p) [Not 24/7]
 https://sc.id-tv.kz/1hd.m3u8
-#EXTINF:1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/90c03d2bc45ca66edd29d3cae0d9b779.jpg"group-title="FAX CLIPS",88 Stereo (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="" tvg-name="  88 Stereo (720p) [Not 24/7]  " tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/90c03d2bc45ca66edd29d3cae0d9b779.jpg"group-title="FAX  | CLIPS",88 Stereo (720p) [Not 24/7]
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/LittleEveryItalianbrownbear-max-1mb.gif"group-title="FAX CLIPS",A2i Music (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="" tvg-name=" A2i Music (720p) [Not 24/7]   " tvg-logo="https://thumbs.gfycat.com/LittleEveryItalianbrownbear-max-1mb.gif"group-title="FAX |  CLIPS",A2i Music (720p) [Not 24/7]
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
-#EXTINF:1 tvg-logo="https://media0.giphy.com/media/sGX1Ey04iE37CtJsjC/200.gif"group-title="FAX CLIPS",City Music TV (720p)
+#EXTINF:-1 tvg-id="" tvg-name="  City Music TV (720p)  " tvg-logo="https://media0.giphy.com/media/sGX1Ey04iE37CtJsjC/200.gif"group-title="FAX  | CLIPS",City Music TV (720p)
 https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf3T3xsP0CY1nVy8AxSOhaomwTLau7YeomZJOO2NF8sy4y6wBY3tJWuB0zFP8niv-9wEc&usqp=CAU"group-title="FAX CLIPS",Cantina TV (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="  Cantina TV (1080p)  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf3T3xsP0CY1nVy8AxSOhaomwTLau7YeomZJOO2NF8sy4y6wBY3tJWuB0zFP8niv-9wEc&usqp=CAU"group-title="FAX |  CLIPS",Cantina TV (1080p)
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
-#EXTINF:1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s124754d.png"group-title="FAX CLIPS",stranafm
+#EXTINF:-1 tvg-id="" tvg-name=" stranafm   "  tvg-logo="https://cdn-radiotime-logos.tunein.com/s124754d.png"group-title="FAX |  CLIPS",stranafm
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5zdDg7MsGGaqcFXeS0IqVMxVKmM5zdmPEGA&usqp=CAU"group-title="FAX CLIPS",CANAL10
+#EXTINF:-1 tvg-id="" tvg-name=" CANAL10   "  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5zdDg7MsGGaqcFXeS0IqVMxVKmM5zdmPEGA&usqp=CAU"group-title="FAX  | CLIPS",CANAL10
 https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-FAX RADIOS.xml "
@@ -6171,9 +6210,9 @@ http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809610.mp4
 http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809611.mp4
 
 
-#EXTM3U url-tvg="http://grade-de-SÉRIES | AMAZON PRIME",NCIS Havaí.xml"
-############## SÉRIES | AMAZON PRIME",NCIS Havaí ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | AMAZON PRIME",NCIS Havaí" group-title="
+#EXTM3U url-tvg="http://grade-de-SÉRIES NCIS Havaí  | AMAZON PRIME.xml"
+############## SÉRIES NCIS Havaí | AMAZON PRIME ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES NCIS Havaí | AMAZON PRIME" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="NCIS Havaí: Investigações Criminais S01 NCIS Havaí: Investigações Criminais - S01E01 - Piloto" tvg-logo="https://image.tmdb.org/t/p/w300/t5PQou5TwH3sqjgpfNZqaIxqFHp.jpg" group-title="SÉRIES | AMAZON PRIME",NCIS Havaí: Investigações Criminais S01 NCIS Havaí: Investigações Criminais - S01E01 - Piloto
 http://conexaoonline.top:80/series/0818687333/key6g0KZ980/312317.mp4
@@ -6220,9 +6259,9 @@ http://conexaoonline.top:80/series/0818687333/key6g0KZ980/312337.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NCIS Havaí: Investigações Criminais S02 NCIS Havaí: Investigações Criminais - S02E09 - Episódio 9" tvg-logo="https://image.tmdb.org/t/p/w300/gidHUvyvkAoQ906VckdjUrpdrFA.jpg" group-title="SÉRIES | AMAZON PRIME",NCIS Havaí: Investigações Criminais S02 NCIS Havaí: Investigações Criminais - S02E09 - Episódio 9
 http://conexaoonline.top:80/series/0818687333/key6g0KZ980/312338.mp4
 
-#EXTM3U url-tvg="http://grade-de-SÉRIES | AMAZON PRIME",NCIS: Los Angeles.xml"
-############## SÉRIES | AMAZON PRIME",NCIS: Los Angeles ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | AMAZON PRIME",NCIS: Los Angeles" group-title="
+#EXTM3U url-tvg="http://grade-de-SÉRIES NCIS: Los Angeles| AMAZON PRIME.xml"
+############## SÉRIES NCIS: Los Angeles | AMAZON PRIME", ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES NCIS: Los Angeles | AMAZON PRIME" group-title="
 
 
 #EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 NCIS: Investigação Naval - S01E01 - Morte no Força Aérea Um" tvg-logo="https://image.tmdb.org/t/p/w300/1nQMJ5o9X3gSTXLtF6azUtXMQ3U.jpg" group-title="SÉRIES | AMAZON PRIME",NCIS: Investigação Naval S01 NCIS: Investigação Naval - S01E01 - Morte no Força Aérea Um
@@ -7426,6 +7465,143 @@ http://conexaoonline.top:80/series/0818687333/key6g0KZ980/312788.mp4
 http://conexaoonline.top:80/series/0818687333/key6g0KZ980/312789.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NCIS: Los Angeles S01 NCIS: Los Angeles - S01E24 - Episódio 24" tvg-logo="https://image.tmdb.org/t/p/w300/xq0tvH724oACfynXcRtKjz5EbJ5.jpg" group-title="SÉRIES | AMAZON PRIME",NCIS: Los Angeles S01 NCIS: Los Angeles - S01E24 - Episódio 24
 http://conexaoonline.top:80/series/0818687333/key6g0KZ980/312790.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | NETFLIX",The Witcher.xml"
+############## SÉRIES | NETFLIX",The Witcher ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | NETFLIX",The Witcher" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher: A Origem S01 The Witcher: A Origem S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlgUWds7UXHFQx4bealSnn4Ib7A.jpg" group-title="SÉRIES | NETFLIX",The Witcher: A Origem S01 The Witcher: A Origem S01E01
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher: A Origem S01 The Witcher: A Origem S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlgUWds7UXHFQx4bealSnn4Ib7A.jpg" group-title="SÉRIES | NETFLIX",The Witcher: A Origem S01 The Witcher: A Origem S01E02
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher: A Origem S01 The Witcher: A Origem S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlgUWds7UXHFQx4bealSnn4Ib7A.jpg" group-title="SÉRIES | NETFLIX",The Witcher: A Origem S01 The Witcher: A Origem S01E03
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher: A Origem S01 The Witcher: A Origem S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlgUWds7UXHFQx4bealSnn4Ib7A.jpg" group-title="SÉRIES | NETFLIX",The Witcher: A Origem S01 The Witcher: A Origem S01E04
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287897.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | APPLE+ SOS Cachorrinhos.xml"
+############## SÉRIES | APPLE+ SOS Cachorrinhos ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | APPLE+ SOS Cachorrinhos" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="SOS Cachorrinhos S02 SOS Cachorrinhos S02E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQLOEMiJcC5MtCDOBUfh1nXARiw.jpg" group-title="SÉRIES | APPLE+",SOS Cachorrinhos S02 SOS Cachorrinhos S02E01
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SOS Cachorrinhos S02 SOS Cachorrinhos S02E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQLOEMiJcC5MtCDOBUfh1nXARiw.jpg" group-title="SÉRIES | APPLE+",SOS Cachorrinhos S02 SOS Cachorrinhos S02E02
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SOS Cachorrinhos S02 SOS Cachorrinhos S02E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQLOEMiJcC5MtCDOBUfh1nXARiw.jpg" group-title="SÉRIES | APPLE+",SOS Cachorrinhos S02 SOS Cachorrinhos S02E03
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SOS Cachorrinhos S02 SOS Cachorrinhos S02E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQLOEMiJcC5MtCDOBUfh1nXARiw.jpg" group-title="SÉRIES | APPLE+",SOS Cachorrinhos S02 SOS Cachorrinhos S02E04
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SOS Cachorrinhos S02 SOS Cachorrinhos S02E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQLOEMiJcC5MtCDOBUfh1nXARiw.jpg" group-title="SÉRIES | APPLE+",SOS Cachorrinhos S02 SOS Cachorrinhos S02E05
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SOS Cachorrinhos S02 SOS Cachorrinhos S02E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQLOEMiJcC5MtCDOBUfh1nXARiw.jpg" group-title="SÉRIES | APPLE+",SOS Cachorrinhos S02 SOS Cachorrinhos S02E06
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SOS Cachorrinhos S02 SOS Cachorrinhos S02E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQLOEMiJcC5MtCDOBUfh1nXARiw.jpg" group-title="SÉRIES | APPLE+",SOS Cachorrinhos S02 SOS Cachorrinhos S02E07
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SOS Cachorrinhos S02 SOS Cachorrinhos S02E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQLOEMiJcC5MtCDOBUfh1nXARiw.jpg" group-title="SÉRIES | APPLE+",SOS Cachorrinhos S02 SOS Cachorrinhos S02E08
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287786.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | KIDS",Sonic.xml"
+############## SÉRIES | KIDS",Sonic ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | KIDS",Sonic" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Sonic Prime S01 Sonic Prime S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Hie7gCDsvt7wtPRuUAk4ZzaoQa.jpg" group-title="SÉRIES | KIDS",Sonic Prime S01 Sonic Prime S01E01
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic Prime S01 Sonic Prime S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Hie7gCDsvt7wtPRuUAk4ZzaoQa.jpg" group-title="SÉRIES | KIDS",Sonic Prime S01 Sonic Prime S01E02
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic Prime S01 Sonic Prime S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Hie7gCDsvt7wtPRuUAk4ZzaoQa.jpg" group-title="SÉRIES | KIDS",Sonic Prime S01 Sonic Prime S01E03
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic Prime S01 Sonic Prime S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Hie7gCDsvt7wtPRuUAk4ZzaoQa.jpg" group-title="SÉRIES | KIDS",Sonic Prime S01 Sonic Prime S01E04
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic Prime S01 Sonic Prime S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Hie7gCDsvt7wtPRuUAk4ZzaoQa.jpg" group-title="SÉRIES | KIDS",Sonic Prime S01 Sonic Prime S01E05
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic Prime S01 Sonic Prime S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Hie7gCDsvt7wtPRuUAk4ZzaoQa.jpg" group-title="SÉRIES | KIDS",Sonic Prime S01 Sonic Prime S01E06
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic Prime S01 Sonic Prime S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Hie7gCDsvt7wtPRuUAk4ZzaoQa.jpg" group-title="SÉRIES | KIDS",Sonic Prime S01 Sonic Prime S01E07
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic Prime S01 Sonic Prime S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Hie7gCDsvt7wtPRuUAk4ZzaoQa.jpg" group-title="SÉRIES | KIDS",Sonic Prime S01 Sonic Prime S01E08
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/287778.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | KIDS",As Novas Aventuras de Gasparzinho.xml"
+############## SÉRIES | KIDS",As Novas Aventuras de Gasparzinho ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | KIDS",As Novas Aventuras de Gasparzinho" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E01
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E02
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E03
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E04
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E05
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E06
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E07
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E08
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E09
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E10
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E11
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E12
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E13
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E14
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E15
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E16
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E17
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E18
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E19
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E20
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E21
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E22
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E23
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E24
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E25
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1ekWAH6uAp8wvSt2NUQ5DBO9q.jpg" group-title="SÉRIES | KIDS",As Novas Aventuras de Gasparzinho S02 As Novas Aventuras de Gasparzinho S02E26
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285718.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | EXCLUSIVAS",Perícia.xml"
+############## SÉRIES | EXCLUSIVAS",Perícia ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | EXCLUSIVAS",Perícia" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Perícia Lab S01 Perícia Lab S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTgsu2Ct1IgY1V28ttlKlHP9hhB.jpg" group-title="SÉRIES | EXCLUSIVAS",Perícia Lab S01 Perícia Lab S01E01
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perícia Lab S01 Perícia Lab S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTgsu2Ct1IgY1V28ttlKlHP9hhB.jpg" group-title="SÉRIES | EXCLUSIVAS",Perícia Lab S01 Perícia Lab S01E03
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perícia Lab S01 Perícia Lab S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTgsu2Ct1IgY1V28ttlKlHP9hhB.jpg" group-title="SÉRIES | EXCLUSIVAS",Perícia Lab S01 Perícia Lab S01E04
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perícia Lab S01 Perícia Lab S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTgsu2Ct1IgY1V28ttlKlHP9hhB.jpg" group-title="SÉRIES | EXCLUSIVAS",Perícia Lab S01 Perícia Lab S01E05
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perícia Lab S01 Perícia Lab S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTgsu2Ct1IgY1V28ttlKlHP9hhB.jpg" group-title="SÉRIES | EXCLUSIVAS",Perícia Lab S01 Perícia Lab S01E06
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perícia Lab S01 Perícia Lab S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTgsu2Ct1IgY1V28ttlKlHP9hhB.jpg" group-title="SÉRIES | EXCLUSIVAS",Perícia Lab S01 Perícia Lab S01E07
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/289115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perícia Lab S01 Perícia Lab S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTgsu2Ct1IgY1V28ttlKlHP9hhB.jpg" group-title="SÉRIES | EXCLUSIVAS",Perícia Lab S01 Perícia Lab S01E07
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/285972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perícia Lab S01 Perícia Lab - S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTgsu2Ct1IgY1V28ttlKlHP9hhB.jpg" group-title="SÉRIES | EXCLUSIVAS",Perícia Lab S01 Perícia Lab - S01E08
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/308461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perícia Lab S01 Perícia Lab - S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTgsu2Ct1IgY1V28ttlKlHP9hhB.jpg" group-title="SÉRIES | EXCLUSIVAS",Perícia Lab S01 Perícia Lab - S01E09
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/308462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perícia Lab S01 Perícia Lab - S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTgsu2Ct1IgY1V28ttlKlHP9hhB.jpg" group-title="SÉRIES | EXCLUSIVAS",Perícia Lab S01 Perícia Lab - S01E10
+http://conexaoonline.top:80/series/matheus2077/aadd2077w2/308463.mp4
 
 #EXTM3U url-tvg=" http://grade-de-Camera.xml "
  ############## Camera ############## ### 
