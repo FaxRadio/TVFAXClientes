@@ -3353,7 +3353,7 @@ https://stm24.xcast.com.br:8644/stream
 https://cloud1.cdnseguro.com:5520/;
 #EXTINF:1 tvg-logo="https://i.ytimg.com/vi/fScZxd6p2Ig/maxresdefault.jpg" group-title="Radio GOSPEL",Paz FM
 http://digital.umhost.com.br:9978/;
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zjp3jtxserpq.png" group-title="Radio GOSPELL",Rádio Gospel Adoração
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zjp3jtxserpq.png" group-title="Radio GOSPEL",Rádio Gospel Adoração
 https://ssl.xcast.com.br:12570/;
 #EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/F7-9nBkTx3RLsjTyo0BHlXGKqu8til2gvvIaGz4lAGG2tJuWJ5sDuNbGVGeYfSlJ_g" group-title="Radio GOSPEL",Sertão Gospel
 https://stream-33.zeno.fm/fpg8s2gha9quv?zs=ndJRla2jTiCR7WdGog6PuQ
@@ -4049,6 +4049,304 @@ http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810840.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Diabolik Lovers S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJ0Y0W0koYMEhLmCFj9g0bdD3OK.jpg" group-title="Séries | Amazon Prime Video",Diabolik Lovers S01 E12
 http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810841.mp4
 
+#EXTM3U url-tvg="http://grade-de-Séries | Amazon Prime Video.xml"
+############## Séries | Amazon Prime Video ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Amazon Prime Video" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikVsUrNwVDOSp7Lpp1y3nn2kMrC.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBUbsb4VaAVD7eZIH7ARTV32wTR.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFx9E8JWffMzF4rlkLecGZ3wMbb.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiYN5LwukMKqC50vA9AivWZZY9o.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpQuWRZIdb9ddUvc1y5ZBvFamwN.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AicPvu6qTWOqO74mMyoiYhNU9ve.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e17aes3ux3JZJ6XaYloUN5n85lT.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lT5kYKJzoSzDCZXafYVchfElhYe.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSKCyMDI5RGC5efKrrkhZycw4GV.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSKCyMDI5RGC5efKrrkhZycw4GV.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSKCyMDI5RGC5efKrrkhZycw4GV.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSKCyMDI5RGC5efKrrkhZycw4GV.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSKCyMDI5RGC5efKrrkhZycw4GV.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSKCyMDI5RGC5efKrrkhZycw4GV.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSKCyMDI5RGC5efKrrkhZycw4GV.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Moderno S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSKCyMDI5RGC5efKrrkhZycw4GV.jpg" group-title="Séries | Amazon Prime Video",Amor Moderno S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810180.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Amazon Prime Video.xml"
+############## Séries | Amazon Prime Video ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Amazon Prime Video" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqWQP0Y8GCtlnytl9fh7kMBgH5O.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUL4CvIoxASBfhvFFIHrB5N0Gl6.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/OJIboVYtgj900euZigAyXrOrLZ.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouJW70LQuKc3jMWyLwDpo2eXurV.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDMSm55nkWBgJdm7uthEAK0SwDa.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPaONi8l84yoEKziXT5G6TdCZoL.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycwXvtKTjhUF957sRRWFgQACnur.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzbpDrEeiDvSCYLBWRF2vlI15f3.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VkzkvA0XckUClWrlkt4fnmTrkL.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VkzkvA0XckUClWrlkt4fnmTrkL.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VkzkvA0XckUClWrlkt4fnmTrkL.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VkzkvA0XckUClWrlkt4fnmTrkL.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VkzkvA0XckUClWrlkt4fnmTrkL.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VkzkvA0XckUClWrlkt4fnmTrkL.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VkzkvA0XckUClWrlkt4fnmTrkL.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alex Rider S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VkzkvA0XckUClWrlkt4fnmTrkL.jpg" group-title="Séries | Amazon Prime Video",Alex Rider S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809853.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
+############## Séries | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Netflix" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S01 E01" tvg-logo="http://urlon.me/dXZ" group-title="Séries | Amazon Prime Video",Absentia S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S01 E02" tvg-logo="http://urlon.me/dXg" group-title="Séries | Amazon Prime Video",Absentia S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S01 E03" tvg-logo="http://urlon.me/d9S" group-title="Séries | Amazon Prime Video",Absentia S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S01 E04" tvg-logo="http://urlon.me/d9E" group-title="Séries | Amazon Prime Video",Absentia S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S01 E05" tvg-logo="http://urlon.me/d9H" group-title="Séries | Amazon Prime Video",Absentia S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S01 E06" tvg-logo="http://urlon.me/d9L" group-title="Séries | Amazon Prime Video",Absentia S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S01 E07" tvg-logo="http://urlon.me/d9n" group-title="Séries | Amazon Prime Video",Absentia S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S01 E08" tvg-logo="http://urlon.me/d94" group-title="Séries | Amazon Prime Video",Absentia S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S01 E09" tvg-logo="http://urlon.me/d9b" group-title="Séries | Amazon Prime Video",Absentia S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S01 E10" tvg-logo="http://urlon.me/d9o" group-title="Séries | Amazon Prime Video",Absentia S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S02 E01" tvg-logo="http://urlon.me/dXJ" group-title="Séries | Amazon Prime Video",Absentia S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S02 E02" tvg-logo="http://urlon.me/dXT" group-title="Séries | Amazon Prime Video",Absentia S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S02 E03" tvg-logo="http://urlon.me/dXX" group-title="Séries | Amazon Prime Video",Absentia S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S02 E04" tvg-logo="http://urlon.me/dX9" group-title="Séries | Amazon Prime Video",Absentia S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S02 E05" tvg-logo="http://urlon.me/dX5" group-title="Séries | Amazon Prime Video",Absentia S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S02 E06" tvg-logo="http://urlon.me/dXO" group-title="Séries | Amazon Prime Video",Absentia S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S02 E07" tvg-logo="http://urlon.me/dXd" group-title="Séries | Amazon Prime Video",Absentia S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S02 E08" tvg-logo="http://urlon.me/dXh" group-title="Séries | Amazon Prime Video",Absentia S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S02 E09" tvg-logo="http://urlon.me/dX6" group-title="Séries | Amazon Prime Video",Absentia S02 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S02 E10" tvg-logo="http://urlon.me/ZgYMkR" group-title="Séries | Amazon Prime Video",Absentia S02 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKxEPNgXtz8truWnR2Dmd62B3aU.jpg" group-title="Séries | Amazon Prime Video",Absentia S03 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nn3hDDedSTzZifsHg29D06bwq9S.jpg" group-title="Séries | Amazon Prime Video",Absentia S03 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HBTG4ySji9DT6DH7sjORiyAkVx.jpg" group-title="Séries | Amazon Prime Video",Absentia S03 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvQGYNuCttnPJVTxvFtcjV0htQd.jpg" group-title="Séries | Amazon Prime Video",Absentia S03 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEEN9S40aKWjfBwWIGfD5FnJ8I6.jpg" group-title="Séries | Amazon Prime Video",Absentia S03 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUysNyARAhVeCICfBMQ2cA5Uw8W.jpg" group-title="Séries | Amazon Prime Video",Absentia S03 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hApSvkabcJxrzKF90NtjucsP59E.jpg" group-title="Séries | Amazon Prime Video",Absentia S03 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQxHO8Hr83uujlPxvorDA8FDpr5.jpg" group-title="Séries | Amazon Prime Video",Absentia S03 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S03 E09" tvg-logo="http://urlon.me/ZgYMkR" group-title="Séries | Amazon Prime Video",Absentia S03 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absentia S03 E10" tvg-logo="http://urlon.me/ZgYMkR" group-title="Séries | Amazon Prime Video",Absentia S03 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809641.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
+############## Séries | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Netflix" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJ6VQOLt5hGrsCi5ZWCpJ7GL1Tc.jpg" group-title="Séries | Netflix",Alto Mar S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aed6HKFGqeDClCOY82yMQLWnzAZ.jpg" group-title="Séries | Netflix",Alto Mar S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXBo46SQ6L3CfjXwlSYCv5xYUrA.jpg" group-title="Séries | Netflix",Alto Mar S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lJQ5fESh0gaNd5bPp8sSNRdc275.jpg" group-title="Séries | Netflix",Alto Mar S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMcvLTAZBBCZpW19rn5Mtz3cnZ3.jpg" group-title="Séries | Netflix",Alto Mar S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tt5kmHhDOTWZXHg6blWz64QVFxj.jpg" group-title="Séries | Netflix",Alto Mar S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVq5Cqt6KjfUh8IceNwplodlPvh.jpg" group-title="Séries | Netflix",Alto Mar S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tyFtRCfIb9z6avDeQ6QRId9wGgy.jpg" group-title="Séries | Netflix",Alto Mar S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zBaFN8QDCXfX0cniHJGxqmObeI.jpg" group-title="Séries | Netflix",Alto Mar S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/10n7kOlLXBWNlaOcMkBIQhGxNfx.jpg" group-title="Séries | Netflix",Alto Mar S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sk2KKvfKFr02pY4hOuUBXVgH0xr.jpg" group-title="Séries | Netflix",Alto Mar S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlEo28gkQNkh2fXMbxJGjdRFkWn.jpg" group-title="Séries | Netflix",Alto Mar S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7Eq1zn8EpxNIeCvB17WiFANI2a.jpg" group-title="Séries | Netflix",Alto Mar S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wj0H9JE5TB4cK4ZzOMyAypyUglj.jpg" group-title="Séries | Netflix",Alto Mar S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7nq6gdjR20b0eRDrvYGbMbn1BbS.jpg" group-title="Séries | Netflix",Alto Mar S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBTW22xiQPFTBXugTiBnpfHDAOq.jpg" group-title="Séries | Netflix",Alto Mar S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c27VIbMWAfKKjhbjvadM0eulRk6.jpg" group-title="Séries | Netflix",Alto Mar S03 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDhYhuXhDz3pHDua3VhMaH1RQVO.jpg" group-title="Séries | Netflix",Alto Mar S03 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRsCcL0bpiyF0RJeiotJhQaPN48.jpg" group-title="Séries | Netflix",Alto Mar S03 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0zD9xRPBQ9CPThnn9ytUkeVRit.jpg" group-title="Séries | Netflix",Alto Mar S03 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z05z8CiXcRWxR39FW2FtDcnCPxZ.jpg" group-title="Séries | Netflix",Alto Mar S03 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alto Mar S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wS4OnDrjUIhisNU5rp9aEUFBkie.jpg" group-title="Séries | Netflix",Alto Mar S03 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810133.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
+############## Séries | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Netflix" group-title="
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S01 E01" tvg-logo="http://urlon.me/6GI" group-title="Séries | Netflix",Altered Carbon S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S01 E02" tvg-logo="http://urlon.me/6GV" group-title="Séries | Netflix",Altered Carbon S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S01 E03" tvg-logo="http://urlon.me/6GC" group-title="Séries | Netflix",Altered Carbon S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S01 E04" tvg-logo="http://urlon.me/6GW" group-title="Séries | Netflix",Altered Carbon S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S01 E05" tvg-logo="http://urlon.me/6GD" group-title="Séries | Netflix",Altered Carbon S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S01 E06" tvg-logo="http://urlon.me/6Gp" group-title="Séries | Netflix",Altered Carbon S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S01 E07" tvg-logo="http://urlon.me/6Gu" group-title="Séries | Netflix",Altered Carbon S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S01 E08" tvg-logo="http://urlon.me/6GR" group-title="Séries | Netflix",Altered Carbon S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S01 E09" tvg-logo="http://urlon.me/6G2" group-title="Séries | Netflix",Altered Carbon S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S01 E10" tvg-logo="http://urlon.me/6Gs" group-title="Séries | Netflix",Altered Carbon S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S02 E01" tvg-logo="http://urlon.me/ZgYYkn" group-title="Séries | Netflix",Altered Carbon S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S02 E02" tvg-logo="http://urlon.me/ZgYYkL" group-title="Séries | Netflix",Altered Carbon S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S02 E03" tvg-logo="http://urlon.me/ZgYYkH" group-title="Séries | Netflix",Altered Carbon S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S02 E04" tvg-logo="http://urlon.me/ZgYYkE" group-title="Séries | Netflix",Altered Carbon S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S02 E05" tvg-logo="http://urlon.me/ZgYYkS" group-title="Séries | Netflix",Altered Carbon S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S02 E06" tvg-logo="http://urlon.me/ZgYYfg" group-title="Séries | Netflix",Altered Carbon S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S02 E07" tvg-logo="http://urlon.me/ZgYYfZ" group-title="Séries | Netflix",Altered Carbon S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon S02 E08" tvg-logo="http://urlon.me/ZgYYf6" group-title="Séries | Netflix",Altered Carbon S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810111.mp4
+
+
+#EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
+############## Séries | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Netflix" group-title="
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9KTSIyR05CIi7sDbXVaRxEe2HZ.jpg" group-title="Séries | Netflix",Amizade Dolorida S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ns82NolVJGvrv8RfO2kOA1XDz1O.jpg" group-title="Séries | Netflix",Amizade Dolorida S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49IN2hLewIDGLxPJ72WsYNg6EPn.jpg" group-title="Séries | Netflix",Amizade Dolorida S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1ozvWJuURKer9dJyWOCb9hqGOX.jpg" group-title="Séries | Netflix",Amizade Dolorida S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKFaUkf2T1BS07Ww8hKXFhileBH.jpg" group-title="Séries | Netflix",Amizade Dolorida S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3oPLOIxf2YeL59wv37LGgVk06XW.jpg" group-title="Séries | Netflix",Amizade Dolorida S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBO75aaMeZARiP01gRQPQNAHVLR.jpg" group-title="Séries | Netflix",Amizade Dolorida S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6FGQxGJ8KrzAKNZ4FMVGAKLBW4.jpg" group-title="Séries | Netflix",Amizade Dolorida S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6FGQxGJ8KrzAKNZ4FMVGAKLBW4.jpg" group-title="Séries | Netflix",Amizade Dolorida S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6FGQxGJ8KrzAKNZ4FMVGAKLBW4.jpg" group-title="Séries | Netflix",Amizade Dolorida S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6FGQxGJ8KrzAKNZ4FMVGAKLBW4.jpg" group-title="Séries | Netflix",Amizade Dolorida S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6FGQxGJ8KrzAKNZ4FMVGAKLBW4.jpg" group-title="Séries | Netflix",Amizade Dolorida S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6FGQxGJ8KrzAKNZ4FMVGAKLBW4.jpg" group-title="Séries | Netflix",Amizade Dolorida S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6FGQxGJ8KrzAKNZ4FMVGAKLBW4.jpg" group-title="Séries | Netflix",Amizade Dolorida S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Dolorida S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6FGQxGJ8KrzAKNZ4FMVGAKLBW4.jpg" group-title="Séries | Netflix",Amizade Dolorida S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBp9lG3mKqliftYRqs5eoVvyYay.jpg" group-title="Séries | Netflix",Amor e Anarquia S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgQ5JTXHrAO1GbutTabsrEec8cf.jpg" group-title="Séries | Netflix",Amor e Anarquia S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4eXgNPiLSGi7O9ZqRQeCwau59mI.jpg" group-title="Séries | Netflix",Amor e Anarquia S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tYazOOTWAVJGtt0rvapTcg4OIR.jpg" group-title="Séries | Netflix",Amor e Anarquia S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAIY3edIvGTt0xcDAQa1t3Gp56l.jpg" group-title="Séries | Netflix",Amor e Anarquia S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8U4NZhSjV0hf9joO8cSPbbytlL2.jpg" group-title="Séries | Netflix",Amor e Anarquia S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgp1GMbHvs63UAAh6VgKfdthvwR.jpg" group-title="Séries | Netflix",Amor e Anarquia S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Sx4ux6LRXFFFYAW67M7RmUrNeC.jpg" group-title="Séries | Netflix",Amor e Anarquia S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9l6246bl2s4NjxCsTG4EqHCAFnN.jpg" group-title="Séries | Netflix",Amor e Anarquia S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9l6246bl2s4NjxCsTG4EqHCAFnN.jpg" group-title="Séries | Netflix",Amor e Anarquia S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9l6246bl2s4NjxCsTG4EqHCAFnN.jpg" group-title="Séries | Netflix",Amor e Anarquia S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9l6246bl2s4NjxCsTG4EqHCAFnN.jpg" group-title="Séries | Netflix",Amor e Anarquia S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9l6246bl2s4NjxCsTG4EqHCAFnN.jpg" group-title="Séries | Netflix",Amor e Anarquia S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9l6246bl2s4NjxCsTG4EqHCAFnN.jpg" group-title="Séries | Netflix",Amor e Anarquia S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9l6246bl2s4NjxCsTG4EqHCAFnN.jpg" group-title="Séries | Netflix",Amor e Anarquia S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Anarquia S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9l6246bl2s4NjxCsTG4EqHCAFnN.jpg" group-title="Séries | Netflix",Amor e Anarquia S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810164.mp4
 
 
 #EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
@@ -4265,6 +4563,786 @@ http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940255.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Despercebida S01 E12" tvg-logo="http://5ce.co:80/images/xdua55TZuk0pAQebhTWwjDJ22st_big.jpg" group-title="Séries | Netflix",Despercebida S01 E12
 http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940256.mp4
 
+#EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
+############## Séries | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Netflix" group-title="
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nq1yvmxRWfyGfHTXBswpmC01m7.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7FMhTdL7zMasVxzEJF3Hy6PX4O.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYQepfPVAcws0rV6OZZhPccrILR.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhBxuvFJaiWzzKRihGOJHbHru7V.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyhCV5cCA1MM6hUXjYu5wuBVwuu.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuiFtTrJhfNEKWgqLWB8K9AQ8gk.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZP6JojeIyOhBa2iFhiVpoBoUmS.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctFzMiCRJBykbSyd45wM9wSsVt3.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvkMUmaFvQV22UJuP3vPuQnCh30.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdw4L8CHfg7Ghv6GO7v2OgQDX8p.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zB3ipxW79PkNS8ziOEeVFx77UIe.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjq41xOktFNoiGA1saZWOUbnUZ7.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTznFrSM4katqhkdOGNwUqVvvl8.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTznFrSM4katqhkdOGNwUqVvvl8.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTznFrSM4katqhkdOGNwUqVvvl8.jpg" group-title="Séries | Netflix",Hi Score Girl S01 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTznFrSM4katqhkdOGNwUqVvvl8.jpg" group-title="Séries | Netflix",Hi Score Girl S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTznFrSM4katqhkdOGNwUqVvvl8.jpg" group-title="Séries | Netflix",Hi Score Girl S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTznFrSM4katqhkdOGNwUqVvvl8.jpg" group-title="Séries | Netflix",Hi Score Girl S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTznFrSM4katqhkdOGNwUqVvvl8.jpg" group-title="Séries | Netflix",Hi Score Girl S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTznFrSM4katqhkdOGNwUqVvvl8.jpg" group-title="Séries | Netflix",Hi Score Girl S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTznFrSM4katqhkdOGNwUqVvvl8.jpg" group-title="Séries | Netflix",Hi Score Girl S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTznFrSM4katqhkdOGNwUqVvvl8.jpg" group-title="Séries | Netflix",Hi Score Girl S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTznFrSM4katqhkdOGNwUqVvvl8.jpg" group-title="Séries | Netflix",Hi Score Girl S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hi Score Girl S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTznFrSM4katqhkdOGNwUqVvvl8.jpg" group-title="Séries | Netflix",Hi Score Girl S02 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811932.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
+############## Séries | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Netflix" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrQOqpqaD6U9EBae5j1SBVCSKF5.jpg" group-title="Séries | Netflix",Kakegurui S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11XxR1G3vIvBjVfWUWw939WqtII.jpg" group-title="Séries | Netflix",Kakegurui S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6gWjVHvztBB4g9eVVrRC2Zqbls.jpg" group-title="Séries | Netflix",Kakegurui S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGdtOju4XdKP3weRPasNJbvgywi.jpg" group-title="Séries | Netflix",Kakegurui S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ns5IofYPGzGOh8snSYgqORrEvIq.jpg" group-title="Séries | Netflix",Kakegurui S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMWZInFVyOgwGNfY3LKH3W5yugH.jpg" group-title="Séries | Netflix",Kakegurui S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jo6VfYIeSKacBddHqDNM3nU2BlP.jpg" group-title="Séries | Netflix",Kakegurui S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YfdtmpZNXkPf4LiaXSWVe7e8xA.jpg" group-title="Séries | Netflix",Kakegurui S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwGb8wmSGdTzSG0vQoZyth99E8f.jpg" group-title="Séries | Netflix",Kakegurui S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtHdSwmbKfAUWPe9E0S2O95ulQ9.jpg" group-title="Séries | Netflix",Kakegurui S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUH4StVMfyDxzBrZLljWqQo2Tnd.jpg" group-title="Séries | Netflix",Kakegurui S01 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xc6KRhTz3IiHRaM3LhBeiZaAy4v.jpg" group-title="Séries | Netflix",Kakegurui S01 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1MUwcwNjK3nkXFzeFowUqfy0Qw.jpg" group-title="Séries | Netflix",Kakegurui S01 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHKTkI9lqHSNzvYuZj48lSUMsoi.jpg" group-title="Séries | Netflix",Kakegurui S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rS9KxP2vILUJPUhfjlrexdGe11V.jpg" group-title="Séries | Netflix",Kakegurui S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28bbLSVpRn4E96RPgh3UCCR3jMa.jpg" group-title="Séries | Netflix",Kakegurui S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FLBbwqHCoZzvlNHxFVomrN0z6f.jpg" group-title="Séries | Netflix",Kakegurui S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGlDaahyQ7uiNDl7VSfT5Lf8ACi.jpg" group-title="Séries | Netflix",Kakegurui S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/30t0gEPIGg73Ujx8sFAU9fjNMaW.jpg" group-title="Séries | Netflix",Kakegurui S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7HZttX9h2mbtmkfi8AWZLASy7jQ.jpg" group-title="Séries | Netflix",Kakegurui S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yiC5uXIlDb0583EWGAPVCCVe3RK.jpg" group-title="Séries | Netflix",Kakegurui S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMnRTtlmj6ejllEk1Iv8Svwijyc.jpg" group-title="Séries | Netflix",Kakegurui S02 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3WMrG55SYF2UY4ss86mU5UldFc.jpg" group-title="Séries | Netflix",Kakegurui S02 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBvpn3H4EUtOICF6nAdzF5Vsm8x.jpg" group-title="Séries | Netflix",Kakegurui S02 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUcNz6BaOSLXqUlg72GdmwNnona.jpg" group-title="Séries | Netflix",Kakegurui S02 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kakegurui S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1MUwcwNjK3nkXFzeFowUqfy0Qw.jpg" group-title="Séries | Netflix",Kakegurui S02 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812106.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
+############## Séries | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Netflix" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E01" tvg-logo="http://urlon.me/ZgYM6c" group-title="Séries | Netflix",Levius S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E02" tvg-logo="http://urlon.me/ZgYM6u" group-title="Séries | Netflix",Levius S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E03" tvg-logo="http://urlon.me/ZgYM6p" group-title="Séries | Netflix",Levius S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E04" tvg-logo="http://urlon.me/ZgYM6D" group-title="Séries | Netflix",Levius S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E05" tvg-logo="http://urlon.me/ZgYM6V" group-title="Séries | Netflix",Levius S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E06" tvg-logo="http://urlon.me/ZgYM6s" group-title="Séries | Netflix",Levius S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E07" tvg-logo="http://urlon.me/ZgYM62" group-title="Séries | Netflix",Levius S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E08" tvg-logo="http://urlon.me/ZgYM6R" group-title="Séries | Netflix",Levius S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E09" tvg-logo="http://urlon.me/ZgYM6W" group-title="Séries | Netflix",Levius S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E10" tvg-logo="http://urlon.me/ZgYM6C" group-title="Séries | Netflix",Levius S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E11" tvg-logo="http://urlon.me/ZgYM6I" group-title="Séries | Netflix",Levius S01 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Levius S01 E12" tvg-logo="http://urlon.me/ZgYM6B" group-title="Séries | Netflix",Levius S01 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812118.mp4
+
+
+#EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
+############## Séries | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Netflix" group-title="
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S01 E01" tvg-logo="http://urlon.me/htC" group-title="Séries | Netflix",Amor Ocasional S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810181.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S01 E02" tvg-logo="http://urlon.me/htW" group-title="Séries | Netflix",Amor Ocasional S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S01 E03" tvg-logo="http://urlon.me/htR" group-title="Séries | Netflix",Amor Ocasional S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810183.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S01 E04" tvg-logo="http://urlon.me/ht2" group-title="Séries | Netflix",Amor Ocasional S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810184.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S01 E05" tvg-logo="http://urlon.me/hts" group-title="Séries | Netflix",Amor Ocasional S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S01 E06" tvg-logo="http://urlon.me/htV" group-title="Séries | Netflix",Amor Ocasional S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810186.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S01 E07" tvg-logo="http://urlon.me/htD" group-title="Séries | Netflix",Amor Ocasional S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S01 E08" tvg-logo="http://urlon.me/htp" group-title="Séries | Netflix",Amor Ocasional S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S02 E01" tvg-logo="http://5ce.co:80/images/xli9cdsS1MuFXK7rQ7MoLxtNq5g_big.jpg" group-title="Séries | Netflix",Amor Ocasional S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S02 E02" tvg-logo="http://5ce.co:80/images/xli9cdsS1MuFXK7rQ7MoLxtNq5g_big.jpg" group-title="Séries | Netflix",Amor Ocasional S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810190.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S02 E03" tvg-logo="http://5ce.co:80/images/xli9cdsS1MuFXK7rQ7MoLxtNq5g_big.jpg" group-title="Séries | Netflix",Amor Ocasional S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S02 E04" tvg-logo="http://5ce.co:80/images/xli9cdsS1MuFXK7rQ7MoLxtNq5g_big.jpg" group-title="Séries | Netflix",Amor Ocasional S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S02 E05" tvg-logo="http://5ce.co:80/images/xli9cdsS1MuFXK7rQ7MoLxtNq5g_big.jpg" group-title="Séries | Netflix",Amor Ocasional S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810193.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S02 E06" tvg-logo="http://5ce.co:80/images/xli9cdsS1MuFXK7rQ7MoLxtNq5g_big.jpg" group-title="Séries | Netflix",Amor Ocasional S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810194.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S02 E07" tvg-logo="http://5ce.co:80/images/xli9cdsS1MuFXK7rQ7MoLxtNq5g_big.jpg" group-title="Séries | Netflix",Amor Ocasional S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S03 E01" tvg-logo="http://5ce.co:80/images/xli9cdsS1MuFXK7rQ7MoLxtNq5g_big.jpg" group-title="Séries | Netflix",Amor Ocasional S03 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S03 E02" tvg-logo="http://5ce.co:80/images/xli9cdsS1MuFXK7rQ7MoLxtNq5g_big.jpg" group-title="Séries | Netflix",Amor Ocasional S03 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S03 E03" tvg-logo="http://5ce.co:80/images/xli9cdsS1MuFXK7rQ7MoLxtNq5g_big.jpg" group-title="Séries | Netflix",Amor Ocasional S03 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S03 E04" tvg-logo="http://5ce.co:80/images/xli9cdsS1MuFXK7rQ7MoLxtNq5g_big.jpg" group-title="Séries | Netflix",Amor Ocasional S03 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S03 E05" tvg-logo="http://5ce.co:80/images/xli9cdsS1MuFXK7rQ7MoLxtNq5g_big.jpg" group-title="Séries | Netflix",Amor Ocasional S03 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Ocasional S03 E06" tvg-logo="http://5ce.co:80/images/xli9cdsS1MuFXK7rQ7MoLxtNq5g_big.jpg" group-title="Séries | Netflix",Amor Ocasional S03 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810201.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
+############## Séries | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Netflix" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E17
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E18
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E19
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E20
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E21
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E22
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E23
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E24
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E25
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E26
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E27
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E28
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E29
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E30
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E31
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E32
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E33
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E34
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E35
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E36
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E37
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E38
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E39
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E40
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E41
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E42
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E43
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E44
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E45
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E46
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E47
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E48
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E49
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E50
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E51
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E52
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E53
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E54
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E55
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E56
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E57
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E58
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E59
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alias JJ S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9sLOvIG6azOUGy7MqvwM2V8Uk.jpg" group-title="Séries | Netflix",Alias JJ S01 E60
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809955.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
+############## Séries | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Netflix" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulg6SQnQKvUt1Sy9MLiYOMNcRju.jpg" group-title="Séries | Netflix",Alexa e Katie S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qp2QDQkrvZglvrmEYBsKhUdI0mv.jpg" group-title="Séries | Netflix",Alexa e Katie S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haaq1Nx6WR3YqLt6um3eBENbW2Y.jpg" group-title="Séries | Netflix",Alexa e Katie S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8uzRJZmhOofuMrphxrAGvZxXDU3.jpg" group-title="Séries | Netflix",Alexa e Katie S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9xg7uBFWmFdGvk6h0kFdkFKiQn.jpg" group-title="Séries | Netflix",Alexa e Katie S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/im4vZx1u5OQJyQCiC6ci6NMn2Pv.jpg" group-title="Séries | Netflix",Alexa e Katie S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9ClwcnbN4GegO256TGCAvSlVTP.jpg" group-title="Séries | Netflix",Alexa e Katie S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MSb4aI2HsOY3E37Vpf8D5BIZec.jpg" group-title="Séries | Netflix",Alexa e Katie S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wcYApFuDpVZRGHjMRaxGKgxMDc.jpg" group-title="Séries | Netflix",Alexa e Katie S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/skBm5ZMSEQ0B1ofjBi3oR5mDIu7.jpg" group-title="Séries | Netflix",Alexa e Katie S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53Zi5sqRXTVtyaU6R4xQP3N0b2j.jpg" group-title="Séries | Netflix",Alexa e Katie S01 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRInJidrf6C7wjlYoIEMC5LqU4A.jpg" group-title="Séries | Netflix",Alexa e Katie S01 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOhvjVy4gHPzdszygwQXm27u31m.jpg" group-title="Séries | Netflix",Alexa e Katie S01 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZoYehsVJ8VMzQF1YeKnwzA9ATB.jpg" group-title="Séries | Netflix",Alexa e Katie S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qXuKmS48RPGCvjYyTyukwN2iKS.jpg" group-title="Séries | Netflix",Alexa e Katie S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlTb5eYrSf0dAUrTYPKA2nIeCT6.jpg" group-title="Séries | Netflix",Alexa e Katie S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neBIvEaiD6UjqOflSnBSMjq4Ju7.jpg" group-title="Séries | Netflix",Alexa e Katie S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpbhdk0tAlLs9dqRV833Ci9eicV.jpg" group-title="Séries | Netflix",Alexa e Katie S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2c0WQHNGXiZM8jCE4bgwztGvnSF.jpg" group-title="Séries | Netflix",Alexa e Katie S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKkWE8aKScOAPRNmXTscFxWAf3r.jpg" group-title="Séries | Netflix",Alexa e Katie S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PxtIhZeIEXcEZMK2rpAJqTLuW3.jpg" group-title="Séries | Netflix",Alexa e Katie S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5V2bJX13UlQYugoioVyxyTZxw7v.jpg" group-title="Séries | Netflix",Alexa e Katie S02 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2TrWCsUIEor7YfVOuHZXuOrNR3.jpg" group-title="Séries | Netflix",Alexa e Katie S02 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMz1bjvYFGuT6QId65VA8NWq2s5.jpg" group-title="Séries | Netflix",Alexa e Katie S03 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nC2FFPJDsRB6kl9HVbpuHaPrD10.jpg" group-title="Séries | Netflix",Alexa e Katie S03 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Um4R06TicQEXgvAasS0LuhB618.jpg" group-title="Séries | Netflix",Alexa e Katie S03 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGpkpp9INQHJL6L5ZZidycqKiGY.jpg" group-title="Séries | Netflix",Alexa e Katie S03 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqZC7CQ5ArVflfFItSai48Pi3QV.jpg" group-title="Séries | Netflix",Alexa e Katie S03 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktw5CZJDkD13YS72wWR6phgj4HE.jpg" group-title="Séries | Netflix",Alexa e Katie S03 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naHHRyapIJSa1rEgoNQVbDJ9RR3.jpg" group-title="Séries | Netflix",Alexa e Katie S03 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d58YMKDKACtLNZskCu5gfBXymkx.jpg" group-title="Séries | Netflix",Alexa e Katie S03 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sKjFFFldaxhCq2113xIVnMUZAk.jpg" group-title="Séries | Netflix",Alexa e Katie S04 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/apagG2zlrYSQcoAnOlq83a1lvVI.jpg" group-title="Séries | Netflix",Alexa e Katie S04 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3H7b2dbhGeoXs9YS4WB9HiGTAMT.jpg" group-title="Séries | Netflix",Alexa e Katie S04 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8U8L8MXTDp6cEwff5YWc34uhLh.jpg" group-title="Séries | Netflix",Alexa e Katie S04 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7dqy6He8iisWYNgr4VaYueJRXx.jpg" group-title="Séries | Netflix",Alexa e Katie S04 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRoA6Boh4gQfL4nnvEfeEndoVi6.jpg" group-title="Séries | Netflix",Alexa e Katie S04 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQZE6dtjwpV3wJgiAq8eo18Yjeo.jpg" group-title="Séries | Netflix",Alexa e Katie S04 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alexa e Katie S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNINqOWUeJsAgLxFgUSVvqWeLEC.jpg" group-title="Séries | Netflix",Alexa e Katie S04 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809892.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Netflix.xml"
+############## Séries | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Netflix" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/758JlWhBQjnvRBKKdxH6nEuuyBr.jpg" group-title="Séries | Netflix",Alice in Borderland S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/At7tagPr0drQWBLAW8dUD8zLsXn.jpg" group-title="Séries | Netflix",Alice in Borderland S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3Jrm1fdV10oweHAQbYviCOWilg.jpg" group-title="Séries | Netflix",Alice in Borderland S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNX5GmJdgVGdp2uBGzPxeVEzXVb.jpg" group-title="Séries | Netflix",Alice in Borderland S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpyXJ8bPwvgJpBe6aFnzrMj01CR.jpg" group-title="Séries | Netflix",Alice in Borderland S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JMqIduUuKncLb7qnh8nlMrmA2K.jpg" group-title="Séries | Netflix",Alice in Borderland S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YZHiAop1YrYQVInKMjPcKCS4GL.jpg" group-title="Séries | Netflix",Alice in Borderland S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRf1dBhxukElDsvZOHchFLNVZKe.jpg" group-title="Séries | Netflix",Alice in Borderland S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0i7kGDrArtM1sCd8niZDC7iboV.jpg" group-title="Séries | Netflix",Alice in Borderland S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0i7kGDrArtM1sCd8niZDC7iboV.jpg" group-title="Séries | Netflix",Alice in Borderland S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0i7kGDrArtM1sCd8niZDC7iboV.jpg" group-title="Séries | Netflix",Alice in Borderland S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0i7kGDrArtM1sCd8niZDC7iboV.jpg" group-title="Séries | Netflix",Alice in Borderland S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0i7kGDrArtM1sCd8niZDC7iboV.jpg" group-title="Séries | Netflix",Alice in Borderland S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0i7kGDrArtM1sCd8niZDC7iboV.jpg" group-title="Séries | Netflix",Alice in Borderland S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0i7kGDrArtM1sCd8niZDC7iboV.jpg" group-title="Séries | Netflix",Alice in Borderland S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice in Borderland S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0i7kGDrArtM1sCd8niZDC7iboV.jpg" group-title="Séries | Netflix",Alice in Borderland S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien TV S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mh2cfceDyPBwSvlpJA2ZGbMkNM6.jpg" group-title="Séries | Netflix",Alien TV S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien TV S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQFcGytk5ozmjYg6kHmsXrkaPFa.jpg" group-title="Séries | Netflix",Alien TV S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien TV S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2FCXZXUZaZ218EjcFSfuc46MNi.jpg" group-title="Séries | Netflix",Alien TV S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien TV S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYp0BBISMfMdl5Pl5McPBPAId0G.jpg" group-title="Séries | Netflix",Alien TV S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien TV S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAhAdIcCf7YFpYz2UkRDsOFY433.jpg" group-title="Séries | Netflix",Alien TV S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien TV S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94YYrkAIx4JhSVeQ3dZ336oIZb5.jpg" group-title="Séries | Netflix",Alien TV S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien TV S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d55tAW9vNuNldWqxofAPIYLX771.jpg" group-title="Séries | Netflix",Alien TV S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien TV S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WAGvFPMHGTHcQBxCFO6hJzxh39.jpg" group-title="Séries | Netflix",Alien TV S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien TV S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkauVyCOdz74Icv6n9uRqTz4rVn.jpg" group-title="Séries | Netflix",Alien TV S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien TV S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zuW50LnsbH4YP6Zk7ja7xkEzO8.jpg" group-title="Séries | Netflix",Alien TV S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien TV S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idjAmq3pAEiU4APoUZi4p89yPW3.jpg" group-title="Séries | Netflix",Alien TV S01 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien TV S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xKN1WaOgSIWfkZ6qZNzdwSLWyH.jpg" group-title="Séries | Netflix",Alien TV S01 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien TV S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osaD2vkx4dmsdHT0zG5ouUThPcJ.jpg" group-title="Séries | Netflix",Alien TV S01 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809984.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | HBO Max.xml"
+############## Séries | HBO Max ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | HBO Max" group-title="
+
+
+#EXTINF:-1 tvg-id="" tvg-name="A Terra a Noite S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmTH5yuS2m8TY6P7FpuZWCUpmRz.jpg" group-title="Séries | Netflix",A Terra a Noite S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Terra a Noite S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yeuCfnW6LYfzr5dbi4fkldJvB0W.jpg" group-title="Séries | Netflix",A Terra a Noite S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Terra a Noite S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hE2Qx5Phw2D7hgPPrX0OgEgDeG6.jpg" group-title="Séries | Netflix",A Terra a Noite S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Terra a Noite S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUeEqqhMeIo35Cxv3C0QrJ8M63u.jpg" group-title="Séries | Netflix",A Terra a Noite S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Terra a Noite S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4HCkByKzDwawuANmWuNLeBTdQ1.jpg" group-title="Séries | Netflix",A Terra a Noite S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Terra a Noite S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgYTa8QBqGSDhuKlH81FUXTUs3z.jpg" group-title="Séries | Netflix",A Terra a Noite S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809491.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | HBO Max.xml"
+############## Séries | HBO Max ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | HBO Max" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Vida e a Historia de Madam C.J. Walker S01 E01" tvg-logo="http://urlon.me/ZgYYxL" group-title="Séries | Netflix",A Vida e a Historia de Madam C.J. Walker S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida e a Historia de Madam C.J. Walker S01 E02" tvg-logo="http://urlon.me/ZgYYxH" group-title="Séries | Netflix",A Vida e a Historia de Madam C.J. Walker S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida e a Historia de Madam C.J. Walker S01 E03" tvg-logo="http://urlon.me/ZgYYxE" group-title="Séries | Netflix",A Vida e a Historia de Madam C.J. Walker S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida e a Historia de Madam C.J. Walker S01 E04" tvg-logo="http://urlon.me/ZgYYxS" group-title="Séries | Netflix",A Vida e a Historia de Madam C.J. Walker S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida em Outros Planetas S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/biJnzivrFTomkETaNHD5l2ocIIs.jpg" group-title="Séries | Netflix",A Vida em Outros Planetas S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida em Outros Planetas S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mAEwJ6lLnfdjRV6eLxNaK0kmn6.jpg" group-title="Séries | Netflix",A Vida em Outros Planetas S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida em Outros Planetas S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yf1QX4mHSFlRL3JRQ9nkIXP8U5V.jpg" group-title="Séries | Netflix",A Vida em Outros Planetas S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida em Outros Planetas S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0JT44solf0SFEo99J2ZthijJiu.jpg" group-title="Séries | Netflix",A Vida em Outros Planetas S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809505.mp4
+
+
+#EXTM3U url-tvg="http://grade-de-Séries | HBO Max.xml"
+############## Séries | HBO Max ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | HBO Max" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSLWrRhHOksHBugGWfYMLlfBgTW.jpg" group-title="Séries | HBO Max",A Sete Palmos S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qe6tSVJUFhwgqsGShlEf55iPVk.jpg" group-title="Séries | HBO Max",A Sete Palmos S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9vkotvTCpXlknDal3cR9AzgAqy.jpg" group-title="Séries | HBO Max",A Sete Palmos S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJNhcl46ypJ5cvk05PLHQwSHcaL.jpg" group-title="Séries | HBO Max",A Sete Palmos S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DkH4Dh3ob6bB0xDn21EAUzlhaA.jpg" group-title="Séries | HBO Max",A Sete Palmos S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnxDnctqCbjzEUdiefH89FWigaM.jpg" group-title="Séries | HBO Max",A Sete Palmos S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrwQ3VP9BnjLWhuAdxkGC16b0yY.jpg" group-title="Séries | HBO Max",A Sete Palmos S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2P8RGzfkjPBkClqmWjSPyIwngO.jpg" group-title="Séries | HBO Max",A Sete Palmos S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYxBEFWPndtrHGAQ5cLD6ieYvKk.jpg" group-title="Séries | HBO Max",A Sete Palmos S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUrYd5c2BfGpWJ5kaO0eaTTzP5m.jpg" group-title="Séries | HBO Max",A Sete Palmos S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pr4Erlq8mNXvu6amCAd0fambCrZ.jpg" group-title="Séries | HBO Max",A Sete Palmos S01 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uZ8FaQ74ChJjL9olLbvxmUMx5C.jpg" group-title="Séries | HBO Max",A Sete Palmos S01 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqIebLUPXos0vYv6eKe0vCl74b8.jpg" group-title="Séries | HBO Max",A Sete Palmos S01 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12X3ZC8lXA4bUHsAegEMwMCguAL.jpg" group-title="Séries | HBO Max",A Sete Palmos S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dphBJzlUQ1xd2wdofRUBc3vHGRS.jpg" group-title="Séries | HBO Max",A Sete Palmos S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPPnjPosaqpFRptieHFckXTbkrz.jpg" group-title="Séries | HBO Max",A Sete Palmos S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lC2kyV1tvn3HqqBsnd5AwvU4srU.jpg" group-title="Séries | HBO Max",A Sete Palmos S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0nn178JrdcjfoQtSPZMgEWVatz.jpg" group-title="Séries | HBO Max",A Sete Palmos S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2dQ755WLYKy4zfN2enXeveb1Fsb.jpg" group-title="Séries | HBO Max",A Sete Palmos S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRKRqiforfHKF3GMd9KKd20MYfd.jpg" group-title="Séries | HBO Max",A Sete Palmos S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xq0sn96BZ5WaZ4anEH47X1JDAU.jpg" group-title="Séries | HBO Max",A Sete Palmos S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wb7WHI3MgkEKtz566gZTuOr8Lf1.jpg" group-title="Séries | HBO Max",A Sete Palmos S02 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZSihwCNEUNE6MGqZwUNcDZKMnj.jpg" group-title="Séries | HBO Max",A Sete Palmos S02 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUf7EIalTowtfghhxmjGlOTDW02.jpg" group-title="Séries | HBO Max",A Sete Palmos S02 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCx9OcDFwD71FYaIUho4XzyAOTT.jpg" group-title="Séries | HBO Max",A Sete Palmos S02 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KOmNHzkSuVmwWPTeWTTybQ5YLh.jpg" group-title="Séries | HBO Max",A Sete Palmos S02 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lty5UEST0TnWfynbGTO3qvLMfo.jpg" group-title="Séries | HBO Max",A Sete Palmos S03 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/brNyy9UVH5DwB9z7CzkUGUc7lZH.jpg" group-title="Séries | HBO Max",A Sete Palmos S03 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBC3c40qEaidPrk1VyHNmw7GLSC.jpg" group-title="Séries | HBO Max",A Sete Palmos S03 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxCpl9ic3kNz7jHALUSttDE409l.jpg" group-title="Séries | HBO Max",A Sete Palmos S03 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EFRPb1mqvWWSkJsKyLVzBJU4uc.jpg" group-title="Séries | HBO Max",A Sete Palmos S03 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bPADHbWEgcGT54Y7FbdMwBLMY2.jpg" group-title="Séries | HBO Max",A Sete Palmos S03 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tY8PmEhXZS25NtPlp86LW8WhYJf.jpg" group-title="Séries | HBO Max",A Sete Palmos S03 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hc3fMmCeDR8BgLVXgUieNxSQkj.jpg" group-title="Séries | HBO Max",A Sete Palmos S03 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QZ7EUxdQS2ONKpypymwfIifTxi.jpg" group-title="Séries | HBO Max",A Sete Palmos S03 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVJr2kIPdU8vUPVLtfM3x9wfhQC.jpg" group-title="Séries | HBO Max",A Sete Palmos S03 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTAlNFrrHTSaP8ZgB8heQrios0B.jpg" group-title="Séries | HBO Max",A Sete Palmos S03 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JU4zYTVAD9qSACbLjXq6pGneCG.jpg" group-title="Séries | HBO Max",A Sete Palmos S03 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7n6WsEvJUzH7ysxOOlOj26061DL.jpg" group-title="Séries | HBO Max",A Sete Palmos S03 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3B3BUPC2x6pu0oVvgVbRfFR1Dj1.jpg" group-title="Séries | HBO Max",A Sete Palmos S04 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uya95dVNoP94puLb0IDUlsIsG3M.jpg" group-title="Séries | HBO Max",A Sete Palmos S04 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpc48YAW7cI4A1I64nZbjOXBRav.jpg" group-title="Séries | HBO Max",A Sete Palmos S04 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgjpz4LGDRRAHe0pjW8MzNvkLRQ.jpg" group-title="Séries | HBO Max",A Sete Palmos S04 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BSB8m3cFK6QLXKRlEJ5ThJ2P69.jpg" group-title="Séries | HBO Max",A Sete Palmos S04 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDac9GkMumYlT4fw0WpBXJjZjp7.jpg" group-title="Séries | HBO Max",A Sete Palmos S04 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1LfuMJfUeTyChEwjkMSVRmomnk.jpg" group-title="Séries | HBO Max",A Sete Palmos S04 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lv97OZlfoRCTRM903fhE8Z421co.jpg" group-title="Séries | HBO Max",A Sete Palmos S04 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSwIUhJGPoQ9te9YCCiOYgQKibc.jpg" group-title="Séries | HBO Max",A Sete Palmos S04 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rStxWj8Qg2kn9BjwrHuiezRuRc4.jpg" group-title="Séries | HBO Max",A Sete Palmos S04 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GxNvAP6lQsOPr2U2OmwdXKs1MP.jpg" group-title="Séries | HBO Max",A Sete Palmos S04 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20xuDZW4A1ICaKgs6eL43gMozYU.jpg" group-title="Séries | HBO Max",A Sete Palmos S04 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7G5ZKX7Y4BA3LSpYm7Xzf1Vu9pY.jpg" group-title="Séries | HBO Max",A Sete Palmos S05 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMMkXgOUVN9zSjk7bJj65skvWWu.jpg" group-title="Séries | HBO Max",A Sete Palmos S05 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwOVGvonmO9u5GEoyKakSwqxnIw.jpg" group-title="Séries | HBO Max",A Sete Palmos S05 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWbd210ti8YdrCR87KeJ5jUNMM1.jpg" group-title="Séries | HBO Max",A Sete Palmos S05 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uMbhLJhjAkwdVRFZnllLW4xtWiN.jpg" group-title="Séries | HBO Max",A Sete Palmos S05 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnoXwkzEA16zeGR7kQz6lyrLC35.jpg" group-title="Séries | HBO Max",A Sete Palmos S05 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYC0gHyg0yNnyA2fGbcnx9AAglC.jpg" group-title="Séries | HBO Max",A Sete Palmos S05 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1YCx0KGxdlQ5RnhvqWqxexrv0G.jpg" group-title="Séries | HBO Max",A Sete Palmos S05 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AgrbcRtAkfxT7O3Gf4B6wDtPoQ.jpg" group-title="Séries | HBO Max",A Sete Palmos S05 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/763EpZhZA7eSti6PsIrIoUSCPZt.jpg" group-title="Séries | HBO Max",A Sete Palmos S05 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qG6VuHIuQ7W4VChyFqNKz8Rc2iq.jpg" group-title="Séries | HBO Max",A Sete Palmos S05 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sete Palmos S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCMnaYq68y9GmhRqXQmDGr6k2R2.jpg" group-title="Séries | HBO Max",A Sete Palmos S05 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809485.mp4
+
+
+#EXTM3U url-tvg="http://grade-de-Séries | HBO Max.xml"
+############## Séries | HBO Max ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | HBO Max" group-title="
+
+
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPCPgjeCH3ZNS0vH5x6rnPyyk6p.jpg" group-title="Séries | HBO Max",All American S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94isaC0gpPuO3AmXUHwyVhOgE01.jpg" group-title="Séries | HBO Max",All American S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1CEN5jVEZWZIgWQfHVqfCJ8q19.jpg" group-title="Séries | HBO Max",All American S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xaRWzke1IiY51kqsFuxNgaASWdg.jpg" group-title="Séries | HBO Max",All American S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eep97IlZ5cIXYWsf98RdB3z3tqq.jpg" group-title="Séries | HBO Max",All American S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEKsUWzSii7QwTG7joexT4puSsB.jpg" group-title="Séries | HBO Max",All American S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vr2hC2cCqKKoXNBQqY1iOpVX8n.jpg" group-title="Séries | HBO Max",All American S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iQY024cFCTpzsge9vWwf27PCcR.jpg" group-title="Séries | HBO Max",All American S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6w0lKTdkc3rhSImO17DDqv45XZ3.jpg" group-title="Séries | HBO Max",All American S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pY0FcEPdaB7gGg9kp3bGeQz2H8V.jpg" group-title="Séries | HBO Max",All American S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tV8l8jl29Q9Efs8ZjviINpBkvgZ.jpg" group-title="Séries | HBO Max",All American S01 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etoNB7UIbNGT2Xp52Np0ZaHB1H4.jpg" group-title="Séries | HBO Max",All American S01 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fzWeMlaMQ8CfrbDuPFW951kf98.jpg" group-title="Séries | HBO Max",All American S01 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNYMWbgbwYi5t1Q4guCAvXEjOyE.jpg" group-title="Séries | HBO Max",All American S01 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fUjECVxBQ5vrobTXoUeYN6vPfM.jpg" group-title="Séries | HBO Max",All American S01 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNGZq3jY23Ie01yv0TXl7NrjPFM.jpg" group-title="Séries | HBO Max",All American S01 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctZcaoIO0Ht391Pz2LzI8JdkTvk.jpg" group-title="Séries | HBO Max",All American S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xcfLyLxGMOryMJOTm14oj3Ctug.jpg" group-title="Séries | HBO Max",All American S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAk652vAlZCU1wBv8qIBbKxC8xd.jpg" group-title="Séries | HBO Max",All American S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BF7dY0Xv1yRkJXVFXXmicN8fRV.jpg" group-title="Séries | HBO Max",All American S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isJz9oqvfbuUm3FhpfyTyKxcz5s.jpg" group-title="Séries | HBO Max",All American S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWv9pAu5cg2R8BKYB0fpMp5aBqt.jpg" group-title="Séries | HBO Max",All American S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S02 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S02 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S02 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S02 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S02 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S02 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S02 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S02 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E17
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E18
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S03 E19
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E17
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E18
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E19
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All American S04 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlKrst9mb81r4gDZn6pM2GfcBPl.jpg" group-title="Séries | HBO Max",All American S04 E20
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2810055.mp4
+
 #EXTM3U url-tvg="http://grade-de-Séries | Globoplay.xml"
 ############## Séries | Globoplay ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeSéries | Globoplay" group-title="
@@ -4314,6 +5392,793 @@ http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940242.mp4
 http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940243.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Olhos Atentos S01 E10" tvg-logo="http://5ce.co:80/images/a9oJMnwTBiBXwsuBnCfKvYIWmy4_big.jpg" group-title="Séries | Disney Plus",Olhos Atentos S01 E10
 http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2940244.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Disney Plus.xml"
+############## Séries | Disney Plus ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Disney Plus" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E01" tvg-logo="http://urlon.me/hP5" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E02" tvg-logo="http://urlon.me/hPO" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E03" tvg-logo="http://urlon.me/hPd" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E04" tvg-logo="http://urlon.me/hPh" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E05" tvg-logo="http://urlon.me/hP6" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E06" tvg-logo="http://urlon.me/hPZ" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E07" tvg-logo="http://urlon.me/hPg" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E08" tvg-logo="http://urlon.me/ZgYMKh" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E09" tvg-logo="http://urlon.me/hUE" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E10" tvg-logo="http://urlon.me/hUH" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E11" tvg-logo="http://urlon.me/hUL" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E12" tvg-logo="http://urlon.me/hUn" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E13" tvg-logo="http://urlon.me/hU4" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E14" tvg-logo="http://urlon.me/hUb" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E15" tvg-logo="http://urlon.me/hUo" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E16" tvg-logo="http://urlon.me/hUe" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E17" tvg-logo="http://urlon.me/hUr" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E17
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E18" tvg-logo="http://urlon.me/hUN" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E18
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E19" tvg-logo="http://urlon.me/ZgYMKh" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E19
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E20" tvg-logo="http://urlon.me/hUB" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E20
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E21" tvg-logo="http://urlon.me/hUI" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E21
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S01 E22" tvg-logo="http://urlon.me/hUC" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S01 E22
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E01" tvg-logo="http://urlon.me/hUW" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E02" tvg-logo="http://urlon.me/hUR" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E03" tvg-logo="http://urlon.me/hU2" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E04" tvg-logo="http://urlon.me/hPK" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E05" tvg-logo="http://urlon.me/hPl" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E06" tvg-logo="http://urlon.me/hPj" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E07" tvg-logo="http://urlon.me/hPq" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E08" tvg-logo="http://urlon.me/hPy" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E09" tvg-logo="http://urlon.me/hPQ" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E10" tvg-logo="http://urlon.me/hPv" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E11" tvg-logo="http://urlon.me/hPF" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E12" tvg-logo="http://urlon.me/hP7" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E13" tvg-logo="http://urlon.me/hPG" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E14" tvg-logo="http://urlon.me/hPM" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E15" tvg-logo="http://urlon.me/hPY" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E16" tvg-logo="http://urlon.me/hP1" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E17" tvg-logo="http://urlon.me/hP3" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E17
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E18" tvg-logo="http://urlon.me/hPP" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E18
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E19" tvg-logo="http://urlon.me/hPU" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E19
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E20" tvg-logo="http://urlon.me/hPm" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E20
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E21" tvg-logo="http://urlon.me/hPJ" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E21
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S02 E22" tvg-logo="http://urlon.me/hPT" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S02 E22
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E01" tvg-logo="http://urlon.me/hPX" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E02" tvg-logo="http://urlon.me/hP9" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E03" tvg-logo="http://urlon.me/hPC" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E04" tvg-logo="http://urlon.me/hPW" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E05" tvg-logo="http://urlon.me/hPR" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E06" tvg-logo="http://urlon.me/hP2" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E07" tvg-logo="http://urlon.me/hPs" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E08" tvg-logo="http://urlon.me/hPV" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E09" tvg-logo="http://urlon.me/hPD" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E10" tvg-logo="http://urlon.me/hPp" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E11" tvg-logo="http://urlon.me/hPu" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E12" tvg-logo="http://urlon.me/hPc" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E13" tvg-logo="http://urlon.me/hPA" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E14" tvg-logo="http://urlon.me/hP0" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E15" tvg-logo="http://urlon.me/hPx" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E16" tvg-logo="http://urlon.me/hPt" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E17" tvg-logo="http://urlon.me/hPi" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E17
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E18" tvg-logo="http://urlon.me/hPw" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E18
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E19" tvg-logo="http://urlon.me/hPz" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E19
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E20" tvg-logo="http://urlon.me/hP8" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E20
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E21" tvg-logo="http://urlon.me/hPf" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E21
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S03 E22" tvg-logo="http://urlon.me/hPk" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S03 E22
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E01" tvg-logo="http://urlon.me/h3T" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E02" tvg-logo="http://urlon.me/ZgYMKh" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E03" tvg-logo="http://urlon.me/h39" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E04" tvg-logo="http://urlon.me/h35" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E05" tvg-logo="http://urlon.me/h3O" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E06" tvg-logo="http://urlon.me/h3d" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E07" tvg-logo="http://urlon.me/h3h" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E08" tvg-logo="http://urlon.me/h36" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E09" tvg-logo="http://urlon.me/h3Z" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E10" tvg-logo="http://urlon.me/h3g" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E11" tvg-logo="http://urlon.me/hPS" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E12" tvg-logo="http://urlon.me/hPE" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E13" tvg-logo="http://urlon.me/hPH" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E14" tvg-logo="http://urlon.me/hPL" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E15" tvg-logo="http://urlon.me/hPn" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E16" tvg-logo="http://urlon.me/hP4" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E17" tvg-logo="http://urlon.me/hPb" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E17
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E18" tvg-logo="http://urlon.me/hPo" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E18
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E19" tvg-logo="http://urlon.me/hPe" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E19
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E20" tvg-logo="http://urlon.me/hPr" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E20
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E21" tvg-logo="http://urlon.me/hPN" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E21
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E22" tvg-logo="http://urlon.me/hPa" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E22
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S04 E23" tvg-logo="http://urlon.me/ZgYMKh" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S04 E23
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E01" tvg-logo="http://urlon.me/hPB" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E02" tvg-logo="http://urlon.me/hPI" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E03" tvg-logo="http://urlon.me/h3f" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E04" tvg-logo="http://urlon.me/h3k" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E05" tvg-logo="http://urlon.me/h3K" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E06" tvg-logo="http://urlon.me/h3l" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E07" tvg-logo="http://urlon.me/h3j" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E08" tvg-logo="http://urlon.me/h3q" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E09" tvg-logo="http://urlon.me/h3y" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E10" tvg-logo="http://urlon.me/h3Q" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E11" tvg-logo="http://urlon.me/h3v" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E12" tvg-logo="http://urlon.me/h3F" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E13" tvg-logo="http://urlon.me/h37" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E14" tvg-logo="http://urlon.me/h3G" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E15" tvg-logo="http://urlon.me/h3M" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E16" tvg-logo="http://urlon.me/h3Y" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E17" tvg-logo="http://urlon.me/h31" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E17
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E18" tvg-logo="http://urlon.me/h33" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E18
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E19" tvg-logo="http://urlon.me/h3P" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E19
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E20" tvg-logo="http://urlon.me/h3U" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E20
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E21" tvg-logo="http://urlon.me/h3m" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E21
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S05 E22" tvg-logo="http://urlon.me/h3J" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S05 E22
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S06 E01" tvg-logo="http://urlon.me/ZgY1Vj" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S06 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S06 E02" tvg-logo="http://urlon.me/ZgY1Vl" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S06 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S06 E03" tvg-logo="http://urlon.me/ZgY1VK" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S06 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S06 E04" tvg-logo="http://urlon.me/ZgY1Vk" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S06 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S06 E05" tvg-logo="http://urlon.me/ZgY1Vf" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S06 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S06 E06" tvg-logo="http://urlon.me/ZgY1V8" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S06 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S06 E07" tvg-logo="http://urlon.me/ZgY1Vz" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S06 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S06 E08" tvg-logo="http://urlon.me/ZgY1Vw" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S06 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S06 E09" tvg-logo="http://urlon.me/ZgY1Vi" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S06 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S06 E10" tvg-logo="http://urlon.me/ZgY1Vt" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S06 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S06 E11" tvg-logo="http://urlon.me/ZgY1Vx" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S06 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S06 E12" tvg-logo="http://urlon.me/ZgY1V0" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S06 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S06 E13" tvg-logo="http://urlon.me/ZgY1VA" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S06 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809778.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Disney Plus.xml"
+############## Séries | Disney Plus ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Disney Plus" group-title="
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S07 E01" tvg-logo="http://5ce.co:80/images/6WwFZ5oOirY3JrfmRXlgnlYfanD_big.jpg" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S07 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S07 E02" tvg-logo="http://5ce.co:80/images/6WwFZ5oOirY3JrfmRXlgnlYfanD_big.jpg" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S07 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S07 E03" tvg-logo="http://5ce.co:80/images/6WwFZ5oOirY3JrfmRXlgnlYfanD_big.jpg" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S07 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S07 E04" tvg-logo="http://5ce.co:80/images/6WwFZ5oOirY3JrfmRXlgnlYfanD_big.jpg" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S07 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S07 E05" tvg-logo="http://5ce.co:80/images/6WwFZ5oOirY3JrfmRXlgnlYfanD_big.jpg" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S07 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S07 E06" tvg-logo="http://5ce.co:80/images/6WwFZ5oOirY3JrfmRXlgnlYfanD_big.jpg" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S07 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S07 E07" tvg-logo="http://5ce.co:80/images/6WwFZ5oOirY3JrfmRXlgnlYfanD_big.jpg" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S07 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S07 E08" tvg-logo="http://5ce.co:80/images/6WwFZ5oOirY3JrfmRXlgnlYfanD_big.jpg" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S07 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S07 E09" tvg-logo="http://5ce.co:80/images/6WwFZ5oOirY3JrfmRXlgnlYfanD_big.jpg" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S07 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S07 E10" tvg-logo="http://5ce.co:80/images/6WwFZ5oOirY3JrfmRXlgnlYfanD_big.jpg" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S07 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S07 E11" tvg-logo="http://5ce.co:80/images/6WwFZ5oOirY3JrfmRXlgnlYfanD_big.jpg" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S07 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S07 E12" tvg-logo="http://5ce.co:80/images/6WwFZ5oOirY3JrfmRXlgnlYfanD_big.jpg" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S07 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agentes da S.H.I.E.L.D. da Marvel S07 E13" tvg-logo="http://5ce.co:80/images/6WwFZ5oOirY3JrfmRXlgnlYfanD_big.jpg" group-title="Séries | Disney Plus",Agentes da S.H.I.E.L.D. da Marvel S07 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809791.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Diversos.xml"
+############## Séries | Diversos ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Diversos" group-title="
+
+
+#EXTINF:-1 tvg-id="" tvg-name="A Ultima Onda S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8QFSk3Bpg2VtrkK0tPQt4Rn6qa.jpg" group-title="Séries | Diversos",A Ultima Onda S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ultima Onda S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIN4Xpq1kcEjdlkLkhEcXouKcpL.jpg" group-title="Séries | Diversos",A Ultima Onda S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ultima Onda S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePE7ymIGjVkFxb5Mq61ifE806Et.jpg" group-title="Séries | Diversos",A Ultima Onda S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ultima Onda S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1ROqG82Mgpd4iAV1tAyuChSgHV.jpg" group-title="Séries | Diversos",A Ultima Onda S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ultima Onda S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXr1ENY40TcLiD1tMFuMJBCW2wB.jpg" group-title="Séries | Diversos",A Ultima Onda S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ultima Onda S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/880Rji8axXn5H0262p6GlQ4jdEe.jpg" group-title="Séries | Diversos",A Ultima Onda S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809497.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Diversos.xml"
+############## Séries | Diversos ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Diversos" group-title="
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E17
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E18
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E19
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E20
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E21
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E22
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E23
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E24
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E25
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E26
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E27
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E28
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E29
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E30
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E31
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E32
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E33
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E34
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E35
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E36
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E37
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E38
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E39
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E40
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E41
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E42
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E43
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E44
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E45
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E46
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E47
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E48
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E49
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E50
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E51
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monkey Typhoon S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bayoU8Qk7aocQDpyhfqIFCvmas.jpg" group-title="Séries | Diversos",Monkey Typhoon S01 E52
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2812170.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c3omwMUYXf6GKIFJMUVv7EedmXT.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13veoxgCDkHWZ7udNunYUoYYmyx.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHPlqAd1ATdJSmhRLhHCB7oC1bb.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAQCODHD5uZVzMGke6Gmd0JcFoP.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4aTNURBB1eDniBuFx1MRxxamqx.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMNuvl6RpHPDssIcFh2mVCkx9gE.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eipHCY7IK4Ewx7fBBRC4U6k9rQ.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHkFN0tsKbj35q3N1G1rBhHCojz.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJF7vRs68rEI90JO4ydj9erPNWR.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMYjYRzlI9OL771EcjNUvlpTaom.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JMjXKsS0q6dr1lH5hntXX37E5f.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHLwqsSvtNDClPdkF00K0qdxeJ1.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aMMGbSjQUllusjrrylmp8BQstB.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bUtd0n6oOxlRT2pVRUXcclI5nc5.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zK3InK5novylPrnDMrWeNIVZ5R.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wPBUC5SfOAhuUmbLvDRJkJQEUm.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgnRGtlDtnSzCWtnkeIcnsoYI4C.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E17
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvXdmW4l7vCUtcGfg7eTONN1LYA.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E18
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWLznyPut2F5M1LNCPClzRW8OWN.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E19
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srSV43c6TejmvuJriWxnBFRmGeA.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E20
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMUXejexNSfzzjZS4SArj4MoxLb.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E21
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1c8B6tOFLcAxjCHf98dQAApZFp.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E22
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKBddR63bTD8C3EXtG9nGQL4BJf.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E23
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjl7D8tbhp39X8hLUKcbYPxE2DW.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E24
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUzfwBrJU7pwdF8rpdGEOu6fT54.jpg" group-title="Séries | Diversos",Haikyuu!! S01 E25
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEVvQvjb3mhESngZ7hPGFY9WTVn.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gAoOftCQ3bhMzdsnZXIWaP94rHg.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67ry0UY5cZFjUrwrHLcMYvMLSW0.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mThlgISEs3VmXajHp2YmcJjpXAZ.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvCEcMfmXcL3k7NOGGIiVgTdh1O.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40aXYh5oAL1wJ2bJxSQJzhJAMHG.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDcvcRAqreTuH7vgfC42VBGrx6y.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIR8o20mk8U5Lr3sKzBuDtjGO0C.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAiqEX487M3iwhsACtTQuQ7ymOo.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sobaESSCtYErAxWDswcDyPswCY6.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxplyVnacmWXDYPwqt2s4tIXQzC.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ru50zI6v8UgjgghtoiHkMmd6MZ.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBtPbd3oHM3oT94HkraEO7W97Xa.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmOmKewUSfZVGYsMtHbvGvMlELs.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j59yQ47PCjNSiPRZGca6kaYeKIM.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cEpkDQlpU2RX3tj7bErMCcgxXM.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulCDFwEzuNqFsfuhQYSMNXjKnaX.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E17
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2FLRyKX0qLipLwghrK0W1a7V6ob.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E18
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/boTsMwp1QAMNhkr7Q50m2DrkK3g.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E19
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jZY3sUwfVxgd3YrXjUaqWVKp8G.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E20
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSaU2gFQwX4m6MJB9bgnytU3tos.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E21
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wjRzQrVGJwNcx6xMfJMhUs2RKc.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E22
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoOmoWnKJ2TdCBkT15SWnCUboYC.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E23
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4OcrkgJ4whfcgjlKt41OmC4TEO.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E24
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S02 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNSNpPoIUd80QTi5naxUQn2KyrY.jpg" group-title="Séries | Diversos",Haikyuu!! S02 E25
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dh7Be0Bif4W0lXVa8cToHIESTsM.jpg" group-title="Séries | Diversos",Haikyuu!! S03 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcF9vQ4DrmkDYTEzNkyfr8XEMjV.jpg" group-title="Séries | Diversos",Haikyuu!! S03 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6nWgP4W6Am0q0qSn5C2rMDduXg.jpg" group-title="Séries | Diversos",Haikyuu!! S03 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2aBwzsKdw5Pec9NOsyQrXQVT29T.jpg" group-title="Séries | Diversos",Haikyuu!! S03 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3f5ieFdspiS8Pmz8MqeBPnJvIiq.jpg" group-title="Séries | Diversos",Haikyuu!! S03 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8WzcmyXDZE7LdOvUnGkHnaoE1Z.jpg" group-title="Séries | Diversos",Haikyuu!! S03 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuZGXeoDSVoDSVJGHqAI3qjMpSq.jpg" group-title="Séries | Diversos",Haikyuu!! S03 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYHTlgQS4uWZhGS9oCj9y8KfXV.jpg" group-title="Séries | Diversos",Haikyuu!! S03 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0mcRV1YEqFyrQyIenJEyDY29Op.jpg" group-title="Séries | Diversos",Haikyuu!! S03 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fac4rp7kaBoThshC2tdYTrPlOdS.jpg" group-title="Séries | Diversos",Haikyuu!! S03 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNKaeunuUdL0smnowVVgShCkWZ4.jpg" group-title="Séries | Diversos",Haikyuu!! S03 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNKaeunuUdL0smnowVVgShCkWZ4.jpg" group-title="Séries | Diversos",Haikyuu!! S03 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6V26rjSjEWkoGnnQYJSO8XBmJVP.jpg" group-title="Séries | Diversos",Haikyuu!! S04 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iPILutW52r07MBQxIt3WRYJC8v.jpg" group-title="Séries | Diversos",Haikyuu!! S04 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOg9vGrOsq1j7pKIp9LjBXonMwR.jpg" group-title="Séries | Diversos",Haikyuu!! S04 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aG4beFHoyyrvox6RB61GlPbRrj.jpg" group-title="Séries | Diversos",Haikyuu!! S04 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVL2d6tir7wdoulj1zgs8wpju0h.jpg" group-title="Séries | Diversos",Haikyuu!! S04 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ETXl8LgIeHtIhLgNZwvPDO7D8E.jpg" group-title="Séries | Diversos",Haikyuu!! S04 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWZGSRU43jC9qfG3iSKzJsd6Tfj.jpg" group-title="Séries | Diversos",Haikyuu!! S04 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pimCQGmDkXkYtXmO1t99wZkZJY1.jpg" group-title="Séries | Diversos",Haikyuu!! S04 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOc3o6IYIbbM8shctQ8vbx316w.jpg" group-title="Séries | Diversos",Haikyuu!! S04 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sclKuC8uAnT7ee0T7kIcgMijbjs.jpg" group-title="Séries | Diversos",Haikyuu!! S04 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvGEZhQCyIIALcLyHE2MLNHzU7o.jpg" group-title="Séries | Diversos",Haikyuu!! S04 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5jkiG3TZtRwNLjgTWUgV0kimQK.jpg" group-title="Séries | Diversos",Haikyuu!! S04 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haikyuu!! S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJGtAXAGKfwRn4DTHemYyqTzFaS.jpg" group-title="Séries | Diversos",Haikyuu!! S04 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2811908.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Diversos.xml"
+############## Séries | Diversos ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Diversos" group-title="
+
+
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E17
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E18
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E19
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E20
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E21
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E22
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E23
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E24
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E25
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E26
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E27
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E28
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E29
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E30
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E31
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E32
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E33
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E34
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E35
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E36
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E37
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E38
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E39
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E40
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E41
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E42
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E43
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809548.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E44
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E45
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E46
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E47
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S01 E48
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809562.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809563.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E16
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E17
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E18
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E19
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S02 E20
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809575.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S03 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E09
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E10
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E11
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E12
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E13
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E14
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vila S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEiqhviTe1FjexWUr2npxiJuYmV.jpg" group-title="Séries | Diversos",A Vila S04 E15
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809603.mp4
+
+#EXTM3U url-tvg="http://grade-de-Séries | Diversos.xml"
+############## Séries | Diversos ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSéries | Diversos" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="A Zona S01 E01" tvg-logo="http://urlon.me/ZgYYK1" group-title="Séries | Diversos",A Zona S01 E01
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Zona S01 E02" tvg-logo="http://urlon.me/ZgYYKY" group-title="Séries | Diversos",A Zona S01 E02
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Zona S01 E03" tvg-logo="http://urlon.me/ZgYYKM" group-title="Séries | Diversos",A Zona S01 E03
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Zona S01 E04" tvg-logo="http://urlon.me/ZgYYKG" group-title="Séries | Diversos",A Zona S01 E04
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Zona S01 E05" tvg-logo="http://urlon.me/ZgYYK7" group-title="Séries | Diversos",A Zona S01 E05
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Zona S01 E06" tvg-logo="http://urlon.me/ZgYYKF" group-title="Séries | Diversos",A Zona S01 E06
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Zona S01 E07" tvg-logo="http://urlon.me/ZgYYKv" group-title="Séries | Diversos",A Zona S01 E07
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Zona S01 E08" tvg-logo="http://urlon.me/ZgYYKQ" group-title="Séries | Diversos",A Zona S01 E08
+http://cdn.cmrt.xyz:80/series/robsontv/robson2022tv/2809611.mp4
 
 
 
