@@ -1397,6 +1397,14 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/83216.m3u8
 http://srv.cldplay.net:80/live/820584rohs/67864336899/147567.m3u8
 #EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 SD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | FOX Sports 2",FOX Sports 2 SD
 http://srv.cldplay.net:80/live/820584rohs/67864336899/83561.m3u8
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="Canais | FOX SPORTS 2",FOX SPORTS 2 FHD
+http://meuplay.shop:80/67598237854pw/9875352849pw/773
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 H265" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="Canais | FOX SPORTS 2",FOX SPORTS 2 H265
+http://meuplay.shop:80/67598237854pw/9875352849pw/245
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="Canais | FOX SPORTS 2",FOX SPORTS 2 HD
+http://meuplay.shop:80/67598237854pw/9875352849pw/32
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://imgur.com/uvjIrfv.png" group-title="Canais | FOX SPORTS 2",FOX SPORTS 2 SD
+http://meuplay.shop:80/67598237854pw/9875352849pw/484
 
 #EXTM3U url-tvg=" http://grade-de-Esportes UFC.xml "
  ############## Esportes UFC ############## ### 
@@ -1960,7 +1968,6 @@ http://meuplay.shop:80/828474929852/34882748924/83843
 #EXTINF:-1 tvg-id="BBB.br" tvg-name="CASA DE VIDRO BBB 2023" tvg-logo="https://i.imgur.com/IK3Wj88.png" group-title=" CANAIS | REALITY SHOWS",CASA DE VIDRO BBB 2023
 http://meuplay.shop:80/828474929852/34882748924/84416
 
-
 #EXTM3U url-tvg="http://grade-de-FILMES  INFANTIL CINEMA.xml"
 ############## FILMES  INFANTIL CINEMA ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES  INFANTIL CINEMA" group-title="
@@ -2217,6 +2224,58 @@ http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897974.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jung_E (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SlVgSeK19ZhhxDBsU6AQq4EN2W.jpg" group-title="Lançamentos 2023",Jung_E (2023)
 http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/897978.mp4
 
+
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/e10396bf13a832745c832de3167bb338.jpg" group-title="Lançamentos 2023",Caçador de Tormentas 4K [HDR] (2023)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98173.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/3ef243f3ca1bb1483db30347b028ca3a.jpg" group-title="Lançamentos 2023",Amor ao Primeiro Beijo 4K [Hybrid] (2023)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98171.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/09f3a2b97cfa2764a14ae9b924dab529.jpg" group-title="Lançamentos 2023",Casamento em Família (2023)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98240.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/3352839e7fae48a9b885dba2db88d75c.jpg" group-title="Lançamentos 2023",Certas Pessoas 4K [Hybrid] (2023)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98175.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/8e45c0b9c75c329e4e85292cb790e22e.jpg" group-title="Lançamentos 2023",Liga da Justiça x RWBY: Super-Heróis e Caçadores - Parte 1 (2023)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98163.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/ac5e9e258c8f3357918a2dd021a37714.jpg" group-title="Lançamentos 2023",Guia de Viagem para o Amor (2023)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98161.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/de9f2821a46eb01ce95ad1270fd9c199.jpg" group-title="Lançamentos 2023",Tudo pela Noiva (2023)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98156.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/cd802bd1428498f0c48f6cf6f8b9e9a8.jpg" group-title="Lançamentos 2023",Quasimodo 4K [Hybrid] (2023)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98154.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/7c4871b8bd09366602095ddfcb5a2b4b.jpg" group-title="Lançamentos 2023",Encurralados (2023)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98153.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/cd802bd1428498f0c48f6cf6f8b9e9a8.jpg" group-title="Lançamentos 2023",Quasimodo (2023)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98152.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/62ad04beb46e5ed4c8ffaefc94469318.jpg" group-title="Lançamentos 2023",Peter Pan & Wendy 4K [Hybrid] (2023)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98150.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/1b5142d0df7d0195fd82afada521b9ae.jpg" group-title="Lançamentos 2023",Tudo de Novo, Mais Uma Vez (2023)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98111.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/069ed40aee8862c4f3a1f394035a56d2.jpg" group-title="Lançamentos 2023",Raquel 1:1 (2023)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98109.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/cb268cbee89f8e285d54308e8cd0a4f6.jpg" group-title="Lançamentos 2023",O Som do Caos 4K (2023)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98148.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5fce0120e6750df5f5894612976b5b1a.jpg" group-title="Lançamentos 2023",Em Todas as Partes 4K [Hybrid] (2023)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98145.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/cd060f402f759dc690d143be3a434edd.jpg" group-title="Lançamentos 2023",Duas Bruxas: A Herança Diabólica (2023)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98127.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/51bbec4d65f8b20feacf73d7160e345d.jpg" group-title="Lançamentos 2023",Tic-Tac: A Maternidade do Mal 4K (2023)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98124.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/540aeb74f3866b4839dd343e9fca6f91.jpg" group-title="Lançamentos 2023",Assassin Club 4K [HDR] (2023)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98097.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/a4c777c406a98584a50bf0b505fca755.jpg" group-title="Lançamentos 2023",Pânico VI (2023)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98089.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/5c0ec1f9a8304f1a63ab8cf969b126a0.jpg" group-title="Lançamentos 2023",Agente Infiltrado (2023)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98074.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/ffc7adb53706735bb559f50a3fa47afa.jpg" group-title="Lançamentos 2023",Ghosted: Sem Resposta 4K [Hybrid] (2023)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98072.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/62ad04beb46e5ed4c8ffaefc94469318.jpg" group-title="Lançamentos 2023",Peter Pan & Wendy (2023)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98070.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/f2d72cff00b3ad3f3cf2a9375c3ccfbc.jpg" group-title="Lançamentos 2023",Sem Rastro (2023)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98069.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/ffc7adb53706735bb559f50a3fa47afa.jpg" group-title="Lançamentos 2023",Ghosted: Sem Resposta (2023)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98066.mp4
+
+
+
 #EXTM3U url-tvg="http://grade-de-Lançamentos 2022.xml"
 ############## Lançamentos 2022 ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeLançamentos 2022" group-title="
@@ -2383,6 +2442,54 @@ http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901521.mp4
 http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/901522.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Pior Vizinho do Mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXHNdN1hjg6RFQ5NP618KSAIrdE.jpg" group-title="Lançamentos 2022",O Pior Vizinho do Mundo (2022)
 http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/900807.mp4
+
+
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/a24fde3aad993f6743b81843db9af55c.jpg" group-title="Lançamentos 2022",13 exorcismos (2022)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98242.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/f46cc790c82dbe92732b74fe96642d60.jpg" group-title="Filmes 2022",Como Os Anos Me Deixaram (2022)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98172.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/cc4d22a3e10047065f4573ae22376ccc.jpg" group-title="Filmes 2022",O Acidente (2022)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98170.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/51bf0a838c700bd0347257d7c4a94806.jpg" group-title="Filmes 2022",That Time I Got Reincarnated as a Slime the Movie Scarlet Bond (2022)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98169.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/b698e8c71d43da480439cc24ff60ffcb.jpg" group-title="Filmes 2022",O Rei Piu-Piu (2022)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98167.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/37f83ac0f79d61106adf6bbb7543d7b8.jpg" group-title="Filmes 2022",Snoopy Apresenta: São as Pequenas Coisas, Charlie Brown (2022)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98138.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/37f83ac0f79d61106adf6bbb7543d7b8.jpg" group-title="Filmes 2022",Snoopy Apresenta: São as Pequenas Coisas, Charlie Brown (2022)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98138.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/fdcaddc8d874577162456417da9d5bd3.jpg" group-title="Filmes 2022",Oferenda ao Demônio 4K [Hybrid] (2022)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98137.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/37f83ac0f79d61106adf6bbb7543d7b8.jpg" group-title="Filmes 2022",Snoopy Apresenta: São as Pequenas Coisas, Charlie Brown 4K [Hybrid] (2022)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98129.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/e37fc28b9e0ba4693abdd3af2cb08d23.jpg" group-title="Filmes 2022",Dias de Desejo (2022)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98128.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/e37fc28b9e0ba4693abdd3af2cb08d23.jpg" group-title="Filmes 2022",Dias de Desejo (2022)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98128.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/07cd6c5dd0ebda4e491fc18e2aeba735.jpg" group-title="Filmes 2022",O Grande Mauricinho (2022)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98117.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/07cd6c5dd0ebda4e491fc18e2aeba735.jpg" group-title="Filmes 2022",O Grande Mauricinho (2022)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98117.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/08743dc60b197074ed8747cb476154e4.jpg" group-title="Filmes 2022",Sick (2022)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98116.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/08743dc60b197074ed8747cb476154e4.jpg" group-title="Filmes 2022",Sick (2022)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98116.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/531214248ebc084dbc4d78dfbd246594.jpg" group-title="Filmes 2022",Fogaréu (2022)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98104.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/531214248ebc084dbc4d78dfbd246594.jpg" group-title="Filmes 2022",Fogaréu (2022)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98104.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/54f22385a70d4c0a037f3b8ce3d2d048.jpg" group-title="Filmes 2022",Jogo Perigoso: Vítimas do Legado (2022)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98102.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/54f22385a70d4c0a037f3b8ce3d2d048.jpg" group-title="Filmes 2022",Jogo Perigoso: Vítimas do Legado (2022)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98102.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/e82728e787195df9957f748ca14e3d37.jpg" group-title="Filmes 2022",Gigi & Nate (2022)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98087.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/08743dc60b197074ed8747cb476154e4.jpg" group-title="Filmes 2022",Sick 4K [Hybrid] (2022)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98076.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/1ba29c5e8e4681544fb8f58ce45ceb77.jpg" group-title="Filmes 2022",Drácula – Ele Ainda Está Vivo (2022)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98073.mp4
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/1ba29c5e8e4681544fb8f58ce45ceb77.jpg" group-title="Filmes 2022",Drácula – Ele Ainda Está Vivo (2022)
+http://esrv.cc:80/movie/Ws3ez/Bu0B7/98073.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILMES  2022.xml"
 ############## FILMES  2022 ################# 
@@ -4500,8 +4607,6 @@ http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/77547.mp4
 http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/11975.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Vida é Agora (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxWHyMY4HoXH8LiEhYlga2OtK5B.jpg" group-title="Romance",A Vida é Agora (2021)
 http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/69976.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Vida Secreta de Walter Mitty (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXZywWvykuyR7hvLUTmFk1Zy0le.jpg" group-title="Drama/ História",A Vida Secreta de Walter Mitty (2013)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10266.mp4
 #EXTINF:-1 tvg-id="" tvg-name="After: Depois do Desencontro (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZwC4FW5rFvYa0gzZJIHQwLSgbz.jpg" group-title="Romance",After: Depois do Desencontro (2021)
 http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/67668.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Amor a Três (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qE7AeMCVl7zZ4LjrKWhltjNgwBu.jpg" group-title="Romance",Amor a Três (2020)
@@ -4781,8 +4886,6 @@ http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10025.mp4
 http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10023.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Doce Argumento (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9PG1LG0zLnl6QQxw4WoRJEroXF.jpg" group-title="Comédia",Doce Argumento (2018)
 http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10024.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Doce Tentação (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mC7n5YVSdo76qxgEjeeAb9c7s4.jpg" group-title="Drama/ História",Doce Tentação (2012)
-http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10313.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Diário de um Banana 2: Rodrick é o Cara (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oG3apBrzi3Q5C3Z2jNM61tyCW6.jpg" group-title="Comédia",Diário de um Banana 2: Rodrick é o Cara (2011)
 http://dns.acaidopara.net:8080/movie/Ricardotvbox24/2408rica02/10020.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Diário de um Banana 3: Dias de Cão (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfPfaQLIE1qBHfOa16YLRf0lkme.jpg" group-title="Comédia",Diário de um Banana 3: Dias de Cão (2012)
@@ -6435,325 +6538,360 @@ http://dns.acaidopara.net:8080/21964291463/1964291463a/66622
 #EXTINF:-1 tvg-id="" tvg-name="Urban TV " tvg-logo="http://printv.esy.es/server/UrbanTV.png" group-title="Musicas | Variedades",Urban TV 
 http://dns.acaidopara.net:8080/21964291463/1964291463a/71265
 
-#EXTM3U url-tvg="http://grade-de- FAX RADIOS |  AO VIVO .xml"
-############## FAX RADIOS |  AO VIVO  ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFAX RADIOS |  AO VIVO " group-title="
+#EXTM3U url-tvg="http://grade-de-RADIOS.xml"
+############## RADIOS  ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeRADIOS" group-title="
 
-#EXTINF:1 tvg-logo="https://img.radios.com.br/radio/lg/radio19243_1668191196.jpg" group-title="FAX RADIOS |  AO VIVO",Rádio Viola de Ouro Ribeirão Preto / SP - Brasil
+#EXTINF:1 tvg-logo="https://img.radios.com.br/radio/lg/radio19243_1668191196.jpg" group-title="RADIOS",Rádio Viola de Ouro Ribeirão Preto / SP - Brasil
 https://hts02.kshost.com.br:9322/live?1679835613105
-#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/sertaneja.jpg" group-title="FAX RADIOS |  AO VIVO",Sertaneja MGT RÁDIO
+#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/sertaneja.jpg" group-title="RADIOS",Sertaneja MGT RÁDIO
 https://cast.mgtradio.net/radio/8000/aac
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/5u67p5ra2tsn.png" group-title="FAX RADIOS |  AO VIVO",Viola Sertaneja Web ao vivo
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/5u67p5ra2tsn.png" group-title="RADIOS",Viola Sertaneja Web ao vivo
 https://s17.maxcast.com.br:8669/live
-#EXTINF:1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/0cc474f7cf02ad2891ecb4f08429ed96.jpg" group-title="FAX RADIOS |  AO VIVO",Modão
+#EXTINF:1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/0cc474f7cf02ad2891ecb4f08429ed96.jpg" group-title="RADIOS",Modão
 https://centova5.transmissaodigital.com:20024/stream/;stream.mp3
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zw74b5enkz2m.jpg" group-title="FAX RADIOS |  AO VIVO",Sertanejo Raiz
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zw74b5enkz2m.jpg" group-title="RADIOS",Sertanejo Raiz
 http://station.radionanet.com:8330/1;
-#EXTINF:1 tvg-logo="https://public-rf-upload.minhawebradio.net/1952/mobileicon/3f3e0f499f851f6251df3840ba3c387e.png" group-title="FAX RADIOS |  AO VIVO",campeirafm
+#EXTINF:1 tvg-logo="https://public-rf-upload.minhawebradio.net/1952/mobileicon/3f3e0f499f851f6251df3840ba3c387e.png" group-title="RADIOS",campeirafm
 https://servidor34-3.brlogic.com:8164/live?source=website
-#EXTINF:1 tvg-logo="https://img.radios.com.br/radio/xl/radio29450_1616608955.jpg" group-title="FAX RADIOS |  AO VIVO",Moda e Viola
+#EXTINF:1 tvg-logo="https://img.radios.com.br/radio/xl/radio29450_1616608955.jpg" group-title="RADIOS",Moda e Viola
 https://live9.livemus.com.br:27068/stream
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rjwesbezuttg.png" group-title="FAX RADIOS |  AO VIVO",Raiz forte
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rjwesbezuttg.png" group-title="RADIOS",Raiz forte
 https://stream-57.zeno.fm/4dzm2padd8zuv?zs=QQ3DU5TfT1q2EydL4_Bisw
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mqqxwckzptry.png" group-title="FAX RADIOS |  AO VIVO",Sertanejo FM
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mqqxwckzptry.png" group-title="RADIOS",Sertanejo FM
 https://stream-28.zeno.fm/6045t1y3tm0uv?zs=1nnEPMYlR7CfkkP3WPzL-Q
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bU69gtxk2F.jpg" group-title="FAX RADIOS |  AO VIVO",Sertanejo
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bU69gtxk2F.jpg" group-title="RADIOS",Sertanejo
 https://stm1.mestrestream.xyz:7020/stream
-#EXTINF:1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/fblogo/2/97952.v17.png" group-title="FAX RADIOS |  AO VIVO",Sertanejo fm
+#EXTINF:1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/fblogo/2/97952.v17.png" group-title="RADIOS",Sertanejo fm
 https://stream-64.zeno.fm/mvu6q1ex2tzuv?zs=Hw6C6TmETyOQyOt-E532bg
-#EXTINF:1 tvg-logo=""https://static.mytuner.mobi/media/tvos_radios/BN2VHKcKF7.png"group-title="FAX RADIOS |  AO VIVO",Sertanejo
+#EXTINF:1 tvg-logo=""https://static.mytuner.mobi/media/tvos_radios/BN2VHKcKF7.png"group-title="RADIOS",Sertanejo
 https://servidor.geracaoradios.com/listen/sertaneja/stream
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yuthE2Qr2f.jpg" group-title="FAX RADIOS |  AO VIVO",Sertanejo
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yuthE2Qr2f.jpg" group-title="RADIOS",Sertanejo
 https://live.hunter.fm/sertanejo_normal
-#EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/24/b4/121838/4/c300.png" group-title="FAX RADIOS |  AO VIVO",Buteco Sertanejo
+#EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/24/b4/121838/4/c300.png" group-title="RADIOS",Buteco Sertanejo
 https://stream-35.zeno.fm/6kumndewqbruv?zs=3OtcSzddSNiMq5JmistyJQ
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000013642016-wnt383-t500x500.jpg" group-title="FAX RADIOS |  AO VIVO",Studio Souto - Sertanejo Universitário
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000013642016-wnt383-t500x500.jpg" group-title="RADIOS",Studio Souto - Sertanejo Universitário
 https://centova5.transmissaodigital.com:20042/stream
-#EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/14/b5/139863/1/c300.png" group-title="FAX RADIOS |  AO VIVO",Romantismo Sertanejo
+#EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/14/b5/139863/1/c300.png" group-title="RADIOS",Romantismo Sertanejo
 https://stm4.voxhd.com.br:7228/stream/1/
-#EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/9a/57/105638/7/c300.png" group-title="FAX RADIOS |  AO VIVO",Sertaneja Pop
+#EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/9a/57/105638/7/c300.png" group-title="RADIOS",Sertaneja Pop
 https://srv2.andradedeveloper.net/listen/sertanejapop/radio.mp3
-#EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/af/b3/110474/3/c300.png" group-title="FAX RADIOS |  AO VIVO",Hunter.FM - Sertanejo
+#EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/af/b3/110474/3/c300.png" group-title="RADIOS",Hunter.FM - Sertanejo
 https://live.hunter.fm/sertanejo_high?origin=/country
-#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/sertanejo.jpg" group-title="FAX RADIOS |  AO VIVO",MGT UNIVERSITÁRIA SERTANEJO UNIVERSITÁRIO 
+#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/sertanejo.jpg" group-title="RADIOS",MGT UNIVERSITÁRIA SERTANEJO UNIVERSITÁRIO 
 https://cast.mgtradio.net/radio/8020/aac
-#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/mpb.jpg" group-title="FAX RADIOS |  AO VIVO",MGT BRASIL HITS SUCESSOS NACIONAIS 
+#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/mpb.jpg" group-title="RADIOS",MGT BRASIL HITS SUCESSOS NACIONAIS 
 https://cast.mgtradio.net/radio/8030/aac
-#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/gospel.jpg" group-title="FAX RADIOS |  AO VIVO",MGT GOSPEL LOUVOR E ADORAÇÃO
+#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/gospel.jpg" group-title="RADIOS",MGT GOSPEL LOUVOR E ADORAÇÃO
 https://cast.mgtradio.net/radio/8040/aac
-#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/forro.jpg" group-title="FAX RADIOS |  AO VIVO",MGT FORRÓ  FORROZÃO
+#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/forro.jpg" group-title="RADIOS",MGT FORRÓ  FORROZÃO
 https://cast.mgtradio.net/radio/8050/aac
-#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/country.jpg" group-title="FAX RADIOS |  AO VIVO",MGT COUNTRY MÚSICA COUNTRY
+#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/country.jpg" group-title="RADIOS",MGT COUNTRY MÚSICA COUNTRY
 https://cast.mgtradio.net/radio/8110/aac
-#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/lovehits.jpg" group-title="FAX RADIOS |  AO VIVO",MGT LOVE HITS
+#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/lovehits.jpg" group-title="RADIOS",MGT LOVE HITS
 https://cast.mgtradio.net/radio/8110/aac
-#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/80.jpg" group-title="FAX RADIOS |  AO VIVO",MGT 80's ANOS 80
+#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/80.jpg" group-title="RADIOS",MGT 80's ANOS 80
 https://cast.mgtradio.net/radio/8100/aac
-#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/rock.jpg" group-title="FAX RADIOS |  AO VIVO",MVT MGT ROCK
+#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/rock.jpg" group-title="RADIOS",MVT MGT ROCK
 https://cast.mgtradio.net/radio/8090/aac
-#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/dance.jpg" group-title="FAX RADIOS |  AO VIVO",MVT DANCE HITS 
+#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/dance.jpg" group-title="RADIOS",MVT DANCE HITS 
 https://cast.mgtradio.net/radio/8080/aac
-#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/light.jpg" group-title="FAX RADIOS |  AO VIVO",MGT LIGHT
+#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/light.jpg" group-title="RADIOS",MGT LIGHT
 https://cast.mgtradio.net/radio/8070/aac
-#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/retro.jpg" group-title="FAX RADIOS |  AO VIVO",MVT RETRO
+#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/radios/retro.jpg" group-title="RADIOS",MVT RETRO
 https://cast.mgtradio.net/radio/8060/aac
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkPbd8jJiMtD-Kk5surHAyopxgm5fJKvk9Wg&usqp=CAU" group-title="FAX RADIOS |  AO VIVO",GVT Love hits
-#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/ouvir-radio-online.png" group-title="FAX RADIOS |  AO VIVO",fm
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkPbd8jJiMtD-Kk5surHAyopxgm5fJKvk9Wg&usqp=CAU" group-title="RADIOS",GVT Love hits
+#EXTINF:1 tvg-logo="https://www.mgtradio.net/images/ouvir-radio-online.png" group-title="RADIOS",fm
 https://cast.mgtradio.net/radio/8010/aac
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/conquista-fm-ao-vivo.jpeg" group-title="FAX RADIOS |  AO VIVO",Conquista 97.7 FM
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/conquista-fm-ao-vivo.jpeg" group-title="RADIOS",Conquista 97.7 FM
 https://stream-51.zeno.fm/hu70hmkcu68uv?zs=2RfZKGMRQDijxwgcNNI6jQ
-#EXTINF:1 tvg-logo="hhttps://radiosaovivo.fm/wp-content/uploads/2022/12/fmodia.jpeg" group-title="FAX RADIOS |  AO VIVO",FM O Dia
+#EXTINF:1 tvg-logo="hhttps://radiosaovivo.fm/wp-content/uploads/2022/12/fmodia.jpeg" group-title="RADIOS",FM O Dia
 https://streaming.livespanel.com:20000/live?1672427380155?odiafmrj
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/liberdadefmaovivo.jpeg" group-title="FAX RADIOS |  AO VIVO",Liberdade 92.9 FM
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/liberdadefmaovivo.jpeg" group-title="RADIOS",Liberdade 92.9 FM
 https://8335.brasilstream.com.br/stream?liberdadefmbh
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/itatiaia-ao-vivo.jpeg" group-title="FAX RADIOS |  AO VIVO",Itatiaia
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/itatiaia-ao-vivo.jpeg" group-title="RADIOS",Itatiaia
 https://8903.brasilstream.com.br/stream?itatiaiabh
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/verdinha-am-ao-vivo.jpeg" group-title="FAX RADIOS |  AO VIVO",Verdes Mares 810 AM Verdinha
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/verdinha-am-ao-vivo.jpeg" group-title="RADIOS",Verdes Mares 810 AM Verdinha
 https://5a1c76baf08c0.streamlock.net/z18-live/stream/media_w2028614762_17120.mp3?verdesmaresce
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/nativa-fm-ao-vivo.jpeg" group-title="FAX RADIOS |  AO VIVO",Nativa FM
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/nativa-fm-ao-vivo.jpeg" group-title="RADIOS",Nativa FM
 https://24073.live.streamtheworld.com/NATIVA_SPAAC/HLS/5476c6a0-974e-42a7-98da-c47aeb86b716/0/2.aac
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/mix-fm.jpeg" group-title="FAX RADIOS |  AO VIVO",Mix FM
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/mix-fm.jpeg" group-title="RADIOS",Mix FM
 https://26733.live.streamtheworld.com/MIXFM_SAOPAULOAAC.aac
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/89aradiorock.jpg" group-title="FAX RADIOS |  AO VIVO",89 FM A Rádio Rock
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/89aradiorock.jpg" group-title="RADIOS",89 FM A Rádio Rock
 https://22823.live.streamtheworld.com/RADIO_89FMAAC.aac?dist=89fmsp
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/clube-do-para-ao-vivo.jpg" group-title="FAX RADIOS |  AO VIVO",Clube do Pará 104.7 FM 670 AM
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/clube-do-para-ao-vivo.jpg" group-title="RADIOS",Clube do Pará 104.7 FM 670 AM
 https://ice01.kshost.com.br:8000/live?clubdopara
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/saudade-fm-ao-vivo.png" group-title="FAX RADIOS |  AO VIVO",Saudade FM
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/saudade-fm-ao-vivo.png" group-title="RADIOS",Saudade FM
 https://26603.live.streamtheworld.com/SAUDADE_FMAAC.aac?saudadefm
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/metropolitana-fm-ao-vivo.jpeg" group-title="FAX RADIOS |  AO VIVO",Metropolitana 98.5 FM
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/metropolitana-fm-ao-vivo.jpeg" group-title="RADIOS",Metropolitana 98.5 FM
 https://stream-51.zeno.fm/hu70hmkcu68uv?zs=PrElj_OUQMqzfQdxdObDDg
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/02/rede-hits-ao-vivo.jpeg" group-title="FAX RADIOS |  AO VIVO",Hits 99.7 FM
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/02/rede-hits-ao-vivo.jpeg" group-title="RADIOS",Hits 99.7 FM
 https://paineldj.com.br:20028/stream?1676339165625
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/energiafmaovivo.jpeg" group-title="FAX RADIOS |  AO VIVO",Energia 97.7 FM
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/energiafmaovivo.jpeg" group-title="RADIOS",Energia 97.7 FM
 https://streaming.inweb.com.br/energia?1673314020119
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/transamerica-ao-vivo.png" group-title="FAX RADIOS |  AO VIVO",Rádio Transamérica FM
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/transamerica-ao-vivo.png" group-title="RADIOS",Rádio Transamérica FM
 https://26603.live.streamtheworld.com/RT_SPAAC.aac?transamericasp
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/03/radiodisney.jpeg" group-title="FAX RADIOS |  AO VIVO",Rádio Disney FM 91,3
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/03/radiodisney.jpeg" group-title="RADIOS,Rádio Disney FM 91,3
 https://26493.live.streamtheworld.com/DISNEY_BRA_SP.mp3?1678384501225
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/03/gayfm_hg_schwarz.jpg" group-title="FAX RADIOS |  AO VIVO",Rádio Gay FM
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/03/gayfm_hg_schwarz.jpg" group-title="RADIOS",Rádio Gay FM
 https://icepool.silvacast.com/GAYFM.mp3
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/02/violafm.jpeg" group-title="FAX RADIOS |  AO VIVO",Viola 98.1 FM
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/02/violafm.jpeg" group-title="RADIOS",Viola 98.1 FM
 https://f12.fabricahost.com.br/violafm?f=1678634174N01GVB69HJ4SS7HN1Y689M714NE&tid=01GVB69HJ4KZ4DRZSPZDXTR50B
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/02/violafm.jpeg" group-title="FAX RADIOS |  AO VIVO",Viola 98.1 FM
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/02/violafm.jpeg" group-title="RADIOS",Viola 98.1 FM
 https://stream-51.zeno.fm/hu70hmkcu68uv?zs=5AewwtnSS6ujwZFKAOpaVA
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/assuncaoamaovivo.jpg" group-title="FAX RADIOS |  AO VIVO",Assunção Cearense 620 AM
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2023/01/assuncaoamaovivo.jpg" group-title="RADIOS",Assunção Cearense 620 AM
 https://str.7br.com.br/radio/8170/stream?assuncaocearenseam
-#EXTINF:1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png" group-title="FAX RADIOS |  AO VIVO",Antena 1
+#EXTINF:1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png" group-title="RADIOS",Antena 1
 https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
-#EXTINF:1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png" group-title="FAX RADIOS |  AO VIVO",Antena 2
+#EXTINF:1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png" group-title="RADIOS",Antena 2
 https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
-#EXTINF:1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/radiolusitania.png" group-title="FAX RADIOS |  AO VIVO",Lusitânia
+#EXTINF:1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/radiolusitania.png" group-title="RADIOS",Lusitânia
 https://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8
-#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Comercial-Kids.png"group-title="FAX RADIOS |  AO VIVO",Comercial Kids
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Comercial-Kids.png"group-title="RADIOS",Comercial Kids
 https://media1.mcr.iol.pt/wrcomercial/rckids.stream/playlist.m3u8
-#EXTINF:1 tvg-logo="https://radiocomercial.iol.pt/images/webradios/wr-brasil.jpg"group-title="FAX RADIOS |  AO VIVO",Comercial Brasil
+#EXTINF:1 tvg-logo="https://radiocomercial.iol.pt/images/webradios/wr-brasil.jpg"group-title="RADIOS",Comercial Brasil
 https://media2.mcr.iol.pt/wrcomercial/rcbrasil.stream/playlist.m3u8
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/saudade-fm-ao-vivo.png"group-title="FAX RADIOS |  AO VIVO",Saudade FM
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/saudade-fm-ao-vivo.png"group-title="RADIOS",Saudade FM
 https://26603.live.streamtheworld.com/SAUDADE_FMAAC.aac?saudadefm
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/hunterfm.jpg"group-title="FAX RADIOS |  AO VIVO",Hunter FM Pop
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/hunterfm.jpg"group-title="RADIOS",Hunter FM Pop
 https://26603.live.streamtheworld.com/SAUDADE_FMAAC.aac?saudadefm
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/alpha-fm-ao-vivo.jpeg"group-title="FAX RADIOS |  AO VIVO",Alpha FM
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/alpha-fm-ao-vivo.jpeg"group-title="RADIOS",Alpha FM
 https://26653.live.streamtheworld.com/RADIO_ALPHAFMAAC.aac?dist=alphasp
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/k5ySImeGPgM/maxresdefault.jpg" group-title="FAX RADIOS |  AO VIVO",mix
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/k5ySImeGPgM/maxresdefault.jpg" group-title="RADIOS",mix
 https://26573.live.streamtheworld.com/MIXFM_SAOPAULOAAC.aac?1649708071542
-#EXTINF:1 tvg-logo="https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_840,h_440/https://www.srzd.com/wp-content/uploads/2016/12/radio-tupi-840x440.jpg"group-title="FAX RADIOS |  AO VIVO",Super Rádio Tupi
+#EXTINF:1 tvg-logo="https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_840,h_440/https://www.srzd.com/wp-content/uploads/2016/12/radio-tupi-840x440.jpg"group-title="RADIOS",Super Rádio Tupi
 https://8903.brasilstream.com.br/stream?1649568567935/live
-#EXTINF:1 tvg-logo="hthttps://radiosaovivo.fm/wp-content/uploads/2023/03/Jovem_Pan_FM_Belo_Horizonte_logo_2018_new.png"group-title="FAX RADIOS |  AO VIVO",Jovem Pan 99.1 FM
+#EXTINF:1 tvg-logo="hthttps://radiosaovivo.fm/wp-content/uploads/2023/03/Jovem_Pan_FM_Belo_Horizonte_logo_2018_new.png"group-title="RADIOS",Jovem Pan 99.1 FM
 https://sc4s.cdn.upx.com:8036/stream.mp3?jovempanbh
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/jovempannewsaovivo.jpeg"group-title="FAX RADIOS |  AO VIVO",Jovem Pan News
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/jovempannewsaovivo.jpeg"group-title="RADIOS",Jovem Pan News
 https://stream-51.zeno.fm/hu70hmkcu68uv?zs=TrMH3bYxR-y6uc0u-XCk4g
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/cbn-sp-ao-vivo.png"group-title="FAX RADIOS |  AO VIVO",CBN São Paulo
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/cbn-sp-ao-vivo.png"group-title="RADIOS",CBN São Paulo
 https://24383.live.streamtheworld.com/CBN_SPAAC.aac?cbnsp
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/1216891021470072832/DEsMN9Zo_400x400.jpg"group-title="FAX RADIOS |  AO VIVO",Bandeirantes
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/1216891021470072832/DEsMN9Zo_400x400.jpg"group-title="RADIOS",Bandeirantes
 https://26493.live.streamtheworld.com/RADIOBANDEIRANTESAAC.aac
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/1216891021470072832/DEsMN9Zo_400x400.jpg"group-title="FAX RADIOS |  AO VIVO",Bandeirantes
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/1216891021470072832/DEsMN9Zo_400x400.jpg"group-title="RADIOS",Bandeirantes
 https://26493.live.streamtheworld.com/RADIOBANDEIRANTESAAC/HLS/61a7322d-ad5e-467c-9ae9-284f47dea870/0/1.aac
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/1216891021470072832/DEsMN9Zo_400x400.jpg"group-title="FAX RADIOS |  AO VIVO",Bandeirantes
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/1216891021470072832/DEsMN9Zo_400x400.jpg"group-title="RADIOS",Bandeirantes
 https://19293.live.streamtheworld.com/RADIOBANDEIRANTESAAC/HLS/83ea1594-63db-4686-bef3-baf4848b671c/0/2.aac
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/bandnewsfmaovivo.jpeg" group-title="FAX RADIOS |  AO VIVO",BandNews FM
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/bandnewsfmaovivo.jpeg" group-title="RADIOS",BandNews FM
 https://15113.live.streamtheworld.com/BANDNEWSFM_SPAAC/HLS/476a75fd-c0b0-4e75-a663-eff9f9ef01ab/0/3.aac
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Jovem_Pan_FM_Marca_2022.jpg/800px-Jovem_Pan_FM_Marca_2022.jpg"group-title="FAX RADIOS |  AO VIVO",Jovem Pan FM
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Jovem_Pan_FM_Marca_2022.jpg/800px-Jovem_Pan_FM_Marca_2022.jpg"group-title="RADIOS",Jovem Pan FM
 https://26143.live.streamtheworld.com/JP_SP_FMAAC.aac?1655836765030
-#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/k5ySImeGPgM/maxresdefault.jpg"group-title="FAX RADIOS |  AO VIVO",mix
+#EXTINF:1 tvg-logo="https://i.ytimg.com/vi/k5ySImeGPgM/maxresdefault.jpg"group-title="RADIOS",mix
 https://8923.brasilstream.com.br/stream?1649567398017
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rcE8RAPGud.jpg"group-title="FAX RADIOS |  AO VIVO",Total Hits
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rcE8RAPGud.jpg"group-title="RADIOS",Total Hits
 https://stream-57.zeno.fm/bykfgnbuk2zuv?zs=JxT2WT1CR7Wf9YTu7xFnsw
-#EXTINF:1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/ar_radiodisne_headerhero_2_v2_d8636a83.gif"group-title="FAX RADIOS |  AO VIVO",DISNEY
+#EXTINF:1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/ar_radiodisne_headerhero_2_v2_d8636a83.gif"group-title="RADIOS",DISNEY
 https://20833.live.streamtheworld.com/DISNEY_BRA_SP_ADP/HLS/playlist.m3u8?dist=web-radiodisney
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKMSUbw7i5ZeQhh9Q4OonrhW-QtF9PFzuPHf-FmURsbfaU-bQ_zHmpjpAxKZIolqup95g&usqp=CAU"group-title="FAX RADIOS |  AO VIVO",Stingray Greatest Hits
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKMSUbw7i5ZeQhh9Q4OonrhW-QtF9PFzuPHf-FmURsbfaU-bQ_zHmpjpAxKZIolqup95g&usqp=CAU"group-title="RADIOS",Stingray Greatest Hits
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
-#EXTINF:1 tvg-logo="https://a.jsrdn.com/hls/22865/stingray-hit-list/logo_20200720_201905.png"group-title="FAX RADIOS |  AO VIVO",Stingray Hit List
+#EXTINF:1 tvg-logo="https://a.jsrdn.com/hls/22865/stingray-hit-list/logo_20200720_201905.png"group-title="RADIOS",Stingray Hit List
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
-#EXTINF:1 tvg-logo="https://smotret.tv/images/stingray-classic-rock.webp"group-title="FAX RADIOS |  AO VIVO",Stingray Classic Rock
+#EXTINF:1 tvg-logo="https://smotret.tv/images/stingray-classic-rock.webp"group-title="RADIOS",Stingray Classic Rock
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
-#EXTINF:1 tvg-logo="https://a.jsrdn.com/hls/22865/stingray-rock-alternative/logo_20200720_202032.png"group-title="FAX RADIOS |  AO VIVO",Stingray Rock Alternative
+#EXTINF:1 tvg-logo="https://a.jsrdn.com/hls/22865/stingray-rock-alternative/logo_20200720_202032.png"group-title="RADIOS",Stingray Rock Alternative
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
-#EXTINF:1 tvg-logo="https://a.jsrdn.com/hls/22865/stingray-pop-adult/logo_20200721_183641.png"group-title="FAX RADIOS |  AO VIVO",Stingray Pop Adult
+#EXTINF:1 tvg-logo="https://a.jsrdn.com/hls/22865/stingray-pop-adult/logo_20200721_183641.png"group-title="RADIOS",Stingray Pop Adult
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
-#EXTINF:1 tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/stingrayMusicUrbanBeats/logo_big.png"group-title="FAX RADIOS |  AO VIVO",Stingray Urban Beat
+#EXTINF:1 tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/stingrayMusicUrbanBeats/logo_big.png"group-title="RADIOS",Stingray Urban Beat
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjNDEftGBTD1o5SqgRZ7tyOPKcqjLEAsR7O-lTcdRQ9ObiYMhuWhbsogHT9LA-LiA7HA&usqp=CAU"group-title="FAX RADIOS |  AO VIVO",Stingray Flashback 70s
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjNDEftGBTD1o5SqgRZ7tyOPKcqjLEAsR7O-lTcdRQ9ObiYMhuWhbsogHT9LA-LiA7HA&usqp=CAU"group-title="RADIOS",Stingray Flashback 70s
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
-#EXTINF:1 tvg-logo="https://a.jsrdn.com/hls/22865/stringray-remember-the-80s/logo_20200720_202251.png"group-title="FAX RADIOS |  AO VIVO",Stingray Everything 80s
+#EXTINF:1 tvg-logo="https://a.jsrdn.com/hls/22865/stringray-remember-the-80s/logo_20200720_202251.png"group-title="RADIOS",Stingray Everything 80s
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
-#EXTINF:1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-todays-latin-pop/todays-latin-pop_thumbh_20200718_001031.jpg"group-title="FAX RADIOS |  AO VIVO",Stingray Today's Latin Pop
+#EXTINF:1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-todays-latin-pop/todays-latin-pop_thumbh_20200718_001031.jpg"group-title="RADIOS",Stingray Today's Latin Pop
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
-#EXTINF:1 tvg-logo="https://eldorado87.com.br/wp-content/uploads/2022/03/logoeldoradofm-288x300.png"group-title="FAX RADIOS |  AO VIVO",ELDORADO FM
+#EXTINF:1 tvg-logo="https://eldorado87.com.br/wp-content/uploads/2022/03/logoeldoradofm-288x300.png"group-title="RADIOS",ELDORADO FM
 http://cast4.audiostream.com.br:8652/mp3
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/722893999531536384/ZiynlZVB_400x400.jpg"group-title="FAX RADIOS |  AO VIVO",FM PREMIUM
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/722893999531536384/ZiynlZVB_400x400.jpg"group-title="RADIOS",FM PREMIUM
 http://cast4.audiostream.com.br:8663/mp3
-#EXTINF:1 tvg-logo="https://cdn-profiles.tunein.com/s176373/images/logod.jpg?t=636984330970000000"group-title="FAX RADIOS |  AO VIVO",GRENAL FM
+#EXTINF:1 tvg-logo="https://cdn-profiles.tunein.com/s176373/images/logod.jpg?t=636984330970000000"group-title="RADIOS",GRENAL FM
 http://cast4.audiostream.com.br:8649/mp3
 #EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/lePN9a_MzDOxZzYLQ-nf9HjfeOs8Iy96loQ9j7wzsKih_AMJUNUrC8-SqMEoMuaC4S8"group-title="FAX RADIOS |  AO VIVO",IMBÉ FM
 http://cast4.audiostream.com.br:8660/mp3
-#EXTINF:1 tvg-logo="https://www.radioliberdadefm.net/admin/assets/img/logo.png"group-title="FAX RADIOS |  AO VIVO",LIBERDADE FM
+#EXTINF:1 tvg-logo="https://www.radioliberdadefm.net/admin/assets/img/logo.png"group-title="RADIOS",LIBERDADE FM
 http://cast4.audiostream.com.br:8655/mp3
-#EXTINF:1 tvg-logo="https://www.redepampa.com.br/wp-content/uploads/2020/08/radiopamap.png"group-title="FAX RADIOS |  AO VIVO",PAMPA FM
+#EXTINF:1 tvg-logo="https://www.redepampa.com.br/wp-content/uploads/2020/08/radiopamap.png"group-title="RADIOS",PAMPA FM
 http://cast4.audiostream.com.br:8653/mp3
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpoMJ9K8pZJyLAn06h8rS_lQtv8OMZ5zdN2VdKnVubVs1k55Jj4FBA_5P23vQrgEL91NI&usqp=CAU"group-title="FAX RADIOS |  AO VIVO",FM XANGRI-LÁ
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpoMJ9K8pZJyLAn06h8rS_lQtv8OMZ5zdN2VdKnVubVs1k55Jj4FBA_5P23vQrgEL91NI&usqp=CAU"group-title="RADIOS",FM XANGRI-LÁ
 http://cast4.audiostream.com.br:8659/mp3
-#EXTINF:1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/8/17558.v4.png" group-title="FAX RADIOS |  AO VIVO",FM TRAMANDAÍ
+#EXTINF:1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/8/17558.v4.png" group-title="RADIOS",FM TRAMANDAÍ
 http://cast4.audiostream.com.br:8658/mp3
-#EXTINF:1 tvg-logo="https://img.radios.com.br/radio/xl/radio63305_1530732391.jpg"group-title="FAX RADIOS |  AO VIVO",FM EXPRESS
+#EXTINF:1 tvg-logo="https://img.radios.com.br/radio/xl/radio63305_1530732391.jpg"group-title="RADIOS",FM EXPRESS
 http://cast4.audiostream.com.br:8648/mp3
-#EXTINF:1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/f646e0a61338f95e080b07fee382aebf.jpg"group-title="FAX RADIOS |  AO VIVO",FM TORRES
+#EXTINF:1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/f646e0a61338f95e080b07fee382aebf.jpg"group-title="RADIOS",FM TORRES
 http://cast4.audiostream.com.br:8661/mp3
-#EXTINF:1 tvg-logo="https://img.radios.com.br/radio/xl/radio28375_1634155269.jpg"group-title="FAX RADIOS |  AO VIVO",FM CIDREIRA
+#EXTINF:1 tvg-logo="https://img.radios.com.br/radio/xl/radio28375_1634155269.jpg"group-title="RADIOS",FM CIDREIRA
 http://cast4.audiostream.com.br:8657/mp3
-#EXTINF:1 tvg-logo="https://br.radio.net/images/broadcasts/e1/c1/11166/1/c300.png"group-title="FAX RADIOS |  AO VIVO",Bossa Nova
+#EXTINF:1 tvg-logo="https://br.radio.net/images/broadcasts/e1/c1/11166/1/c300.png"group-title="RADIOS",Bossa Nova
 http://6d9a.webradio.upx.net.br:9974/stream
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuPbwBOGbH1yKzaZvWKZOS0-P-zazGIB1fm74KZq0kh2uTlUxCQY-8vxkT4zUFmIkaad0&usqp=CAU" group-title="FAX RADIOS |  AO VIVO",Pagode
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuPbwBOGbH1yKzaZvWKZOS0-P-zazGIB1fm74KZq0kh2uTlUxCQY-8vxkT4zUFmIkaad0&usqp=CAU" group-title="RADIOS",Pagode
 http://6d9a.webradio.upx.net.br:9061/stream
-#EXTINF:1 tvg-logo="https://spaceks.net/sites/radiotransmundial.com.br/images/pubs/user_1428162818.jpg"group-title="FAX RADIOS |  AO VIVO",Anos 2000
+#EXTINF:1 tvg-logo="https://spaceks.net/sites/radiotransmundial.com.br/images/pubs/user_1428162818.jpg"group-title="RADIOS",Anos 2000
 http://6d9a.webradio.upx.net.br:9940/stream
-#EXTINF:1 tvg-logo="http://4.bp.blogspot.com/-k22tp5gL0xI/VPXyEp7lK9I/AAAAAAAAMqA/8EQ66dQ3-Es/s1600/Rock%2B4.gif" group-title="FAX RADIOS |  AO VIVO",Pop Rock
+#EXTINF:1 tvg-logo="http://4.bp.blogspot.com/-k22tp5gL0xI/VPXyEp7lK9I/AAAAAAAAMqA/8EQ66dQ3-Es/s1600/Rock%2B4.gif" group-title="RADIOS",Pop Rock
 http://6d9a.webradio.upx.net.br:8016/stream
-#EXTINF:1 tvg-logo="https://4.bp.blogspot.com/-jyklfMBqaJg/XRzPNEov2FI/AAAAAAAAAQw/Zc0jGQvjzIYXPTHs2dLc25eI18B0f3QTwCLcBGAs/s1600/0783cb_354d4952e97f4a3893289b47880e6d90_mv2.gif"group-title="FAX RADIOS |  AO VIVO",Festa
+#EXTINF:1 tvg-logo="https://4.bp.blogspot.com/-jyklfMBqaJg/XRzPNEov2FI/AAAAAAAAAQw/Zc0jGQvjzIYXPTHs2dLc25eI18B0f3QTwCLcBGAs/s1600/0783cb_354d4952e97f4a3893289b47880e6d90_mv2.gif"group-title="RADIOS",Festa
 http://6d9a.webradio.upx.net.br:9070/stream
-#EXTINF:1 tvg-logo="https://3.bp.blogspot.com/-YGKJeePCwNs/VtM75OvajtI/AAAAAAAAO6g/LJzBf4Yoj9k/s1600/gifs-gifs-animados-de-musica-45.gif"group-title="FAX RADIOS |  AO VIVO",Música Clássica
+#EXTINF:1 tvg-logo="https://3.bp.blogspot.com/-YGKJeePCwNs/VtM75OvajtI/AAAAAAAAO6g/LJzBf4Yoj9k/s1600/gifs-gifs-animados-de-musica-45.gif"group-title="RADIOS",Música Clássica
 http://6d9a.webradio.upx.net.br:9970/stream
-#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/MixedNauticalBaiji-max-1mb.gif" group-title="FAX RADIOS |  AO VIVO",New Rock
+#EXTINF:1 tvg-logo="https://thumbs.gfycat.com/MixedNauticalBaiji-max-1mb.gif" group-title="RADIOS",New Rock
 http://6d9a.webradio.upx.net.br:8028/stream
-#EXTINF:1 tvg-logo="https://media.tenor.com/-W-RL6pe8bMAAAAC/pop-music.gif"group-title="FAX RADIOS |  AO VIVO",Pop Hits
+#EXTINF:1 tvg-logo="https://media.tenor.com/-W-RL6pe8bMAAAAC/pop-music.gif"group-title="RADIOS",Pop Hits
 http://6d9a.webradio.upx.net.br:9046/stream
-#EXTINF:1 tvg-logo="https://i.gifer.com/origin/88/88b25338ceb18ee87f5285444fa32a8c_w200.gif"group-title="FAX RADIOS |  AO VIVO",Metal
+#EXTINF:1 tvg-logo="https://i.gifer.com/origin/88/88b25338ceb18ee87f5285444fa32a8c_w200.gif"group-title="RADIOS",Metal
 http://6d9a.webradio.upx.net.br:9898/stream
-#EXTINF:1 tvg-logo="http://4.bp.blogspot.com/-jRV9TmUKLC8/TpuHXEXIk2I/AAAAAAAAAOs/uu4yw5CkbYo/s1600/tumblr_lt55vlR5Le1qj5dhoo1_500.gif"group-title="FAX RADIOS |  AO VIVO",Trilhas Sonoras
+#EXTINF:1 tvg-logo="http://4.bp.blogspot.com/-jRV9TmUKLC8/TpuHXEXIk2I/AAAAAAAAAOs/uu4yw5CkbYo/s1600/tumblr_lt55vlR5Le1qj5dhoo1_500.gif"group-title="RADIOS",Trilhas Sonoras
 http://6d9a.webradio.upx.net.br:9896/stream
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/k67T6EMRSn.png" group-title="FAX RADIOS |  AO VIVO",Tropical Recife 
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/k67T6EMRSn.png" group-title="RADIOS",Tropical Recife 
 http://198.24.165.180:9762/;
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/EAPBpnsJms.png" group-title="FAX RADIOS |  AO VIVO",Laser 93.3
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/EAPBpnsJms.png" group-title="RADIOS",Laser 93.3
 https://8577.brasilstream.com.br/stream
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/N7bnLhqXLx.png"group-title="FAX RADIOS |  AO VIVO",Massa 92.9
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/N7bnLhqXLx.png"group-title="RADIOS",Massa 92.9
 https://stm01.virtualcast.com.br:8000/live
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Kqh77h3b9Q.jpeg" group-title="FAX RADIOS |  AO VIVO",nativa 95,3
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Kqh77h3b9Q.jpeg" group-title="RADIOS",nativa 95,3
 https://22203.live.streamtheworld.com/NATIVA_SP_SC
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/AsB9TVKAXE.png"group-title="FAX RADIOS |  AO VIVO",nativa 89,3
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/AsB9TVKAXE.png"group-title="RADIOS",nativa 89,3
 https://cast4.hoost.com.br:20143/stream
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/DyS4RwKRdU.png"group-title="FAX RADIOS |  AO VIVO",comeia fm
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/DyS4RwKRdU.png"group-title="RADIOS",comeia fm
 https://stm01.virtualcast.com.br:8138/live
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/uqkpsltjbkap.png" group-title="FAX RADIOS |  AO VIVO",coluna
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/uqkpsltjbkap.png" group-title="RADIOS",coluna
 http://198.24.165.180:9626/;
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/n4QyzNyx9K.png"group-title="FAX RADIOS |  AO VIVO",MIX 101,1
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/n4QyzNyx9K.png"group-title="RADIOS",MIX 101,1
 https://26483.live.streamtheworld.com/MIXFM_CAMPINASAAC_SC?dist=mix-web-player-radio-ao-vivo
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yuthE2Qr2f.jpg" group-title="FAX RADIOS |  AO VIVO",Sertanejo
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/yuthE2Qr2f.jpg" group-title="RADIOS",Sertanejo
 https://live.hunter.fm/sertanejo_normal
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/2vsnexczagaq.png" group-title="FAX RADIOS |  AO VIVO",TOP FM 
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/2vsnexczagaq.png" group-title="RADIOS",TOP FM 
 http://cloud1.cdnseguro.com:16806/stream/;
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Eu2G9eQ36E.png" group-title="FAX RADIOS |  AO VIVO",Recife fm
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Eu2G9eQ36E.png" group-title="RADIOS",Recife fm
 http://zoeweb.net:8046/;stream.mp3
-#EXTINF:1 tvg-logo="https://cdn.webrad.io/images/logos/radiosaovivo-net/99-1-fm-sorriso.png"group-title="FAX RADIOS |  AO VIVO",Sorriso 99.1 FM
+#EXTINF:1 tvg-logo="https://cdn.webrad.io/images/logos/radiosaovivo-net/99-1-fm-sorriso.png"group-title="RADIOS",Sorriso 99.1 FM
 https://paineldj5.com.br:2213/stream
-#EXTINF:1 tvg-logo="https://www.convencaomais.com.br/uploads/images/2022/05/radio-convencao-a.png" group-title="FAX RADIOS |  AO VIVO",Convenção AM Itu
+#EXTINF:1 tvg-logo="https://www.convencaomais.com.br/uploads/images/2022/05/radio-convencao-a.png" group-title="RADIOS",Convenção AM Itu
 https://8745.brasilstream.com.br/stream
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/FpqRnhw87q.png"group-title="FAX RADIOS |  AO VIVO",-Rádio Olinda ao vivo
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/FpqRnhw87q.png"group-title="RADIOS",-Rádio Olinda ao vivo
 http://cast2.hoost.com.br:9158/stream
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/H7q6ZumdE8.png"group-title="FAX RADIOS |  AO VIVO",Pagode 90
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/H7q6ZumdE8.png"group-title="RADIOS",Pagode 90
 https://stream-26.zeno.fm/hfqaq0bhfg8uv?zs=rVn0nvHOSgS39RVNWgIj5w
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/5evedut6pcg5.png"group-title="FAX RADIOS |  AO VIVO",América Country
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/5evedut6pcg5.png"group-title="RADIOS",América Country
 https://ais-sa2.cdnstream1.com/1976_128.mp3
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ehdgsdbnhw39.png"group-title="FAX RADIOS |  AO VIVO",América Country
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ehdgsdbnhw39.png"group-title="RADIOS",América Country
 https://streaming.radiostreamlive.com/radiocountrylive_devices
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dSyuKxX7Qv.jpg"group-title="FAX RADIOS |  AO VIVO",Nativa 97,5
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dSyuKxX7Qv.jpg"group-title="RADIOS",Nativa 97,5
 https://centova5.transmissaodigital.com:20060/;
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Pxg5HKzJcb.png" group-title="FAX RADIOS |  AO VIVO", Globo
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Pxg5HKzJcb.png" group-title="RADIOS", Globo
 https://14553.live.streamtheworld.com/RADIO_GLOBO_RJAAC_SC?dist=radioaovivocom
-#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cmea2aw7mzsg.jpg" group-title="FAX RADIOS |  AO VIVO",radio Hits
+#EXTINF:1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cmea2aw7mzsg.jpg" group-title="RADIOS",radio Hits
 https://ice1.streeemer.com:8020/radio.mp3
-#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz79rkDMGfDunAWKq3vG3vz1kDcVHYaT4y0g&usqp=CAU"group-title="FAX RADIOS |  AO VIVO",-METROPOLITANA FM AO VIVO
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz79rkDMGfDunAWKq3vG3vz1kDcVHYaT4y0g&usqp=CAU"group-title="RADIOS",-METROPOLITANA FM AO VIVO
 http://ice.paineldj3.com.br:8004/stream
-#EXTINF:1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena3.png"group-title="FAX RADIOS |  AO VIVO",Antena 3
+#EXTINF:1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena3.png"group-title="RADIOS",Antena 3
 https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS |  AO VIVO",Antena 1
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="RADIOS",Antena 1
 http://antena1.newradio.it/stream2?ext=.mp3
-#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS |  AO VIVO",Itapoan FM
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="RADIOS",Itapoan FM
 http://streaming.livecenter.com.br:9300/stream/1/
-#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS |  AO VIVO",Atlantida FM
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="RADIOSO",Atlantida FM
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8?wowzasessionid=960888114
-#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS |  AO VIVO",Guaiba FM
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="RADIOS",Guaiba FM
 http://cast4.audiostream.com.br:8007/app
-#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS |  AO VIVO",S30 MaxCast Web Rádio
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="RADIOS",S30 MaxCast Web Rádio
 http://s30.maxcast.com.br:8190/live
-#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS |  AO VIVO",RÁDIO 104 FM
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="RADIOS",RÁDIO 104 FM
 http://cast4.audiostream.com.br:8651/mp3
-#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS |  AO VIVO",RÁDIO CAIÇARA FM/AM
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="RADIOS",RÁDIO CAIÇARA FM/AM
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
-#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS |  AO VIVO",RÁDIO ELDORADO FM
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="RADIOS",RÁDIO ELDORADO FM
 http://noasrv.caster.fm:10136/stream
-#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS |  AO VIVO",Anos 90
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="RADIOS",Anos 90
 http://6d9a.webradio.upx.net.br:9940/stream?Arlen
-#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS |  AO VIVO",Música Clássica
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="RADIOS",Música Clássica
 http://6d9a.webradio.upx.net.br:9970/stream?Arlen
-#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS |  AO VIVO",Pagode
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="RADIOS",Pagode
 http://6d9a.webradio.upx.net.br:9061/stream?Arlen
-#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS |  AO VIVO",Pop Hits
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="RADIOS",Pop Hits
 http://6d9a.webradio.upx.net.br:9046/stream?Arlen
-#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS |  AO VIVO",Pop Rock
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="RADIOS",Pop Rock
 http://6d9a.webradio.upx.net.br:8016/stream?Arlen
-#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS |  AO VIVO",Trilhas Sonoras
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="RADIOS",Trilhas Sonoras
 http://6d9a.webradio.upx.net.br:9896/stream?Arlen
-#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS |  AO VIVO",chitãozinho e xororó
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="RADIOS",chitãozinho e xororó
 https://play.prod.gcp.vix.services/chitaozinho-sinfonico_pt/chitaozinho-sinfonico_pt_1-1/thumbs_320x180.m3u8
-#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="FAX RADIOS |  AO VIVO",UFRGS
+#EXTINF:1 tvg-logo="https://www.radio.pt/images/broadcasts/c7/7c/32812/c300.png"group-title="RADIOS",UFRGS
 http://radioaovivo.ufrgs.br:8000/stream.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png"group-title="FAX RADIOS |  AO VIVO",BandNews FM | Goiânia GO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png"group-title="RADIOS",BandNews FM | Goiânia GO
 https://5a2b083e9f360.streamlock.net/nexdial/nexdial.stream/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vfYMS0k.png"group-title="FAX RADIOS |  AO VIVO",Cultura do Pará - Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vfYMS0k.png"group-title="RADIOS",Cultura do Pará - Brasil
 https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u8
-#EXTINF:1 tvg-logo="https://img.radios.com.br/radio/xl/radio14157_1509361504.jpg"group-title="FAX RADIOS |  AO VIVO",UFRGS 
+#EXTINF:1 tvg-logo="https://img.radios.com.br/radio/xl/radio14157_1509361504.jpg"group-title="RADIOS",UFRGS 
 http://radioaovivo.ufrgs.br:8000/stream.mp3
-#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/radio-jornal-recife-ao-vivo.png"group-title="FAX RADIOS |  AO VIVO",Jornal Recife
+#EXTINF:1 tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/radio-jornal-recife-ao-vivo.png"group-title="RADIOS",Jornal Recife
 https://stream-51.zeno.fm/hu70hmkcu68uv?zs=1luUNZMbQimyuEiLp9UE5g
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio11839_1658250334.png" group-title="FAX RADIOS |  AO VIVO",Clube 105.5 FM
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio11839_1658250334.png" group-title="RADIOS",Clube 105.5 FM
 https://8157.brasilstream.com.br/stream?1678118110353
-#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/2/63872.v7.png" group-title="FAX RADIOS |  AO VIVO",Amparo FM RECIFE
-https://10.stmip.net:10544/stream
-#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/5/64445.v9.png" group-title="FAX RADIOS |  AO VIVO",Música Brega
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/5/64445.v9.png" group-title="RADIOS",Música Brega
 https://stream-22.zeno.fm/ked21357trquv?zs=OqqKREW7Rh2vEp-XaNBpZw
-#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/8/76838.v8.png" group-title="FAX RADIOS |  AO VIVO",Recife FM
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/8/76838.v8.png" group-title="RADIOS",Recife FM
 https://ssl.zoeweb.net/proxy/recifefm?mp=/stream
-#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/3/76683.v5.png" group-title="FAX RADIOS |  AO VIVO",Blog do Léo Lima
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/3/76683.v5.png" group-title="RADIOS",Blog do Léo Lima
 https://player.painelvox.com/player-ssl/8340/;
-#EXTINF:-1 tvg-logo="https://originaldave77.files.wordpress.com/2012/11/kitt-car-stereo-deck-knight-rider-2012-daves-geeky-ideas3.gif" group-title="FAX RADIOS |  AO VIVO", Hunter 80s
+#EXTINF:-1 tvg-logo="https://originaldave77.files.wordpress.com/2012/11/kitt-car-stereo-deck-knight-rider-2012-daves-geeky-ideas3.gif" group-title="RADIOS", Hunter 80s
 http://pbrz.xyz:80/67531382/36606924/1316
-#EXTINF:-1 tvg-logo="https://www.entertainmentearth.com/news/wp-content/uploads/2016/02/thinkgeek-knight-rider-car-charger.gif" group-title="FAX RADIOS |  AO VIVO",HUNTER FM 102.7
+#EXTINF:-1 tvg-logo="https://www.entertainmentearth.com/news/wp-content/uploads/2016/02/thinkgeek-knight-rider-car-charger.gif" group-title="RADIOS",HUNTER FM 102.7
 http://pbrz.xyz:80/67531382/36606924/1317
-#EXTINF:-1 tvg-logo="https://i.gifer.com/63nf.gif" group-title="FAX RADIOS |  AO VIVO", Hunter Fresh
+#EXTINF:-1 tvg-logo="https://i.gifer.com/63nf.gif" group-title="RADIOS", Hunter Fresh
 http://pbrz.xyz:80/67531382/36606924/1318
-#EXTINF:-1 tvg-logo="https://www.kitt-to.it/pagina1/edokarr.gif" group-title="FAX RADIOS |  AO VIVO",Hunter Gospel
+#EXTINF:-1 tvg-logo="https://www.kitt-to.it/pagina1/edokarr.gif" group-title="RADIOS",Hunter Gospel
 http://pbrz.xyz:80/67531382/36606924/1319
-#EXTINF:-1 tvg-logo="https://media.tenor.com/UMzg4JHl1vMAAAAM/knight-rider.gif" group-title="FAX RADIOS |  AO VIVO",Hunter LO-FI
+#EXTINF:-1 tvg-logo="https://media.tenor.com/UMzg4JHl1vMAAAAM/knight-rider.gif" group-title="RADIOS",Hunter LO-FI
 http://pbrz.xyz:80/67531382/36606924/1320
-#EXTINF:-1 tvg-logo="https://thumbs.gfycat.com/SomeSinfulEidolonhelvum-size_restricted.gif" group-title="FAX RADIOS |  AO VIVO", Hunter Pisadinha
+#EXTINF:-1 tvg-logo="https://thumbs.gfycat.com/SomeSinfulEidolonhelvum-size_restricted.gif" group-title="RADIOS", Hunter Pisadinha
 http://pbrz.xyz:80/67531382/36606924/1321
-#EXTINF:-1 tvg-logo="https://thumbs.gfycat.com/EmbarrassedNeatHyracotherium-size_restricted.gif" group-title="FAX RADIOS |  AO VIVO",Hunter POP2KS
+#EXTINF:-1 tvg-logo="https://thumbs.gfycat.com/EmbarrassedNeatHyracotherium-size_restricted.gif" group-title="RADIOS",Hunter POP2KS
 http://pbrz.xyz:80/67531382/36606924/1322
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsc3kC9RbM9-uf8tnnPpEe6WMwb4Fz8fNR62aNR-UFs0rhE1czuO05iVmSutsBkmw35CT3C3tABbefP5ZYnBZuPGunRXEZHJJBWg4ei9uiJbX4R8WZrpuizxWe5PqmQsWZgxLHjSnloJFyyAawQT340mL8enmTJfntX3o8qEGNFRLunlj6DUA1hQkdUw/s1600/animated-radio-image-0028.gif" group-title="FAX RADIOS |  AO VIVO",Hunter Rock
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsc3kC9RbM9-uf8tnnPpEe6WMwb4Fz8fNR62aNR-UFs0rhE1czuO05iVmSutsBkmw35CT3C3tABbefP5ZYnBZuPGunRXEZHJJBWg4ei9uiJbX4R8WZrpuizxWe5PqmQsWZgxLHjSnloJFyyAawQT340mL8enmTJfntX3o8qEGNFRLunlj6DUA1hQkdUw/s1600/animated-radio-image-0028.gif" group-title="RADIOS",Hunter Rock
 http://pbrz.xyz:80/67531382/36606924/1323
-#EXTINF:-1 tvg-logo="https://www.radiocostaricafm.com.br/uploads/play-now.gif" group-title="FAX RADIOS |  AO VIVO",Hunter Sertanejo
+#EXTINF:-1 tvg-logo="https://www.radiocostaricafm.com.br/uploads/play-now.gif" group-title="RADIOS",Hunter Sertanejo
 http://pbrz.xyz:80/67531382/36606924/1324
-#EXTINF:-1 tvg-logo="https://originaldave77.files.wordpress.com/2012/11/kitt-car-stereo-deck-knight-rider-2012-daves-geeky-ideas3.gif" group-title="FAX RADIOS |  AO VIVO", Hunter Tropical
+#EXTINF:-1 tvg-logo="https://originaldave77.files.wordpress.com/2012/11/kitt-car-stereo-deck-knight-rider-2012-daves-geeky-ideas3.gif" group-title="RADIOS", Hunter Tropical
 http://pbrz.xyz:80/67531382/36606924/1325
+#EXTINF:-1 tvg-id="" tvg-name="RADIO GLOBO RJ" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",RADIO GLOBO RJ
+http://meuplay.shop:80/67598237854pw/9875352849pw/79894
+#EXTINF:-1 tvg-id="" tvg-name="RADIO DUMONT FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",RADIO DUMONT FM
+http://meuplay.shop:80/67598237854pw/9875352849pw/80123
+#EXTINF:-1 tvg-id="" tvg-name="RADIO SANTO ANDRE FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",RADIO SANTO ANDRE FM
+http://meuplay.shop:80/67598237854pw/9875352849pw/80144
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Cultura 103.3 FM São Paulo" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",Rádio Cultura 103.3 FM São Paulo
+http://meuplay.shop:80/67598237854pw/9875352849pw/80145
+#EXTINF:-1 tvg-id="" tvg-name="Rádio FM O Dia FM 100.5 Rio de Janeiro" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",Rádio FM O Dia FM 100.5 Rio de Janeiro
+http://meuplay.shop:80/67598237854pw/9875352849pw/80146
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Litoral 94.5 FM Cabo Frio" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",Rádio Litoral 94.5 FM Cabo Frio
+http://meuplay.shop:80/67598237854pw/9875352849pw/80148
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Positividade 104.5 FM Rio de Janeiro" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",Rádio Positividade 104.5 FM Rio de Janeiro
+http://meuplay.shop:80/67598237854pw/9875352849pw/80150
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN LOVE FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",JOVEM PAN LOVE FM
+http://meuplay.shop:80/67598237854pw/9875352849pw/80153
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Antena 1 103.7 FM Rio De Janeiro" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",Rádio Antena 1 103.7 FM Rio De Janeiro
+http://meuplay.shop:80/67598237854pw/9875352849pw/80154
+#EXTINF:-1 tvg-id="" tvg-name="MIX FM DF" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",MIX FM DF
+http://meuplay.shop:80/67598237854pw/9875352849pw/187
+#EXTINF:-1 tvg-id="" tvg-name="SAMBA E PAGODE FM (RADIOS)" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",SAMBA E PAGODE FM (RADIOS)
+http://meuplay.shop:80/67598237854pw/9875352849pw/193
+#EXTINF:-1 tvg-id="" tvg-name="RADIO EVANGELIZAR FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",RADIO EVANGELIZAR FM
+http://meuplay.shop:80/67598237854pw/9875352849pw/31743
+#EXTINF:-1 tvg-id="" tvg-name="RADIO SERTANEJA FM (RADIOS)" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",RADIO SERTANEJA FM (RADIOS)
+http://meuplay.shop:80/67598237854pw/9875352849pw/186
+#EXTINF:-1 tvg-id="" tvg-name="POP FM (RADIOS)" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",POP FM (RADIOS)
+http://meuplay.shop:80/67598237854pw/9875352849pw/196
+#EXTINF:-1 tvg-id="" tvg-name="MIX FM SP (RADIOS)" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",MIX FM SP (RADIOS)
+http://meuplay.shop:80/67598237854pw/9875352849pw/183
+#EXTINF:-1 tvg-id="" tvg-name="GAUCHA ZH (Radios)" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",GAUCHA ZH (Radios)
+http://meuplay.shop:80/67598237854pw/9875352849pw/180
+#EXTINF:-1 tvg-id="" tvg-name="GAZETA FM (RADIOS)" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",GAZETA FM (RADIOS)
+http://meuplay.shop:80/67598237854pw/9875352849pw/188
+#EXTINF:-1 tvg-id="" tvg-name="GERAÇÃO FUNK FM (RADIOS)" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="RADIOS",GERAÇÃO FUNK FM (RADIOS)
+http://meuplay.shop:80/67598237854pw/9875352849pw/191
+
 
 ############## DESENHOS ################# 
 
@@ -7030,7 +7168,7 @@ http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/152887
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83747
 #EXTINF:-1 tvg-id="" tvg-name="[24H] X-Men 2" tvg-logo="https://i.imgur.com/bqGIXuh.png" group-title="24 Horas | Desenhos",[24H] X-Men 2
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/152673
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Xena" tvg-logo="https://i.imgur.com/oBUByEP.png" group-title="24 Horas | Séries",[24H] Xena
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Xena" tvg-logo="https://i.imgur.com/oBUByEP.png" group-title="24 Horas | Desenhos",[24H] Xena
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83748
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Xuxa só para Baixinhos 1" tvg-logo="https://i.imgur.com/1QcbLNW.jpg" group-title="24 Horas | Desenhos",[24H] Xuxa só para Baixinhos 1
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/148202
@@ -7044,7 +7182,7 @@ http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/148274
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83738
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Team-Galaxy" tvg-logo="https://i.imgur.com/KxMZ1hk.png" group-title="24 Horas | Desenhos",[24H] Team-Galaxy
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/266
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Thiago Ventura" tvg-logo="https://i.imgur.com/6J31sbx.jpg" group-title="24 Horas | Premium",[24H] Thiago Ventura
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Thiago Ventura" tvg-logo="https://i.imgur.com/6J31sbx.jpg" group-title="24 Horas | Desenhos",[24H] Thiago Ventura
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/140704
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Thundercats" tvg-logo="https://i.imgur.com/asCG4BL.png" group-title="24 Horas | Desenhos",[24H] Thundercats
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83739
@@ -11120,6 +11258,448 @@ http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26369.mp4
 #EXTINF:-1 tvg-id="" tvg-name="CSI.: Cyber S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZ2gcZ1AGykd0PoMiBB3zq1CWCg.jpg" group-title="CSI Cyber",Cyber S02 E18
 http://dns.acaidopara.net:8080/series/kelly4818/kelly8184/26370.mp4
 
+
+#EXTM3U url-tvg=" http://grade-de-STAR+ Arquivo.xml "
+ ############## STAR+ Arquivo ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeSTAR+ Arquivo" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E01" tvg-logo="http://ccdnblck.xyz:80/images/82a209d92db2645b8f259a9e4241d8c5.jpg" group-title="STAR+",Arquivo X S01 E01
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E02" tvg-logo="http://ccdnblck.xyz:80/images/a79aff74533115df1a30c15d2aef15f7.jpg" group-title="STAR+",Arquivo X S01 E02
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E03" tvg-logo="http://ccdnblck.xyz:80/images/9773414ca3a7f4e8a8214ec56f53fac9.jpg" group-title="STAR+",Arquivo X S01 E03
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E04" tvg-logo="http://ccdnblck.xyz:80/images/ba2e9fe04d9554c52d0ad7604d2007f0.jpg" group-title="STAR+",Arquivo X S01 E04
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E05" tvg-logo="http://ccdnblck.xyz:80/images/0305f16b82a5baf801b3b712c6cdf7bd.jpg" group-title="STAR+",Arquivo X S01 E05
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E06" tvg-logo="http://ccdnblck.xyz:80/images/d148b4f0a96a0b9d700d6d39cb5a0508.jpg" group-title="STAR+",Arquivo X S01 E06
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E07" tvg-logo="http://ccdnblck.xyz:80/images/c71005ba363138168c7b7d46c8e345c6.jpg" group-title="STAR+",Arquivo X S01 E07
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E08" tvg-logo="http://ccdnblck.xyz:80/images/b80421bf0379ea89b0dfeec063e80065.jpg" group-title="STAR+",Arquivo X S01 E08
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E09" tvg-logo="http://ccdnblck.xyz:80/images/1c73fd73e9a30de6e8ece0f676aa8732.jpg" group-title="STAR+",Arquivo X S01 E09
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E10" tvg-logo="http://ccdnblck.xyz:80/images/696803f07804f58d2d63877a48e48caa.jpg" group-title="STAR+",Arquivo X S01 E10
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E11" tvg-logo="http://ccdnblck.xyz:80/images/1170b2ef8183c7e2d2d4e33685b609be.jpg" group-title="STAR+",Arquivo X S01 E11
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E12" tvg-logo="http://ccdnblck.xyz:80/images/1db335296743d6660ce59c905495adc5.jpg" group-title="STAR+",Arquivo X S01 E12
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E13" tvg-logo="http://ccdnblck.xyz:80/images/10278dcc585cfd3f4df33d3f925690fc.jpg" group-title="STAR+",Arquivo X S01 E13
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E14" tvg-logo="http://ccdnblck.xyz:80/images/ac50e607d091e2b046f86c791a058c5d.jpg" group-title="STAR+",Arquivo X S01 E14
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E15" tvg-logo="http://ccdnblck.xyz:80/images/4e414444fd95d832336b27a2f7bfd738.jpg" group-title="STAR+",Arquivo X S01 E15
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E16" tvg-logo="http://ccdnblck.xyz:80/images/0bf61176d663d1701c069457e89f48a8.jpg" group-title="STAR+",Arquivo X S01 E16
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E17" tvg-logo="http://ccdnblck.xyz:80/images/c5092921d9cc0a8308686992cba79a8c.jpg" group-title="STAR+",Arquivo X S01 E17
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E18" tvg-logo="http://ccdnblck.xyz:80/images/e4c27cb1487030ce7708ece2f9598f1d.jpg" group-title="STAR+",Arquivo X S01 E18
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E19" tvg-logo="http://ccdnblck.xyz:80/images/9c0cc873836b6070222af5ab039c1d60.jpg" group-title="STAR+",Arquivo X S01 E19
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E20" tvg-logo="http://image.tmdb.org/t/p/w300/7FTzo1G2mLRf3dMJjt3kPkSUe1W.jpg" group-title="STAR+",Arquivo X S01 E20
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E21" tvg-logo="http://image.tmdb.org/t/p/w300/pFkjpi21AX0HMZcdmggtqWduB00.jpg" group-title="STAR+",Arquivo X S01 E21
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E22" tvg-logo="http://image.tmdb.org/t/p/w300/qQhgQuWZNSMJwdnnHhz5GRiDsIn.jpg" group-title="STAR+",Arquivo X S01 E22
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E23" tvg-logo="http://image.tmdb.org/t/p/w300/qGgfyK4Yo0oEV5JWXbenEJi2C0y.jpg" group-title="STAR+",Arquivo X S01 E23
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S01 E24" tvg-logo="http://image.tmdb.org/t/p/w300/dHWlTbE7K7p1uLlotc5yBP9ifHX.jpg" group-title="STAR+",Arquivo X S01 E24
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E01" tvg-logo="http://image.tmdb.org/t/p/w300/cd0gmDqzSb38EfzJyB1TcStMZnT.jpg" group-title="STAR+",Arquivo X S02 E01
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E02" tvg-logo="http://image.tmdb.org/t/p/w300/nWt6yCF6rU4Fd03yKMamqJrEzVE.jpg" group-title="STAR+",Arquivo X S02 E02
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E03" tvg-logo="http://image.tmdb.org/t/p/w300/xQneq7jvANfUTewstvzjABR9Lnx.jpg" group-title="STAR+",Arquivo X S02 E03
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E04" tvg-logo="http://image.tmdb.org/t/p/w300/hXUrkbfEFBMhf9cSdL5FhNsXMqJ.jpg" group-title="STAR+",Arquivo X S02 E04
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E05" tvg-logo="http://image.tmdb.org/t/p/w300/ruW3ZP3TlleXqNnz1ZzCDWqHIxA.jpg" group-title="STAR+",Arquivo X S02 E05
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E06" tvg-logo="http://image.tmdb.org/t/p/w300/d7yrbhv3xgOxNpWjCkpGHnPqnHf.jpg" group-title="STAR+",Arquivo X S02 E06
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E07" tvg-logo="http://image.tmdb.org/t/p/w300/fpIvmdkMQIkdnSREVKMiC1Z8l37.jpg" group-title="STAR+",Arquivo X S02 E07
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E08" tvg-logo="http://image.tmdb.org/t/p/w300/kGCVii6nzv7I6enWOntI4GV1KK9.jpg" group-title="STAR+",Arquivo X S02 E08
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E09" tvg-logo="http://image.tmdb.org/t/p/w300/4RgbXvj0EhjvvtdTw2BoQsVfbcT.jpg" group-title="STAR+",Arquivo X S02 E09
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E10" tvg-logo="http://image.tmdb.org/t/p/w300/6gbSDW2melgPb865RgGlqbZjmSj.jpg" group-title="STAR+",Arquivo X S02 E10
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E11" tvg-logo="http://image.tmdb.org/t/p/w300/jtLcriPlo89FAYZIzu6S7FYJ53z.jpg" group-title="STAR+",Arquivo X S02 E11
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E12" tvg-logo="http://image.tmdb.org/t/p/w300/xYLndvM3WDJhbi2aTeiwkl9kJu.jpg" group-title="STAR+",Arquivo X S02 E12
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E13" tvg-logo="http://image.tmdb.org/t/p/w300/j2BssZynaJ0HZ7jdPOAqantmQS9.jpg" group-title="STAR+",Arquivo X S02 E13
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E14" tvg-logo="http://image.tmdb.org/t/p/w300/wbPnxthf7kMhZ0asm8LzqTfI8Ho.jpg" group-title="STAR+",Arquivo X S02 E14
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E15" tvg-logo="http://image.tmdb.org/t/p/w300/krVqdJ02Nvl0mDp3Dt8gLkCUdTi.jpg" group-title="STAR+",Arquivo X S02 E15
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E16" tvg-logo="http://image.tmdb.org/t/p/w300/zjgkyfcIYXPVdhNLat4RVqQsO3g.jpg" group-title="STAR+",Arquivo X S02 E16
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E17" tvg-logo="http://image.tmdb.org/t/p/w300/dcIgdBQ6nomqs73cMfYvXixnyE3.jpg" group-title="STAR+",Arquivo X S02 E17
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E18" tvg-logo="http://image.tmdb.org/t/p/w300/dFA6e6Z6LpxX9ePU2DJWqLYrdfd.jpg" group-title="STAR+",Arquivo X S02 E18
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E19" tvg-logo="http://image.tmdb.org/t/p/w300/lszQwfdE5ABIoIk8HCh2HbdFrO4.jpg" group-title="STAR+",Arquivo X S02 E19
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E20" tvg-logo="http://image.tmdb.org/t/p/w300/kq5mk6NP6KvqZ11WgRiyfIWoVn6.jpg" group-title="STAR+",Arquivo X S02 E20
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E21" tvg-logo="http://image.tmdb.org/t/p/w300/Sye6ihKyiNYOtZLj3fFZdnsdaM.jpg" group-title="STAR+",Arquivo X S02 E21
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E22" tvg-logo="http://image.tmdb.org/t/p/w300/6vuxchIKqBPO2zLlMBtFcM8xYIR.jpg" group-title="STAR+",Arquivo X S02 E22
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E23" tvg-logo="http://image.tmdb.org/t/p/w300/iYzfC421VH592GEnDB5Juz6fhtr.jpg" group-title="STAR+",Arquivo X S02 E23
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E24" tvg-logo="http://image.tmdb.org/t/p/w300/pLahrpkogJSneGYZnG8n6ofWdk.jpg" group-title="STAR+",Arquivo X S02 E24
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S02 E25" tvg-logo="http://image.tmdb.org/t/p/w300/ltNNyXYwRkMW5e4lIMPrfdroDFn.jpg" group-title="STAR+",Arquivo X S02 E25
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E01" tvg-logo="http://image.tmdb.org/t/p/w300/84Y1Rx54Of771fdunJBoYjBhXXi.jpg" group-title="STAR+",Arquivo X S03 E01
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E02" tvg-logo="http://image.tmdb.org/t/p/w300/qd73sr2V1MAiWVtyVFMGaFZ2DMm.jpg" group-title="STAR+",Arquivo X S03 E02
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E03" tvg-logo="http://image.tmdb.org/t/p/w300/WbUmKggJfl4qxifzzTnSuvJypp.jpg" group-title="STAR+",Arquivo X S03 E03
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E04" tvg-logo="http://image.tmdb.org/t/p/w300/aQsDdb5RidRdZrC9toA2enQ8Sxb.jpg" group-title="STAR+",Arquivo X S03 E04
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E05" tvg-logo="http://image.tmdb.org/t/p/w300/vpgycTbaA74xk75RemzyUQiAvWw.jpg" group-title="STAR+",Arquivo X S03 E05
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E06" tvg-logo="http://image.tmdb.org/t/p/w300/5ieI2fCYtD7Bo7po9IWn2iG3wBL.jpg" group-title="STAR+",Arquivo X S03 E06
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E07" tvg-logo="http://image.tmdb.org/t/p/w300/sJfvIsLNLJg9O4mHh3WxEeuke6B.jpg" group-title="STAR+",Arquivo X S03 E07
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E08" tvg-logo="http://image.tmdb.org/t/p/w300/qEa66XXBtjv9FAFcMpNbdJKUa6F.jpg" group-title="STAR+",Arquivo X S03 E08
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E09" tvg-logo="http://image.tmdb.org/t/p/w300/18jCaHflHnOWPDZQS5Fe4RCgYkf.jpg" group-title="STAR+",Arquivo X S03 E09
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E10" tvg-logo="http://image.tmdb.org/t/p/w300/1Kt1aKI7Yz35OEFhorhD68Ncu1P.jpg" group-title="STAR+",Arquivo X S03 E10
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E11" tvg-logo="http://image.tmdb.org/t/p/w300/5rQ0faW7CVDxclQ49u4Fn9BxYgQ.jpg" group-title="STAR+",Arquivo X S03 E11
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E12" tvg-logo="http://image.tmdb.org/t/p/w300/dpgkqk3OTBMiWaM8p7KID3LgvCC.jpg" group-title="STAR+",Arquivo X S03 E12
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E13" tvg-logo="http://image.tmdb.org/t/p/w300/86QuitcfKkNMYSEXrnHz9c4wSik.jpg" group-title="STAR+",Arquivo X S03 E13
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E14" tvg-logo="http://image.tmdb.org/t/p/w300/9mOUWKzpP0TY9xQtJbP9mLNyhPM.jpg" group-title="STAR+",Arquivo X S03 E14
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E15" tvg-logo="http://image.tmdb.org/t/p/w300/2elXO4D5dY3EDNAACZmOeWT6h3P.jpg" group-title="STAR+",Arquivo X S03 E15
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E16" tvg-logo="http://image.tmdb.org/t/p/w300/3oOIOLjluquajpo8lU2CuGwckwW.jpg" group-title="STAR+",Arquivo X S03 E16
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E17" tvg-logo="http://image.tmdb.org/t/p/w300/qkgTeo9Ky4IsYFB4aaW5TcXv7kT.jpg" group-title="STAR+",Arquivo X S03 E17
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E18" tvg-logo="http://image.tmdb.org/t/p/w300/kIRqenh5Qcc3MTaDvrekuCgsNAY.jpg" group-title="STAR+",Arquivo X S03 E18
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E19" tvg-logo="http://image.tmdb.org/t/p/w300/tQiTquNF89AxnSDRqgD1vFwM46V.jpg" group-title="STAR+",Arquivo X S03 E19
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E20" tvg-logo="http://image.tmdb.org/t/p/w300/z0gaEmSTlJwKdzuEOrd7GNVIGaf.jpg" group-title="STAR+",Arquivo X S03 E20
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E21" tvg-logo="http://image.tmdb.org/t/p/w300/3oTJrUVXiLblQIBWlMSdyfRR2S6.jpg" group-title="STAR+",Arquivo X S03 E21
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E22" tvg-logo="http://image.tmdb.org/t/p/w300/LvpAcNC3HQXU0frccBhahyK9Gj.jpg" group-title="STAR+",Arquivo X S03 E22
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E23" tvg-logo="http://image.tmdb.org/t/p/w300/8Yievlov9NkvlrpXQF0XdMQz7JD.jpg" group-title="STAR+",Arquivo X S03 E23
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S03 E24" tvg-logo="http://image.tmdb.org/t/p/w300/bW03jcGJoMTfDUrHINQVAlWOodI.jpg" group-title="STAR+",Arquivo X S03 E24
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E01" tvg-logo="http://image.tmdb.org/t/p/w300/u3RFyOXvh91HDa4vO1GfALWg1J7.jpg" group-title="STAR+",Arquivo X S04 E01
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E02" tvg-logo="http://image.tmdb.org/t/p/w300/ndFuInz0QaactpDQnhjONmxaLZZ.jpg" group-title="STAR+",Arquivo X S04 E02
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E03" tvg-logo="http://image.tmdb.org/t/p/w300/tSaoRkRV9tPtKtas9BIfu5my1Wz.jpg" group-title="STAR+",Arquivo X S04 E03
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E04" tvg-logo="http://image.tmdb.org/t/p/w300/fwXRnv7qzJZ96YtVZWivHIKtRgG.jpg" group-title="STAR+",Arquivo X S04 E04
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E05" tvg-logo="http://image.tmdb.org/t/p/w300/zvB2jR5yxAfCRUhOcrgx4d7cmi.jpg" group-title="STAR+",Arquivo X S04 E05
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E06" tvg-logo="http://image.tmdb.org/t/p/w300/igBr6ZHBPAY8zlZbb5Yq8kvJxCM.jpg" group-title="STAR+",Arquivo X S04 E06
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E07" tvg-logo="http://image.tmdb.org/t/p/w300/3KiX5uUizW1ul8DvRyp9OMMcEZv.jpg" group-title="STAR+",Arquivo X S04 E07
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E08" tvg-logo="http://image.tmdb.org/t/p/w300/iGgOd4kjMUWNOau9bOa0AMC8HPb.jpg" group-title="STAR+",Arquivo X S04 E08
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E09" tvg-logo="http://image.tmdb.org/t/p/w300/jMuPDh4oWg0rgTrC1Q3plSSC0Nk.jpg" group-title="STAR+",Arquivo X S04 E09
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E10" tvg-logo="http://image.tmdb.org/t/p/w300/kRxzXuHQR058U9VYv8Moxu585oy.jpg" group-title="STAR+",Arquivo X S04 E10
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E11" tvg-logo="http://image.tmdb.org/t/p/w300/r8NcU39F0Tll4CZFyMSaEGvJSxx.jpg" group-title="STAR+",Arquivo X S04 E11
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E12" tvg-logo="http://image.tmdb.org/t/p/w300/ke37bankF9y7wcCy6MyNKX0BLSG.jpg" group-title="STAR+",Arquivo X S04 E12
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E13" tvg-logo="http://image.tmdb.org/t/p/w300/iwAySEjBayXB1GdXgjfqZb3DUAD.jpg" group-title="STAR+",Arquivo X S04 E13
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E14" tvg-logo="http://image.tmdb.org/t/p/w300/7mOY4pTy7mdhbrMK5ovzLihbdqs.jpg" group-title="STAR+",Arquivo X S04 E14
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E15" tvg-logo="http://image.tmdb.org/t/p/w300/tQc0YCPNWFfYPug5hXa8ZoVewyH.jpg" group-title="STAR+",Arquivo X S04 E15
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E16" tvg-logo="http://image.tmdb.org/t/p/w300/nrJyPySt3fBJnTXUxyjLKSRGi4o.jpg" group-title="STAR+",Arquivo X S04 E16
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E17" tvg-logo="http://image.tmdb.org/t/p/w300/mmGXysmz2TXWmro6AYKAY5ZUYQ4.jpg" group-title="STAR+",Arquivo X S04 E17
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E18" tvg-logo="http://image.tmdb.org/t/p/w300/uiaYlcxE6k9JGdhpqa02x5oQebE.jpg" group-title="STAR+",Arquivo X S04 E18
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E19" tvg-logo="http://image.tmdb.org/t/p/w300/amvJrv104Gu2vdo0kP4FTsTdYM.jpg" group-title="STAR+",Arquivo X S04 E19
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E20" tvg-logo="http://image.tmdb.org/t/p/w300/72zNeN27IlnAZIwIYPy8o2XnnDC.jpg" group-title="STAR+",Arquivo X S04 E20
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E21" tvg-logo="http://image.tmdb.org/t/p/w300/uN8Ew3vXnWRRlssTcZe9kGRWpbH.jpg" group-title="STAR+",Arquivo X S04 E21
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E22" tvg-logo="http://image.tmdb.org/t/p/w300/vrkUORBkHG7uvJo5cD9DEjspCvK.jpg" group-title="STAR+",Arquivo X S04 E22
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E23" tvg-logo="http://image.tmdb.org/t/p/w300/7f9zXoqIobz6V74YPJm1PUMOmCA.jpg" group-title="STAR+",Arquivo X S04 E23
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S04 E24" tvg-logo="http://image.tmdb.org/t/p/w300/6RdTTMlJ6PhoDdEMe6OaLYOTlce.jpg" group-title="STAR+",Arquivo X S04 E24
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E01" tvg-logo="http://image.tmdb.org/t/p/w300/nq90vErotGjAxWad3mMm7JKCGSU.jpg" group-title="STAR+",Arquivo X S05 E01
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E02" tvg-logo="http://image.tmdb.org/t/p/w300/l8WN13BSNwcV7k5nqaA8wFspG7F.jpg" group-title="STAR+",Arquivo X S05 E02
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E03" tvg-logo="http://image.tmdb.org/t/p/w300/lj8e7hA8QykXHxiWjQzhjZ87hlx.jpg" group-title="STAR+",Arquivo X S05 E03
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E04" tvg-logo="http://image.tmdb.org/t/p/w300/7rasBUOMvJTRcbjpvREOig5u2qU.jpg" group-title="STAR+",Arquivo X S05 E04
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E05" tvg-logo="http://image.tmdb.org/t/p/w300/yDE7Y2oQnqKr2dPtbrpatzLramF.jpg" group-title="STAR+",Arquivo X S05 E05
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E06" tvg-logo="http://image.tmdb.org/t/p/w300/pzFCdswkuZ07su3YoaFxYna5KLi.jpg" group-title="STAR+",Arquivo X S05 E06
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E07" tvg-logo="http://image.tmdb.org/t/p/w300/qBHnJiuFKsQYptCli8KEAunlWvt.jpg" group-title="STAR+",Arquivo X S05 E07
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E08" tvg-logo="http://image.tmdb.org/t/p/w300/q2IUS6nRAPOFqHK0JrTQGQFN97S.jpg" group-title="STAR+",Arquivo X S05 E08
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E09" tvg-logo="http://image.tmdb.org/t/p/w300/oCwP0Aqi4rgk2wIXxLFh34A6WU8.jpg" group-title="STAR+",Arquivo X S05 E09
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E10" tvg-logo="http://image.tmdb.org/t/p/w300/86w0oLllbFJN3D40zHJMG0sBFzC.jpg" group-title="STAR+",Arquivo X S05 E10
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E11" tvg-logo="http://image.tmdb.org/t/p/w300/f4UBMJ9DpfIaNKw74Wp0uFsbF4Q.jpg" group-title="STAR+",Arquivo X S05 E11
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E12" tvg-logo="http://image.tmdb.org/t/p/w300/3feTkIekj02lSuQaTiFdLnLaCt4.jpg" group-title="STAR+",Arquivo X S05 E12
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E13" tvg-logo="http://image.tmdb.org/t/p/w300/nsUAWfFeNqi7DZ7J7IJK1hnAemY.jpg" group-title="STAR+",Arquivo X S05 E13
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E14" tvg-logo="http://image.tmdb.org/t/p/w300/5uzxjWNnZhk40j9vEqKkVNOsXbV.jpg" group-title="STAR+",Arquivo X S05 E14
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E15" tvg-logo="http://image.tmdb.org/t/p/w300/m06r9KMoZOHTVOkQzIR2ygZht70.jpg" group-title="STAR+",Arquivo X S05 E15
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E16" tvg-logo="http://image.tmdb.org/t/p/w300/1M3tnczuC2P2aQAskmPR3gZT4qk.jpg" group-title="STAR+",Arquivo X S05 E16
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E17" tvg-logo="http://image.tmdb.org/t/p/w300/j6YX45qnH2fy9B1cSTXpe2sHeRD.jpg" group-title="STAR+",Arquivo X S05 E17
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E18" tvg-logo="http://image.tmdb.org/t/p/w300/rB2wnoV5LvTgHaZoW1KfzjZeZto.jpg" group-title="STAR+",Arquivo X S05 E18
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E19" tvg-logo="http://image.tmdb.org/t/p/w300/mEEVY9IoRVlthUIZfaQGd6FUSDE.jpg" group-title="STAR+",Arquivo X S05 E19
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S05 E20" tvg-logo="http://image.tmdb.org/t/p/w300/e0LXCKUsG7ZMDFTpE3yJhnTnb8h.jpg" group-title="STAR+",Arquivo X S05 E20
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E01" tvg-logo="http://image.tmdb.org/t/p/w300/4SBGLcvg9MQ51fIOMk1u0lII1mi.jpg" group-title="STAR+",Arquivo X S06 E01
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E02" tvg-logo="http://image.tmdb.org/t/p/w300/lcICelVY7VuLZondFUnIpnhJ5qy.jpg" group-title="STAR+",Arquivo X S06 E02
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E03" tvg-logo="http://image.tmdb.org/t/p/w300/otLruCLJfjNBskNyK3cY4o3WDDv.jpg" group-title="STAR+",Arquivo X S06 E03
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E04" tvg-logo="http://image.tmdb.org/t/p/w300/mPdl2cTJgW8Bx7fbCCNyaWtVeKi.jpg" group-title="STAR+",Arquivo X S06 E04
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E05" tvg-logo="http://image.tmdb.org/t/p/w300/y2l6LTSXMKrWjCZcWhyVigArXom.jpg" group-title="STAR+",Arquivo X S06 E05
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E06" tvg-logo="http://image.tmdb.org/t/p/w300/r73yVPYBnOJ39OKNqRPwo0PJoDC.jpg" group-title="STAR+",Arquivo X S06 E06
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E07" tvg-logo="http://image.tmdb.org/t/p/w300/mYO7TayBEjA8oHCfdgwD6dn0K8I.jpg" group-title="STAR+",Arquivo X S06 E07
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E08" tvg-logo="http://image.tmdb.org/t/p/w300/r01crS9anDkVOlRWP58yo5dwf30.jpg" group-title="STAR+",Arquivo X S06 E08
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2180.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E09" tvg-logo="http://image.tmdb.org/t/p/w300/vbxk86BUNLxKxNX4B1JFG1r8zOC.jpg" group-title="STAR+",Arquivo X S06 E09
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2181.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E10" tvg-logo="http://image.tmdb.org/t/p/w300/wKOVz9U9dCeyj693QGQfwzYJpPd.jpg" group-title="STAR+",Arquivo X S06 E10
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E11" tvg-logo="http://image.tmdb.org/t/p/w300/s4tKmSetw8QkFvMxaRxLpgVEiDu.jpg" group-title="STAR+",Arquivo X S06 E11
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2183.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E12" tvg-logo="http://image.tmdb.org/t/p/w300/4Vyk3mbac6uO5ZtLPB5YhIHMczJ.jpg" group-title="STAR+",Arquivo X S06 E12
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2184.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E13" tvg-logo="http://image.tmdb.org/t/p/w300/rvyrHN2Ji21qd0NtBstOWLIQUIR.jpg" group-title="STAR+",Arquivo X S06 E13
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E14" tvg-logo="http://image.tmdb.org/t/p/w300/pZm702KVAKMEEtr3ycwtVKs2sNF.jpg" group-title="STAR+",Arquivo X S06 E14
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2186.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E15" tvg-logo="http://image.tmdb.org/t/p/w300/WqbKNsEGAS9vxzIxvMycV1bywm.jpg" group-title="STAR+",Arquivo X S06 E15
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E16" tvg-logo="http://image.tmdb.org/t/p/w300/2eCpZ9H5smSRj3Mrcejc1hd7xI1.jpg" group-title="STAR+",Arquivo X S06 E16
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E17" tvg-logo="http://image.tmdb.org/t/p/w300/7JXjmJAvbeHaJCfZkkjx6zBCB6R.jpg" group-title="STAR+",Arquivo X S06 E17
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E18" tvg-logo="http://image.tmdb.org/t/p/w300/br5WMAYoDJ2XC9EYf9RH1pkVqUi.jpg" group-title="STAR+",Arquivo X S06 E18
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2190.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E19" tvg-logo="http://image.tmdb.org/t/p/w300/14Il263n83Lf7R0LQhnCN483de7.jpg" group-title="STAR+",Arquivo X S06 E19
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E20" tvg-logo="http://image.tmdb.org/t/p/w300/47NTgROnzoUSmozslQGIyBGltql.jpg" group-title="STAR+",Arquivo X S06 E20
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E21" tvg-logo="http://image.tmdb.org/t/p/w300/fRgiuRJ3Tt9Z7jWLvYAidrN9fVY.jpg" group-title="STAR+",Arquivo X S06 E21
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2193.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S06 E22" tvg-logo="http://image.tmdb.org/t/p/w300/6FwPzOQmFsyMT9yzaBvfyzzHjcE.jpg" group-title="STAR+",Arquivo X S06 E22
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2194.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E01" tvg-logo="http://image.tmdb.org/t/p/w300/2OsgaptjbYYbUcioIPcYmrCFixp.jpg" group-title="STAR+",Arquivo X S07 E01
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E02" tvg-logo="http://image.tmdb.org/t/p/w300/6wbSJmPJUEGoNCKuj7jbonrdERQ.jpg" group-title="STAR+",Arquivo X S07 E02
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E03" tvg-logo="http://image.tmdb.org/t/p/w300/gboVCPWqPF9u94qgVyktDX4PAas.jpg" group-title="STAR+",Arquivo X S07 E03
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E04" tvg-logo="http://image.tmdb.org/t/p/w300/ccvZ4C7pVAEqnYMf79C5Ck6CRlB.jpg" group-title="STAR+",Arquivo X S07 E04
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E05" tvg-logo="http://image.tmdb.org/t/p/w300/uRWMOecnsQV4tVi2tL0BV8zOmf1.jpg" group-title="STAR+",Arquivo X S07 E05
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E06" tvg-logo="http://image.tmdb.org/t/p/w300/8wrILqOp27jgikKLN6VFo09FYvD.jpg" group-title="STAR+",Arquivo X S07 E06
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E07" tvg-logo="http://image.tmdb.org/t/p/w300/g9769MSHPcQiGrn1tFjJlbV7gjE.jpg" group-title="STAR+",Arquivo X S07 E07
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E08" tvg-logo="http://image.tmdb.org/t/p/w300/xlW32zuSSy8aen331zkpVOlC6Dd.jpg" group-title="STAR+",Arquivo X S07 E08
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E09" tvg-logo="http://image.tmdb.org/t/p/w300/lCaWr3ogKiVKOsAU3XodFwdu55L.jpg" group-title="STAR+",Arquivo X S07 E09
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E10" tvg-logo="http://image.tmdb.org/t/p/w300/uRcocgrNTTE67n8EbQoihpa1acz.jpg" group-title="STAR+",Arquivo X S07 E10
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E11" tvg-logo="http://image.tmdb.org/t/p/w300/oyUU3j5ZScrHX2HsXk4u3Q1Fy2x.jpg" group-title="STAR+",Arquivo X S07 E11
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E12" tvg-logo="http://image.tmdb.org/t/p/w300/eZtgOQFRt9DZ9K5fiUUPNG4yctF.jpg" group-title="STAR+",Arquivo X S07 E12
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E13" tvg-logo="http://image.tmdb.org/t/p/w300/m1WBPOflHV078xfT6Un63wyTnPr.jpg" group-title="STAR+",Arquivo X S07 E13
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E14" tvg-logo="http://image.tmdb.org/t/p/w300/4MQIrvXpoTCcmYYiwK0aAnOshGI.jpg" group-title="STAR+",Arquivo X S07 E14
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E15" tvg-logo="http://image.tmdb.org/t/p/w300/n7tmkplTLGDyBvqit8XgLAb3udq.jpg" group-title="STAR+",Arquivo X S07 E15
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E16" tvg-logo="http://image.tmdb.org/t/p/w300/aNlJCbwGtPnPnYkwVtZfnxjc51L.jpg" group-title="STAR+",Arquivo X S07 E16
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E17" tvg-logo="http://image.tmdb.org/t/p/w300/uyHjsjKAiiSVGYxd8XKZGVSNIAP.jpg" group-title="STAR+",Arquivo X S07 E17
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E18" tvg-logo="http://image.tmdb.org/t/p/w300/z4sP7uDlcXFNTYmPzZGX3qSuyik.jpg" group-title="STAR+",Arquivo X S07 E18
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E19" tvg-logo="http://image.tmdb.org/t/p/w300/kTF72nk4elVzyZ0fZ0eTQuvp6ND.jpg" group-title="STAR+",Arquivo X S07 E19
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E20" tvg-logo="http://image.tmdb.org/t/p/w300/4o0szPLcvTffIwTrhh909kLjckr.jpg" group-title="STAR+",Arquivo X S07 E20
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E21" tvg-logo="http://image.tmdb.org/t/p/w300/7dmCCoSTDqtT4wCfAZsxcJNF04L.jpg" group-title="STAR+",Arquivo X S07 E21
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S07 E22" tvg-logo="http://image.tmdb.org/t/p/w300/anrvQYyN1zHC3ROJ7G4QrtWRwp2.jpg" group-title="STAR+",Arquivo X S07 E22
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E01" tvg-logo="http://image.tmdb.org/t/p/w300/tcQajiV96supbd6hwxpylEAzDcD.jpg" group-title="STAR+",Arquivo X S08 E01
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E02" tvg-logo="http://image.tmdb.org/t/p/w300/nzsURTrOLIVcsCmKxcimvgmzr2i.jpg" group-title="STAR+",Arquivo X S08 E02
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E03" tvg-logo="http://image.tmdb.org/t/p/w300/yEtI67vUpxniHkzJC53tGxZZ3I2.jpg" group-title="STAR+",Arquivo X S08 E03
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E04" tvg-logo="http://image.tmdb.org/t/p/w300/tIKOOHamVCvdqFKJ5DqoTkQgxnD.jpg" group-title="STAR+",Arquivo X S08 E04
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E05" tvg-logo="http://image.tmdb.org/t/p/w300/xcjZ8aM9wL02ZmhqxW5nvCqwAOe.jpg" group-title="STAR+",Arquivo X S08 E05
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E06" tvg-logo="http://image.tmdb.org/t/p/w300/uHjRot5hYSw54hCXRX7mS5GvlEc.jpg" group-title="STAR+",Arquivo X S08 E06
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E07" tvg-logo="http://image.tmdb.org/t/p/w300/qNpB4qlopxY1UmssJBf9b5LtXJM.jpg" group-title="STAR+",Arquivo X S08 E07
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E08" tvg-logo="http://image.tmdb.org/t/p/w300/A0Z48Decj8bMzxWivDDuzpk5Fxf.jpg" group-title="STAR+",Arquivo X S08 E08
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E09" tvg-logo="http://image.tmdb.org/t/p/w300/2lv1M28D61Xof5g2Pb7Tpz1B127.jpg" group-title="STAR+",Arquivo X S08 E09
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E10" tvg-logo="http://image.tmdb.org/t/p/w300/bNztUuhWaPVVLJGnnLIzBWNSRzV.jpg" group-title="STAR+",Arquivo X S08 E10
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E11" tvg-logo="http://image.tmdb.org/t/p/w300/etBB1vA9jfq9x5FswobIFDKuxpv.jpg" group-title="STAR+",Arquivo X S08 E11
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E12" tvg-logo="http://image.tmdb.org/t/p/w300/ftY1kB0aC1Tc0UWlOnhdAVWuppd.jpg" group-title="STAR+",Arquivo X S08 E12
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E13" tvg-logo="http://image.tmdb.org/t/p/w300/gdpnItVUN6ZKNeum4wrzwrsc00H.jpg" group-title="STAR+",Arquivo X S08 E13
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E14" tvg-logo="http://image.tmdb.org/t/p/w300/5FVQYW0599IeKXOYPstUdDOQ0fy.jpg" group-title="STAR+",Arquivo X S08 E14
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E15" tvg-logo="http://image.tmdb.org/t/p/w300/1dJD0ALHJ3VmFq7MzlZ7axmuX11.jpg" group-title="STAR+",Arquivo X S08 E15
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E16" tvg-logo="http://image.tmdb.org/t/p/w300/hHOm1Q36Rmb2011JupFVOVUAWyV.jpg" group-title="STAR+",Arquivo X S08 E16
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E17" tvg-logo="http://image.tmdb.org/t/p/w300/hdz9nOwsJKlMmWyQKHw1EmLqu18.jpg" group-title="STAR+",Arquivo X S08 E17
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E18" tvg-logo="http://image.tmdb.org/t/p/w300/8NbUXyhjzSfkypeeRXqv2K9viN8.jpg" group-title="STAR+",Arquivo X S08 E18
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E19" tvg-logo="http://image.tmdb.org/t/p/w300/46coVQuxyRZPVPyoMvM96mt0v16.jpg" group-title="STAR+",Arquivo X S08 E19
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E20" tvg-logo="http://image.tmdb.org/t/p/w300/kKlWS4FhMWxzvGHgDEMJclQlUqM.jpg" group-title="STAR+",Arquivo X S08 E20
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S08 E21" tvg-logo="http://image.tmdb.org/t/p/w300/7Qv2agcOigRDTq9FJNaAhocC8hf.jpg" group-title="STAR+",Arquivo X S08 E21
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E01" tvg-logo="http://image.tmdb.org/t/p/w300/bovifX8kuUdCTYDPJ60ZavOPVs4.jpg" group-title="STAR+",Arquivo X S09 E01
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E02" tvg-logo="http://image.tmdb.org/t/p/w300/iIXBeM2dz96TQZ6vf7Ob1GHWuFd.jpg" group-title="STAR+",Arquivo X S09 E02
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E03" tvg-logo="http://image.tmdb.org/t/p/w300/BfzKJg767hE666Fz13a3UiJBI6.jpg" group-title="STAR+",Arquivo X S09 E03
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E04" tvg-logo="http://image.tmdb.org/t/p/w300/h2fGRvQ50ni6LCGQ0JaW3L4rpcc.jpg" group-title="STAR+",Arquivo X S09 E04
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E05" tvg-logo="http://image.tmdb.org/t/p/w300/s8dlt67q5XuuhgLTiTmzhEyuYHq.jpg" group-title="STAR+",Arquivo X S09 E05
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2242.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E06" tvg-logo="http://image.tmdb.org/t/p/w300/8hOgRXL9JRhmDvURHcyMCRrHLst.jpg" group-title="STAR+",Arquivo X S09 E06
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E07" tvg-logo="http://image.tmdb.org/t/p/w300/dtCcD3TSvs6lgTEODFtcjHcHSSV.jpg" group-title="STAR+",Arquivo X S09 E07
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E08" tvg-logo="http://image.tmdb.org/t/p/w300/hbkFDYaFYlIi5Cq8gQXmuBncclp.jpg" group-title="STAR+",Arquivo X S09 E08
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E09" tvg-logo="http://image.tmdb.org/t/p/w300/l9ejk0qoydskKq8gHxe16Jw9BVp.jpg" group-title="STAR+",Arquivo X S09 E09
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E10" tvg-logo="http://image.tmdb.org/t/p/w300/aCHKyQrk8X6hJKdyL7bYalTjuwE.jpg" group-title="STAR+",Arquivo X S09 E10
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E11" tvg-logo="http://image.tmdb.org/t/p/w300/qqVVudvu4Rsfbrw7Z2bqoQmIbRV.jpg" group-title="STAR+",Arquivo X S09 E11
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E12" tvg-logo="http://image.tmdb.org/t/p/w300/6ONSEpqYqP8rhmIBEXLtXAvkCO4.jpg" group-title="STAR+",Arquivo X S09 E12
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E13" tvg-logo="http://image.tmdb.org/t/p/w300/30N7R6SFyhXvHBLvy50dDqLL1oE.jpg" group-title="STAR+",Arquivo X S09 E13
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E14" tvg-logo="http://image.tmdb.org/t/p/w300/hcYA9ZNmNGj6JX7u0RDixBHMAPf.jpg" group-title="STAR+",Arquivo X S09 E14
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E15" tvg-logo="http://image.tmdb.org/t/p/w300/ecIZlfltMMaQ3fcrUyrV9WaHV1h.jpg" group-title="STAR+",Arquivo X S09 E15
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E16" tvg-logo="http://image.tmdb.org/t/p/w300/rHbTV73OgnhXtwzPU1wOhDZNseg.jpg" group-title="STAR+",Arquivo X S09 E16
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E17" tvg-logo="http://image.tmdb.org/t/p/w300/95W2I6yF49Qnluq9AabyWqq6gq6.jpg" group-title="STAR+",Arquivo X S09 E17
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E18" tvg-logo="http://image.tmdb.org/t/p/w300/2BmRs3FbORa0hTTqDHfcrGlw5YH.jpg" group-title="STAR+",Arquivo X S09 E18
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E19" tvg-logo="http://image.tmdb.org/t/p/w300/5bUyAIiBetGi9E7Lh0cIz7u2L2p.jpg" group-title="STAR+",Arquivo X S09 E19
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S09 E20" tvg-logo="http://image.tmdb.org/t/p/w300/jYOMx9mv0GoVoPxGpRMazWpcuSi.jpg" group-title="STAR+",Arquivo X S09 E20
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S10 E01" tvg-logo="http://image.tmdb.org/t/p/w300/50eAv2fnkKQdil6OVXn9uTy0t2A.jpg" group-title="STAR+",Arquivo X S10 E01
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S10 E02" tvg-logo="http://image.tmdb.org/t/p/w300/nKsC1VjynnF15lmZ1LZUsaHgK43.jpg" group-title="STAR+",Arquivo X S10 E02
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S10 E03" tvg-logo="http://image.tmdb.org/t/p/w300/lwEsOejdMK9zZ2UANv6mnoova36.jpg" group-title="STAR+",Arquivo X S10 E03
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S10 E04" tvg-logo="http://image.tmdb.org/t/p/w300/jxtDAgBNDx6I1x16I6RPKjtbOFJ.jpg" group-title="STAR+",Arquivo X S10 E04
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S10 E05" tvg-logo="http://image.tmdb.org/t/p/w300/3eGYnq8ZYKalYOolLQvXQb6HZat.jpg" group-title="STAR+",Arquivo X S10 E05
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S10 E06" tvg-logo="http://image.tmdb.org/t/p/w300/icn9kRtElIjrwdzhCQnqmHpLFsd.jpg" group-title="STAR+",Arquivo X S10 E06
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S11 E01" tvg-logo="http://image.tmdb.org/t/p/w300/gCdEDmvqXMPJKFJtB1oPdIlSKPb.jpg" group-title="STAR+",Arquivo X S11 E01
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S11 E02" tvg-logo="http://image.tmdb.org/t/p/w300/5kRAvpQ2Tf4Epsk5F3Z7ymk3K3X.jpg" group-title="STAR+",Arquivo X S11 E02
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S11 E03" tvg-logo="http://image.tmdb.org/t/p/w300/xtAXbRFCflxqLqUHxXX5BUOliUd.jpg" group-title="STAR+",Arquivo X S11 E03
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S11 E04" tvg-logo="http://image.tmdb.org/t/p/w300/bpITcjUDgkZydj0uVKP67di7VjV.jpg" group-title="STAR+",Arquivo X S11 E04
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S11 E05" tvg-logo="http://image.tmdb.org/t/p/w300/uV57ooqWpS06tVkHDHV0DdxYC2d.jpg" group-title="STAR+",Arquivo X S11 E05
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S11 E06" tvg-logo="http://image.tmdb.org/t/p/w300/tE92mpQx03xEALxKXkG0Dy7Yvn6.jpg" group-title="STAR+",Arquivo X S11 E06
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S11 E07" tvg-logo="http://image.tmdb.org/t/p/w300/u3Kzo4SgGk2WlRqw1OmaAzC4FoC.jpg" group-title="STAR+",Arquivo X S11 E07
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S11 E08" tvg-logo="http://image.tmdb.org/t/p/w300/kLUbgZCV6E8tft5bKsaQuHQROUj.jpg" group-title="STAR+",Arquivo X S11 E08
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S11 E09" tvg-logo="http://image.tmdb.org/t/p/w300/i65v9MvdYBU329XILPBX1s8geyS.jpg" group-title="STAR+",Arquivo X S11 E09
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arquivo X S11 E10" tvg-logo="http://image.tmdb.org/t/p/w300/rZyFXwJ1zGKCGgxk2aRCPR9y6Ww.jpg" group-title="STAR+",Arquivo X S11 E10
+http://meuplay.shop:80/series/67598237854pw/9875352849pw/2273.mp4
+
 #EXTM3U url-tvg=" http://grade-de-STAR+ Com a Permissão do Tribunal.xml "
  ############## STAR+ Com a Permissão do Tribunal ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeSTAR+ Com a Permissão do Tribunal" group-title="
@@ -11427,90 +12007,6 @@ https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif"group-title="traduçao", -We Are The World
 https://music.wixstatic.com/preview/c634a0_75d01079218b4d8695c330c36beea0dd-128.mp3
 
-#EXTM3U url-tvg="http://grade-de-REALITY SHOW'S Se Sobreviver.xml"
-############## REALITY SHOW'S Se Sobreviver ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeREALITY SHOW'S Se Sobreviver" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S01 E01
-http://meuplay.shop:80/series/828474929852/34882748924/80576.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S01 E02
-http://meuplay.shop:80/series/828474929852/34882748924/80577.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S01 E03
-http://meuplay.shop:80/series/828474929852/34882748924/80578.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S01 E04
-http://meuplay.shop:80/series/828474929852/34882748924/80579.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S01 E05
-http://meuplay.shop:80/series/828474929852/34882748924/80580.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S01 E06
-http://meuplay.shop:80/series/828474929852/34882748924/80581.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S01 E07
-http://meuplay.shop:80/series/828474929852/34882748924/80582.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S01 E08
-http://meuplay.shop:80/series/828474929852/34882748924/80583.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S01 E09
-http://meuplay.shop:80/series/828474929852/34882748924/80584.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S01 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S01 E10
-http://meuplay.shop:80/series/828474929852/34882748924/80585.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S01 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S01 E11
-http://meuplay.shop:80/series/828474929852/34882748924/80586.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S01 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S01 E12
-http://meuplay.shop:80/series/828474929852/34882748924/80587.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S01 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S01 E13
-http://meuplay.shop:80/series/828474929852/34882748924/80588.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S01 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S01 E14
-http://meuplay.shop:80/series/828474929852/34882748924/80589.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S01 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S01 E15
-http://meuplay.shop:80/series/828474929852/34882748924/80590.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S01 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S01 E16
-http://meuplay.shop:80/series/828474929852/34882748924/80591.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S01 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S01 E17
-http://meuplay.shop:80/series/828474929852/34882748924/80592.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S01 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S01 E18
-http://meuplay.shop:80/series/828474929852/34882748924/80593.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S01 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S01 E19
-http://meuplay.shop:80/series/828474929852/34882748924/80594.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S01 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S01 E20
-http://meuplay.shop:80/series/828474929852/34882748924/80595.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S02 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S02 E01
-http://meuplay.shop:80/series/828474929852/34882748924/80758.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S02 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S02 E02
-http://meuplay.shop:80/series/828474929852/34882748924/80759.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S02 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S02 E03
-http://meuplay.shop:80/series/828474929852/34882748924/80760.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S02 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S02 E04
-http://meuplay.shop:80/series/828474929852/34882748924/80761.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S02 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S02 E05
-http://meuplay.shop:80/series/828474929852/34882748924/80762.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S02 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S02 E06
-http://meuplay.shop:80/series/828474929852/34882748924/80763.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S02 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S02 E07
-http://meuplay.shop:80/series/828474929852/34882748924/80764.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S02 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S02 E08
-http://meuplay.shop:80/series/828474929852/34882748924/80765.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S02 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S02 E09
-http://meuplay.shop:80/series/828474929852/34882748924/80766.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S02 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S02 E10
-http://meuplay.shop:80/series/828474929852/34882748924/80767.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S02 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S02 E11
-http://meuplay.shop:80/series/828474929852/34882748924/80768.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S02 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S02 E12
-http://meuplay.shop:80/series/828474929852/34882748924/80769.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S02 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S02 E13
-http://meuplay.shop:80/series/828474929852/34882748924/80770.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S02 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S02 E14
-http://meuplay.shop:80/series/828474929852/34882748924/80771.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S02 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S02 E15
-http://meuplay.shop:80/series/828474929852/34882748924/80772.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S02 E16" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S02 E16
-http://meuplay.shop:80/series/828474929852/34882748924/80773.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S02 E17" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S02 E17
-http://meuplay.shop:80/series/828474929852/34882748924/80774.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S02 E18" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S02 E18
-http://meuplay.shop:80/series/828474929852/34882748924/80775.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S02 E19" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S02 E19
-http://meuplay.shop:80/series/828474929852/34882748924/80776.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Se Sobreviver, Case S02 E20" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6up8RHLKGY6wBWqX640Sr8ovsu1.jpg" group-title="REALITY SHOW'S",Se Sobreviver, Case S02 E20
-http://meuplay.shop:80/series/828474929852/34882748924/80777.mp4
 
 #EXTM3U url-tvg=" http://grade-de-Receitas Culinaria.xml "
  ############## Receitas Culinaria ############## ### 
